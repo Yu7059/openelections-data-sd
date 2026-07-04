@@ -1,11 +1,11 @@
 county,precinct,office,district,candidate,party,votes
-Brookings,1-1 Brookings Activity Center,U.S. Representative,1,George D. Hendrickson,LIB,36
-Brookings,1-1 Brookings Activity Center,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,683
-Brookings,1-1 Brookings Activity Center,U.S. Representative,1,Tim Bjorkman,DEM,745
-Brookings,1-1 Brookings Activity Center,U.S. Representative,1,Ron Wieczorek,IND,45
-Brookings,1-1 Brookings Activity Center,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,25
-Brookings,1-1 Brookings Activity Center,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,537
-Brookings,1-1 Brookings Activity Center,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,968
+Brookings,1-1 Brookings Activity Center,U.S. House,1,George D. Hendrickson,LIB,36
+Brookings,1-1 Brookings Activity Center,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,683
+Brookings,1-1 Brookings Activity Center,U.S. House,1,Tim Bjorkman,DEM,745
+Brookings,1-1 Brookings Activity Center,U.S. House,1,Ron Wieczorek,IND,45
+Brookings,1-1 Brookings Activity Center,Governor,,Kurt Evans and Richard Shelatz,LIB,25
+Brookings,1-1 Brookings Activity Center,Governor,,Kristi Noem and Larry Rhoden,REP,537
+Brookings,1-1 Brookings Activity Center,Governor,,Billie Sutton and Michelle Lavallee,DEM,968
 Brookings,1-1 Brookings Activity Center,Secretary of State,,Steve Barnett,REP,714
 Brookings,1-1 Brookings Activity Center,Secretary of State,,Alexandra Frederick,DEM,730
 Brookings,1-1 Brookings Activity Center,Attorney General,,Jason Ravnsborg,REP,583
@@ -32,13 +32,13 @@ Brookings,1-1 Brookings Activity Center,State House,7,Tim Reed,REP,723
 Brookings,1-1 Brookings Activity Center,State House,7,Zachary Kovach,DEM,360
 Brookings,1-1 Brookings Activity Center,State House,7,"Dwight W. ""Bill"" Adamson",DEM,467
 Brookings,1-1 Brookings Activity Center,State House,7,Cory Ann Ellis,IND,450
-Brookings,1-10 Volga Community Center,U.S. Representative,1,George D. Hendrickson,LIB,19
-Brookings,1-10 Volga Community Center,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,573
-Brookings,1-10 Volga Community Center,U.S. Representative,1,Tim Bjorkman,DEM,284
-Brookings,1-10 Volga Community Center,U.S. Representative,1,Ron Wieczorek,IND,28
-Brookings,1-10 Volga Community Center,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,24
-Brookings,1-10 Volga Community Center,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,467
-Brookings,1-10 Volga Community Center,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,422
+Brookings,1-10 Volga Community Center,U.S. House,1,George D. Hendrickson,LIB,19
+Brookings,1-10 Volga Community Center,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,573
+Brookings,1-10 Volga Community Center,U.S. House,1,Tim Bjorkman,DEM,284
+Brookings,1-10 Volga Community Center,U.S. House,1,Ron Wieczorek,IND,28
+Brookings,1-10 Volga Community Center,Governor,,Kurt Evans and Richard Shelatz,LIB,24
+Brookings,1-10 Volga Community Center,Governor,,Kristi Noem and Larry Rhoden,REP,467
+Brookings,1-10 Volga Community Center,Governor,,Billie Sutton and Michelle Lavallee,DEM,422
 Brookings,1-10 Volga Community Center,Secretary of State,,Steve Barnett,REP,622
 Brookings,1-10 Volga Community Center,Secretary of State,,Alexandra Frederick,DEM,240
 Brookings,1-10 Volga Community Center,Attorney General,,Jason Ravnsborg,REP,532
@@ -65,13 +65,13 @@ Brookings,1-10 Volga Community Center,State House,7,Tim Reed,REP,49
 Brookings,1-10 Volga Community Center,State House,7,Zachary Kovach,DEM,10
 Brookings,1-10 Volga Community Center,State House,7,"Dwight W. ""Bill"" Adamson",DEM,13
 Brookings,1-10 Volga Community Center,State House,7,Cory Ann Ellis,IND,17
-Brookings,1-11 Holy Life Tabernacle,U.S. Representative,1,George D. Hendrickson,LIB,17
-Brookings,1-11 Holy Life Tabernacle,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,494
-Brookings,1-11 Holy Life Tabernacle,U.S. Representative,1,Tim Bjorkman,DEM,301
-Brookings,1-11 Holy Life Tabernacle,U.S. Representative,1,Ron Wieczorek,IND,17
-Brookings,1-11 Holy Life Tabernacle,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,13
-Brookings,1-11 Holy Life Tabernacle,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,374
-Brookings,1-11 Holy Life Tabernacle,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,447
+Brookings,1-11 Holy Life Tabernacle,U.S. House,1,George D. Hendrickson,LIB,17
+Brookings,1-11 Holy Life Tabernacle,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,494
+Brookings,1-11 Holy Life Tabernacle,U.S. House,1,Tim Bjorkman,DEM,301
+Brookings,1-11 Holy Life Tabernacle,U.S. House,1,Ron Wieczorek,IND,17
+Brookings,1-11 Holy Life Tabernacle,Governor,,Kurt Evans and Richard Shelatz,LIB,13
+Brookings,1-11 Holy Life Tabernacle,Governor,,Kristi Noem and Larry Rhoden,REP,374
+Brookings,1-11 Holy Life Tabernacle,Governor,,Billie Sutton and Michelle Lavallee,DEM,447
 Brookings,1-11 Holy Life Tabernacle,Secretary of State,,Steve Barnett,REP,480
 Brookings,1-11 Holy Life Tabernacle,Secretary of State,,Alexandra Frederick,DEM,291
 Brookings,1-11 Holy Life Tabernacle,Attorney General,,Jason Ravnsborg,REP,422
@@ -98,13 +98,13 @@ Brookings,1-11 Holy Life Tabernacle,State House,7,Tim Reed,REP,504
 Brookings,1-11 Holy Life Tabernacle,State House,7,Zachary Kovach,DEM,136
 Brookings,1-11 Holy Life Tabernacle,State House,7,"Dwight W. ""Bill"" Adamson",DEM,201
 Brookings,1-11 Holy Life Tabernacle,State House,7,Cory Ann Ellis,IND,224
-Brookings,1-2 Bethel Baptist Church,U.S. Representative,1,George D. Hendrickson,LIB,35
-Brookings,1-2 Bethel Baptist Church,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,1201
-Brookings,1-2 Bethel Baptist Church,U.S. Representative,1,Tim Bjorkman,DEM,784
-Brookings,1-2 Bethel Baptist Church,U.S. Representative,1,Ron Wieczorek,IND,55
-Brookings,1-2 Bethel Baptist Church,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,37
-Brookings,1-2 Bethel Baptist Church,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,959
-Brookings,1-2 Bethel Baptist Church,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,1109
+Brookings,1-2 Bethel Baptist Church,U.S. House,1,George D. Hendrickson,LIB,35
+Brookings,1-2 Bethel Baptist Church,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,1201
+Brookings,1-2 Bethel Baptist Church,U.S. House,1,Tim Bjorkman,DEM,784
+Brookings,1-2 Bethel Baptist Church,U.S. House,1,Ron Wieczorek,IND,55
+Brookings,1-2 Bethel Baptist Church,Governor,,Kurt Evans and Richard Shelatz,LIB,37
+Brookings,1-2 Bethel Baptist Church,Governor,,Kristi Noem and Larry Rhoden,REP,959
+Brookings,1-2 Bethel Baptist Church,Governor,,Billie Sutton and Michelle Lavallee,DEM,1109
 Brookings,1-2 Bethel Baptist Church,Secretary of State,,Steve Barnett,REP,1256
 Brookings,1-2 Bethel Baptist Church,Secretary of State,,Alexandra Frederick,DEM,727
 Brookings,1-2 Bethel Baptist Church,Attorney General,,Jason Ravnsborg,REP,1010
@@ -131,13 +131,13 @@ Brookings,1-2 Bethel Baptist Church,State House,7,Tim Reed,REP,1306
 Brookings,1-2 Bethel Baptist Church,State House,7,Zachary Kovach,DEM,355
 Brookings,1-2 Bethel Baptist Church,State House,7,"Dwight W. ""Bill"" Adamson",DEM,522
 Brookings,1-2 Bethel Baptist Church,State House,7,Cory Ann Ellis,IND,481
-Brookings,1-3 Swiftel Center,U.S. Representative,1,George D. Hendrickson,LIB,10
-Brookings,1-3 Swiftel Center,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,274
-Brookings,1-3 Swiftel Center,U.S. Representative,1,Tim Bjorkman,DEM,183
-Brookings,1-3 Swiftel Center,U.S. Representative,1,Ron Wieczorek,IND,13
-Brookings,1-3 Swiftel Center,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,13
-Brookings,1-3 Swiftel Center,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,211
-Brookings,1-3 Swiftel Center,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,268
+Brookings,1-3 Swiftel Center,U.S. House,1,George D. Hendrickson,LIB,10
+Brookings,1-3 Swiftel Center,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,274
+Brookings,1-3 Swiftel Center,U.S. House,1,Tim Bjorkman,DEM,183
+Brookings,1-3 Swiftel Center,U.S. House,1,Ron Wieczorek,IND,13
+Brookings,1-3 Swiftel Center,Governor,,Kurt Evans and Richard Shelatz,LIB,13
+Brookings,1-3 Swiftel Center,Governor,,Kristi Noem and Larry Rhoden,REP,211
+Brookings,1-3 Swiftel Center,Governor,,Billie Sutton and Michelle Lavallee,DEM,268
 Brookings,1-3 Swiftel Center,Secretary of State,,Steve Barnett,REP,285
 Brookings,1-3 Swiftel Center,Secretary of State,,Alexandra Frederick,DEM,177
 Brookings,1-3 Swiftel Center,Attorney General,,Jason Ravnsborg,REP,224
@@ -164,13 +164,13 @@ Brookings,1-3 Swiftel Center,State House,7,Tim Reed,REP,248
 Brookings,1-3 Swiftel Center,State House,7,Zachary Kovach,DEM,80
 Brookings,1-3 Swiftel Center,State House,7,"Dwight W. ""Bill"" Adamson",DEM,98
 Brookings,1-3 Swiftel Center,State House,7,Cory Ann Ellis,IND,112
-Brookings,1-4 Aurora Little Hall,U.S. Representative,1,George D. Hendrickson,LIB,9
-Brookings,1-4 Aurora Little Hall,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,276
-Brookings,1-4 Aurora Little Hall,U.S. Representative,1,Tim Bjorkman,DEM,162
-Brookings,1-4 Aurora Little Hall,U.S. Representative,1,Ron Wieczorek,IND,27
-Brookings,1-4 Aurora Little Hall,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,11
-Brookings,1-4 Aurora Little Hall,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,227
-Brookings,1-4 Aurora Little Hall,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,235
+Brookings,1-4 Aurora Little Hall,U.S. House,1,George D. Hendrickson,LIB,9
+Brookings,1-4 Aurora Little Hall,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,276
+Brookings,1-4 Aurora Little Hall,U.S. House,1,Tim Bjorkman,DEM,162
+Brookings,1-4 Aurora Little Hall,U.S. House,1,Ron Wieczorek,IND,27
+Brookings,1-4 Aurora Little Hall,Governor,,Kurt Evans and Richard Shelatz,LIB,11
+Brookings,1-4 Aurora Little Hall,Governor,,Kristi Noem and Larry Rhoden,REP,227
+Brookings,1-4 Aurora Little Hall,Governor,,Billie Sutton and Michelle Lavallee,DEM,235
 Brookings,1-4 Aurora Little Hall,Secretary of State,,Steve Barnett,REP,289
 Brookings,1-4 Aurora Little Hall,Secretary of State,,Alexandra Frederick,DEM,160
 Brookings,1-4 Aurora Little Hall,Attorney General,,Jason Ravnsborg,REP,256
@@ -197,13 +197,13 @@ Brookings,1-4 Aurora Little Hall,State House,7,Tim Reed,REP,27
 Brookings,1-4 Aurora Little Hall,State House,7,Zachary Kovach,DEM,7
 Brookings,1-4 Aurora Little Hall,State House,7,"Dwight W. ""Bill"" Adamson",DEM,9
 Brookings,1-4 Aurora Little Hall,State House,7,Cory Ann Ellis,IND,5
-Brookings,1-5 Elkton Community Center,U.S. Representative,1,George D. Hendrickson,LIB,5
-Brookings,1-5 Elkton Community Center,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,245
-Brookings,1-5 Elkton Community Center,U.S. Representative,1,Tim Bjorkman,DEM,73
-Brookings,1-5 Elkton Community Center,U.S. Representative,1,Ron Wieczorek,IND,12
-Brookings,1-5 Elkton Community Center,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,3
-Brookings,1-5 Elkton Community Center,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,210
-Brookings,1-5 Elkton Community Center,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,125
+Brookings,1-5 Elkton Community Center,U.S. House,1,George D. Hendrickson,LIB,5
+Brookings,1-5 Elkton Community Center,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,245
+Brookings,1-5 Elkton Community Center,U.S. House,1,Tim Bjorkman,DEM,73
+Brookings,1-5 Elkton Community Center,U.S. House,1,Ron Wieczorek,IND,12
+Brookings,1-5 Elkton Community Center,Governor,,Kurt Evans and Richard Shelatz,LIB,3
+Brookings,1-5 Elkton Community Center,Governor,,Kristi Noem and Larry Rhoden,REP,210
+Brookings,1-5 Elkton Community Center,Governor,,Billie Sutton and Michelle Lavallee,DEM,125
 Brookings,1-5 Elkton Community Center,Secretary of State,,Steve Barnett,REP,246
 Brookings,1-5 Elkton Community Center,Secretary of State,,Alexandra Frederick,DEM,76
 Brookings,1-5 Elkton Community Center,Attorney General,,Jason Ravnsborg,REP,198
@@ -230,13 +230,13 @@ Brookings,1-5 Elkton Community Center,State House,7,Tim Reed,REP,9
 Brookings,1-5 Elkton Community Center,State House,7,Zachary Kovach,DEM,0
 Brookings,1-5 Elkton Community Center,State House,7,"Dwight W. ""Bill"" Adamson",DEM,0
 Brookings,1-5 Elkton Community Center,State House,7,Cory Ann Ellis,IND,1
-Brookings,1-6 McKnight Hall,U.S. Representative,1,George D. Hendrickson,LIB,7
-Brookings,1-6 McKnight Hall,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,329
-Brookings,1-6 McKnight Hall,U.S. Representative,1,Tim Bjorkman,DEM,119
-Brookings,1-6 McKnight Hall,U.S. Representative,1,Ron Wieczorek,IND,10
-Brookings,1-6 McKnight Hall,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,7
-Brookings,1-6 McKnight Hall,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,276
-Brookings,1-6 McKnight Hall,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,185
+Brookings,1-6 McKnight Hall,U.S. House,1,George D. Hendrickson,LIB,7
+Brookings,1-6 McKnight Hall,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,329
+Brookings,1-6 McKnight Hall,U.S. House,1,Tim Bjorkman,DEM,119
+Brookings,1-6 McKnight Hall,U.S. House,1,Ron Wieczorek,IND,10
+Brookings,1-6 McKnight Hall,Governor,,Kurt Evans and Richard Shelatz,LIB,7
+Brookings,1-6 McKnight Hall,Governor,,Kristi Noem and Larry Rhoden,REP,276
+Brookings,1-6 McKnight Hall,Governor,,Billie Sutton and Michelle Lavallee,DEM,185
 Brookings,1-6 McKnight Hall,Secretary of State,,Steve Barnett,REP,333
 Brookings,1-6 McKnight Hall,Secretary of State,,Alexandra Frederick,DEM,110
 Brookings,1-6 McKnight Hall,Attorney General,,Jason Ravnsborg,REP,296
@@ -263,13 +263,13 @@ Brookings,1-6 McKnight Hall,State House,7,Tim Reed,REP,5
 Brookings,1-6 McKnight Hall,State House,7,Zachary Kovach,DEM,1
 Brookings,1-6 McKnight Hall,State House,7,"Dwight W. ""Bill"" Adamson",DEM,1
 Brookings,1-6 McKnight Hall,State House,7,Cory Ann Ellis,IND,2
-Brookings,1-7 Bruce City Hall,U.S. Representative,1,George D. Hendrickson,LIB,8
-Brookings,1-7 Bruce City Hall,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,242
-Brookings,1-7 Bruce City Hall,U.S. Representative,1,Tim Bjorkman,DEM,87
-Brookings,1-7 Bruce City Hall,U.S. Representative,1,Ron Wieczorek,IND,13
-Brookings,1-7 Bruce City Hall,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,5
-Brookings,1-7 Bruce City Hall,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,199
-Brookings,1-7 Bruce City Hall,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,150
+Brookings,1-7 Bruce City Hall,U.S. House,1,George D. Hendrickson,LIB,8
+Brookings,1-7 Bruce City Hall,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,242
+Brookings,1-7 Bruce City Hall,U.S. House,1,Tim Bjorkman,DEM,87
+Brookings,1-7 Bruce City Hall,U.S. House,1,Ron Wieczorek,IND,13
+Brookings,1-7 Bruce City Hall,Governor,,Kurt Evans and Richard Shelatz,LIB,5
+Brookings,1-7 Bruce City Hall,Governor,,Kristi Noem and Larry Rhoden,REP,199
+Brookings,1-7 Bruce City Hall,Governor,,Billie Sutton and Michelle Lavallee,DEM,150
 Brookings,1-7 Bruce City Hall,Secretary of State,,Steve Barnett,REP,253
 Brookings,1-7 Bruce City Hall,Secretary of State,,Alexandra Frederick,DEM,85
 Brookings,1-7 Bruce City Hall,Attorney General,,Jason Ravnsborg,REP,222
@@ -296,13 +296,13 @@ Brookings,1-7 Bruce City Hall,State House,7,Tim Reed,REP,9
 Brookings,1-7 Bruce City Hall,State House,7,Zachary Kovach,DEM,3
 Brookings,1-7 Bruce City Hall,State House,7,"Dwight W. ""Bill"" Adamson",DEM,4
 Brookings,1-7 Bruce City Hall,State House,7,Cory Ann Ellis,IND,1
-Brookings,1-8 Trinity Lutheral Church,U.S. Representative,1,George D. Hendrickson,LIB,3
-Brookings,1-8 Trinity Lutheral Church,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,77
-Brookings,1-8 Trinity Lutheral Church,U.S. Representative,1,Tim Bjorkman,DEM,37
-Brookings,1-8 Trinity Lutheral Church,U.S. Representative,1,Ron Wieczorek,IND,2
-Brookings,1-8 Trinity Lutheral Church,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,3
-Brookings,1-8 Trinity Lutheral Church,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,70
-Brookings,1-8 Trinity Lutheral Church,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,50
+Brookings,1-8 Trinity Lutheral Church,U.S. House,1,George D. Hendrickson,LIB,3
+Brookings,1-8 Trinity Lutheral Church,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,77
+Brookings,1-8 Trinity Lutheral Church,U.S. House,1,Tim Bjorkman,DEM,37
+Brookings,1-8 Trinity Lutheral Church,U.S. House,1,Ron Wieczorek,IND,2
+Brookings,1-8 Trinity Lutheral Church,Governor,,Kurt Evans and Richard Shelatz,LIB,3
+Brookings,1-8 Trinity Lutheral Church,Governor,,Kristi Noem and Larry Rhoden,REP,70
+Brookings,1-8 Trinity Lutheral Church,Governor,,Billie Sutton and Michelle Lavallee,DEM,50
 Brookings,1-8 Trinity Lutheral Church,Secretary of State,,Steve Barnett,REP,71
 Brookings,1-8 Trinity Lutheral Church,Secretary of State,,Alexandra Frederick,DEM,41
 Brookings,1-8 Trinity Lutheral Church,Attorney General,,Jason Ravnsborg,REP,68
@@ -329,13 +329,13 @@ Brookings,1-8 Trinity Lutheral Church,State House,7,Tim Reed,REP,1
 Brookings,1-8 Trinity Lutheral Church,State House,7,Zachary Kovach,DEM,2
 Brookings,1-8 Trinity Lutheral Church,State House,7,"Dwight W. ""Bill"" Adamson",DEM,0
 Brookings,1-8 Trinity Lutheral Church,State House,7,Cory Ann Ellis,IND,1
-Brookings,1-9 Sinai American Legion,U.S. Representative,1,George D. Hendrickson,LIB,2
-Brookings,1-9 Sinai American Legion,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,119
-Brookings,1-9 Sinai American Legion,U.S. Representative,1,Tim Bjorkman,DEM,37
-Brookings,1-9 Sinai American Legion,U.S. Representative,1,Ron Wieczorek,IND,6
-Brookings,1-9 Sinai American Legion,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,4
-Brookings,1-9 Sinai American Legion,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,100
-Brookings,1-9 Sinai American Legion,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,58
+Brookings,1-9 Sinai American Legion,U.S. House,1,George D. Hendrickson,LIB,2
+Brookings,1-9 Sinai American Legion,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,119
+Brookings,1-9 Sinai American Legion,U.S. House,1,Tim Bjorkman,DEM,37
+Brookings,1-9 Sinai American Legion,U.S. House,1,Ron Wieczorek,IND,6
+Brookings,1-9 Sinai American Legion,Governor,,Kurt Evans and Richard Shelatz,LIB,4
+Brookings,1-9 Sinai American Legion,Governor,,Kristi Noem and Larry Rhoden,REP,100
+Brookings,1-9 Sinai American Legion,Governor,,Billie Sutton and Michelle Lavallee,DEM,58
 Brookings,1-9 Sinai American Legion,Secretary of State,,Steve Barnett,REP,126
 Brookings,1-9 Sinai American Legion,Secretary of State,,Alexandra Frederick,DEM,30
 Brookings,1-9 Sinai American Legion,Attorney General,,Jason Ravnsborg,REP,106
@@ -362,13 +362,13 @@ Brookings,1-9 Sinai American Legion,State House,7,Tim Reed,REP,3
 Brookings,1-9 Sinai American Legion,State House,7,Zachary Kovach,DEM,1
 Brookings,1-9 Sinai American Legion,State House,7,"Dwight W. ""Bill"" Adamson",DEM,2
 Brookings,1-9 Sinai American Legion,State House,7,Cory Ann Ellis,IND,2
-Brookings,Absentee Precinct,U.S. Representative,1,George D. Hendrickson,LIB,45
-Brookings,Absentee Precinct,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,1905
-Brookings,Absentee Precinct,U.S. Representative,1,Tim Bjorkman,DEM,1905
-Brookings,Absentee Precinct,U.S. Representative,1,Ron Wieczorek,IND,94
-Brookings,Absentee Precinct,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,38
-Brookings,Absentee Precinct,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,1595
-Brookings,Absentee Precinct,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,2355
+Brookings,Absentee Precinct,U.S. House,1,George D. Hendrickson,LIB,45
+Brookings,Absentee Precinct,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,1905
+Brookings,Absentee Precinct,U.S. House,1,Tim Bjorkman,DEM,1905
+Brookings,Absentee Precinct,U.S. House,1,Ron Wieczorek,IND,94
+Brookings,Absentee Precinct,Governor,,Kurt Evans and Richard Shelatz,LIB,38
+Brookings,Absentee Precinct,Governor,,Kristi Noem and Larry Rhoden,REP,1595
+Brookings,Absentee Precinct,Governor,,Billie Sutton and Michelle Lavallee,DEM,2355
 Brookings,Absentee Precinct,Secretary of State,,Steve Barnett,REP,2069
 Brookings,Absentee Precinct,Secretary of State,,Alexandra Frederick,DEM,1802
 Brookings,Absentee Precinct,Attorney General,,Jason Ravnsborg,REP,1781

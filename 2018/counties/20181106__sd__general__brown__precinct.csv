@@ -1,11 +1,11 @@
 county,precinct,office,district,candidate,party,votes
-Brown,Absentee,U.S. Representative,1,George D. Hendrickson,LIB,22
-Brown,Absentee,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,1774
-Brown,Absentee,U.S. Representative,1,Tim Bjorkman,DEM,1464
-Brown,Absentee,U.S. Representative,1,Ron Wieczorek,IND,48
-Brown,Absentee,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,41
-Brown,Absentee,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,1490
-Brown,Absentee,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,1812
+Brown,Absentee,U.S. House,1,George D. Hendrickson,LIB,22
+Brown,Absentee,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,1774
+Brown,Absentee,U.S. House,1,Tim Bjorkman,DEM,1464
+Brown,Absentee,U.S. House,1,Ron Wieczorek,IND,48
+Brown,Absentee,Governor,,Kurt Evans and Richard Shelatz,LIB,41
+Brown,Absentee,Governor,,Kristi Noem and Larry Rhoden,REP,1490
+Brown,Absentee,Governor,,Billie Sutton and Michelle Lavallee,DEM,1812
 Brown,Absentee,Secretary of State,,Steve Barnett,REP,2047
 Brown,Absentee,Secretary of State,,Alexandra Frederick,DEM,1222
 Brown,Absentee,Attorney General,,Jason Ravnsborg,REP,1586
@@ -34,13 +34,13 @@ Brown,Absentee,State House,3,Carl E Perry,REP,1243
 Brown,Absentee,State House,3,Drew Dennert,REP,1418
 Brown,Absentee,State House,3,Brooks Briscoe,DEM,1038
 Brown,Absentee,State House,3,Justin Roemmick,DEM,922
-Brown,AmericInn Event Center,U.S. Representative,1,George D. Hendrickson,LIB,31
-Brown,AmericInn Event Center,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,1399
-Brown,AmericInn Event Center,U.S. Representative,1,Tim Bjorkman,DEM,847
-Brown,AmericInn Event Center,U.S. Representative,1,Ron Wieczorek,IND,52
-Brown,AmericInn Event Center,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,29
-Brown,AmericInn Event Center,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,1157
-Brown,AmericInn Event Center,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,1166
+Brown,AmericInn Event Center,U.S. House,1,George D. Hendrickson,LIB,31
+Brown,AmericInn Event Center,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,1399
+Brown,AmericInn Event Center,U.S. House,1,Tim Bjorkman,DEM,847
+Brown,AmericInn Event Center,U.S. House,1,Ron Wieczorek,IND,52
+Brown,AmericInn Event Center,Governor,,Kurt Evans and Richard Shelatz,LIB,29
+Brown,AmericInn Event Center,Governor,,Kristi Noem and Larry Rhoden,REP,1157
+Brown,AmericInn Event Center,Governor,,Billie Sutton and Michelle Lavallee,DEM,1166
 Brown,AmericInn Event Center,Secretary of State,,Steve Barnett,REP,1604
 Brown,AmericInn Event Center,Secretary of State,,Alexandra Frederick,DEM,657
 Brown,AmericInn Event Center,Attorney General,,Jason Ravnsborg,REP,1210
@@ -69,13 +69,13 @@ Brown,AmericInn Event Center,State House,3,Carl E Perry,REP,1096
 Brown,AmericInn Event Center,State House,3,Drew Dennert,REP,1269
 Brown,AmericInn Event Center,State House,3,Brooks Briscoe,DEM,710
 Brown,AmericInn Event Center,State House,3,Justin Roemmick,DEM,623
-Brown,Best Western Ramkota Hotel and Convention Center,U.S. Representative,1,George D. Hendrickson,LIB,33
-Brown,Best Western Ramkota Hotel and Convention Center,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,1313
-Brown,Best Western Ramkota Hotel and Convention Center,U.S. Representative,1,Tim Bjorkman,DEM,599
-Brown,Best Western Ramkota Hotel and Convention Center,U.S. Representative,1,Ron Wieczorek,IND,34
-Brown,Best Western Ramkota Hotel and Convention Center,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,27
-Brown,Best Western Ramkota Hotel and Convention Center,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,1081
-Brown,Best Western Ramkota Hotel and Convention Center,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,896
+Brown,Best Western Ramkota Hotel and Convention Center,U.S. House,1,George D. Hendrickson,LIB,33
+Brown,Best Western Ramkota Hotel and Convention Center,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,1313
+Brown,Best Western Ramkota Hotel and Convention Center,U.S. House,1,Tim Bjorkman,DEM,599
+Brown,Best Western Ramkota Hotel and Convention Center,U.S. House,1,Ron Wieczorek,IND,34
+Brown,Best Western Ramkota Hotel and Convention Center,Governor,,Kurt Evans and Richard Shelatz,LIB,27
+Brown,Best Western Ramkota Hotel and Convention Center,Governor,,Kristi Noem and Larry Rhoden,REP,1081
+Brown,Best Western Ramkota Hotel and Convention Center,Governor,,Billie Sutton and Michelle Lavallee,DEM,896
 Brown,Best Western Ramkota Hotel and Convention Center,Secretary of State,,Steve Barnett,REP,1499
 Brown,Best Western Ramkota Hotel and Convention Center,Secretary of State,,Alexandra Frederick,DEM,465
 Brown,Best Western Ramkota Hotel and Convention Center,Attorney General,,Jason Ravnsborg,REP,1116
@@ -104,13 +104,13 @@ Brown,Best Western Ramkota Hotel and Convention Center,State House,3,Carl E Perr
 Brown,Best Western Ramkota Hotel and Convention Center,State House,3,Drew Dennert,REP,884
 Brown,Best Western Ramkota Hotel and Convention Center,State House,3,Brooks Briscoe,DEM,444
 Brown,Best Western Ramkota Hotel and Convention Center,State House,3,Justin Roemmick,DEM,376
-Brown,Claremont Fire Station,U.S. Representative,1,George D. Hendrickson,LIB,0
-Brown,Claremont Fire Station,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,64
-Brown,Claremont Fire Station,U.S. Representative,1,Tim Bjorkman,DEM,52
-Brown,Claremont Fire Station,U.S. Representative,1,Ron Wieczorek,IND,0
-Brown,Claremont Fire Station,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,0
-Brown,Claremont Fire Station,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,59
-Brown,Claremont Fire Station,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,58
+Brown,Claremont Fire Station,U.S. House,1,George D. Hendrickson,LIB,0
+Brown,Claremont Fire Station,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,64
+Brown,Claremont Fire Station,U.S. House,1,Tim Bjorkman,DEM,52
+Brown,Claremont Fire Station,U.S. House,1,Ron Wieczorek,IND,0
+Brown,Claremont Fire Station,Governor,,Kurt Evans and Richard Shelatz,LIB,0
+Brown,Claremont Fire Station,Governor,,Kristi Noem and Larry Rhoden,REP,59
+Brown,Claremont Fire Station,Governor,,Billie Sutton and Michelle Lavallee,DEM,58
 Brown,Claremont Fire Station,Secretary of State,,Steve Barnett,REP,69
 Brown,Claremont Fire Station,Secretary of State,,Alexandra Frederick,DEM,45
 Brown,Claremont Fire Station,Attorney General,,Jason Ravnsborg,REP,60
@@ -139,13 +139,13 @@ Brown,Claremont Fire Station,State House,3,Carl E Perry,REP,1
 Brown,Claremont Fire Station,State House,3,Drew Dennert,REP,2
 Brown,Claremont Fire Station,State House,3,Brooks Briscoe,DEM,1
 Brown,Claremont Fire Station,State House,3,Justin Roemmick,DEM,0
-Brown,Columbia American Legion,U.S. Representative,1,George D. Hendrickson,LIB,3
-Brown,Columbia American Legion,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,110
-Brown,Columbia American Legion,U.S. Representative,1,Tim Bjorkman,DEM,77
-Brown,Columbia American Legion,U.S. Representative,1,Ron Wieczorek,IND,2
-Brown,Columbia American Legion,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,5
-Brown,Columbia American Legion,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,87
-Brown,Columbia American Legion,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,103
+Brown,Columbia American Legion,U.S. House,1,George D. Hendrickson,LIB,3
+Brown,Columbia American Legion,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,110
+Brown,Columbia American Legion,U.S. House,1,Tim Bjorkman,DEM,77
+Brown,Columbia American Legion,U.S. House,1,Ron Wieczorek,IND,2
+Brown,Columbia American Legion,Governor,,Kurt Evans and Richard Shelatz,LIB,5
+Brown,Columbia American Legion,Governor,,Kristi Noem and Larry Rhoden,REP,87
+Brown,Columbia American Legion,Governor,,Billie Sutton and Michelle Lavallee,DEM,103
 Brown,Columbia American Legion,Secretary of State,,Steve Barnett,REP,129
 Brown,Columbia American Legion,Secretary of State,,Alexandra Frederick,DEM,55
 Brown,Columbia American Legion,Attorney General,,Jason Ravnsborg,REP,103
@@ -174,13 +174,13 @@ Brown,Columbia American Legion,State House,3,Carl E Perry,REP,3
 Brown,Columbia American Legion,State House,3,Drew Dennert,REP,4
 Brown,Columbia American Legion,State House,3,Brooks Briscoe,DEM,1
 Brown,Columbia American Legion,State House,3,Justin Roemmick,DEM,0
-Brown,Courthouse Community Room,U.S. Representative,1,George D. Hendrickson,LIB,39
-Brown,Courthouse Community Room,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,1169
-Brown,Courthouse Community Room,U.S. Representative,1,Tim Bjorkman,DEM,753
-Brown,Courthouse Community Room,U.S. Representative,1,Ron Wieczorek,IND,48
-Brown,Courthouse Community Room,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,47
-Brown,Courthouse Community Room,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,949
-Brown,Courthouse Community Room,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,1024
+Brown,Courthouse Community Room,U.S. House,1,George D. Hendrickson,LIB,39
+Brown,Courthouse Community Room,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,1169
+Brown,Courthouse Community Room,U.S. House,1,Tim Bjorkman,DEM,753
+Brown,Courthouse Community Room,U.S. House,1,Ron Wieczorek,IND,48
+Brown,Courthouse Community Room,Governor,,Kurt Evans and Richard Shelatz,LIB,47
+Brown,Courthouse Community Room,Governor,,Kristi Noem and Larry Rhoden,REP,949
+Brown,Courthouse Community Room,Governor,,Billie Sutton and Michelle Lavallee,DEM,1024
 Brown,Courthouse Community Room,Secretary of State,,Steve Barnett,REP,1346
 Brown,Courthouse Community Room,Secretary of State,,Alexandra Frederick,DEM,617
 Brown,Courthouse Community Room,Attorney General,,Jason Ravnsborg,REP,967
@@ -209,13 +209,13 @@ Brown,Courthouse Community Room,State House,3,Carl E Perry,REP,825
 Brown,Courthouse Community Room,State House,3,Drew Dennert,REP,946
 Brown,Courthouse Community Room,State House,3,Brooks Briscoe,DEM,602
 Brown,Courthouse Community Room,State House,3,Justin Roemmick,DEM,541
-Brown,Express Vote,U.S. Representative,1,George D. Hendrickson,LIB,16
-Brown,Express Vote,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,1435
-Brown,Express Vote,U.S. Representative,1,Tim Bjorkman,DEM,996
-Brown,Express Vote,U.S. Representative,1,Ron Wieczorek,IND,38
-Brown,Express Vote,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,31
-Brown,Express Vote,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,1108
-Brown,Express Vote,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,1344
+Brown,Express Vote,U.S. House,1,George D. Hendrickson,LIB,16
+Brown,Express Vote,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,1435
+Brown,Express Vote,U.S. House,1,Tim Bjorkman,DEM,996
+Brown,Express Vote,U.S. House,1,Ron Wieczorek,IND,38
+Brown,Express Vote,Governor,,Kurt Evans and Richard Shelatz,LIB,31
+Brown,Express Vote,Governor,,Kristi Noem and Larry Rhoden,REP,1108
+Brown,Express Vote,Governor,,Billie Sutton and Michelle Lavallee,DEM,1344
 Brown,Express Vote,Secretary of State,,Steve Barnett,REP,1612
 Brown,Express Vote,Secretary of State,,Alexandra Frederick,DEM,846
 Brown,Express Vote,Attorney General,,Jason Ravnsborg,REP,1241
@@ -244,13 +244,13 @@ Brown,Express Vote,State House,3,Carl E Perry,REP,913
 Brown,Express Vote,State House,3,Drew Dennert,REP,990
 Brown,Express Vote,State House,3,Brooks Briscoe,DEM,744
 Brown,Express Vote,State House,3,Justin Roemmick,DEM,638
-Brown,Frederick Community Center,U.S. Representative,1,George D. Hendrickson,LIB,3
-Brown,Frederick Community Center,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,121
-Brown,Frederick Community Center,U.S. Representative,1,Tim Bjorkman,DEM,69
-Brown,Frederick Community Center,U.S. Representative,1,Ron Wieczorek,IND,4
-Brown,Frederick Community Center,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,0
-Brown,Frederick Community Center,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,101
-Brown,Frederick Community Center,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,101
+Brown,Frederick Community Center,U.S. House,1,George D. Hendrickson,LIB,3
+Brown,Frederick Community Center,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,121
+Brown,Frederick Community Center,U.S. House,1,Tim Bjorkman,DEM,69
+Brown,Frederick Community Center,U.S. House,1,Ron Wieczorek,IND,4
+Brown,Frederick Community Center,Governor,,Kurt Evans and Richard Shelatz,LIB,0
+Brown,Frederick Community Center,Governor,,Kristi Noem and Larry Rhoden,REP,101
+Brown,Frederick Community Center,Governor,,Billie Sutton and Michelle Lavallee,DEM,101
 Brown,Frederick Community Center,Secretary of State,,Steve Barnett,REP,131
 Brown,Frederick Community Center,Secretary of State,,Alexandra Frederick,DEM,66
 Brown,Frederick Community Center,Attorney General,,Jason Ravnsborg,REP,119
@@ -279,13 +279,13 @@ Brown,Frederick Community Center,State House,3,Carl E Perry,REP,3
 Brown,Frederick Community Center,State House,3,Drew Dennert,REP,4
 Brown,Frederick Community Center,State House,3,Brooks Briscoe,DEM,3
 Brown,Frederick Community Center,State House,3,Justin Roemmick,DEM,1
-Brown,Groton Community Center,U.S. Representative,1,George D. Hendrickson,LIB,5
-Brown,Groton Community Center,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,429
-Brown,Groton Community Center,U.S. Representative,1,Tim Bjorkman,DEM,268
-Brown,Groton Community Center,U.S. Representative,1,Ron Wieczorek,IND,9
-Brown,Groton Community Center,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,12
-Brown,Groton Community Center,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,348
-Brown,Groton Community Center,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,360
+Brown,Groton Community Center,U.S. House,1,George D. Hendrickson,LIB,5
+Brown,Groton Community Center,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,429
+Brown,Groton Community Center,U.S. House,1,Tim Bjorkman,DEM,268
+Brown,Groton Community Center,U.S. House,1,Ron Wieczorek,IND,9
+Brown,Groton Community Center,Governor,,Kurt Evans and Richard Shelatz,LIB,12
+Brown,Groton Community Center,Governor,,Kristi Noem and Larry Rhoden,REP,348
+Brown,Groton Community Center,Governor,,Billie Sutton and Michelle Lavallee,DEM,360
 Brown,Groton Community Center,Secretary of State,,Steve Barnett,REP,472
 Brown,Groton Community Center,Secretary of State,,Alexandra Frederick,DEM,206
 Brown,Groton Community Center,Attorney General,,Jason Ravnsborg,REP,347
@@ -314,13 +314,13 @@ Brown,Groton Community Center,State House,3,Carl E Perry,REP,8
 Brown,Groton Community Center,State House,3,Drew Dennert,REP,16
 Brown,Groton Community Center,State House,3,Brooks Briscoe,DEM,3
 Brown,Groton Community Center,State House,3,Justin Roemmick,DEM,4
-Brown,Hecla Community Center,U.S. Representative,1,George D. Hendrickson,LIB,0
-Brown,Hecla Community Center,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,90
-Brown,Hecla Community Center,U.S. Representative,1,Tim Bjorkman,DEM,65
-Brown,Hecla Community Center,U.S. Representative,1,Ron Wieczorek,IND,4
-Brown,Hecla Community Center,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,1
-Brown,Hecla Community Center,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,76
-Brown,Hecla Community Center,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,84
+Brown,Hecla Community Center,U.S. House,1,George D. Hendrickson,LIB,0
+Brown,Hecla Community Center,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,90
+Brown,Hecla Community Center,U.S. House,1,Tim Bjorkman,DEM,65
+Brown,Hecla Community Center,U.S. House,1,Ron Wieczorek,IND,4
+Brown,Hecla Community Center,Governor,,Kurt Evans and Richard Shelatz,LIB,1
+Brown,Hecla Community Center,Governor,,Kristi Noem and Larry Rhoden,REP,76
+Brown,Hecla Community Center,Governor,,Billie Sutton and Michelle Lavallee,DEM,84
 Brown,Hecla Community Center,Secretary of State,,Steve Barnett,REP,93
 Brown,Hecla Community Center,Secretary of State,,Alexandra Frederick,DEM,61
 Brown,Hecla Community Center,Attorney General,,Jason Ravnsborg,REP,77
@@ -349,13 +349,13 @@ Brown,Hecla Community Center,State House,3,Carl E Perry,REP,1
 Brown,Hecla Community Center,State House,3,Drew Dennert,REP,1
 Brown,Hecla Community Center,State House,3,Brooks Briscoe,DEM,0
 Brown,Hecla Community Center,State House,3,Justin Roemmick,DEM,0
-Brown,Stratford Community Center,U.S. Representative,1,George D. Hendrickson,LIB,0
-Brown,Stratford Community Center,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,66
-Brown,Stratford Community Center,U.S. Representative,1,Tim Bjorkman,DEM,60
-Brown,Stratford Community Center,U.S. Representative,1,Ron Wieczorek,IND,5
-Brown,Stratford Community Center,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,5
-Brown,Stratford Community Center,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,51
-Brown,Stratford Community Center,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,84
+Brown,Stratford Community Center,U.S. House,1,George D. Hendrickson,LIB,0
+Brown,Stratford Community Center,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,66
+Brown,Stratford Community Center,U.S. House,1,Tim Bjorkman,DEM,60
+Brown,Stratford Community Center,U.S. House,1,Ron Wieczorek,IND,5
+Brown,Stratford Community Center,Governor,,Kurt Evans and Richard Shelatz,LIB,5
+Brown,Stratford Community Center,Governor,,Kristi Noem and Larry Rhoden,REP,51
+Brown,Stratford Community Center,Governor,,Billie Sutton and Michelle Lavallee,DEM,84
 Brown,Stratford Community Center,Secretary of State,,Steve Barnett,REP,85
 Brown,Stratford Community Center,Secretary of State,,Alexandra Frederick,DEM,45
 Brown,Stratford Community Center,Attorney General,,Jason Ravnsborg,REP,59
@@ -384,13 +384,13 @@ Brown,Stratford Community Center,State House,3,Carl E Perry,REP,1
 Brown,Stratford Community Center,State House,3,Drew Dennert,REP,1
 Brown,Stratford Community Center,State House,3,Brooks Briscoe,DEM,2
 Brown,Stratford Community Center,State House,3,Justin Roemmick,DEM,2
-Brown,Warner Community Center,U.S. Representative,1,George D. Hendrickson,LIB,3
-Brown,Warner Community Center,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,266
-Brown,Warner Community Center,U.S. Representative,1,Tim Bjorkman,DEM,157
-Brown,Warner Community Center,U.S. Representative,1,Ron Wieczorek,IND,8
-Brown,Warner Community Center,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,5
-Brown,Warner Community Center,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,219
-Brown,Warner Community Center,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,213
+Brown,Warner Community Center,U.S. House,1,George D. Hendrickson,LIB,3
+Brown,Warner Community Center,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,266
+Brown,Warner Community Center,U.S. House,1,Tim Bjorkman,DEM,157
+Brown,Warner Community Center,U.S. House,1,Ron Wieczorek,IND,8
+Brown,Warner Community Center,Governor,,Kurt Evans and Richard Shelatz,LIB,5
+Brown,Warner Community Center,Governor,,Kristi Noem and Larry Rhoden,REP,219
+Brown,Warner Community Center,Governor,,Billie Sutton and Michelle Lavallee,DEM,213
 Brown,Warner Community Center,Secretary of State,,Steve Barnett,REP,287
 Brown,Warner Community Center,Secretary of State,,Alexandra Frederick,DEM,125
 Brown,Warner Community Center,Attorney General,,Jason Ravnsborg,REP,198
@@ -419,13 +419,13 @@ Brown,Warner Community Center,State House,3,Carl E Perry,REP,8
 Brown,Warner Community Center,State House,3,Drew Dennert,REP,15
 Brown,Warner Community Center,State House,3,Brooks Briscoe,DEM,10
 Brown,Warner Community Center,State House,3,Justin Roemmick,DEM,3
-Brown,Westport Community Center,U.S. Representative,1,George D. Hendrickson,LIB,1
-Brown,Westport Community Center,U.S. Representative,1,"Dustin ""Dusty"" Johnson",REP,110
-Brown,Westport Community Center,U.S. Representative,1,Tim Bjorkman,DEM,75
-Brown,Westport Community Center,U.S. Representative,1,Ron Wieczorek,IND,3
-Brown,Westport Community Center,Governor and Lieutenant Governor,,Kurt Evans and Richard Shelatz,LIB,3
-Brown,Westport Community Center,Governor and Lieutenant Governor,,Kristi Noem and Larry Rhoden,REP,95
-Brown,Westport Community Center,Governor and Lieutenant Governor,,Billie Sutton and Michelle Lavallee,DEM,93
+Brown,Westport Community Center,U.S. House,1,George D. Hendrickson,LIB,1
+Brown,Westport Community Center,U.S. House,1,"Dustin ""Dusty"" Johnson",REP,110
+Brown,Westport Community Center,U.S. House,1,Tim Bjorkman,DEM,75
+Brown,Westport Community Center,U.S. House,1,Ron Wieczorek,IND,3
+Brown,Westport Community Center,Governor,,Kurt Evans and Richard Shelatz,LIB,3
+Brown,Westport Community Center,Governor,,Kristi Noem and Larry Rhoden,REP,95
+Brown,Westport Community Center,Governor,,Billie Sutton and Michelle Lavallee,DEM,93
 Brown,Westport Community Center,Secretary of State,,Steve Barnett,REP,129
 Brown,Westport Community Center,Secretary of State,,Alexandra Frederick,DEM,58
 Brown,Westport Community Center,Attorney General,,Jason Ravnsborg,REP,103

@@ -1,276 +1,101 @@
-candidate,office,district,party,county,precinct,votes,winner
-George D. Hendrickson,U.S. Representative,1,LIB,Bennett,Allen,6,
-"Dustin ""Dusty"" Johnson",U.S. Representative,1,REP,Bennett,Allen,66,
-Tim Bjorkman,U.S. Representative,1,DEM,Bennett,Allen,139,
-Ron Wieczorek,U.S. Representative,1,IND,Bennett,Allen,8,
-Kurt Evans and Richard Shelatz,Governor and Lieutenant Governor,,LIB,Bennett,Allen,3,
-Kristi Noem and Larry Rhoden,Governor and Lieutenant Governor,,REP,Bennett,Allen,48,
-Billie Sutton and Michelle Lavallee,Governor and Lieutenant Governor,,DEM,Bennett,Allen,180,
-Steve Barnett,Secretary of State,,REP,Bennett,Allen,62,
-Alexandra Frederick,Secretary of State,,DEM,Bennett,Allen,160,
-Jason Ravnsborg,Attorney General,,REP,Bennett,Allen,54,
-Randy Seiler,Attorney General,,DEM,Bennett,Allen,166,
-Rich Sattgast,State Auditor,,REP,Bennett,Allen,54,
-Tom Cool,State Auditor,,DEM,Bennett,Allen,161,
-Josh Haeder,State Treasurer,,REP,Bennett,Allen,51,
-Aaron Matson,State Treasurer,,DEM,Bennett,Allen,165,
-Ryan Brunner,Commissioner of School and Public Lands,,REP,Bennett,Allen,55,
-Woody Houser,Commissioner of School and Public Lands,,DEM,Bennett,Allen,165,
-Kristie Fiegen,Public Utilities Commissioner,,REP,Bennett,Allen,49,
-Wayne Frederick,Public Utilities Commissioner,,DEM,Bennett,Allen,167,
-Bill Hines,State Senate,27,REP,Bennett,Allen,62,
-Red Dawn Foster,State Senate,27,DEM,Bennett,Allen,167,
-Steve Livermont,State House,27,REP,Bennett,Allen,66,
-Elizabeth May,State House,27,REP,Bennett,Allen,68,
-Margaret Ross,State House,27,DEM,Bennett,Allen,121,
-Peri Pourier,State House,27,DEM,Bennett,Allen,136,
-George D. Hendrickson,U.S. Representative,1,LIB,Bennett,Martin City,3,
-"Dustin ""Dusty"" Johnson",U.S. Representative,1,REP,Bennett,Martin City,201,
-Tim Bjorkman,U.S. Representative,1,DEM,Bennett,Martin City,134,
-Ron Wieczorek,U.S. Representative,1,IND,Bennett,Martin City,5,
-Kurt Evans and Richard Shelatz,Governor and Lieutenant Governor,,LIB,Bennett,Martin City,10,
-Kristi Noem and Larry Rhoden,Governor and Lieutenant Governor,,REP,Bennett,Martin City,177,
-Billie Sutton and Michelle Lavallee,Governor and Lieutenant Governor,,DEM,Bennett,Martin City,165,
-Steve Barnett,Secretary of State,,REP,Bennett,Martin City,200,
-Alexandra Frederick,Secretary of State,,DEM,Bennett,Martin City,137,
-Jason Ravnsborg,Attorney General,,REP,Bennett,Martin City,172,
-Randy Seiler,Attorney General,,DEM,Bennett,Martin City,163,
-Rich Sattgast,State Auditor,,REP,Bennett,Martin City,197,
-Tom Cool,State Auditor,,DEM,Bennett,Martin City,138,
-Josh Haeder,State Treasurer,,REP,Bennett,Martin City,189,
-Aaron Matson,State Treasurer,,DEM,Bennett,Martin City,141,
-Ryan Brunner,Commissioner of School and Public Lands,,REP,Bennett,Martin City,185,
-Woody Houser,Commissioner of School and Public Lands,,DEM,Bennett,Martin City,144,
-Kristie Fiegen,Public Utilities Commissioner,,REP,Bennett,Martin City,178,
-Wayne Frederick,Public Utilities Commissioner,,DEM,Bennett,Martin City,148,
-Bill Hines,State Senate,27,REP,Bennett,Martin City,221,
-Red Dawn Foster,State Senate,27,DEM,Bennett,Martin City,129,
-Steve Livermont,State House,27,REP,Bennett,Martin City,240,
-Elizabeth May,State House,27,REP,Bennett,Martin City,222,
-Margaret Ross,State House,27,DEM,Bennett,Martin City,98,
-Peri Pourier,State House,27,DEM,Bennett,Martin City,89,
-George D. Hendrickson,U.S. Representative,1,LIB,Bennett,Martin Rural 26/27,4,
-"Dustin ""Dusty"" Johnson",U.S. Representative,1,REP,Bennett,Martin Rural 26/27,207,
-Tim Bjorkman,U.S. Representative,1,DEM,Bennett,Martin Rural 26/27,150,
-Ron Wieczorek,U.S. Representative,1,IND,Bennett,Martin Rural 26/27,7,
-Kurt Evans and Richard Shelatz,Governor and Lieutenant Governor,,LIB,Bennett,Martin Rural 26/27,7,
-Kristi Noem and Larry Rhoden,Governor and Lieutenant Governor,,REP,Bennett,Martin Rural 26/27,205,
-Billie Sutton and Michelle Lavallee,Governor and Lieutenant Governor,,DEM,Bennett,Martin Rural 26/27,160,
-Steve Barnett,Secretary of State,,REP,Bennett,Martin Rural 26/27,216,
-Alexandra Frederick,Secretary of State,,DEM,Bennett,Martin Rural 26/27,138,
-Jason Ravnsborg,Attorney General,,REP,Bennett,Martin Rural 26/27,204,
-Randy Seiler,Attorney General,,DEM,Bennett,Martin Rural 26/27,152,
-Rich Sattgast,State Auditor,,REP,Bennett,Martin Rural 26/27,207,
-Tom Cool,State Auditor,,DEM,Bennett,Martin Rural 26/27,150,
-Josh Haeder,State Treasurer,,REP,Bennett,Martin Rural 26/27,201,
-Aaron Matson,State Treasurer,,DEM,Bennett,Martin Rural 26/27,152,
-Ryan Brunner,Commissioner of School and Public Lands,,REP,Bennett,Martin Rural 26/27,204,
-Woody Houser,Commissioner of School and Public Lands,,DEM,Bennett,Martin Rural 26/27,145,
-Kristie Fiegen,Public Utilities Commissioner,,REP,Bennett,Martin Rural 26/27,200,
-Wayne Frederick,Public Utilities Commissioner,,DEM,Bennett,Martin Rural 26/27,151,
-Bill Hines,State Senate,27,REP,Bennett,Martin Rural 26/27,239,
-Red Dawn Foster,State Senate,27,DEM,Bennett,Martin Rural 26/27,130,
-Steve Livermont,State House,27,REP,Bennett,Martin Rural 26/27,268,
-Elizabeth May,State House,27,REP,Bennett,Martin Rural 26/27,246,
-Margaret Ross,State House,27,DEM,Bennett,Martin Rural 26/27,84,
-Peri Pourier,State House,27,DEM,Bennett,Martin Rural 26/27,108,
-George D. Hendrickson,U.S. Representative,1,LIB,Bennett,Vetal/Tuthill,1,
-"Dustin ""Dusty"" Johnson",U.S. Representative,1,REP,Bennett,Vetal/Tuthill,130,
-Tim Bjorkman,U.S. Representative,1,DEM,Bennett,Vetal/Tuthill,15,
-Ron Wieczorek,U.S. Representative,1,IND,Bennett,Vetal/Tuthill,1,
-Kurt Evans and Richard Shelatz,Governor and Lieutenant Governor,,LIB,Bennett,Vetal/Tuthill,6,
-Kristi Noem and Larry Rhoden,Governor and Lieutenant Governor,,REP,Bennett,Vetal/Tuthill,123,
-Billie Sutton and Michelle Lavallee,Governor and Lieutenant Governor,,DEM,Bennett,Vetal/Tuthill,18,
-Steve Barnett,Secretary of State,,REP,Bennett,Vetal/Tuthill,130,
-Alexandra Frederick,Secretary of State,,DEM,Bennett,Vetal/Tuthill,11,
-Jason Ravnsborg,Attorney General,,REP,Bennett,Vetal/Tuthill,122,
-Randy Seiler,Attorney General,,DEM,Bennett,Vetal/Tuthill,19,
-Rich Sattgast,State Auditor,,REP,Bennett,Vetal/Tuthill,123,
-Tom Cool,State Auditor,,DEM,Bennett,Vetal/Tuthill,17,
-Josh Haeder,State Treasurer,,REP,Bennett,Vetal/Tuthill,122,
-Aaron Matson,State Treasurer,,DEM,Bennett,Vetal/Tuthill,17,
-Ryan Brunner,Commissioner of School and Public Lands,,REP,Bennett,Vetal/Tuthill,124,
-Woody Houser,Commissioner of School and Public Lands,,DEM,Bennett,Vetal/Tuthill,13,
-Kristie Fiegen,Public Utilities Commissioner,,REP,Bennett,Vetal/Tuthill,124,
-Wayne Frederick,Public Utilities Commissioner,,DEM,Bennett,Vetal/Tuthill,12,
-Bill Hines,State Senate,27,REP,Bennett,Vetal/Tuthill,136,
-Red Dawn Foster,State Senate,27,DEM,Bennett,Vetal/Tuthill,8,
-Steve Livermont,State House,27,REP,Bennett,Vetal/Tuthill,139,
-Elizabeth May,State House,27,REP,Bennett,Vetal/Tuthill,138,
-Margaret Ross,State House,27,DEM,Bennett,Vetal/Tuthill,7,
-Peri Pourier,State House,27,DEM,Bennett,Vetal/Tuthill,9,
-George D. Hendrickson,U.S. Representative,1,LIB,Bennett,TOTAL,14,
-"Dustin ""Dusty"" Johnson",U.S. Representative,1,REP,Bennett,TOTAL,604,
-Tim Bjorkman,U.S. Representative,1,DEM,Bennett,TOTAL,438,
-Ron Wieczorek,U.S. Representative,1,IND,Bennett,TOTAL,21,
-Kurt Evans and Richard Shelatz,Governor and Lieutenant Governor,,LIB,Bennett,TOTAL,26,
-Kristi Noem and Larry Rhoden,Governor and Lieutenant Governor,,REP,Bennett,TOTAL,553,
-Billie Sutton and Michelle Lavallee,Governor and Lieutenant Governor,,DEM,Bennett,TOTAL,523,
-Steve Barnett,Secretary of State,,REP,Bennett,TOTAL,608,
-Alexandra Frederick,Secretary of State,,DEM,Bennett,TOTAL,446,
-Jason Ravnsborg,Attorney General,,REP,Bennett,TOTAL,552,
-Randy Seiler,Attorney General,,DEM,Bennett,TOTAL,500,
-Rich Sattgast,State Auditor,,REP,Bennett,TOTAL,581,
-Tom Cool,State Auditor,,DEM,Bennett,TOTAL,466,
-Josh Haeder,State Treasurer,,REP,Bennett,TOTAL,563,
-Aaron Matson,State Treasurer,,DEM,Bennett,TOTAL,475,
-Ryan Brunner,Commissioner of School and Public Lands,,REP,Bennett,TOTAL,568,
-Woody Houser,Commissioner of School and Public Lands,,DEM,Bennett,TOTAL,467,
-Kristie Fiegen,Public Utilities Commissioner,,REP,Bennett,TOTAL,551,
-Wayne Frederick,Public Utilities Commissioner,,DEM,Bennett,TOTAL,478,
-Bill Hines,State Senate,27,REP,Bennett,TOTAL,658,
-Red Dawn Foster,State Senate,27,DEM,Bennett,TOTAL,434,
-Steve Livermont,State House,27,REP,Bennett,TOTAL,713,
-Elizabeth May,State House,27,REP,Bennett,TOTAL,674,
-Margaret Ross,State House,27,DEM,Bennett,TOTAL,310,
-Peri Pourier,State House,27,DEM,Bennett,TOTAL,342,
-George D. Hendrickson,,,,,,,
-"Dustin ""Dusty"" Johnson",,,,,,,
-Tim Bjorkman,,,,,,,
-Ron Wieczorek,,,,,,,
-Kurt Evans and Richard Shelatz,,,,,,,
-Kristi Noem and Larry Rhoden,,,,,,,
-Billie Sutton and Michelle Lavallee,,,,,,,
-Steve Barnett,,,,,,,
-Alexandra Frederick,,,,,,,
-Jason Ravnsborg,,,,,,,
-Randy Seiler,,,,,,,
-Rich Sattgast,,,,,,,
-Tom Cool,,,,,,,
-Josh Haeder,,,,,,,
-Aaron Matson,,,,,,,
-Ryan Brunner,,,,,,,
-Woody Houser,,,,,,,
-Kristie Fiegen,,,,,,,
-Wayne Frederick,,,,,,,
-Bill Hines,,,,,,,
-Red Dawn Foster,,,,,,,
-Steve Livermont,,,,,,,
-Elizabeth May,,,,,,,
-Margaret Ross,,,,,,,
-Peri Pourier,,,,,,,
-George D. Hendrickson,,,,,,,
-"Dustin ""Dusty"" Johnson",,,,,,,
-Tim Bjorkman,,,,,,,
-Ron Wieczorek,,,,,,,
-Kurt Evans and Richard Shelatz,,,,,,,
-Kristi Noem and Larry Rhoden,,,,,,,
-Billie Sutton and Michelle Lavallee,,,,,,,
-Steve Barnett,,,,,,,
-Alexandra Frederick,,,,,,,
-Jason Ravnsborg,,,,,,,
-Randy Seiler,,,,,,,
-Rich Sattgast,,,,,,,
-Tom Cool,,,,,,,
-Josh Haeder,,,,,,,
-Aaron Matson,,,,,,,
-Ryan Brunner,,,,,,,
-Woody Houser,,,,,,,
-Kristie Fiegen,,,,,,,
-Wayne Frederick,,,,,,,
-Bill Hines,,,,,,,
-Red Dawn Foster,,,,,,,
-Steve Livermont,,,,,,,
-Elizabeth May,,,,,,,
-Margaret Ross,,,,,,,
-Peri Pourier,,,,,,,
-George D. Hendrickson,,,,,,,
-"Dustin ""Dusty"" Johnson",,,,,,,
-Tim Bjorkman,,,,,,,
-Ron Wieczorek,,,,,,,
-Kurt Evans and Richard Shelatz,,,,,,,
-Kristi Noem and Larry Rhoden,,,,,,,
-Billie Sutton and Michelle Lavallee,,,,,,,
-Steve Barnett,,,,,,,
-Alexandra Frederick,,,,,,,
-Jason Ravnsborg,,,,,,,
-Randy Seiler,,,,,,,
-Rich Sattgast,,,,,,,
-Tom Cool,,,,,,,
-Josh Haeder,,,,,,,
-Aaron Matson,,,,,,,
-Ryan Brunner,,,,,,,
-Woody Houser,,,,,,,
-Kristie Fiegen,,,,,,,
-Wayne Frederick,,,,,,,
-Bill Hines,,,,,,,
-Red Dawn Foster,,,,,,,
-Steve Livermont,,,,,,,
-Elizabeth May,,,,,,,
-Margaret Ross,,,,,,,
-Peri Pourier,,,,,,,
-George D. Hendrickson,,,,,,,
-"Dustin ""Dusty"" Johnson",,,,,,,
-Tim Bjorkman,,,,,,,
-Ron Wieczorek,,,,,,,
-Kurt Evans and Richard Shelatz,,,,,,,
-Kristi Noem and Larry Rhoden,,,,,,,
-Billie Sutton and Michelle Lavallee,,,,,,,
-Steve Barnett,,,,,,,
-Alexandra Frederick,,,,,,,
-Jason Ravnsborg,,,,,,,
-Randy Seiler,,,,,,,
-Rich Sattgast,,,,,,,
-Tom Cool,,,,,,,
-Josh Haeder,,,,,,,
-Aaron Matson,,,,,,,
-Ryan Brunner,,,,,,,
-Woody Houser,,,,,,,
-Kristie Fiegen,,,,,,,
-Wayne Frederick,,,,,,,
-Bill Hines,,,,,,,
-Red Dawn Foster,,,,,,,
-Steve Livermont,,,,,,,
-Elizabeth May,,,,,,,
-Margaret Ross,,,,,,,
-Peri Pourier,,,,,,,
-George D. Hendrickson,,,,,,,
-"Dustin ""Dusty"" Johnson",,,,,,,
-Tim Bjorkman,,,,,,,
-Ron Wieczorek,,,,,,,
-Kurt Evans and Richard Shelatz,,,,,,,
-Kristi Noem and Larry Rhoden,,,,,,,
-Billie Sutton and Michelle Lavallee,,,,,,,
-Steve Barnett,,,,,,,
-Alexandra Frederick,,,,,,,
-Jason Ravnsborg,,,,,,,
-Randy Seiler,,,,,,,
-Rich Sattgast,,,,,,,
-Tom Cool,,,,,,,
-Josh Haeder,,,,,,,
-Aaron Matson,,,,,,,
-Ryan Brunner,,,,,,,
-Woody Houser,,,,,,,
-Kristie Fiegen,,,,,,,
-Wayne Frederick,,,,,,,
-Bill Hines,,,,,,,
-Red Dawn Foster,,,,,,,
-Steve Livermont,,,,,,,
-Elizabeth May,,,,,,,
-Margaret Ross,,,,,,,
-Peri Pourier,,,,,,,
-George D. Hendrickson,,,,,,,
-"Dustin ""Dusty"" Johnson",,,,,,,
-Tim Bjorkman,,,,,,,
-Ron Wieczorek,,,,,,,
-Kurt Evans and Richard Shelatz,,,,,,,
-Kristi Noem and Larry Rhoden,,,,,,,
-Billie Sutton and Michelle Lavallee,,,,,,,
-Steve Barnett,,,,,,,
-Alexandra Frederick,,,,,,,
-Jason Ravnsborg,,,,,,,
-Randy Seiler,,,,,,,
-Rich Sattgast,,,,,,,
-Tom Cool,,,,,,,
-Josh Haeder,,,,,,,
-Aaron Matson,,,,,,,
-Ryan Brunner,,,,,,,
-Woody Houser,,,,,,,
-Kristie Fiegen,,,,,,,
-Wayne Frederick,,,,,,,
-Bill Hines,,,,,,,
-Red Dawn Foster,,,,,,,
-Steve Livermont,,,,,,,
-Elizabeth May,,,,,,,
-Margaret Ross,,,,,,,
-Peri Pourier,,,,,,,
+county,precinct,candidate,office,district,party,votes
+Bennett,Allen,George D. Hendrickson,U.S. House,1,LIB,6
+Bennett,Allen,"Dustin ""Dusty"" Johnson",U.S. House,1,REP,66
+Bennett,Allen,Tim Bjorkman,U.S. House,1,DEM,139
+Bennett,Allen,Ron Wieczorek,U.S. House,1,IND,8
+Bennett,Allen,Kurt Evans and Richard Shelatz,Governor,,LIB,3
+Bennett,Allen,Kristi Noem and Larry Rhoden,Governor,,REP,48
+Bennett,Allen,Billie Sutton and Michelle Lavallee,Governor,,DEM,180
+Bennett,Allen,Steve Barnett,Secretary of State,,REP,62
+Bennett,Allen,Alexandra Frederick,Secretary of State,,DEM,160
+Bennett,Allen,Jason Ravnsborg,Attorney General,,REP,54
+Bennett,Allen,Randy Seiler,Attorney General,,DEM,166
+Bennett,Allen,Rich Sattgast,State Auditor,,REP,54
+Bennett,Allen,Tom Cool,State Auditor,,DEM,161
+Bennett,Allen,Josh Haeder,State Treasurer,,REP,51
+Bennett,Allen,Aaron Matson,State Treasurer,,DEM,165
+Bennett,Allen,Ryan Brunner,Commissioner of School and Public Lands,,REP,55
+Bennett,Allen,Woody Houser,Commissioner of School and Public Lands,,DEM,165
+Bennett,Allen,Kristie Fiegen,Public Utilities Commissioner,,REP,49
+Bennett,Allen,Wayne Frederick,Public Utilities Commissioner,,DEM,167
+Bennett,Allen,Bill Hines,State Senate,27,REP,62
+Bennett,Allen,Red Dawn Foster,State Senate,27,DEM,167
+Bennett,Allen,Steve Livermont,State House,27,REP,66
+Bennett,Allen,Elizabeth May,State House,27,REP,68
+Bennett,Allen,Margaret Ross,State House,27,DEM,121
+Bennett,Allen,Peri Pourier,State House,27,DEM,136
+Bennett,Martin City,George D. Hendrickson,U.S. House,1,LIB,3
+Bennett,Martin City,"Dustin ""Dusty"" Johnson",U.S. House,1,REP,201
+Bennett,Martin City,Tim Bjorkman,U.S. House,1,DEM,134
+Bennett,Martin City,Ron Wieczorek,U.S. House,1,IND,5
+Bennett,Martin City,Kurt Evans and Richard Shelatz,Governor,,LIB,10
+Bennett,Martin City,Kristi Noem and Larry Rhoden,Governor,,REP,177
+Bennett,Martin City,Billie Sutton and Michelle Lavallee,Governor,,DEM,165
+Bennett,Martin City,Steve Barnett,Secretary of State,,REP,200
+Bennett,Martin City,Alexandra Frederick,Secretary of State,,DEM,137
+Bennett,Martin City,Jason Ravnsborg,Attorney General,,REP,172
+Bennett,Martin City,Randy Seiler,Attorney General,,DEM,163
+Bennett,Martin City,Rich Sattgast,State Auditor,,REP,197
+Bennett,Martin City,Tom Cool,State Auditor,,DEM,138
+Bennett,Martin City,Josh Haeder,State Treasurer,,REP,189
+Bennett,Martin City,Aaron Matson,State Treasurer,,DEM,141
+Bennett,Martin City,Ryan Brunner,Commissioner of School and Public Lands,,REP,185
+Bennett,Martin City,Woody Houser,Commissioner of School and Public Lands,,DEM,144
+Bennett,Martin City,Kristie Fiegen,Public Utilities Commissioner,,REP,178
+Bennett,Martin City,Wayne Frederick,Public Utilities Commissioner,,DEM,148
+Bennett,Martin City,Bill Hines,State Senate,27,REP,221
+Bennett,Martin City,Red Dawn Foster,State Senate,27,DEM,129
+Bennett,Martin City,Steve Livermont,State House,27,REP,240
+Bennett,Martin City,Elizabeth May,State House,27,REP,222
+Bennett,Martin City,Margaret Ross,State House,27,DEM,98
+Bennett,Martin City,Peri Pourier,State House,27,DEM,89
+Bennett,Martin Rural 26/27,George D. Hendrickson,U.S. House,1,LIB,4
+Bennett,Martin Rural 26/27,"Dustin ""Dusty"" Johnson",U.S. House,1,REP,207
+Bennett,Martin Rural 26/27,Tim Bjorkman,U.S. House,1,DEM,150
+Bennett,Martin Rural 26/27,Ron Wieczorek,U.S. House,1,IND,7
+Bennett,Martin Rural 26/27,Kurt Evans and Richard Shelatz,Governor,,LIB,7
+Bennett,Martin Rural 26/27,Kristi Noem and Larry Rhoden,Governor,,REP,205
+Bennett,Martin Rural 26/27,Billie Sutton and Michelle Lavallee,Governor,,DEM,160
+Bennett,Martin Rural 26/27,Steve Barnett,Secretary of State,,REP,216
+Bennett,Martin Rural 26/27,Alexandra Frederick,Secretary of State,,DEM,138
+Bennett,Martin Rural 26/27,Jason Ravnsborg,Attorney General,,REP,204
+Bennett,Martin Rural 26/27,Randy Seiler,Attorney General,,DEM,152
+Bennett,Martin Rural 26/27,Rich Sattgast,State Auditor,,REP,207
+Bennett,Martin Rural 26/27,Tom Cool,State Auditor,,DEM,150
+Bennett,Martin Rural 26/27,Josh Haeder,State Treasurer,,REP,201
+Bennett,Martin Rural 26/27,Aaron Matson,State Treasurer,,DEM,152
+Bennett,Martin Rural 26/27,Ryan Brunner,Commissioner of School and Public Lands,,REP,204
+Bennett,Martin Rural 26/27,Woody Houser,Commissioner of School and Public Lands,,DEM,145
+Bennett,Martin Rural 26/27,Kristie Fiegen,Public Utilities Commissioner,,REP,200
+Bennett,Martin Rural 26/27,Wayne Frederick,Public Utilities Commissioner,,DEM,151
+Bennett,Martin Rural 26/27,Bill Hines,State Senate,27,REP,239
+Bennett,Martin Rural 26/27,Red Dawn Foster,State Senate,27,DEM,130
+Bennett,Martin Rural 26/27,Steve Livermont,State House,27,REP,268
+Bennett,Martin Rural 26/27,Elizabeth May,State House,27,REP,246
+Bennett,Martin Rural 26/27,Margaret Ross,State House,27,DEM,84
+Bennett,Martin Rural 26/27,Peri Pourier,State House,27,DEM,108
+Bennett,Vetal/Tuthill,George D. Hendrickson,U.S. House,1,LIB,1
+Bennett,Vetal/Tuthill,"Dustin ""Dusty"" Johnson",U.S. House,1,REP,130
+Bennett,Vetal/Tuthill,Tim Bjorkman,U.S. House,1,DEM,15
+Bennett,Vetal/Tuthill,Ron Wieczorek,U.S. House,1,IND,1
+Bennett,Vetal/Tuthill,Kurt Evans and Richard Shelatz,Governor,,LIB,6
+Bennett,Vetal/Tuthill,Kristi Noem and Larry Rhoden,Governor,,REP,123
+Bennett,Vetal/Tuthill,Billie Sutton and Michelle Lavallee,Governor,,DEM,18
+Bennett,Vetal/Tuthill,Steve Barnett,Secretary of State,,REP,130
+Bennett,Vetal/Tuthill,Alexandra Frederick,Secretary of State,,DEM,11
+Bennett,Vetal/Tuthill,Jason Ravnsborg,Attorney General,,REP,122
+Bennett,Vetal/Tuthill,Randy Seiler,Attorney General,,DEM,19
+Bennett,Vetal/Tuthill,Rich Sattgast,State Auditor,,REP,123
+Bennett,Vetal/Tuthill,Tom Cool,State Auditor,,DEM,17
+Bennett,Vetal/Tuthill,Josh Haeder,State Treasurer,,REP,122
+Bennett,Vetal/Tuthill,Aaron Matson,State Treasurer,,DEM,17
+Bennett,Vetal/Tuthill,Ryan Brunner,Commissioner of School and Public Lands,,REP,124
+Bennett,Vetal/Tuthill,Woody Houser,Commissioner of School and Public Lands,,DEM,13
+Bennett,Vetal/Tuthill,Kristie Fiegen,Public Utilities Commissioner,,REP,124
+Bennett,Vetal/Tuthill,Wayne Frederick,Public Utilities Commissioner,,DEM,12
+Bennett,Vetal/Tuthill,Bill Hines,State Senate,27,REP,136
+Bennett,Vetal/Tuthill,Red Dawn Foster,State Senate,27,DEM,8
+Bennett,Vetal/Tuthill,Steve Livermont,State House,27,REP,139
+Bennett,Vetal/Tuthill,Elizabeth May,State House,27,REP,138
+Bennett,Vetal/Tuthill,Margaret Ross,State House,27,DEM,7
+Bennett,Vetal/Tuthill,Peri Pourier,State House,27,DEM,9
