@@ -10,6 +10,7 @@ This repository contains CSV files with South Dakota election results converted 
 | year  | general  | primary  |
 |---|---|---|
 | 2024 | [done](https://github.com/openelections/openelections-data-sd/blob/master/2024/20241105__sd__general__precinct.csv) | [done](https://github.com/openelections/openelections-data-sd/blob/master/2024/20240604__sd__primary__precinct.csv) |
+| 2022 | [done](https://github.com/openelections/openelections-data-sd/blob/master/2022/20221108__sd__general__precinct.csv) | not started |
 | 2020 | [done](https://github.com/openelections/openelections-data-sd/blob/master/2020/20201103__sd__general__precinct.csv) | [done](https://github.com/openelections/openelections-data-sd/blob/master/2020/20200602__sd__primary__precinct.csv) |
 | 2018 | [done](https://github.com/openelections/openelections-data-sd/blob/master/2018/20181106__sd__general__precinct.csv) | not started |
 | 2016  | [done](https://github.com/openelections/openelections-data-sd/blob/master/2016/20161108__sd__general__precinct.csv)  |  [working](https://github.com/openelections/openelections-data-sd/issues/3) |
