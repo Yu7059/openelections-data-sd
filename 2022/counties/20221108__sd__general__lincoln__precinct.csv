@@ -1,7 +1,7 @@
 county,precinct,office,district,candidate,party,votes
-Lincoln,?,U.S. Senate,,Brian L. Bengs,DEM,46
-Lincoln,?,U.S. Senate,,Tamara J Lesnar,LIB,9
-Lincoln,?,U.S. Senate,,John R. Thune,REP,184
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",U.S. Senate,,Brian L. Bengs,DEM,46
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",U.S. Senate,,Tamara J Lesnar,LIB,9
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",U.S. Senate,,John R. Thune,REP,184
 Lincoln,06-Highland & Canton,U.S. Senate,,Brian L. Bengs,DEM,83
 Lincoln,06-Highland & Canton,U.S. Senate,,Tamara J Lesnar,LIB,18
 Lincoln,06-Highland & Canton,U.S. Senate,,John R. Thune,REP,321
@@ -41,9 +41,9 @@ Lincoln,24-Tea,U.S. Senate,,John R. Thune,REP,1480
 Lincoln,25-Lennox,U.S. Senate,,Brian L. Bengs,DEM,173
 Lincoln,25-Lennox,U.S. Senate,,Tamara J Lesnar,LIB,40
 Lincoln,25-Lennox,U.S. Senate,,John R. Thune,REP,710
-Lincoln,?,U.S. Senate,,Brian L. Bengs,DEM,78
-Lincoln,?,U.S. Senate,,Tamara J Lesnar,LIB,12
-Lincoln,?,U.S. Senate,,John R. Thune,REP,325
+Lincoln,"26-Brooklyn & Pleasant, Beresford",U.S. Senate,,Brian L. Bengs,DEM,78
+Lincoln,"26-Brooklyn & Pleasant, Beresford",U.S. Senate,,Tamara J Lesnar,LIB,12
+Lincoln,"26-Brooklyn & Pleasant, Beresford",U.S. Senate,,John R. Thune,REP,325
 Lincoln,27-Harrisburg 1,U.S. Senate,,Brian L. Bengs,DEM,306
 Lincoln,27-Harrisburg 1,U.S. Senate,,Tamara J Lesnar,LIB,47
 Lincoln,27-Harrisburg 1,U.S. Senate,,John R. Thune,REP,791
@@ -92,8 +92,8 @@ Lincoln,Sioux Falls 2-15,U.S. Senate,,John R. Thune,REP,844
 Lincoln,Sioux Falls 2-16,U.S. Senate,,Brian L. Bengs,DEM,591
 Lincoln,Sioux Falls 2-16,U.S. Senate,,Tamara J Lesnar,LIB,49
 Lincoln,Sioux Falls 2-16,U.S. Senate,,John R. Thune,REP,1103
-Lincoln,?,U.S. House,1,Collin Duprel,LIB,33
-Lincoln,?,U.S. House,1,Dusty Johnson,REP,200
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",U.S. House,1,Collin Duprel,LIB,33
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",U.S. House,1,Dusty Johnson,REP,200
 Lincoln,06-Highland & Canton,U.S. House,1,Collin Duprel,LIB,72
 Lincoln,06-Highland & Canton,U.S. House,1,Dusty Johnson,REP,337
 Lincoln,08-Lincoln & Delaware,U.S. House,1,Collin Duprel,LIB,34
@@ -120,8 +120,8 @@ Lincoln,24-Tea,U.S. House,1,Collin Duprel,LIB,404
 Lincoln,24-Tea,U.S. House,1,Dusty Johnson,REP,1540
 Lincoln,25-Lennox,U.S. House,1,Collin Duprel,LIB,163
 Lincoln,25-Lennox,U.S. House,1,Dusty Johnson,REP,722
-Lincoln,?,U.S. House,1,Collin Duprel,LIB,66
-Lincoln,?,U.S. House,1,Dusty Johnson,REP,334
+Lincoln,"26-Brooklyn & Pleasant, Beresford",U.S. House,1,Collin Duprel,LIB,66
+Lincoln,"26-Brooklyn & Pleasant, Beresford",U.S. House,1,Dusty Johnson,REP,334
 Lincoln,27-Harrisburg 1,U.S. House,1,Collin Duprel,LIB,264
 Lincoln,27-Harrisburg 1,U.S. House,1,Dusty Johnson,REP,821
 Lincoln,29-Harrisburg 2,U.S. House,1,Collin Duprel,LIB,226
@@ -154,9 +154,9 @@ Lincoln,Sioux Falls 2-15,U.S. House,1,Collin Duprel,LIB,191
 Lincoln,Sioux Falls 2-15,U.S. House,1,Dusty Johnson,REP,898
 Lincoln,Sioux Falls 2-16,U.S. House,1,Collin Duprel,LIB,400
 Lincoln,Sioux Falls 2-16,U.S. House,1,Dusty Johnson,REP,1200
-Lincoln,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,60
-Lincoln,?,Governor,,Tracey Quint and Ashley Strand,LIB,4
-Lincoln,?,Governor,,Kristi Noem and Larry Rhoden,REP,177
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Governor,,Jamie Smith and Jennifer Keintz,DEM,60
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Governor,,Tracey Quint and Ashley Strand,LIB,4
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Governor,,Kristi Noem and Larry Rhoden,REP,177
 Lincoln,06-Highland & Canton,Governor,,Jamie Smith and Jennifer Keintz,DEM,128
 Lincoln,06-Highland & Canton,Governor,,Tracey Quint and Ashley Strand,LIB,14
 Lincoln,06-Highland & Canton,Governor,,Kristi Noem and Larry Rhoden,REP,281
@@ -196,9 +196,9 @@ Lincoln,24-Tea,Governor,,Kristi Noem and Larry Rhoden,REP,1270
 Lincoln,25-Lennox,Governor,,Jamie Smith and Jennifer Keintz,DEM,270
 Lincoln,25-Lennox,Governor,,Tracey Quint and Ashley Strand,LIB,32
 Lincoln,25-Lennox,Governor,,Kristi Noem and Larry Rhoden,REP,625
-Lincoln,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,106
-Lincoln,?,Governor,,Tracey Quint and Ashley Strand,LIB,7
-Lincoln,?,Governor,,Kristi Noem and Larry Rhoden,REP,302
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Governor,,Jamie Smith and Jennifer Keintz,DEM,106
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Governor,,Tracey Quint and Ashley Strand,LIB,7
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Governor,,Kristi Noem and Larry Rhoden,REP,302
 Lincoln,27-Harrisburg 1,Governor,,Jamie Smith and Jennifer Keintz,DEM,430
 Lincoln,27-Harrisburg 1,Governor,,Tracey Quint and Ashley Strand,LIB,32
 Lincoln,27-Harrisburg 1,Governor,,Kristi Noem and Larry Rhoden,REP,695
@@ -247,8 +247,8 @@ Lincoln,Sioux Falls 2-15,Governor,,Kristi Noem and Larry Rhoden,REP,681
 Lincoln,Sioux Falls 2-16,Governor,,Jamie Smith and Jennifer Keintz,DEM,788
 Lincoln,Sioux Falls 2-16,Governor,,Tracey Quint and Ashley Strand,LIB,33
 Lincoln,Sioux Falls 2-16,Governor,,Kristi Noem and Larry Rhoden,REP,937
-Lincoln,?,Secretary of State,,Thomas A Cool,DEM,56
-Lincoln,?,Secretary of State,,Monae Johnson,REP,177
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Secretary of State,,Thomas A Cool,DEM,56
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Secretary of State,,Monae Johnson,REP,177
 Lincoln,06-Highland & Canton,Secretary of State,,Thomas A Cool,DEM,122
 Lincoln,06-Highland & Canton,Secretary of State,,Monae Johnson,REP,283
 Lincoln,08-Lincoln & Delaware,Secretary of State,,Thomas A Cool,DEM,60
@@ -275,8 +275,8 @@ Lincoln,24-Tea,Secretary of State,,Thomas A Cool,DEM,627
 Lincoln,24-Tea,Secretary of State,,Monae Johnson,REP,1253
 Lincoln,25-Lennox,Secretary of State,,Thomas A Cool,DEM,256
 Lincoln,25-Lennox,Secretary of State,,Monae Johnson,REP,609
-Lincoln,?,Secretary of State,,Thomas A Cool,DEM,113
-Lincoln,?,Secretary of State,,Monae Johnson,REP,283
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Secretary of State,,Thomas A Cool,DEM,113
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Secretary of State,,Monae Johnson,REP,283
 Lincoln,27-Harrisburg 1,Secretary of State,,Thomas A Cool,DEM,404
 Lincoln,27-Harrisburg 1,Secretary of State,,Monae Johnson,REP,693
 Lincoln,29-Harrisburg 2,Secretary of State,,Thomas A Cool,DEM,367
@@ -309,7 +309,7 @@ Lincoln,Sioux Falls 2-15,Secretary of State,,Thomas A Cool,DEM,417
 Lincoln,Sioux Falls 2-15,Secretary of State,,Monae Johnson,REP,675
 Lincoln,Sioux Falls 2-16,Secretary of State,,Thomas A Cool,DEM,719
 Lincoln,Sioux Falls 2-16,Secretary of State,,Monae Johnson,REP,941
-Lincoln,?,Attorney General,,Marty J. Jackley,REP,186
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Attorney General,,Marty J. Jackley,REP,186
 Lincoln,06-Highland & Canton,Attorney General,,Marty J. Jackley,REP,340
 Lincoln,08-Lincoln & Delaware,Attorney General,,Marty J. Jackley,REP,168
 Lincoln,11-Grant,Attorney General,,Marty J. Jackley,REP,167
@@ -323,7 +323,7 @@ Lincoln,21-Hudson & Eden,Attorney General,,Marty J. Jackley,REP,159
 Lincoln,23-Worthing & Lynn,Attorney General,,Marty J. Jackley,REP,381
 Lincoln,24-Tea,Attorney General,,Marty J. Jackley,REP,1532
 Lincoln,25-Lennox,Attorney General,,Marty J. Jackley,REP,723
-Lincoln,?,Attorney General,,Marty J. Jackley,REP,323
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Attorney General,,Marty J. Jackley,REP,323
 Lincoln,27-Harrisburg 1,Attorney General,,Marty J. Jackley,REP,861
 Lincoln,29-Harrisburg 2,Attorney General,,Marty J. Jackley,REP,852
 Lincoln,30-Canton 4 & 5,Attorney General,,Marty J. Jackley,REP,311
@@ -340,9 +340,9 @@ Lincoln,Sioux Falls 2-12,Attorney General,,Marty J. Jackley,REP,511
 Lincoln,Sioux Falls 2-13,Attorney General,,Marty J. Jackley,REP,1292
 Lincoln,Sioux Falls 2-15,Attorney General,,Marty J. Jackley,REP,885
 Lincoln,Sioux Falls 2-16,Attorney General,,Marty J. Jackley,REP,1224
-Lincoln,?,State Auditor,,Stephanie Marty,DEM,53
-Lincoln,?,State Auditor,,Rene Meyer,LIB,9
-Lincoln,?,State Auditor,,Richard Sattgast,REP,167
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",State Auditor,,Stephanie Marty,DEM,53
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",State Auditor,,Rene Meyer,LIB,9
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",State Auditor,,Richard Sattgast,REP,167
 Lincoln,06-Highland & Canton,State Auditor,,Stephanie Marty,DEM,94
 Lincoln,06-Highland & Canton,State Auditor,,Rene Meyer,LIB,18
 Lincoln,06-Highland & Canton,State Auditor,,Richard Sattgast,REP,293
@@ -382,9 +382,9 @@ Lincoln,24-Tea,State Auditor,,Richard Sattgast,REP,1206
 Lincoln,25-Lennox,State Auditor,,Stephanie Marty,DEM,216
 Lincoln,25-Lennox,State Auditor,,Rene Meyer,LIB,58
 Lincoln,25-Lennox,State Auditor,,Richard Sattgast,REP,570
-Lincoln,?,State Auditor,,Stephanie Marty,DEM,98
-Lincoln,?,State Auditor,,Rene Meyer,LIB,16
-Lincoln,?,State Auditor,,Richard Sattgast,REP,282
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State Auditor,,Stephanie Marty,DEM,98
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State Auditor,,Rene Meyer,LIB,16
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State Auditor,,Richard Sattgast,REP,282
 Lincoln,27-Harrisburg 1,State Auditor,,Stephanie Marty,DEM,334
 Lincoln,27-Harrisburg 1,State Auditor,,Rene Meyer,LIB,69
 Lincoln,27-Harrisburg 1,State Auditor,,Richard Sattgast,REP,677
@@ -433,8 +433,8 @@ Lincoln,Sioux Falls 2-15,State Auditor,,Richard Sattgast,REP,719
 Lincoln,Sioux Falls 2-16,State Auditor,,Stephanie Marty,DEM,643
 Lincoln,Sioux Falls 2-16,State Auditor,,Rene Meyer,LIB,57
 Lincoln,Sioux Falls 2-16,State Auditor,,Richard Sattgast,REP,936
-Lincoln,?,State Treasurer,,John Cunningham,DEM,57
-Lincoln,?,State Treasurer,,Josh Haeder,REP,177
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",State Treasurer,,John Cunningham,DEM,57
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",State Treasurer,,Josh Haeder,REP,177
 Lincoln,06-Highland & Canton,State Treasurer,,John Cunningham,DEM,110
 Lincoln,06-Highland & Canton,State Treasurer,,Josh Haeder,REP,290
 Lincoln,08-Lincoln & Delaware,State Treasurer,,John Cunningham,DEM,53
@@ -461,8 +461,8 @@ Lincoln,24-Tea,State Treasurer,,John Cunningham,DEM,530
 Lincoln,24-Tea,State Treasurer,,Josh Haeder,REP,1313
 Lincoln,25-Lennox,State Treasurer,,John Cunningham,DEM,220
 Lincoln,25-Lennox,State Treasurer,,Josh Haeder,REP,622
-Lincoln,?,State Treasurer,,John Cunningham,DEM,101
-Lincoln,?,State Treasurer,,Josh Haeder,REP,290
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State Treasurer,,John Cunningham,DEM,101
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State Treasurer,,Josh Haeder,REP,290
 Lincoln,27-Harrisburg 1,State Treasurer,,John Cunningham,DEM,351
 Lincoln,27-Harrisburg 1,State Treasurer,,Josh Haeder,REP,714
 Lincoln,29-Harrisburg 2,State Treasurer,,John Cunningham,DEM,340
@@ -495,8 +495,8 @@ Lincoln,Sioux Falls 2-15,State Treasurer,,John Cunningham,DEM,329
 Lincoln,Sioux Falls 2-15,State Treasurer,,Josh Haeder,REP,745
 Lincoln,Sioux Falls 2-16,State Treasurer,,John Cunningham,DEM,623
 Lincoln,Sioux Falls 2-16,State Treasurer,,Josh Haeder,REP,998
-Lincoln,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,58
-Lincoln,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,175
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Commissioner of School and Public Lands,,Timothy Azure,DEM,58
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Commissioner of School and Public Lands,,Brock Greenfield,REP,175
 Lincoln,06-Highland & Canton,Commissioner of School and Public Lands,,Timothy Azure,DEM,93
 Lincoln,06-Highland & Canton,Commissioner of School and Public Lands,,Brock Greenfield,REP,297
 Lincoln,08-Lincoln & Delaware,Commissioner of School and Public Lands,,Timothy Azure,DEM,53
@@ -523,8 +523,8 @@ Lincoln,24-Tea,Commissioner of School and Public Lands,,Timothy Azure,DEM,552
 Lincoln,24-Tea,Commissioner of School and Public Lands,,Brock Greenfield,REP,1268
 Lincoln,25-Lennox,Commissioner of School and Public Lands,,Timothy Azure,DEM,215
 Lincoln,25-Lennox,Commissioner of School and Public Lands,,Brock Greenfield,REP,626
-Lincoln,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,94
-Lincoln,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,294
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Commissioner of School and Public Lands,,Timothy Azure,DEM,94
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Commissioner of School and Public Lands,,Brock Greenfield,REP,294
 Lincoln,27-Harrisburg 1,Commissioner of School and Public Lands,,Timothy Azure,DEM,357
 Lincoln,27-Harrisburg 1,Commissioner of School and Public Lands,,Brock Greenfield,REP,693
 Lincoln,29-Harrisburg 2,Commissioner of School and Public Lands,,Timothy Azure,DEM,339
@@ -557,8 +557,8 @@ Lincoln,Sioux Falls 2-15,Commissioner of School and Public Lands,,Timothy Azure,
 Lincoln,Sioux Falls 2-15,Commissioner of School and Public Lands,,Brock Greenfield,REP,729
 Lincoln,Sioux Falls 2-16,Commissioner of School and Public Lands,,Timothy Azure,DEM,626
 Lincoln,Sioux Falls 2-16,Commissioner of School and Public Lands,,Brock Greenfield,REP,975
-Lincoln,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,59
-Lincoln,?,Public Utilities Commissioner,,Chris Nelson,REP,175
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Public Utilities Commissioner,,Jeffrey Barth,DEM,59
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Public Utilities Commissioner,,Chris Nelson,REP,175
 Lincoln,06-Highland & Canton,Public Utilities Commissioner,,Jeffrey Barth,DEM,112
 Lincoln,06-Highland & Canton,Public Utilities Commissioner,,Chris Nelson,REP,294
 Lincoln,08-Lincoln & Delaware,Public Utilities Commissioner,,Jeffrey Barth,DEM,53
@@ -585,8 +585,8 @@ Lincoln,24-Tea,Public Utilities Commissioner,,Jeffrey Barth,DEM,522
 Lincoln,24-Tea,Public Utilities Commissioner,,Chris Nelson,REP,1354
 Lincoln,25-Lennox,Public Utilities Commissioner,,Jeffrey Barth,DEM,210
 Lincoln,25-Lennox,Public Utilities Commissioner,,Chris Nelson,REP,653
-Lincoln,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,102
-Lincoln,?,Public Utilities Commissioner,,Chris Nelson,REP,294
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Public Utilities Commissioner,,Jeffrey Barth,DEM,102
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Public Utilities Commissioner,,Chris Nelson,REP,294
 Lincoln,27-Harrisburg 1,Public Utilities Commissioner,,Jeffrey Barth,DEM,351
 Lincoln,27-Harrisburg 1,Public Utilities Commissioner,,Chris Nelson,REP,723
 Lincoln,29-Harrisburg 2,Public Utilities Commissioner,,Jeffrey Barth,DEM,322
@@ -619,9 +619,9 @@ Lincoln,Sioux Falls 2-15,Public Utilities Commissioner,,Jeffrey Barth,DEM,337
 Lincoln,Sioux Falls 2-15,Public Utilities Commissioner,,Chris Nelson,REP,754
 Lincoln,Sioux Falls 2-16,Public Utilities Commissioner,,Jeffrey Barth,DEM,611
 Lincoln,Sioux Falls 2-16,Public Utilities Commissioner,,Chris Nelson,REP,1034
-Lincoln,?,State House,16,Matt Ness,DEM,55
-Lincoln,?,State House,16,Kevin D. Jensen,REP,151
-Lincoln,?,State House,16,Karla J. Lems,REP,146
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",State House,16,Matt Ness,DEM,55
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",State House,16,Kevin D. Jensen,REP,151
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",State House,16,Karla J. Lems,REP,146
 Lincoln,06-Highland & Canton,State House,16,Matt Ness,DEM,119
 Lincoln,06-Highland & Canton,State House,16,Kevin D. Jensen,REP,253
 Lincoln,06-Highland & Canton,State House,16,Karla J. Lems,REP,267
@@ -652,16 +652,16 @@ Lincoln,23-Worthing & Lynn,State House,16,Karla J. Lems,REP,250
 Lincoln,25-Lennox,State House,16,Matt Ness,DEM,245
 Lincoln,25-Lennox,State House,16,Kevin D. Jensen,REP,465
 Lincoln,25-Lennox,State House,16,Karla J. Lems,REP,466
-Lincoln,?,State House,16,Matt Ness,DEM,111
-Lincoln,?,State House,16,Kevin D. Jensen,REP,243
-Lincoln,?,State House,16,Karla J. Lems,REP,226
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State House,16,Matt Ness,DEM,111
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State House,16,Kevin D. Jensen,REP,243
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State House,16,Karla J. Lems,REP,226
 Lincoln,29-Harrisburg 2,State House,16,Matt Ness,DEM,0
 Lincoln,29-Harrisburg 2,State House,16,Kevin D. Jensen,REP,0
 Lincoln,29-Harrisburg 2,State House,16,Karla J. Lems,REP,0
 Lincoln,30-Canton 4 & 5,State House,16,Matt Ness,DEM,148
 Lincoln,30-Canton 4 & 5,State House,16,Kevin D. Jensen,REP,191
 Lincoln,30-Canton 4 & 5,State House,16,Karla J. Lems,REP,243
-Lincoln,?,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,121
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,121
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,204
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,87
 Lincoln,11-Grant,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,113
@@ -675,7 +675,7 @@ Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position A Second Circuit,Ro
 Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,243
 Lincoln,24-Tea,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,996
 Lincoln,25-Lennox,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,453
-Lincoln,?,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,227
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,227
 Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,588
 Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,560
 Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,220
@@ -692,7 +692,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position A Second Circuit,Ro
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,890
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,576
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,846
-Lincoln,?,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,122
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,122
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,208
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,83
 Lincoln,11-Grant,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,111
@@ -706,7 +706,7 @@ Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position B Second Circuit,Sa
 Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,245
 Lincoln,24-Tea,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,977
 Lincoln,25-Lennox,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,450
-Lincoln,?,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,224
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,224
 Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,570
 Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,560
 Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,223
@@ -723,8 +723,8 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position B Second Circuit,Sa
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,862
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,557
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,824
-Lincoln,?,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,75
-Lincoln,?,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,62
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,75
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,62
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,168
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,83
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,74
@@ -751,8 +751,8 @@ Lincoln,24-Tea,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett
 Lincoln,24-Tea,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,401
 Lincoln,25-Lennox,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,326
 Lincoln,25-Lennox,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,187
-Lincoln,?,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,135
-Lincoln,?,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,99
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,135
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,99
 Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,343
 Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,269
 Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,360
@@ -785,7 +785,7 @@ Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position C Second Circuit,Do
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,218
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,602
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,347
-Lincoln,?,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,115
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,115
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,196
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,86
 Lincoln,11-Grant,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,108
@@ -799,7 +799,7 @@ Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position D Second Circuit,Na
 Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,237
 Lincoln,24-Tea,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,963
 Lincoln,25-Lennox,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,424
-Lincoln,?,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,217
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,217
 Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,555
 Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,537
 Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,214
@@ -816,7 +816,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position D Second Circuit,Na
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,841
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,553
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,814
-Lincoln,?,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,104
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,104
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,172
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,73
 Lincoln,11-Grant,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,87
@@ -830,7 +830,7 @@ Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position E Second Circuit,Jo
 Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,195
 Lincoln,24-Tea,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,819
 Lincoln,25-Lennox,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,385
-Lincoln,?,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,194
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,194
 Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,484
 Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,474
 Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,198
@@ -847,7 +847,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position E Second Circuit,Jo
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,799
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,503
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,738
-Lincoln,?,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,103
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,103
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,164
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,68
 Lincoln,11-Grant,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,90
@@ -861,7 +861,7 @@ Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position F Second Circuit,Ca
 Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,196
 Lincoln,24-Tea,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,791
 Lincoln,25-Lennox,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,368
-Lincoln,?,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,195
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,195
 Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,464
 Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,457
 Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,187
@@ -878,7 +878,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position F Second Circuit,Ca
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,735
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,472
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,685
-Lincoln,?,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,103
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,103
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,171
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,71
 Lincoln,11-Grant,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,90
@@ -892,7 +892,7 @@ Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position G Second Circuit,Je
 Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,194
 Lincoln,24-Tea,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,787
 Lincoln,25-Lennox,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,378
-Lincoln,?,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,200
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,200
 Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,472
 Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,457
 Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,187
@@ -909,7 +909,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position G Second Circuit,Je
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,736
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,461
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,688
-Lincoln,?,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,103
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,103
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,180
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,66
 Lincoln,11-Grant,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,92
@@ -923,7 +923,7 @@ Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position H Second Circuit,Su
 Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,196
 Lincoln,24-Tea,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,803
 Lincoln,25-Lennox,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,373
-Lincoln,?,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,195
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,195
 Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,475
 Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,465
 Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,186
@@ -940,7 +940,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position H Second Circuit,Su
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,751
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,478
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,706
-Lincoln,?,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,106
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,106
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,173
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,73
 Lincoln,11-Grant,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,92
@@ -954,7 +954,7 @@ Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position I Second Circuit,Do
 Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,198
 Lincoln,24-Tea,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,796
 Lincoln,25-Lennox,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,378
-Lincoln,?,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,194
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,194
 Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,467
 Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,461
 Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,193
@@ -971,7 +971,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position I Second Circuit,Do
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,751
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,466
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,703
-Lincoln,?,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,100
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position J Second Circuit,James Power,NON,100
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,167
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,67
 Lincoln,11-Grant,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,88
@@ -985,7 +985,7 @@ Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position J Second Circuit,Ja
 Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,190
 Lincoln,24-Tea,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,765
 Lincoln,25-Lennox,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,362
-Lincoln,?,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,188
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Judge of the Circuit Court,Position J Second Circuit,James Power,NON,188
 Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,457
 Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,450
 Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,181
@@ -1002,7 +1002,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position J Second Circuit,Ja
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,723
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,459
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,679
-Lincoln,?,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,121
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,121
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,226
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,74
 Lincoln,11-Grant,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,92
@@ -1016,7 +1016,7 @@ Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position K Second Circuit,Jo
 Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,199
 Lincoln,24-Tea,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,779
 Lincoln,25-Lennox,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,364
-Lincoln,?,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,207
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,207
 Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,473
 Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,456
 Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,228
@@ -1033,7 +1033,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position K Second Circuit,Jo
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,763
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,483
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,699
-Lincoln,?,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,122
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,122
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,211
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,80
 Lincoln,11-Grant,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,97
@@ -1047,7 +1047,7 @@ Lincoln,21-Hudson & Eden,Judge of the Circuit Court,Position L Second Circuit,Ra
 Lincoln,23-Worthing & Lynn,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,208
 Lincoln,24-Tea,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,795
 Lincoln,25-Lennox,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,382
-Lincoln,?,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,242
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,242
 Lincoln,27-Harrisburg 1,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,473
 Lincoln,29-Harrisburg 2,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,465
 Lincoln,30-Canton 4 & 5,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,217
@@ -1064,8 +1064,8 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position L Second Circuit,Ra
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,731
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,465
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,687
-Lincoln,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,166
-Lincoln,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,35
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Supreme Court Retention,3,Patricia J. DeVaney - Yes,,166
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Supreme Court Retention,3,Patricia J. DeVaney - No,,35
 Lincoln,06-Highland & Canton,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,304
 Lincoln,06-Highland & Canton,Supreme Court Retention,3,Patricia J. DeVaney - No,,55
 Lincoln,08-Lincoln & Delaware,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,147
@@ -1092,8 +1092,8 @@ Lincoln,24-Tea,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,1327
 Lincoln,24-Tea,Supreme Court Retention,3,Patricia J. DeVaney - No,,305
 Lincoln,25-Lennox,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,633
 Lincoln,25-Lennox,Supreme Court Retention,3,Patricia J. DeVaney - No,,126
-Lincoln,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,275
-Lincoln,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,67
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Supreme Court Retention,3,Patricia J. DeVaney - Yes,,275
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Supreme Court Retention,3,Patricia J. DeVaney - No,,67
 Lincoln,27-Harrisburg 1,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,730
 Lincoln,27-Harrisburg 1,Supreme Court Retention,3,Patricia J. DeVaney - No,,173
 Lincoln,29-Harrisburg 2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,732
@@ -1126,8 +1126,8 @@ Lincoln,Sioux Falls 2-15,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,77
 Lincoln,Sioux Falls 2-15,Supreme Court Retention,3,Patricia J. DeVaney - No,,150
 Lincoln,Sioux Falls 2-16,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,1133
 Lincoln,Sioux Falls 2-16,Supreme Court Retention,3,Patricia J. DeVaney - No,,258
-Lincoln,?,Supreme Court Retention,2,Mark E. Salter - Yes,,165
-Lincoln,?,Supreme Court Retention,2,Mark E. Salter - No,,33
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Supreme Court Retention,2,Mark E. Salter - Yes,,165
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Supreme Court Retention,2,Mark E. Salter - No,,33
 Lincoln,06-Highland & Canton,Supreme Court Retention,2,Mark E. Salter - Yes,,303
 Lincoln,06-Highland & Canton,Supreme Court Retention,2,Mark E. Salter - No,,56
 Lincoln,08-Lincoln & Delaware,Supreme Court Retention,2,Mark E. Salter - Yes,,147
@@ -1154,8 +1154,8 @@ Lincoln,24-Tea,Supreme Court Retention,2,Mark E. Salter - Yes,,1319
 Lincoln,24-Tea,Supreme Court Retention,2,Mark E. Salter - No,,304
 Lincoln,25-Lennox,Supreme Court Retention,2,Mark E. Salter - Yes,,629
 Lincoln,25-Lennox,Supreme Court Retention,2,Mark E. Salter - No,,124
-Lincoln,?,Supreme Court Retention,2,Mark E. Salter - Yes,,272
-Lincoln,?,Supreme Court Retention,2,Mark E. Salter - No,,68
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Supreme Court Retention,2,Mark E. Salter - Yes,,272
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Supreme Court Retention,2,Mark E. Salter - No,,68
 Lincoln,27-Harrisburg 1,Supreme Court Retention,2,Mark E. Salter - Yes,,717
 Lincoln,27-Harrisburg 1,Supreme Court Retention,2,Mark E. Salter - No,,182
 Lincoln,29-Harrisburg 2,Supreme Court Retention,2,Mark E. Salter - Yes,,743
@@ -1188,8 +1188,8 @@ Lincoln,Sioux Falls 2-15,Supreme Court Retention,2,Mark E. Salter - Yes,,785
 Lincoln,Sioux Falls 2-15,Supreme Court Retention,2,Mark E. Salter - No,,145
 Lincoln,Sioux Falls 2-16,Supreme Court Retention,2,Mark E. Salter - Yes,,1135
 Lincoln,Sioux Falls 2-16,Supreme Court Retention,2,Mark E. Salter - No,,259
-Lincoln,?,Constitutional Amendment D,,Yes,,115
-Lincoln,?,Constitutional Amendment D,,No,,115
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Constitutional Amendment D,,Yes,,115
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Constitutional Amendment D,,No,,115
 Lincoln,06-Highland & Canton,Constitutional Amendment D,,Yes,,179
 Lincoln,06-Highland & Canton,Constitutional Amendment D,,No,,233
 Lincoln,08-Lincoln & Delaware,Constitutional Amendment D,,Yes,,103
@@ -1216,8 +1216,8 @@ Lincoln,24-Tea,Constitutional Amendment D,,Yes,,1166
 Lincoln,24-Tea,Constitutional Amendment D,,No,,807
 Lincoln,25-Lennox,Constitutional Amendment D,,Yes,,512
 Lincoln,25-Lennox,Constitutional Amendment D,,No,,383
-Lincoln,?,Constitutional Amendment D,,Yes,,182
-Lincoln,?,Constitutional Amendment D,,No,,222
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Constitutional Amendment D,,Yes,,182
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Constitutional Amendment D,,No,,222
 Lincoln,27-Harrisburg 1,Constitutional Amendment D,,Yes,,682
 Lincoln,27-Harrisburg 1,Constitutional Amendment D,,No,,430
 Lincoln,29-Harrisburg 2,Constitutional Amendment D,,Yes,,653
@@ -1250,8 +1250,8 @@ Lincoln,Sioux Falls 2-15,Constitutional Amendment D,,Yes,,693
 Lincoln,Sioux Falls 2-15,Constitutional Amendment D,,No,,439
 Lincoln,Sioux Falls 2-16,Constitutional Amendment D,,Yes,,1102
 Lincoln,Sioux Falls 2-16,Constitutional Amendment D,,No,,604
-Lincoln,?,Initiated Measure 27,,Yes,,86
-Lincoln,?,Initiated Measure 27,,No,,152
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Initiated Measure 27,,Yes,,86
+Lincoln,"02-Norway & Fairview, Fairview, Inc.",Initiated Measure 27,,No,,152
 Lincoln,06-Highland & Canton,Initiated Measure 27,,Yes,,179
 Lincoln,06-Highland & Canton,Initiated Measure 27,,No,,244
 Lincoln,08-Lincoln & Delaware,Initiated Measure 27,,Yes,,86
@@ -1278,8 +1278,8 @@ Lincoln,24-Tea,Initiated Measure 27,,Yes,,1121
 Lincoln,24-Tea,Initiated Measure 27,,No,,897
 Lincoln,25-Lennox,Initiated Measure 27,,Yes,,465
 Lincoln,25-Lennox,Initiated Measure 27,,No,,450
-Lincoln,?,Initiated Measure 27,,Yes,,142
-Lincoln,?,Initiated Measure 27,,No,,269
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Initiated Measure 27,,Yes,,142
+Lincoln,"26-Brooklyn & Pleasant, Beresford",Initiated Measure 27,,No,,269
 Lincoln,27-Harrisburg 1,Initiated Measure 27,,Yes,,678
 Lincoln,27-Harrisburg 1,Initiated Measure 27,,No,,461
 Lincoln,29-Harrisburg 2,Initiated Measure 27,,Yes,,623

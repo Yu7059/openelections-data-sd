@@ -11,9 +11,9 @@ Meade,BEAR BUTTE #9,U.S. Senate,,John R. Thune,REP,122
 Meade,BLACK HAWK #14,U.S. Senate,,Brian L. Bengs,DEM,77
 Meade,BLACK HAWK #14,U.S. Senate,,Tamara J Lesnar,LIB,17
 Meade,BLACK HAWK #14,U.S. Senate,,John R. Thune,REP,220
-Meade,?,U.S. Senate,,Brian L. Bengs,DEM,144
-Meade,?,U.S. Senate,,Tamara J Lesnar,LIB,37
-Meade,?,U.S. Senate,,John R. Thune,REP,562
+Meade,CENTRAL BLACK HAWK #19,U.S. Senate,,Brian L. Bengs,DEM,144
+Meade,CENTRAL BLACK HAWK #19,U.S. Senate,,Tamara J Lesnar,LIB,37
+Meade,CENTRAL BLACK HAWK #19,U.S. Senate,,John R. Thune,REP,562
 Meade,CENTRAL STURGIS #3,U.S. Senate,,Brian L. Bengs,DEM,60
 Meade,CENTRAL STURGIS #3,U.S. Senate,,Tamara J Lesnar,LIB,17
 Meade,CENTRAL STURGIS #3,U.S. Senate,,John R. Thune,REP,153
@@ -53,12 +53,12 @@ Meade,HEREFORD #20,U.S. Senate,,John R. Thune,REP,48
 Meade,MARCUS #41,U.S. Senate,,Brian L. Bengs,DEM,4
 Meade,MARCUS #41,U.S. Senate,,Tamara J Lesnar,LIB,5
 Meade,MARCUS #41,U.S. Senate,,John R. Thune,REP,32
-Meade,?,U.S. Senate,,Brian L. Bengs,DEM,103
-Meade,?,U.S. Senate,,Tamara J Lesnar,LIB,36
-Meade,?,U.S. Senate,,John R. Thune,REP,536
-Meade,?,U.S. Senate,,Brian L. Bengs,DEM,41
-Meade,?,U.S. Senate,,Tamara J Lesnar,LIB,13
-Meade,?,U.S. Senate,,John R. Thune,REP,79
+Meade,NORTHEAST PIEDMONT #12,U.S. Senate,,Brian L. Bengs,DEM,103
+Meade,NORTHEAST PIEDMONT #12,U.S. Senate,,Tamara J Lesnar,LIB,36
+Meade,NORTHEAST PIEDMONT #12,U.S. Senate,,John R. Thune,REP,536
+Meade,NORTHEAST STURGIS #1A,U.S. Senate,,Brian L. Bengs,DEM,41
+Meade,NORTHEAST STURGIS #1A,U.S. Senate,,Tamara J Lesnar,LIB,13
+Meade,NORTHEAST STURGIS #1A,U.S. Senate,,John R. Thune,REP,79
 Meade,NORTHWEST STURGIS #5,U.S. Senate,,Brian L. Bengs,DEM,86
 Meade,NORTHWEST STURGIS #5,U.S. Senate,,Tamara J Lesnar,LIB,41
 Meade,NORTHWEST STURGIS #5,U.S. Senate,,John R. Thune,REP,286
@@ -83,9 +83,9 @@ Meade,RURAL STURGIS #7,U.S. Senate,,John R. Thune,REP,344
 Meade,SOUTH STURGIS #2A,U.S. Senate,,Brian L. Bengs,DEM,70
 Meade,SOUTH STURGIS #2A,U.S. Senate,,Tamara J Lesnar,LIB,20
 Meade,SOUTH STURGIS #2A,U.S. Senate,,John R. Thune,REP,251
-Meade,?,U.S. Senate,,Brian L. Bengs,DEM,158
-Meade,?,U.S. Senate,,Tamara J Lesnar,LIB,59
-Meade,?,U.S. Senate,,John R. Thune,REP,591
+Meade,SOUTHEAST PIEDMONT #13,U.S. Senate,,Brian L. Bengs,DEM,158
+Meade,SOUTHEAST PIEDMONT #13,U.S. Senate,,Tamara J Lesnar,LIB,59
+Meade,SOUTHEAST PIEDMONT #13,U.S. Senate,,John R. Thune,REP,591
 Meade,SOUTHEAST STURGIS #2,U.S. Senate,,Brian L. Bengs,DEM,94
 Meade,SOUTHEAST STURGIS #2,U.S. Senate,,Tamara J Lesnar,LIB,26
 Meade,SOUTHEAST STURGIS #2,U.S. Senate,,John R. Thune,REP,354
@@ -130,8 +130,8 @@ Meade,BEAR BUTTE #9,U.S. House,1,Collin Duprel,LIB,64
 Meade,BEAR BUTTE #9,U.S. House,1,Dusty Johnson,REP,86
 Meade,BLACK HAWK #14,U.S. House,1,Collin Duprel,LIB,81
 Meade,BLACK HAWK #14,U.S. House,1,Dusty Johnson,REP,225
-Meade,?,U.S. House,1,Collin Duprel,LIB,178
-Meade,?,U.S. House,1,Dusty Johnson,REP,542
+Meade,CENTRAL BLACK HAWK #19,U.S. House,1,Collin Duprel,LIB,178
+Meade,CENTRAL BLACK HAWK #19,U.S. House,1,Dusty Johnson,REP,542
 Meade,CENTRAL STURGIS #3,U.S. House,1,Collin Duprel,LIB,95
 Meade,CENTRAL STURGIS #3,U.S. House,1,Dusty Johnson,REP,127
 Meade,CHALK BUTTE #27,U.S. House,1,Collin Duprel,LIB,42
@@ -158,10 +158,10 @@ Meade,HEREFORD #20,U.S. House,1,Collin Duprel,LIB,21
 Meade,HEREFORD #20,U.S. House,1,Dusty Johnson,REP,31
 Meade,MARCUS #41,U.S. House,1,Collin Duprel,LIB,19
 Meade,MARCUS #41,U.S. House,1,Dusty Johnson,REP,24
-Meade,?,U.S. House,1,Collin Duprel,LIB,125
-Meade,?,U.S. House,1,Dusty Johnson,REP,525
-Meade,?,U.S. House,1,Collin Duprel,LIB,60
-Meade,?,U.S. House,1,Dusty Johnson,REP,66
+Meade,NORTHEAST PIEDMONT #12,U.S. House,1,Collin Duprel,LIB,125
+Meade,NORTHEAST PIEDMONT #12,U.S. House,1,Dusty Johnson,REP,525
+Meade,NORTHEAST STURGIS #1A,U.S. House,1,Collin Duprel,LIB,60
+Meade,NORTHEAST STURGIS #1A,U.S. House,1,Dusty Johnson,REP,66
 Meade,NORTHWEST STURGIS #5,U.S. House,1,Collin Duprel,LIB,181
 Meade,NORTHWEST STURGIS #5,U.S. House,1,Dusty Johnson,REP,224
 Meade,PIEDMONT CENTRAL #11A,U.S. House,1,Collin Duprel,LIB,126
@@ -178,8 +178,8 @@ Meade,RURAL STURGIS #7,U.S. House,1,Collin Duprel,LIB,132
 Meade,RURAL STURGIS #7,U.S. House,1,Dusty Johnson,REP,291
 Meade,SOUTH STURGIS #2A,U.S. House,1,Collin Duprel,LIB,122
 Meade,SOUTH STURGIS #2A,U.S. House,1,Dusty Johnson,REP,212
-Meade,?,U.S. House,1,Collin Duprel,LIB,185
-Meade,?,U.S. House,1,Dusty Johnson,REP,586
+Meade,SOUTHEAST PIEDMONT #13,U.S. House,1,Collin Duprel,LIB,185
+Meade,SOUTHEAST PIEDMONT #13,U.S. House,1,Dusty Johnson,REP,586
 Meade,SOUTHEAST STURGIS #2,U.S. House,1,Collin Duprel,LIB,166
 Meade,SOUTHEAST STURGIS #2,U.S. House,1,Dusty Johnson,REP,304
 Meade,SOUTHWEST STURGIS #4A,U.S. House,1,Collin Duprel,LIB,94
@@ -216,9 +216,9 @@ Meade,BEAR BUTTE #9,Governor,,Kristi Noem and Larry Rhoden,REP,126
 Meade,BLACK HAWK #14,Governor,,Jamie Smith and Jennifer Keintz,DEM,98
 Meade,BLACK HAWK #14,Governor,,Tracey Quint and Ashley Strand,LIB,13
 Meade,BLACK HAWK #14,Governor,,Kristi Noem and Larry Rhoden,REP,208
-Meade,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,202
-Meade,?,Governor,,Tracey Quint and Ashley Strand,LIB,39
-Meade,?,Governor,,Kristi Noem and Larry Rhoden,REP,506
+Meade,CENTRAL BLACK HAWK #19,Governor,,Jamie Smith and Jennifer Keintz,DEM,202
+Meade,CENTRAL BLACK HAWK #19,Governor,,Tracey Quint and Ashley Strand,LIB,39
+Meade,CENTRAL BLACK HAWK #19,Governor,,Kristi Noem and Larry Rhoden,REP,506
 Meade,CENTRAL STURGIS #3,Governor,,Jamie Smith and Jennifer Keintz,DEM,84
 Meade,CENTRAL STURGIS #3,Governor,,Tracey Quint and Ashley Strand,LIB,10
 Meade,CENTRAL STURGIS #3,Governor,,Kristi Noem and Larry Rhoden,REP,140
@@ -258,12 +258,12 @@ Meade,HEREFORD #20,Governor,,Kristi Noem and Larry Rhoden,REP,40
 Meade,MARCUS #41,Governor,,Jamie Smith and Jennifer Keintz,DEM,2
 Meade,MARCUS #41,Governor,,Tracey Quint and Ashley Strand,LIB,5
 Meade,MARCUS #41,Governor,,Kristi Noem and Larry Rhoden,REP,38
-Meade,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,125
-Meade,?,Governor,,Tracey Quint and Ashley Strand,LIB,22
-Meade,?,Governor,,Kristi Noem and Larry Rhoden,REP,529
-Meade,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,45
-Meade,?,Governor,,Tracey Quint and Ashley Strand,LIB,15
-Meade,?,Governor,,Kristi Noem and Larry Rhoden,REP,74
+Meade,NORTHEAST PIEDMONT #12,Governor,,Jamie Smith and Jennifer Keintz,DEM,125
+Meade,NORTHEAST PIEDMONT #12,Governor,,Tracey Quint and Ashley Strand,LIB,22
+Meade,NORTHEAST PIEDMONT #12,Governor,,Kristi Noem and Larry Rhoden,REP,529
+Meade,NORTHEAST STURGIS #1A,Governor,,Jamie Smith and Jennifer Keintz,DEM,45
+Meade,NORTHEAST STURGIS #1A,Governor,,Tracey Quint and Ashley Strand,LIB,15
+Meade,NORTHEAST STURGIS #1A,Governor,,Kristi Noem and Larry Rhoden,REP,74
 Meade,NORTHWEST STURGIS #5,Governor,,Jamie Smith and Jennifer Keintz,DEM,109
 Meade,NORTHWEST STURGIS #5,Governor,,Tracey Quint and Ashley Strand,LIB,40
 Meade,NORTHWEST STURGIS #5,Governor,,Kristi Noem and Larry Rhoden,REP,266
@@ -288,9 +288,9 @@ Meade,RURAL STURGIS #7,Governor,,Kristi Noem and Larry Rhoden,REP,311
 Meade,SOUTH STURGIS #2A,Governor,,Jamie Smith and Jennifer Keintz,DEM,102
 Meade,SOUTH STURGIS #2A,Governor,,Tracey Quint and Ashley Strand,LIB,10
 Meade,SOUTH STURGIS #2A,Governor,,Kristi Noem and Larry Rhoden,REP,230
-Meade,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,206
-Meade,?,Governor,,Tracey Quint and Ashley Strand,LIB,52
-Meade,?,Governor,,Kristi Noem and Larry Rhoden,REP,555
+Meade,SOUTHEAST PIEDMONT #13,Governor,,Jamie Smith and Jennifer Keintz,DEM,206
+Meade,SOUTHEAST PIEDMONT #13,Governor,,Tracey Quint and Ashley Strand,LIB,52
+Meade,SOUTHEAST PIEDMONT #13,Governor,,Kristi Noem and Larry Rhoden,REP,555
 Meade,SOUTHEAST STURGIS #2,Governor,,Jamie Smith and Jennifer Keintz,DEM,153
 Meade,SOUTHEAST STURGIS #2,Governor,,Tracey Quint and Ashley Strand,LIB,12
 Meade,SOUTHEAST STURGIS #2,Governor,,Kristi Noem and Larry Rhoden,REP,315
@@ -335,8 +335,8 @@ Meade,BEAR BUTTE #9,Secretary of State,,Thomas A Cool,DEM,26
 Meade,BEAR BUTTE #9,Secretary of State,,Monae Johnson,REP,114
 Meade,BLACK HAWK #14,Secretary of State,,Thomas A Cool,DEM,81
 Meade,BLACK HAWK #14,Secretary of State,,Monae Johnson,REP,225
-Meade,?,Secretary of State,,Thomas A Cool,DEM,197
-Meade,?,Secretary of State,,Monae Johnson,REP,517
+Meade,CENTRAL BLACK HAWK #19,Secretary of State,,Thomas A Cool,DEM,197
+Meade,CENTRAL BLACK HAWK #19,Secretary of State,,Monae Johnson,REP,517
 Meade,CENTRAL STURGIS #3,Secretary of State,,Thomas A Cool,DEM,78
 Meade,CENTRAL STURGIS #3,Secretary of State,,Monae Johnson,REP,143
 Meade,CHALK BUTTE #27,Secretary of State,,Thomas A Cool,DEM,12
@@ -363,10 +363,10 @@ Meade,HEREFORD #20,Secretary of State,,Thomas A Cool,DEM,7
 Meade,HEREFORD #20,Secretary of State,,Monae Johnson,REP,41
 Meade,MARCUS #41,Secretary of State,,Thomas A Cool,DEM,2
 Meade,MARCUS #41,Secretary of State,,Monae Johnson,REP,31
-Meade,?,Secretary of State,,Thomas A Cool,DEM,118
-Meade,?,Secretary of State,,Monae Johnson,REP,537
-Meade,?,Secretary of State,,Thomas A Cool,DEM,46
-Meade,?,Secretary of State,,Monae Johnson,REP,81
+Meade,NORTHEAST PIEDMONT #12,Secretary of State,,Thomas A Cool,DEM,118
+Meade,NORTHEAST PIEDMONT #12,Secretary of State,,Monae Johnson,REP,537
+Meade,NORTHEAST STURGIS #1A,Secretary of State,,Thomas A Cool,DEM,46
+Meade,NORTHEAST STURGIS #1A,Secretary of State,,Monae Johnson,REP,81
 Meade,NORTHWEST STURGIS #5,Secretary of State,,Thomas A Cool,DEM,108
 Meade,NORTHWEST STURGIS #5,Secretary of State,,Monae Johnson,REP,282
 Meade,PIEDMONT CENTRAL #11A,Secretary of State,,Thomas A Cool,DEM,136
@@ -383,8 +383,8 @@ Meade,RURAL STURGIS #7,Secretary of State,,Thomas A Cool,DEM,98
 Meade,RURAL STURGIS #7,Secretary of State,,Monae Johnson,REP,316
 Meade,SOUTH STURGIS #2A,Secretary of State,,Thomas A Cool,DEM,95
 Meade,SOUTH STURGIS #2A,Secretary of State,,Monae Johnson,REP,230
-Meade,?,Secretary of State,,Thomas A Cool,DEM,200
-Meade,?,Secretary of State,,Monae Johnson,REP,576
+Meade,SOUTHEAST PIEDMONT #13,Secretary of State,,Thomas A Cool,DEM,200
+Meade,SOUTHEAST PIEDMONT #13,Secretary of State,,Monae Johnson,REP,576
 Meade,SOUTHEAST STURGIS #2,Secretary of State,,Thomas A Cool,DEM,134
 Meade,SOUTHEAST STURGIS #2,Secretary of State,,Monae Johnson,REP,312
 Meade,SOUTHWEST STURGIS #4A,Secretary of State,,Thomas A Cool,DEM,77
@@ -413,7 +413,7 @@ Meade,ALKALI #6A,Attorney General,,Marty J. Jackley,REP,127
 Meade,BASE #23,Attorney General,,Marty J. Jackley,REP,201
 Meade,BEAR BUTTE #9,Attorney General,,Marty J. Jackley,REP,129
 Meade,BLACK HAWK #14,Attorney General,,Marty J. Jackley,REP,240
-Meade,?,Attorney General,,Marty J. Jackley,REP,593
+Meade,CENTRAL BLACK HAWK #19,Attorney General,,Marty J. Jackley,REP,593
 Meade,CENTRAL STURGIS #3,Attorney General,,Marty J. Jackley,REP,185
 Meade,CHALK BUTTE #27,Attorney General,,Marty J. Jackley,REP,87
 Meade,EAST ELK VALE #21A,Attorney General,,Marty J. Jackley,REP,378
@@ -427,8 +427,8 @@ Meade,FORT MEADE #1A,Attorney General,,Marty J. Jackley,REP,19
 Meade,HARMONY #8,Attorney General,,Marty J. Jackley,REP,276
 Meade,HEREFORD #20,Attorney General,,Marty J. Jackley,REP,41
 Meade,MARCUS #41,Attorney General,,Marty J. Jackley,REP,28
-Meade,?,Attorney General,,Marty J. Jackley,REP,561
-Meade,?,Attorney General,,Marty J. Jackley,REP,93
+Meade,NORTHEAST PIEDMONT #12,Attorney General,,Marty J. Jackley,REP,561
+Meade,NORTHEAST STURGIS #1A,Attorney General,,Marty J. Jackley,REP,93
 Meade,NORTHWEST STURGIS #5,Attorney General,,Marty J. Jackley,REP,323
 Meade,PIEDMONT CENTRAL #11A,Attorney General,,Marty J. Jackley,REP,523
 Meade,PIEDMONT WEST #11,Attorney General,,Marty J. Jackley,REP,383
@@ -437,7 +437,7 @@ Meade,RED OWL #30,Attorney General,,Marty J. Jackley,REP,65
 Meade,RURAL BLACK HAWK #15,Attorney General,,Marty J. Jackley,REP,341
 Meade,RURAL STURGIS #7,Attorney General,,Marty J. Jackley,REP,362
 Meade,SOUTH STURGIS #2A,Attorney General,,Marty J. Jackley,REP,288
-Meade,?,Attorney General,,Marty J. Jackley,REP,645
+Meade,SOUTHEAST PIEDMONT #13,Attorney General,,Marty J. Jackley,REP,645
 Meade,SOUTHEAST STURGIS #2,Attorney General,,Marty J. Jackley,REP,389
 Meade,SOUTHWEST STURGIS #4A,Attorney General,,Marty J. Jackley,REP,232
 Meade,STURGIS #5A,Attorney General,,Marty J. Jackley,REP,185
@@ -462,9 +462,9 @@ Meade,BEAR BUTTE #9,State Auditor,,Richard Sattgast,REP,108
 Meade,BLACK HAWK #14,State Auditor,,Stephanie Marty,DEM,82
 Meade,BLACK HAWK #14,State Auditor,,Rene Meyer,LIB,20
 Meade,BLACK HAWK #14,State Auditor,,Richard Sattgast,REP,202
-Meade,?,State Auditor,,Stephanie Marty,DEM,171
-Meade,?,State Auditor,,Rene Meyer,LIB,52
-Meade,?,State Auditor,,Richard Sattgast,REP,479
+Meade,CENTRAL BLACK HAWK #19,State Auditor,,Stephanie Marty,DEM,171
+Meade,CENTRAL BLACK HAWK #19,State Auditor,,Rene Meyer,LIB,52
+Meade,CENTRAL BLACK HAWK #19,State Auditor,,Richard Sattgast,REP,479
 Meade,CENTRAL STURGIS #3,State Auditor,,Stephanie Marty,DEM,65
 Meade,CENTRAL STURGIS #3,State Auditor,,Rene Meyer,LIB,14
 Meade,CENTRAL STURGIS #3,State Auditor,,Richard Sattgast,REP,140
@@ -504,12 +504,12 @@ Meade,HEREFORD #20,State Auditor,,Richard Sattgast,REP,37
 Meade,MARCUS #41,State Auditor,,Stephanie Marty,DEM,0
 Meade,MARCUS #41,State Auditor,,Rene Meyer,LIB,5
 Meade,MARCUS #41,State Auditor,,Richard Sattgast,REP,27
-Meade,?,State Auditor,,Stephanie Marty,DEM,107
-Meade,?,State Auditor,,Rene Meyer,LIB,43
-Meade,?,State Auditor,,Richard Sattgast,REP,504
-Meade,?,State Auditor,,Stephanie Marty,DEM,36
-Meade,?,State Auditor,,Rene Meyer,LIB,18
-Meade,?,State Auditor,,Richard Sattgast,REP,68
+Meade,NORTHEAST PIEDMONT #12,State Auditor,,Stephanie Marty,DEM,107
+Meade,NORTHEAST PIEDMONT #12,State Auditor,,Rene Meyer,LIB,43
+Meade,NORTHEAST PIEDMONT #12,State Auditor,,Richard Sattgast,REP,504
+Meade,NORTHEAST STURGIS #1A,State Auditor,,Stephanie Marty,DEM,36
+Meade,NORTHEAST STURGIS #1A,State Auditor,,Rene Meyer,LIB,18
+Meade,NORTHEAST STURGIS #1A,State Auditor,,Richard Sattgast,REP,68
 Meade,NORTHWEST STURGIS #5,State Auditor,,Stephanie Marty,DEM,97
 Meade,NORTHWEST STURGIS #5,State Auditor,,Rene Meyer,LIB,52
 Meade,NORTHWEST STURGIS #5,State Auditor,,Richard Sattgast,REP,239
@@ -534,9 +534,9 @@ Meade,RURAL STURGIS #7,State Auditor,,Richard Sattgast,REP,300
 Meade,SOUTH STURGIS #2A,State Auditor,,Stephanie Marty,DEM,92
 Meade,SOUTH STURGIS #2A,State Auditor,,Rene Meyer,LIB,24
 Meade,SOUTH STURGIS #2A,State Auditor,,Richard Sattgast,REP,209
-Meade,?,State Auditor,,Stephanie Marty,DEM,175
-Meade,?,State Auditor,,Rene Meyer,LIB,65
-Meade,?,State Auditor,,Richard Sattgast,REP,536
+Meade,SOUTHEAST PIEDMONT #13,State Auditor,,Stephanie Marty,DEM,175
+Meade,SOUTHEAST PIEDMONT #13,State Auditor,,Rene Meyer,LIB,65
+Meade,SOUTHEAST PIEDMONT #13,State Auditor,,Richard Sattgast,REP,536
 Meade,SOUTHEAST STURGIS #2,State Auditor,,Stephanie Marty,DEM,104
 Meade,SOUTHEAST STURGIS #2,State Auditor,,Rene Meyer,LIB,33
 Meade,SOUTHEAST STURGIS #2,State Auditor,,Richard Sattgast,REP,313
@@ -581,8 +581,8 @@ Meade,BEAR BUTTE #9,State Treasurer,,John Cunningham,DEM,25
 Meade,BEAR BUTTE #9,State Treasurer,,Josh Haeder,REP,116
 Meade,BLACK HAWK #14,State Treasurer,,John Cunningham,DEM,87
 Meade,BLACK HAWK #14,State Treasurer,,Josh Haeder,REP,216
-Meade,?,State Treasurer,,John Cunningham,DEM,192
-Meade,?,State Treasurer,,Josh Haeder,REP,506
+Meade,CENTRAL BLACK HAWK #19,State Treasurer,,John Cunningham,DEM,192
+Meade,CENTRAL BLACK HAWK #19,State Treasurer,,Josh Haeder,REP,506
 Meade,CENTRAL STURGIS #3,State Treasurer,,John Cunningham,DEM,70
 Meade,CENTRAL STURGIS #3,State Treasurer,,Josh Haeder,REP,147
 Meade,CHALK BUTTE #27,State Treasurer,,John Cunningham,DEM,13
@@ -609,10 +609,10 @@ Meade,HEREFORD #20,State Treasurer,,John Cunningham,DEM,7
 Meade,HEREFORD #20,State Treasurer,,Josh Haeder,REP,39
 Meade,MARCUS #41,State Treasurer,,John Cunningham,DEM,2
 Meade,MARCUS #41,State Treasurer,,Josh Haeder,REP,29
-Meade,?,State Treasurer,,John Cunningham,DEM,106
-Meade,?,State Treasurer,,Josh Haeder,REP,547
-Meade,?,State Treasurer,,John Cunningham,DEM,44
-Meade,?,State Treasurer,,Josh Haeder,REP,77
+Meade,NORTHEAST PIEDMONT #12,State Treasurer,,John Cunningham,DEM,106
+Meade,NORTHEAST PIEDMONT #12,State Treasurer,,Josh Haeder,REP,547
+Meade,NORTHEAST STURGIS #1A,State Treasurer,,John Cunningham,DEM,44
+Meade,NORTHEAST STURGIS #1A,State Treasurer,,Josh Haeder,REP,77
 Meade,NORTHWEST STURGIS #5,State Treasurer,,John Cunningham,DEM,106
 Meade,NORTHWEST STURGIS #5,State Treasurer,,Josh Haeder,REP,276
 Meade,PIEDMONT CENTRAL #11A,State Treasurer,,John Cunningham,DEM,124
@@ -629,8 +629,8 @@ Meade,RURAL STURGIS #7,State Treasurer,,John Cunningham,DEM,88
 Meade,RURAL STURGIS #7,State Treasurer,,Josh Haeder,REP,328
 Meade,SOUTH STURGIS #2A,State Treasurer,,John Cunningham,DEM,93
 Meade,SOUTH STURGIS #2A,State Treasurer,,Josh Haeder,REP,231
-Meade,?,State Treasurer,,John Cunningham,DEM,185
-Meade,?,State Treasurer,,Josh Haeder,REP,582
+Meade,SOUTHEAST PIEDMONT #13,State Treasurer,,John Cunningham,DEM,185
+Meade,SOUTHEAST PIEDMONT #13,State Treasurer,,Josh Haeder,REP,582
 Meade,SOUTHEAST STURGIS #2,State Treasurer,,John Cunningham,DEM,119
 Meade,SOUTHEAST STURGIS #2,State Treasurer,,Josh Haeder,REP,319
 Meade,SOUTHWEST STURGIS #4A,State Treasurer,,John Cunningham,DEM,76
@@ -663,8 +663,8 @@ Meade,BEAR BUTTE #9,Commissioner of School and Public Lands,,Timothy Azure,DEM,3
 Meade,BEAR BUTTE #9,Commissioner of School and Public Lands,,Brock Greenfield,REP,111
 Meade,BLACK HAWK #14,Commissioner of School and Public Lands,,Timothy Azure,DEM,81
 Meade,BLACK HAWK #14,Commissioner of School and Public Lands,,Brock Greenfield,REP,218
-Meade,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,177
-Meade,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,503
+Meade,CENTRAL BLACK HAWK #19,Commissioner of School and Public Lands,,Timothy Azure,DEM,177
+Meade,CENTRAL BLACK HAWK #19,Commissioner of School and Public Lands,,Brock Greenfield,REP,503
 Meade,CENTRAL STURGIS #3,Commissioner of School and Public Lands,,Timothy Azure,DEM,73
 Meade,CENTRAL STURGIS #3,Commissioner of School and Public Lands,,Brock Greenfield,REP,143
 Meade,CHALK BUTTE #27,Commissioner of School and Public Lands,,Timothy Azure,DEM,13
@@ -691,10 +691,10 @@ Meade,HEREFORD #20,Commissioner of School and Public Lands,,Timothy Azure,DEM,7
 Meade,HEREFORD #20,Commissioner of School and Public Lands,,Brock Greenfield,REP,41
 Meade,MARCUS #41,Commissioner of School and Public Lands,,Timothy Azure,DEM,3
 Meade,MARCUS #41,Commissioner of School and Public Lands,,Brock Greenfield,REP,29
-Meade,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,109
-Meade,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,542
-Meade,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,40
-Meade,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,82
+Meade,NORTHEAST PIEDMONT #12,Commissioner of School and Public Lands,,Timothy Azure,DEM,109
+Meade,NORTHEAST PIEDMONT #12,Commissioner of School and Public Lands,,Brock Greenfield,REP,542
+Meade,NORTHEAST STURGIS #1A,Commissioner of School and Public Lands,,Timothy Azure,DEM,40
+Meade,NORTHEAST STURGIS #1A,Commissioner of School and Public Lands,,Brock Greenfield,REP,82
 Meade,NORTHWEST STURGIS #5,Commissioner of School and Public Lands,,Timothy Azure,DEM,103
 Meade,NORTHWEST STURGIS #5,Commissioner of School and Public Lands,,Brock Greenfield,REP,274
 Meade,PIEDMONT CENTRAL #11A,Commissioner of School and Public Lands,,Timothy Azure,DEM,135
@@ -711,8 +711,8 @@ Meade,RURAL STURGIS #7,Commissioner of School and Public Lands,,Timothy Azure,DE
 Meade,RURAL STURGIS #7,Commissioner of School and Public Lands,,Brock Greenfield,REP,313
 Meade,SOUTH STURGIS #2A,Commissioner of School and Public Lands,,Timothy Azure,DEM,94
 Meade,SOUTH STURGIS #2A,Commissioner of School and Public Lands,,Brock Greenfield,REP,226
-Meade,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,183
-Meade,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,576
+Meade,SOUTHEAST PIEDMONT #13,Commissioner of School and Public Lands,,Timothy Azure,DEM,183
+Meade,SOUTHEAST PIEDMONT #13,Commissioner of School and Public Lands,,Brock Greenfield,REP,576
 Meade,SOUTHEAST STURGIS #2,Commissioner of School and Public Lands,,Timothy Azure,DEM,123
 Meade,SOUTHEAST STURGIS #2,Commissioner of School and Public Lands,,Brock Greenfield,REP,313
 Meade,SOUTHWEST STURGIS #4A,Commissioner of School and Public Lands,,Timothy Azure,DEM,77
@@ -745,8 +745,8 @@ Meade,BEAR BUTTE #9,Public Utilities Commissioner,,Jeffrey Barth,DEM,29
 Meade,BEAR BUTTE #9,Public Utilities Commissioner,,Chris Nelson,REP,113
 Meade,BLACK HAWK #14,Public Utilities Commissioner,,Jeffrey Barth,DEM,71
 Meade,BLACK HAWK #14,Public Utilities Commissioner,,Chris Nelson,REP,226
-Meade,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,170
-Meade,?,Public Utilities Commissioner,,Chris Nelson,REP,528
+Meade,CENTRAL BLACK HAWK #19,Public Utilities Commissioner,,Jeffrey Barth,DEM,170
+Meade,CENTRAL BLACK HAWK #19,Public Utilities Commissioner,,Chris Nelson,REP,528
 Meade,CENTRAL STURGIS #3,Public Utilities Commissioner,,Jeffrey Barth,DEM,59
 Meade,CENTRAL STURGIS #3,Public Utilities Commissioner,,Chris Nelson,REP,156
 Meade,CHALK BUTTE #27,Public Utilities Commissioner,,Jeffrey Barth,DEM,13
@@ -773,10 +773,10 @@ Meade,HEREFORD #20,Public Utilities Commissioner,,Jeffrey Barth,DEM,7
 Meade,HEREFORD #20,Public Utilities Commissioner,,Chris Nelson,REP,41
 Meade,MARCUS #41,Public Utilities Commissioner,,Jeffrey Barth,DEM,6
 Meade,MARCUS #41,Public Utilities Commissioner,,Chris Nelson,REP,29
-Meade,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,104
-Meade,?,Public Utilities Commissioner,,Chris Nelson,REP,551
-Meade,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,39
-Meade,?,Public Utilities Commissioner,,Chris Nelson,REP,84
+Meade,NORTHEAST PIEDMONT #12,Public Utilities Commissioner,,Jeffrey Barth,DEM,104
+Meade,NORTHEAST PIEDMONT #12,Public Utilities Commissioner,,Chris Nelson,REP,551
+Meade,NORTHEAST STURGIS #1A,Public Utilities Commissioner,,Jeffrey Barth,DEM,39
+Meade,NORTHEAST STURGIS #1A,Public Utilities Commissioner,,Chris Nelson,REP,84
 Meade,NORTHWEST STURGIS #5,Public Utilities Commissioner,,Jeffrey Barth,DEM,105
 Meade,NORTHWEST STURGIS #5,Public Utilities Commissioner,,Chris Nelson,REP,277
 Meade,PIEDMONT CENTRAL #11A,Public Utilities Commissioner,,Jeffrey Barth,DEM,124
@@ -793,8 +793,8 @@ Meade,RURAL STURGIS #7,Public Utilities Commissioner,,Jeffrey Barth,DEM,82
 Meade,RURAL STURGIS #7,Public Utilities Commissioner,,Chris Nelson,REP,328
 Meade,SOUTH STURGIS #2A,Public Utilities Commissioner,,Jeffrey Barth,DEM,86
 Meade,SOUTH STURGIS #2A,Public Utilities Commissioner,,Chris Nelson,REP,240
-Meade,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,174
-Meade,?,Public Utilities Commissioner,,Chris Nelson,REP,598
+Meade,SOUTHEAST PIEDMONT #13,Public Utilities Commissioner,,Jeffrey Barth,DEM,174
+Meade,SOUTHEAST PIEDMONT #13,Public Utilities Commissioner,,Chris Nelson,REP,598
 Meade,SOUTHEAST STURGIS #2,Public Utilities Commissioner,,Jeffrey Barth,DEM,120
 Meade,SOUTHEAST STURGIS #2,Public Utilities Commissioner,,Chris Nelson,REP,332
 Meade,SOUTHWEST STURGIS #4A,Public Utilities Commissioner,,Jeffrey Barth,DEM,68
@@ -823,7 +823,7 @@ Meade,ALKALI #6A,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. St
 Meade,BASE #23,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,131
 Meade,BEAR BUTTE #9,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,63
 Meade,BLACK HAWK #14,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,128
-Meade,?,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,343
+Meade,CENTRAL BLACK HAWK #19,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,343
 Meade,CENTRAL STURGIS #3,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,98
 Meade,CHALK BUTTE #27,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,42
 Meade,EAST ELK VALE #21A,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,208
@@ -837,8 +837,8 @@ Meade,FORT MEADE #1A,Judge of the Circuit Court,Position A Fourth Circuit,Eric J
 Meade,HARMONY #8,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,157
 Meade,HEREFORD #20,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,13
 Meade,MARCUS #41,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,8
-Meade,?,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,302
-Meade,?,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,63
+Meade,NORTHEAST PIEDMONT #12,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,302
+Meade,NORTHEAST STURGIS #1A,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,63
 Meade,NORTHWEST STURGIS #5,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,193
 Meade,PIEDMONT CENTRAL #11A,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,275
 Meade,PIEDMONT WEST #11,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,219
@@ -847,7 +847,7 @@ Meade,RED OWL #30,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. S
 Meade,RURAL BLACK HAWK #15,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,187
 Meade,RURAL STURGIS #7,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,208
 Meade,SOUTH STURGIS #2A,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,179
-Meade,?,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,354
+Meade,SOUTHEAST PIEDMONT #13,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,354
 Meade,SOUTHEAST STURGIS #2,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,226
 Meade,SOUTHWEST STURGIS #4A,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,140
 Meade,STURGIS #5A,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,107
@@ -864,7 +864,7 @@ Meade,ALKALI #6A,Judge of the Circuit Court,Position B Fourth Circuit,Michael W.
 Meade,BASE #23,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,128
 Meade,BEAR BUTTE #9,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,66
 Meade,BLACK HAWK #14,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,115
-Meade,?,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,352
+Meade,CENTRAL BLACK HAWK #19,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,352
 Meade,CENTRAL STURGIS #3,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,95
 Meade,CHALK BUTTE #27,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,44
 Meade,EAST ELK VALE #21A,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,208
@@ -878,8 +878,8 @@ Meade,FORT MEADE #1A,Judge of the Circuit Court,Position B Fourth Circuit,Michae
 Meade,HARMONY #8,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,152
 Meade,HEREFORD #20,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,14
 Meade,MARCUS #41,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,8
-Meade,?,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,301
-Meade,?,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,65
+Meade,NORTHEAST PIEDMONT #12,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,301
+Meade,NORTHEAST STURGIS #1A,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,65
 Meade,NORTHWEST STURGIS #5,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,193
 Meade,PIEDMONT CENTRAL #11A,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,269
 Meade,PIEDMONT WEST #11,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,219
@@ -888,7 +888,7 @@ Meade,RED OWL #30,Judge of the Circuit Court,Position B Fourth Circuit,Michael W
 Meade,RURAL BLACK HAWK #15,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,190
 Meade,RURAL STURGIS #7,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,207
 Meade,SOUTH STURGIS #2A,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,176
-Meade,?,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,349
+Meade,SOUTHEAST PIEDMONT #13,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,349
 Meade,SOUTHEAST STURGIS #2,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,219
 Meade,SOUTHWEST STURGIS #4A,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,133
 Meade,STURGIS #5A,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,111
@@ -905,7 +905,7 @@ Meade,ALKALI #6A,Judge of the Circuit Court,Position C Fourth Circuit,Michelle P
 Meade,BASE #23,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,129
 Meade,BEAR BUTTE #9,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,64
 Meade,BLACK HAWK #14,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,125
-Meade,?,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,341
+Meade,CENTRAL BLACK HAWK #19,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,341
 Meade,CENTRAL STURGIS #3,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,93
 Meade,CHALK BUTTE #27,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,43
 Meade,EAST ELK VALE #21A,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,212
@@ -919,8 +919,8 @@ Meade,FORT MEADE #1A,Judge of the Circuit Court,Position C Fourth Circuit,Michel
 Meade,HARMONY #8,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,155
 Meade,HEREFORD #20,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,15
 Meade,MARCUS #41,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,7
-Meade,?,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,306
-Meade,?,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,63
+Meade,NORTHEAST PIEDMONT #12,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,306
+Meade,NORTHEAST STURGIS #1A,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,63
 Meade,NORTHWEST STURGIS #5,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,191
 Meade,PIEDMONT CENTRAL #11A,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,269
 Meade,PIEDMONT WEST #11,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,220
@@ -929,7 +929,7 @@ Meade,RED OWL #30,Judge of the Circuit Court,Position C Fourth Circuit,Michelle 
 Meade,RURAL BLACK HAWK #15,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,183
 Meade,RURAL STURGIS #7,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,207
 Meade,SOUTH STURGIS #2A,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,178
-Meade,?,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,349
+Meade,SOUTHEAST PIEDMONT #13,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,349
 Meade,SOUTHEAST STURGIS #2,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,221
 Meade,SOUTHWEST STURGIS #4A,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,131
 Meade,STURGIS #5A,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,105
@@ -962,11 +962,11 @@ Meade,BLACK HAWK #14,Judge of the Circuit Court,Position D Fourth Circuit,Chad R
 Meade,BLACK HAWK #14,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,29
 Meade,BLACK HAWK #14,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,86
 Meade,BLACK HAWK #14,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,32
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,56
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,104
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,76
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,153
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,119
+Meade,CENTRAL BLACK HAWK #19,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,56
+Meade,CENTRAL BLACK HAWK #19,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,104
+Meade,CENTRAL BLACK HAWK #19,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,76
+Meade,CENTRAL BLACK HAWK #19,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,153
+Meade,CENTRAL BLACK HAWK #19,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,119
 Meade,CENTRAL STURGIS #3,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,19
 Meade,CENTRAL STURGIS #3,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,52
 Meade,CENTRAL STURGIS #3,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,19
@@ -1032,16 +1032,16 @@ Meade,MARCUS #41,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Ca
 Meade,MARCUS #41,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,2
 Meade,MARCUS #41,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,7
 Meade,MARCUS #41,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,3
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,38
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,58
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,77
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,139
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,77
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,28
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,21
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,6
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,20
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,11
+Meade,NORTHEAST PIEDMONT #12,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,38
+Meade,NORTHEAST PIEDMONT #12,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,58
+Meade,NORTHEAST PIEDMONT #12,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,77
+Meade,NORTHEAST PIEDMONT #12,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,139
+Meade,NORTHEAST PIEDMONT #12,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,77
+Meade,NORTHEAST STURGIS #1A,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,28
+Meade,NORTHEAST STURGIS #1A,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,21
+Meade,NORTHEAST STURGIS #1A,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,6
+Meade,NORTHEAST STURGIS #1A,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,20
+Meade,NORTHEAST STURGIS #1A,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,11
 Meade,NORTHWEST STURGIS #5,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,60
 Meade,NORTHWEST STURGIS #5,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,61
 Meade,NORTHWEST STURGIS #5,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,27
@@ -1082,11 +1082,11 @@ Meade,SOUTH STURGIS #2A,Judge of the Circuit Court,Position D Fourth Circuit,Cha
 Meade,SOUTH STURGIS #2A,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,20
 Meade,SOUTH STURGIS #2A,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,83
 Meade,SOUTH STURGIS #2A,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,46
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,93
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,74
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,86
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,144
-Meade,?,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,84
+Meade,SOUTHEAST PIEDMONT #13,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,93
+Meade,SOUTHEAST PIEDMONT #13,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,74
+Meade,SOUTHEAST PIEDMONT #13,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,86
+Meade,SOUTHEAST PIEDMONT #13,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,144
+Meade,SOUTHEAST PIEDMONT #13,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,84
 Meade,SOUTHEAST STURGIS #2,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,51
 Meade,SOUTHEAST STURGIS #2,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,122
 Meade,SOUTHEAST STURGIS #2,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,30
@@ -1155,8 +1155,8 @@ Meade,BEAR BUTTE #9,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,89
 Meade,BEAR BUTTE #9,Supreme Court Retention,3,Patricia J. DeVaney - No,,32
 Meade,BLACK HAWK #14,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,202
 Meade,BLACK HAWK #14,Supreme Court Retention,3,Patricia J. DeVaney - No,,64
-Meade,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,496
-Meade,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,141
+Meade,CENTRAL BLACK HAWK #19,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,496
+Meade,CENTRAL BLACK HAWK #19,Supreme Court Retention,3,Patricia J. DeVaney - No,,141
 Meade,CENTRAL STURGIS #3,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,144
 Meade,CENTRAL STURGIS #3,Supreme Court Retention,3,Patricia J. DeVaney - No,,47
 Meade,CHALK BUTTE #27,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,61
@@ -1183,10 +1183,10 @@ Meade,HEREFORD #20,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,25
 Meade,HEREFORD #20,Supreme Court Retention,3,Patricia J. DeVaney - No,,14
 Meade,MARCUS #41,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,22
 Meade,MARCUS #41,Supreme Court Retention,3,Patricia J. DeVaney - No,,4
-Meade,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,449
-Meade,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,112
-Meade,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,75
-Meade,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,39
+Meade,NORTHEAST PIEDMONT #12,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,449
+Meade,NORTHEAST PIEDMONT #12,Supreme Court Retention,3,Patricia J. DeVaney - No,,112
+Meade,NORTHEAST STURGIS #1A,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,75
+Meade,NORTHEAST STURGIS #1A,Supreme Court Retention,3,Patricia J. DeVaney - No,,39
 Meade,NORTHWEST STURGIS #5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,278
 Meade,NORTHWEST STURGIS #5,Supreme Court Retention,3,Patricia J. DeVaney - No,,79
 Meade,PIEDMONT CENTRAL #11A,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,438
@@ -1203,8 +1203,8 @@ Meade,RURAL STURGIS #7,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,296
 Meade,RURAL STURGIS #7,Supreme Court Retention,3,Patricia J. DeVaney - No,,65
 Meade,SOUTH STURGIS #2A,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,232
 Meade,SOUTH STURGIS #2A,Supreme Court Retention,3,Patricia J. DeVaney - No,,52
-Meade,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,529
-Meade,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,160
+Meade,SOUTHEAST PIEDMONT #13,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,529
+Meade,SOUTHEAST PIEDMONT #13,Supreme Court Retention,3,Patricia J. DeVaney - No,,160
 Meade,SOUTHEAST STURGIS #2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,318
 Meade,SOUTHEAST STURGIS #2,Supreme Court Retention,3,Patricia J. DeVaney - No,,83
 Meade,SOUTHWEST STURGIS #4A,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,185
@@ -1237,8 +1237,8 @@ Meade,BEAR BUTTE #9,Supreme Court Retention,2,Mark E. Salter - Yes,,88
 Meade,BEAR BUTTE #9,Supreme Court Retention,2,Mark E. Salter - No,,33
 Meade,BLACK HAWK #14,Supreme Court Retention,2,Mark E. Salter - Yes,,201
 Meade,BLACK HAWK #14,Supreme Court Retention,2,Mark E. Salter - No,,63
-Meade,?,Supreme Court Retention,2,Mark E. Salter - Yes,,487
-Meade,?,Supreme Court Retention,2,Mark E. Salter - No,,145
+Meade,CENTRAL BLACK HAWK #19,Supreme Court Retention,2,Mark E. Salter - Yes,,487
+Meade,CENTRAL BLACK HAWK #19,Supreme Court Retention,2,Mark E. Salter - No,,145
 Meade,CENTRAL STURGIS #3,Supreme Court Retention,2,Mark E. Salter - Yes,,143
 Meade,CENTRAL STURGIS #3,Supreme Court Retention,2,Mark E. Salter - No,,44
 Meade,CHALK BUTTE #27,Supreme Court Retention,2,Mark E. Salter - Yes,,56
@@ -1265,10 +1265,10 @@ Meade,HEREFORD #20,Supreme Court Retention,2,Mark E. Salter - Yes,,26
 Meade,HEREFORD #20,Supreme Court Retention,2,Mark E. Salter - No,,13
 Meade,MARCUS #41,Supreme Court Retention,2,Mark E. Salter - Yes,,21
 Meade,MARCUS #41,Supreme Court Retention,2,Mark E. Salter - No,,3
-Meade,?,Supreme Court Retention,2,Mark E. Salter - Yes,,429
-Meade,?,Supreme Court Retention,2,Mark E. Salter - No,,127
-Meade,?,Supreme Court Retention,2,Mark E. Salter - Yes,,74
-Meade,?,Supreme Court Retention,2,Mark E. Salter - No,,40
+Meade,NORTHEAST PIEDMONT #12,Supreme Court Retention,2,Mark E. Salter - Yes,,429
+Meade,NORTHEAST PIEDMONT #12,Supreme Court Retention,2,Mark E. Salter - No,,127
+Meade,NORTHEAST STURGIS #1A,Supreme Court Retention,2,Mark E. Salter - Yes,,74
+Meade,NORTHEAST STURGIS #1A,Supreme Court Retention,2,Mark E. Salter - No,,40
 Meade,NORTHWEST STURGIS #5,Supreme Court Retention,2,Mark E. Salter - Yes,,269
 Meade,NORTHWEST STURGIS #5,Supreme Court Retention,2,Mark E. Salter - No,,84
 Meade,PIEDMONT CENTRAL #11A,Supreme Court Retention,2,Mark E. Salter - Yes,,424
@@ -1285,8 +1285,8 @@ Meade,RURAL STURGIS #7,Supreme Court Retention,2,Mark E. Salter - Yes,,296
 Meade,RURAL STURGIS #7,Supreme Court Retention,2,Mark E. Salter - No,,61
 Meade,SOUTH STURGIS #2A,Supreme Court Retention,2,Mark E. Salter - Yes,,236
 Meade,SOUTH STURGIS #2A,Supreme Court Retention,2,Mark E. Salter - No,,50
-Meade,?,Supreme Court Retention,2,Mark E. Salter - Yes,,526
-Meade,?,Supreme Court Retention,2,Mark E. Salter - No,,158
+Meade,SOUTHEAST PIEDMONT #13,Supreme Court Retention,2,Mark E. Salter - Yes,,526
+Meade,SOUTHEAST PIEDMONT #13,Supreme Court Retention,2,Mark E. Salter - No,,158
 Meade,SOUTHEAST STURGIS #2,Supreme Court Retention,2,Mark E. Salter - Yes,,311
 Meade,SOUTHEAST STURGIS #2,Supreme Court Retention,2,Mark E. Salter - No,,84
 Meade,SOUTHWEST STURGIS #4A,Supreme Court Retention,2,Mark E. Salter - Yes,,186
@@ -1319,8 +1319,8 @@ Meade,BEAR BUTTE #9,Constitutional Amendment D,,Yes,,59
 Meade,BEAR BUTTE #9,Constitutional Amendment D,,No,,94
 Meade,BLACK HAWK #14,Constitutional Amendment D,,Yes,,169
 Meade,BLACK HAWK #14,Constitutional Amendment D,,No,,142
-Meade,?,Constitutional Amendment D,,Yes,,410
-Meade,?,Constitutional Amendment D,,No,,326
+Meade,CENTRAL BLACK HAWK #19,Constitutional Amendment D,,Yes,,410
+Meade,CENTRAL BLACK HAWK #19,Constitutional Amendment D,,No,,326
 Meade,CENTRAL STURGIS #3,Constitutional Amendment D,,Yes,,131
 Meade,CENTRAL STURGIS #3,Constitutional Amendment D,,No,,93
 Meade,CHALK BUTTE #27,Constitutional Amendment D,,Yes,,29
@@ -1347,10 +1347,10 @@ Meade,HEREFORD #20,Constitutional Amendment D,,Yes,,22
 Meade,HEREFORD #20,Constitutional Amendment D,,No,,29
 Meade,MARCUS #41,Constitutional Amendment D,,Yes,,9
 Meade,MARCUS #41,Constitutional Amendment D,,No,,37
-Meade,?,Constitutional Amendment D,,Yes,,271
-Meade,?,Constitutional Amendment D,,No,,394
-Meade,?,Constitutional Amendment D,,Yes,,77
-Meade,?,Constitutional Amendment D,,No,,55
+Meade,NORTHEAST PIEDMONT #12,Constitutional Amendment D,,Yes,,271
+Meade,NORTHEAST PIEDMONT #12,Constitutional Amendment D,,No,,394
+Meade,NORTHEAST STURGIS #1A,Constitutional Amendment D,,Yes,,77
+Meade,NORTHEAST STURGIS #1A,Constitutional Amendment D,,No,,55
 Meade,NORTHWEST STURGIS #5,Constitutional Amendment D,,Yes,,259
 Meade,NORTHWEST STURGIS #5,Constitutional Amendment D,,No,,150
 Meade,PIEDMONT CENTRAL #11A,Constitutional Amendment D,,Yes,,344
@@ -1367,8 +1367,8 @@ Meade,RURAL STURGIS #7,Constitutional Amendment D,,Yes,,217
 Meade,RURAL STURGIS #7,Constitutional Amendment D,,No,,215
 Meade,SOUTH STURGIS #2A,Constitutional Amendment D,,Yes,,186
 Meade,SOUTH STURGIS #2A,Constitutional Amendment D,,No,,151
-Meade,?,Constitutional Amendment D,,Yes,,404
-Meade,?,Constitutional Amendment D,,No,,398
+Meade,SOUTHEAST PIEDMONT #13,Constitutional Amendment D,,Yes,,404
+Meade,SOUTHEAST PIEDMONT #13,Constitutional Amendment D,,No,,398
 Meade,SOUTHEAST STURGIS #2,Constitutional Amendment D,,Yes,,234
 Meade,SOUTHEAST STURGIS #2,Constitutional Amendment D,,No,,235
 Meade,SOUTHWEST STURGIS #4A,Constitutional Amendment D,,Yes,,150
@@ -1401,8 +1401,8 @@ Meade,BEAR BUTTE #9,Initiated Measure 27,,Yes,,33
 Meade,BEAR BUTTE #9,Initiated Measure 27,,No,,125
 Meade,BLACK HAWK #14,Initiated Measure 27,,Yes,,163
 Meade,BLACK HAWK #14,Initiated Measure 27,,No,,158
-Meade,?,Initiated Measure 27,,Yes,,375
-Meade,?,Initiated Measure 27,,No,,368
+Meade,CENTRAL BLACK HAWK #19,Initiated Measure 27,,Yes,,375
+Meade,CENTRAL BLACK HAWK #19,Initiated Measure 27,,No,,368
 Meade,CENTRAL STURGIS #3,Initiated Measure 27,,Yes,,130
 Meade,CENTRAL STURGIS #3,Initiated Measure 27,,No,,99
 Meade,CHALK BUTTE #27,Initiated Measure 27,,Yes,,17
@@ -1429,10 +1429,10 @@ Meade,HEREFORD #20,Initiated Measure 27,,Yes,,10
 Meade,HEREFORD #20,Initiated Measure 27,,No,,42
 Meade,MARCUS #41,Initiated Measure 27,,Yes,,14
 Meade,MARCUS #41,Initiated Measure 27,,No,,32
-Meade,?,Initiated Measure 27,,Yes,,262
-Meade,?,Initiated Measure 27,,No,,412
-Meade,?,Initiated Measure 27,,Yes,,89
-Meade,?,Initiated Measure 27,,No,,44
+Meade,NORTHEAST PIEDMONT #12,Initiated Measure 27,,Yes,,262
+Meade,NORTHEAST PIEDMONT #12,Initiated Measure 27,,No,,412
+Meade,NORTHEAST STURGIS #1A,Initiated Measure 27,,Yes,,89
+Meade,NORTHEAST STURGIS #1A,Initiated Measure 27,,No,,44
 Meade,NORTHWEST STURGIS #5,Initiated Measure 27,,Yes,,267
 Meade,NORTHWEST STURGIS #5,Initiated Measure 27,,No,,152
 Meade,PIEDMONT CENTRAL #11A,Initiated Measure 27,,Yes,,324
@@ -1449,8 +1449,8 @@ Meade,RURAL STURGIS #7,Initiated Measure 27,,Yes,,180
 Meade,RURAL STURGIS #7,Initiated Measure 27,,No,,260
 Meade,SOUTH STURGIS #2A,Initiated Measure 27,,Yes,,166
 Meade,SOUTH STURGIS #2A,Initiated Measure 27,,No,,178
-Meade,?,Initiated Measure 27,,Yes,,374
-Meade,?,Initiated Measure 27,,No,,438
+Meade,SOUTHEAST PIEDMONT #13,Initiated Measure 27,,Yes,,374
+Meade,SOUTHEAST PIEDMONT #13,Initiated Measure 27,,No,,438
 Meade,SOUTHEAST STURGIS #2,Initiated Measure 27,,Yes,,203
 Meade,SOUTHEAST STURGIS #2,Initiated Measure 27,,No,,274
 Meade,SOUTHWEST STURGIS #4A,Initiated Measure 27,,Yes,,119

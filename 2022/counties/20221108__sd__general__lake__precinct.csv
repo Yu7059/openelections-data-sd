@@ -2,12 +2,12 @@ county,precinct,office,district,candidate,party,votes
 Lake,Chester-Franklin,U.S. Senate,,Brian L. Bengs,DEM,82
 Lake,Chester-Franklin,U.S. Senate,,Tamara J Lesnar,LIB,18
 Lake,Chester-Franklin,U.S. Senate,,John R. Thune,REP,363
-Lake,?,U.S. Senate,,Brian L. Bengs,DEM,43
-Lake,?,U.S. Senate,,Tamara J Lesnar,LIB,6
-Lake,?,U.S. Senate,,John R. Thune,REP,178
-Lake,?,U.S. Senate,,Brian L. Bengs,DEM,57
-Lake,?,U.S. Senate,,Tamara J Lesnar,LIB,12
-Lake,?,U.S. Senate,,John R. Thune,REP,248
+Lake,Concord-Badus-Wayne/Ramona,U.S. Senate,,Brian L. Bengs,DEM,43
+Lake,Concord-Badus-Wayne/Ramona,U.S. Senate,,Tamara J Lesnar,LIB,6
+Lake,Concord-Badus-Wayne/Ramona,U.S. Senate,,John R. Thune,REP,178
+Lake,Farmington-Leroy-Clarno-Orland,U.S. Senate,,Brian L. Bengs,DEM,57
+Lake,Farmington-Leroy-Clarno-Orland,U.S. Senate,,Tamara J Lesnar,LIB,12
+Lake,Farmington-Leroy-Clarno-Orland,U.S. Senate,,John R. Thune,REP,248
 Lake,Herman-Winfred,U.S. Senate,,Brian L. Bengs,DEM,88
 Lake,Herman-Winfred,U.S. Senate,,Tamara J Lesnar,LIB,10
 Lake,Herman-Winfred,U.S. Senate,,John R. Thune,REP,320
@@ -31,10 +31,10 @@ Lake,Wentworth-Rutland,U.S. Senate,,Tamara J Lesnar,LIB,12
 Lake,Wentworth-Rutland,U.S. Senate,,John R. Thune,REP,366
 Lake,Chester-Franklin,U.S. House,1,Collin Duprel,LIB,78
 Lake,Chester-Franklin,U.S. House,1,Dusty Johnson,REP,365
-Lake,?,U.S. House,1,Collin Duprel,LIB,32
-Lake,?,U.S. House,1,Dusty Johnson,REP,185
-Lake,?,U.S. House,1,Collin Duprel,LIB,46
-Lake,?,U.S. House,1,Dusty Johnson,REP,254
+Lake,Concord-Badus-Wayne/Ramona,U.S. House,1,Collin Duprel,LIB,32
+Lake,Concord-Badus-Wayne/Ramona,U.S. House,1,Dusty Johnson,REP,185
+Lake,Farmington-Leroy-Clarno-Orland,U.S. House,1,Collin Duprel,LIB,46
+Lake,Farmington-Leroy-Clarno-Orland,U.S. House,1,Dusty Johnson,REP,254
 Lake,Herman-Winfred,U.S. House,1,Collin Duprel,LIB,55
 Lake,Herman-Winfred,U.S. House,1,Dusty Johnson,REP,345
 Lake,Lakeview,U.S. House,1,Collin Duprel,LIB,74
@@ -52,12 +52,12 @@ Lake,Wentworth-Rutland,U.S. House,1,Dusty Johnson,REP,387
 Lake,Chester-Franklin,Governor,,Jamie Smith and Jennifer Keintz,DEM,130
 Lake,Chester-Franklin,Governor,,Tracey Quint and Ashley Strand,LIB,5
 Lake,Chester-Franklin,Governor,,Kristi Noem and Larry Rhoden,REP,335
-Lake,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,63
-Lake,?,Governor,,Tracey Quint and Ashley Strand,LIB,2
-Lake,?,Governor,,Kristi Noem and Larry Rhoden,REP,166
-Lake,?,Governor,,Jamie Smith and Jennifer Keintz,DEM,78
-Lake,?,Governor,,Tracey Quint and Ashley Strand,LIB,10
-Lake,?,Governor,,Kristi Noem and Larry Rhoden,REP,228
+Lake,Concord-Badus-Wayne/Ramona,Governor,,Jamie Smith and Jennifer Keintz,DEM,63
+Lake,Concord-Badus-Wayne/Ramona,Governor,,Tracey Quint and Ashley Strand,LIB,2
+Lake,Concord-Badus-Wayne/Ramona,Governor,,Kristi Noem and Larry Rhoden,REP,166
+Lake,Farmington-Leroy-Clarno-Orland,Governor,,Jamie Smith and Jennifer Keintz,DEM,78
+Lake,Farmington-Leroy-Clarno-Orland,Governor,,Tracey Quint and Ashley Strand,LIB,10
+Lake,Farmington-Leroy-Clarno-Orland,Governor,,Kristi Noem and Larry Rhoden,REP,228
 Lake,Herman-Winfred,Governor,,Jamie Smith and Jennifer Keintz,DEM,135
 Lake,Herman-Winfred,Governor,,Tracey Quint and Ashley Strand,LIB,10
 Lake,Herman-Winfred,Governor,,Kristi Noem and Larry Rhoden,REP,275
@@ -81,10 +81,10 @@ Lake,Wentworth-Rutland,Governor,,Tracey Quint and Ashley Strand,LIB,10
 Lake,Wentworth-Rutland,Governor,,Kristi Noem and Larry Rhoden,REP,338
 Lake,Chester-Franklin,Secretary of State,,Thomas A Cool,DEM,129
 Lake,Chester-Franklin,Secretary of State,,Monae Johnson,REP,315
-Lake,?,Secretary of State,,Thomas A Cool,DEM,68
-Lake,?,Secretary of State,,Monae Johnson,REP,152
-Lake,?,Secretary of State,,Thomas A Cool,DEM,80
-Lake,?,Secretary of State,,Monae Johnson,REP,222
+Lake,Concord-Badus-Wayne/Ramona,Secretary of State,,Thomas A Cool,DEM,68
+Lake,Concord-Badus-Wayne/Ramona,Secretary of State,,Monae Johnson,REP,152
+Lake,Farmington-Leroy-Clarno-Orland,Secretary of State,,Thomas A Cool,DEM,80
+Lake,Farmington-Leroy-Clarno-Orland,Secretary of State,,Monae Johnson,REP,222
 Lake,Herman-Winfred,Secretary of State,,Thomas A Cool,DEM,132
 Lake,Herman-Winfred,Secretary of State,,Monae Johnson,REP,264
 Lake,Lakeview,Secretary of State,,Thomas A Cool,DEM,171
@@ -100,8 +100,8 @@ Lake,Ward Two,Secretary of State,,Monae Johnson,REP,337
 Lake,Wentworth-Rutland,Secretary of State,,Thomas A Cool,DEM,146
 Lake,Wentworth-Rutland,Secretary of State,,Monae Johnson,REP,333
 Lake,Chester-Franklin,Attorney General,,Marty J. Jackley,REP,378
-Lake,?,Attorney General,,Marty J. Jackley,REP,185
-Lake,?,Attorney General,,Marty J. Jackley,REP,254
+Lake,Concord-Badus-Wayne/Ramona,Attorney General,,Marty J. Jackley,REP,185
+Lake,Farmington-Leroy-Clarno-Orland,Attorney General,,Marty J. Jackley,REP,254
 Lake,Herman-Winfred,Attorney General,,Marty J. Jackley,REP,347
 Lake,Lakeview,Attorney General,,Marty J. Jackley,REP,406
 Lake,Nunda-Summit,Attorney General,,Marty J. Jackley,REP,164
@@ -112,12 +112,12 @@ Lake,Wentworth-Rutland,Attorney General,,Marty J. Jackley,REP,400
 Lake,Chester-Franklin,State Auditor,,Stephanie Marty,DEM,110
 Lake,Chester-Franklin,State Auditor,,Rene Meyer,LIB,15
 Lake,Chester-Franklin,State Auditor,,Richard Sattgast,REP,300
-Lake,?,State Auditor,,Stephanie Marty,DEM,52
-Lake,?,State Auditor,,Rene Meyer,LIB,4
-Lake,?,State Auditor,,Richard Sattgast,REP,154
-Lake,?,State Auditor,,Stephanie Marty,DEM,64
-Lake,?,State Auditor,,Rene Meyer,LIB,7
-Lake,?,State Auditor,,Richard Sattgast,REP,223
+Lake,Concord-Badus-Wayne/Ramona,State Auditor,,Stephanie Marty,DEM,52
+Lake,Concord-Badus-Wayne/Ramona,State Auditor,,Rene Meyer,LIB,4
+Lake,Concord-Badus-Wayne/Ramona,State Auditor,,Richard Sattgast,REP,154
+Lake,Farmington-Leroy-Clarno-Orland,State Auditor,,Stephanie Marty,DEM,64
+Lake,Farmington-Leroy-Clarno-Orland,State Auditor,,Rene Meyer,LIB,7
+Lake,Farmington-Leroy-Clarno-Orland,State Auditor,,Richard Sattgast,REP,223
 Lake,Herman-Winfred,State Auditor,,Stephanie Marty,DEM,118
 Lake,Herman-Winfred,State Auditor,,Rene Meyer,LIB,11
 Lake,Herman-Winfred,State Auditor,,Richard Sattgast,REP,266
@@ -141,10 +141,10 @@ Lake,Wentworth-Rutland,State Auditor,,Rene Meyer,LIB,18
 Lake,Wentworth-Rutland,State Auditor,,Richard Sattgast,REP,322
 Lake,Chester-Franklin,State Treasurer,,John Cunningham,DEM,112
 Lake,Chester-Franklin,State Treasurer,,Josh Haeder,REP,313
-Lake,?,State Treasurer,,John Cunningham,DEM,54
-Lake,?,State Treasurer,,Josh Haeder,REP,153
-Lake,?,State Treasurer,,John Cunningham,DEM,70
-Lake,?,State Treasurer,,Josh Haeder,REP,216
+Lake,Concord-Badus-Wayne/Ramona,State Treasurer,,John Cunningham,DEM,54
+Lake,Concord-Badus-Wayne/Ramona,State Treasurer,,Josh Haeder,REP,153
+Lake,Farmington-Leroy-Clarno-Orland,State Treasurer,,John Cunningham,DEM,70
+Lake,Farmington-Leroy-Clarno-Orland,State Treasurer,,Josh Haeder,REP,216
 Lake,Herman-Winfred,State Treasurer,,John Cunningham,DEM,115
 Lake,Herman-Winfred,State Treasurer,,Josh Haeder,REP,274
 Lake,Lakeview,State Treasurer,,John Cunningham,DEM,147
@@ -161,10 +161,10 @@ Lake,Wentworth-Rutland,State Treasurer,,John Cunningham,DEM,124
 Lake,Wentworth-Rutland,State Treasurer,,Josh Haeder,REP,334
 Lake,Chester-Franklin,Commissioner of School and Public Lands,,Timothy Azure,DEM,113
 Lake,Chester-Franklin,Commissioner of School and Public Lands,,Brock Greenfield,REP,311
-Lake,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,53
-Lake,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,150
-Lake,?,Commissioner of School and Public Lands,,Timothy Azure,DEM,62
-Lake,?,Commissioner of School and Public Lands,,Brock Greenfield,REP,223
+Lake,Concord-Badus-Wayne/Ramona,Commissioner of School and Public Lands,,Timothy Azure,DEM,53
+Lake,Concord-Badus-Wayne/Ramona,Commissioner of School and Public Lands,,Brock Greenfield,REP,150
+Lake,Farmington-Leroy-Clarno-Orland,Commissioner of School and Public Lands,,Timothy Azure,DEM,62
+Lake,Farmington-Leroy-Clarno-Orland,Commissioner of School and Public Lands,,Brock Greenfield,REP,223
 Lake,Herman-Winfred,Commissioner of School and Public Lands,,Timothy Azure,DEM,117
 Lake,Herman-Winfred,Commissioner of School and Public Lands,,Brock Greenfield,REP,273
 Lake,Lakeview,Commissioner of School and Public Lands,,Timothy Azure,DEM,144
@@ -181,10 +181,10 @@ Lake,Wentworth-Rutland,Commissioner of School and Public Lands,,Timothy Azure,DE
 Lake,Wentworth-Rutland,Commissioner of School and Public Lands,,Brock Greenfield,REP,333
 Lake,Chester-Franklin,Public Utilities Commissioner,,Jeffrey Barth,DEM,104
 Lake,Chester-Franklin,Public Utilities Commissioner,,Chris Nelson,REP,335
-Lake,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,42
-Lake,?,Public Utilities Commissioner,,Chris Nelson,REP,176
-Lake,?,Public Utilities Commissioner,,Jeffrey Barth,DEM,67
-Lake,?,Public Utilities Commissioner,,Chris Nelson,REP,232
+Lake,Concord-Badus-Wayne/Ramona,Public Utilities Commissioner,,Jeffrey Barth,DEM,42
+Lake,Concord-Badus-Wayne/Ramona,Public Utilities Commissioner,,Chris Nelson,REP,176
+Lake,Farmington-Leroy-Clarno-Orland,Public Utilities Commissioner,,Jeffrey Barth,DEM,67
+Lake,Farmington-Leroy-Clarno-Orland,Public Utilities Commissioner,,Chris Nelson,REP,232
 Lake,Herman-Winfred,Public Utilities Commissioner,,Jeffrey Barth,DEM,109
 Lake,Herman-Winfred,Public Utilities Commissioner,,Chris Nelson,REP,290
 Lake,Lakeview,Public Utilities Commissioner,,Jeffrey Barth,DEM,143
@@ -200,8 +200,8 @@ Lake,Ward Two,Public Utilities Commissioner,,Chris Nelson,REP,400
 Lake,Wentworth-Rutland,Public Utilities Commissioner,,Jeffrey Barth,DEM,103
 Lake,Wentworth-Rutland,Public Utilities Commissioner,,Chris Nelson,REP,359
 Lake,Chester-Franklin,State Senate,08,Casey Crabtree,REP,355
-Lake,?,State Senate,08,Casey Crabtree,REP,176
-Lake,?,State Senate,08,Casey Crabtree,REP,245
+Lake,Concord-Badus-Wayne/Ramona,State Senate,08,Casey Crabtree,REP,176
+Lake,Farmington-Leroy-Clarno-Orland,State Senate,08,Casey Crabtree,REP,245
 Lake,Herman-Winfred,State Senate,08,Casey Crabtree,REP,339
 Lake,Lakeview,State Senate,08,Casey Crabtree,REP,385
 Lake,Nunda-Summit,State Senate,08,Casey Crabtree,REP,157
@@ -211,10 +211,10 @@ Lake,Ward Two,State Senate,08,Casey Crabtree,REP,464
 Lake,Wentworth-Rutland,State Senate,08,Casey Crabtree,REP,379
 Lake,Chester-Franklin,State House,08,Tim Reisch,REP,286
 Lake,Chester-Franklin,State House,08,John Mills,REP,262
-Lake,?,State House,08,Tim Reisch,REP,146
-Lake,?,State House,08,John Mills,REP,115
-Lake,?,State House,08,Tim Reisch,REP,211
-Lake,?,State House,08,John Mills,REP,183
+Lake,Concord-Badus-Wayne/Ramona,State House,08,Tim Reisch,REP,146
+Lake,Concord-Badus-Wayne/Ramona,State House,08,John Mills,REP,115
+Lake,Farmington-Leroy-Clarno-Orland,State House,08,Tim Reisch,REP,211
+Lake,Farmington-Leroy-Clarno-Orland,State House,08,John Mills,REP,183
 Lake,Herman-Winfred,State House,08,Tim Reisch,REP,302
 Lake,Herman-Winfred,State House,08,John Mills,REP,213
 Lake,Lakeview,State House,08,Tim Reisch,REP,314
@@ -230,8 +230,8 @@ Lake,Ward Two,State House,08,John Mills,REP,310
 Lake,Wentworth-Rutland,State House,08,Tim Reisch,REP,283
 Lake,Wentworth-Rutland,State House,08,John Mills,REP,276
 Lake,Chester-Franklin,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,195
-Lake,?,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,93
-Lake,?,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,153
+Lake,Concord-Badus-Wayne/Ramona,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,93
+Lake,Farmington-Leroy-Clarno-Orland,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,153
 Lake,Herman-Winfred,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,193
 Lake,Lakeview,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,266
 Lake,Nunda-Summit,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,90
@@ -240,8 +240,8 @@ Lake,Ward Three,Judge of the Circuit Court,Position A Third Circuit,Carmen Means
 Lake,Ward Two,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,342
 Lake,Wentworth-Rutland,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,233
 Lake,Chester-Franklin,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,181
-Lake,?,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,92
-Lake,?,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,148
+Lake,Concord-Badus-Wayne/Ramona,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,92
+Lake,Farmington-Leroy-Clarno-Orland,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,148
 Lake,Herman-Winfred,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,182
 Lake,Lakeview,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,252
 Lake,Nunda-Summit,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,87
@@ -250,8 +250,8 @@ Lake,Ward Three,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elsh
 Lake,Ward Two,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,304
 Lake,Wentworth-Rutland,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,227
 Lake,Chester-Franklin,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,185
-Lake,?,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,91
-Lake,?,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,142
+Lake,Concord-Badus-Wayne/Ramona,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,91
+Lake,Farmington-Leroy-Clarno-Orland,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,142
 Lake,Herman-Winfred,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,180
 Lake,Lakeview,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,242
 Lake,Nunda-Summit,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,84
@@ -260,8 +260,8 @@ Lake,Ward Three,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelt
 Lake,Ward Two,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,303
 Lake,Wentworth-Rutland,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,218
 Lake,Chester-Franklin,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,191
-Lake,?,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,95
-Lake,?,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,141
+Lake,Concord-Badus-Wayne/Ramona,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,95
+Lake,Farmington-Leroy-Clarno-Orland,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,141
 Lake,Herman-Winfred,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,184
 Lake,Lakeview,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,244
 Lake,Nunda-Summit,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,83
@@ -271,10 +271,10 @@ Lake,Ward Two,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Sto
 Lake,Wentworth-Rutland,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,222
 Lake,Chester-Franklin,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,81
 Lake,Chester-Franklin,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,114
-Lake,?,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,48
-Lake,?,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,61
-Lake,?,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,62
-Lake,?,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,92
+Lake,Concord-Badus-Wayne/Ramona,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,48
+Lake,Concord-Badus-Wayne/Ramona,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,61
+Lake,Farmington-Leroy-Clarno-Orland,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,62
+Lake,Farmington-Leroy-Clarno-Orland,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,92
 Lake,Herman-Winfred,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,70
 Lake,Herman-Winfred,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,118
 Lake,Lakeview,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,107
@@ -290,8 +290,8 @@ Lake,Ward Two,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moo
 Lake,Wentworth-Rutland,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,92
 Lake,Wentworth-Rutland,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,127
 Lake,Chester-Franklin,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,226
-Lake,?,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,129
-Lake,?,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,180
+Lake,Concord-Badus-Wayne/Ramona,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,129
+Lake,Farmington-Leroy-Clarno-Orland,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,180
 Lake,Herman-Winfred,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,247
 Lake,Lakeview,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,288
 Lake,Nunda-Summit,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,95
@@ -301,10 +301,10 @@ Lake,Ward Two,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,
 Lake,Wentworth-Rutland,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,241
 Lake,Chester-Franklin,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,327
 Lake,Chester-Franklin,Supreme Court Retention,3,Patricia J. DeVaney - No,,63
-Lake,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,151
-Lake,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,29
-Lake,?,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,228
-Lake,?,Supreme Court Retention,3,Patricia J. DeVaney - No,,35
+Lake,Concord-Badus-Wayne/Ramona,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,151
+Lake,Concord-Badus-Wayne/Ramona,Supreme Court Retention,3,Patricia J. DeVaney - No,,29
+Lake,Farmington-Leroy-Clarno-Orland,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,228
+Lake,Farmington-Leroy-Clarno-Orland,Supreme Court Retention,3,Patricia J. DeVaney - No,,35
 Lake,Herman-Winfred,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,312
 Lake,Herman-Winfred,Supreme Court Retention,3,Patricia J. DeVaney - No,,45
 Lake,Lakeview,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,393
@@ -321,10 +321,10 @@ Lake,Wentworth-Rutland,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,373
 Lake,Wentworth-Rutland,Supreme Court Retention,3,Patricia J. DeVaney - No,,49
 Lake,Chester-Franklin,Supreme Court Retention,2,Mark E. Salter - Yes,,316
 Lake,Chester-Franklin,Supreme Court Retention,2,Mark E. Salter - No,,68
-Lake,?,Supreme Court Retention,2,Mark E. Salter - Yes,,155
-Lake,?,Supreme Court Retention,2,Mark E. Salter - No,,26
-Lake,?,Supreme Court Retention,2,Mark E. Salter - Yes,,221
-Lake,?,Supreme Court Retention,2,Mark E. Salter - No,,42
+Lake,Concord-Badus-Wayne/Ramona,Supreme Court Retention,2,Mark E. Salter - Yes,,155
+Lake,Concord-Badus-Wayne/Ramona,Supreme Court Retention,2,Mark E. Salter - No,,26
+Lake,Farmington-Leroy-Clarno-Orland,Supreme Court Retention,2,Mark E. Salter - Yes,,221
+Lake,Farmington-Leroy-Clarno-Orland,Supreme Court Retention,2,Mark E. Salter - No,,42
 Lake,Herman-Winfred,Supreme Court Retention,2,Mark E. Salter - Yes,,309
 Lake,Herman-Winfred,Supreme Court Retention,2,Mark E. Salter - No,,44
 Lake,Lakeview,Supreme Court Retention,2,Mark E. Salter - Yes,,391
@@ -341,10 +341,10 @@ Lake,Wentworth-Rutland,Supreme Court Retention,2,Mark E. Salter - Yes,,369
 Lake,Wentworth-Rutland,Supreme Court Retention,2,Mark E. Salter - No,,51
 Lake,Chester-Franklin,Constitutional Amendment D,,Yes,,198
 Lake,Chester-Franklin,Constitutional Amendment D,,No,,261
-Lake,?,Constitutional Amendment D,,Yes,,110
-Lake,?,Constitutional Amendment D,,No,,109
-Lake,?,Constitutional Amendment D,,Yes,,124
-Lake,?,Constitutional Amendment D,,No,,177
+Lake,Concord-Badus-Wayne/Ramona,Constitutional Amendment D,,Yes,,110
+Lake,Concord-Badus-Wayne/Ramona,Constitutional Amendment D,,No,,109
+Lake,Farmington-Leroy-Clarno-Orland,Constitutional Amendment D,,Yes,,124
+Lake,Farmington-Leroy-Clarno-Orland,Constitutional Amendment D,,No,,177
 Lake,Herman-Winfred,Constitutional Amendment D,,Yes,,208
 Lake,Herman-Winfred,Constitutional Amendment D,,No,,195
 Lake,Lakeview,Constitutional Amendment D,,Yes,,249
@@ -361,10 +361,10 @@ Lake,Wentworth-Rutland,Constitutional Amendment D,,Yes,,235
 Lake,Wentworth-Rutland,Constitutional Amendment D,,No,,238
 Lake,Chester-Franklin,Initiated Measure 27,,Yes,,199
 Lake,Chester-Franklin,Initiated Measure 27,,No,,262
-Lake,?,Initiated Measure 27,,Yes,,104
-Lake,?,Initiated Measure 27,,No,,120
-Lake,?,Initiated Measure 27,,Yes,,117
-Lake,?,Initiated Measure 27,,No,,190
+Lake,Concord-Badus-Wayne/Ramona,Initiated Measure 27,,Yes,,104
+Lake,Concord-Badus-Wayne/Ramona,Initiated Measure 27,,No,,120
+Lake,Farmington-Leroy-Clarno-Orland,Initiated Measure 27,,Yes,,117
+Lake,Farmington-Leroy-Clarno-Orland,Initiated Measure 27,,No,,190
 Lake,Herman-Winfred,Initiated Measure 27,,Yes,,174
 Lake,Herman-Winfred,Initiated Measure 27,,No,,238
 Lake,Lakeview,Initiated Measure 27,,Yes,,240
