@@ -1115,7 +1115,6 @@ Butte,25,President,,Donald J. Trump,REP,230
 Butte,26,President,,Donald J. Trump,REP,184
 Butte,27,President,,Donald J. Trump,REP,185
 Butte,28,President,,Donald J. Trump,REP,253
-Butte,,President,,Donald J. Trump,REP,3357
 Butte,6,President,,Gary Johnson,LIB,0
 Butte,8 (13-14),President,,Gary Johnson,LIB,21
 Butte,11,President,,Gary Johnson,LIB,0
@@ -1132,7 +1131,6 @@ Butte,25,President,,Gary Johnson,LIB,17
 Butte,26,President,,Gary Johnson,LIB,27
 Butte,27,President,,Gary Johnson,LIB,19
 Butte,28,President,,Gary Johnson,LIB,23
-Butte,,President,,Gary Johnson,LIB,246
 Butte,6,President,,Hillary Clinton,DEM,1
 Butte,8 (13-14),President,,Hillary Clinton,DEM,50
 Butte,11,President,,Hillary Clinton,DEM,8
@@ -1149,7 +1147,6 @@ Butte,25,President,,Hillary Clinton,DEM,63
 Butte,26,President,,Hillary Clinton,DEM,35
 Butte,27,President,,Hillary Clinton,DEM,42
 Butte,28,President,,Hillary Clinton,DEM,83
-Butte,,President,,Hillary Clinton,DEM,696
 Butte,6,President,,Darrell L. Castle,CON,0
 Butte,8 (13-14),President,,Darrell L. Castle,CON,3
 Butte,11,President,,Darrell L. Castle,CON,0
@@ -1166,7 +1163,6 @@ Butte,25,President,,Darrell L. Castle,CON,5
 Butte,26,President,,Darrell L. Castle,CON,6
 Butte,27,President,,Darrell L. Castle,CON,2
 Butte,28,President,,Darrell L. Castle,CON,6
-Butte,,President,,Darrell L. Castle,CON,52
 Butte,6,U.S. Senate,,John R. Thune,REP,46
 Butte,8 (13-14),U.S. Senate,,John R. Thune,REP,437
 Butte,11,U.S. Senate,,John R. Thune,REP,63
@@ -1183,7 +1179,6 @@ Butte,25,U.S. Senate,,John R. Thune,REP,264
 Butte,26,U.S. Senate,,John R. Thune,REP,196
 Butte,27,U.S. Senate,,John R. Thune,REP,207
 Butte,28,U.S. Senate,,John R. Thune,REP,286
-Butte,,U.S. Senate,,John R. Thune,REP,3546
 Butte,6,U.S. Senate,,Jay Williams,DEM,4
 Butte,8 (13-14),U.S. Senate,,Jay Williams,DEM,71
 Butte,11,U.S. Senate,,Jay Williams,DEM,6
@@ -1200,7 +1195,6 @@ Butte,25,U.S. Senate,,Jay Williams,DEM,46
 Butte,26,U.S. Senate,,Jay Williams,DEM,52
 Butte,27,U.S. Senate,,Jay Williams,DEM,39
 Butte,28,U.S. Senate,,Jay Williams,DEM,83
-Butte,,U.S. Senate,,Jay Williams,DEM,758
 Butte,6,U.S. House,1,Kristi Noem,REP,46
 Butte,8 (13-14),U.S. House,1,Kristi Noem,REP,417
 Butte,11,U.S. House,1,Kristi Noem,REP,63
@@ -1217,7 +1211,6 @@ Butte,25,U.S. House,1,Kristi Noem,REP,257
 Butte,26,U.S. House,1,Kristi Noem,REP,183
 Butte,27,U.S. House,1,Kristi Noem,REP,197
 Butte,28,U.S. House,1,Kristi Noem,REP,279
-Butte,,U.S. House,1,Kristi Noem,REP,3407
 Butte,6,U.S. House,1,Paula Hawks,DEM,4
 Butte,8 (13-14),U.S. House,1,Paula Hawks,DEM,94
 Butte,11,U.S. House,1,Paula Hawks,DEM,9
@@ -1234,7 +1227,6 @@ Butte,25,U.S. House,1,Paula Hawks,DEM,57
 Butte,26,U.S. House,1,Paula Hawks,DEM,63
 Butte,27,U.S. House,1,Paula Hawks,DEM,51
 Butte,28,U.S. House,1,Paula Hawks,DEM,87
-Butte,,U.S. House,1,Paula Hawks,DEM,895
 Butte,6,Public Utilities Commissioner,,Chris Nelson,REP,44
 Butte,8 (13-14),Public Utilities Commissioner,,Chris Nelson,REP,447
 Butte,11,Public Utilities Commissioner,,Chris Nelson,REP,63
@@ -1251,7 +1243,6 @@ Butte,25,Public Utilities Commissioner,,Chris Nelson,REP,262
 Butte,26,Public Utilities Commissioner,,Chris Nelson,REP,199
 Butte,27,Public Utilities Commissioner,,Chris Nelson,REP,204
 Butte,28,Public Utilities Commissioner,,Chris Nelson,REP,296
-Butte,,Public Utilities Commissioner,,Chris Nelson,REP,3542
 Butte,6,Public Utilities Commissioner,,Henry Red Cloud,DEM,3
 Butte,8 (13-14),Public Utilities Commissioner,,Henry Red Cloud,DEM,58
 Butte,11,Public Utilities Commissioner,,Henry Red Cloud,DEM,7
@@ -1268,7 +1259,6 @@ Butte,25,Public Utilities Commissioner,,Henry Red Cloud,DEM,39
 Butte,26,Public Utilities Commissioner,,Henry Red Cloud,DEM,42
 Butte,27,Public Utilities Commissioner,,Henry Red Cloud,DEM,36
 Butte,28,Public Utilities Commissioner,,Henry Red Cloud,DEM,56
-Butte,,Public Utilities Commissioner,,Henry Red Cloud,DEM,661
 Butte,6,State Senate,28,Ryan M. Maher,REP,41
 Butte,8 (13-14),State Senate,29,Gary L. Cammack,REP,308
 Butte,11,State Senate,28,Ryan M. Maher,REP,56
@@ -1285,13 +1275,10 @@ Butte,25,State Senate,28,Ryan M. Maher,REP,249
 Butte,26,State Senate,28,Ryan M. Maher,REP,184
 Butte,27,State Senate,28,Ryan M. Maher,REP,186
 Butte,28,State Senate,28,Ryan M. Maher,REP,272
-Butte,,State Senate,28,Ryan M. Maher,REP,2545
-Butte,,State Senate,29,Gary L. Cammack,REP,566
 Butte,8 (13-14),State Senate,29,LeRoy Kindler,IND,204
 Butte,12,State Senate,29,LeRoy Kindler,IND,26
 Butte,18,State Senate,29,LeRoy Kindler,IND,52
 Butte,20,State Senate,29,LeRoy Kindler,IND,108
-Butte,,State Senate,29,LeRoy Kindler,IND,390
 Butte,6,State House,28B,Sam Marty,REP,44
 Butte,8 (13-14),State House,29,Larry Rhoden,REP,340
 Butte,11,State House,28B,Sam Marty,REP,57
@@ -1308,13 +1295,10 @@ Butte,25,State House,28B,Sam Marty,REP,232
 Butte,26,State House,28B,Sam Marty,REP,182
 Butte,27,State House,28B,Sam Marty,REP,187
 Butte,28,State House,28B,Sam Marty,REP,261
-Butte,,State House,28B,Sam Marty,REP,2498
-Butte,,State House,29,Larry Rhoden,REP,609
 Butte,8 (13-14),State House,29,Thomas J. Brunner,REP,265
 Butte,12,State House,29,Thomas J. Brunner,REP,71
 Butte,18,State House,29,Thomas J. Brunner,REP,80
 Butte,20,State House,29,Thomas J. Brunner,REP,97
-Butte,,State House,29,Thomas J. Brunner,REP,513
 Campbell,1,President,,Donald J. Trump,REP,115
 Campbell,2,President,,Donald J. Trump,REP,136
 Campbell,3,President,,Donald J. Trump,REP,152
@@ -2742,13 +2726,13 @@ Custer,Total,State House,30,Sandy Arseneault,DEM,1466
 Davison,1,President,,Donald J. Trump,REP,219
 Davison,2,President,,Donald J. Trump,REP,311
 Davison,3,President,,Donald J. Trump,REP,472
-Davison,4/5,President,,Donald J. Trump,REP,485
-Davison,6/7,President,,Donald J. Trump,REP,571
+Davison,5-Apr,President,,Donald J. Trump,REP,485
+Davison,7-Jun,President,,Donald J. Trump,REP,571
 Davison,8,President,,Donald J. Trump,REP,280
 Davison,9,President,,Donald J. Trump,REP,250
 Davison,10,President,,Donald J. Trump,REP,249
 Davison,11,President,,Donald J. Trump,REP,250
-Davison,12/13,President,,Donald J. Trump,REP,354
+Davison,13-Dec,President,,Donald J. Trump,REP,354
 Davison,14,President,,Donald J. Trump,REP,218
 Davison,15,President,,Donald J. Trump,REP,358
 Davison,16,President,,Donald J. Trump,REP,211
@@ -2759,13 +2743,13 @@ Davison,Total,President,,Donald J. Trump,REP,5157
 Davison,1,President,,Gary Johnson,LIB,6
 Davison,2,President,,Gary Johnson,LIB,17
 Davison,3,President,,Gary Johnson,LIB,25
-Davison,4/5,President,,Gary Johnson,LIB,27
-Davison,6/7,President,,Gary Johnson,LIB,22
+Davison,5-Apr,President,,Gary Johnson,LIB,27
+Davison,7-Jun,President,,Gary Johnson,LIB,22
 Davison,8,President,,Gary Johnson,LIB,25
 Davison,9,President,,Gary Johnson,LIB,29
 Davison,10,President,,Gary Johnson,LIB,17
 Davison,11,President,,Gary Johnson,LIB,19
-Davison,12/13,President,,Gary Johnson,LIB,27
+Davison,13-Dec,President,,Gary Johnson,LIB,27
 Davison,14,President,,Gary Johnson,LIB,16
 Davison,15,President,,Gary Johnson,LIB,30
 Davison,16,President,,Gary Johnson,LIB,17
@@ -2776,13 +2760,13 @@ Davison,Total,President,,Gary Johnson,LIB,349
 Davison,1,President,,Hillary Clinton,DEM,62
 Davison,2,President,,Hillary Clinton,DEM,52
 Davison,3,President,,Hillary Clinton,DEM,151
-Davison,4/5,President,,Hillary Clinton,DEM,145
-Davison,6/7,President,,Hillary Clinton,DEM,276
+Davison,5-Apr,President,,Hillary Clinton,DEM,145
+Davison,7-Jun,President,,Hillary Clinton,DEM,276
 Davison,8,President,,Hillary Clinton,DEM,134
 Davison,9,President,,Hillary Clinton,DEM,139
 Davison,10,President,,Hillary Clinton,DEM,133
 Davison,11,President,,Hillary Clinton,DEM,139
-Davison,12/13,President,,Hillary Clinton,DEM,194
+Davison,13-Dec,President,,Hillary Clinton,DEM,194
 Davison,14,President,,Hillary Clinton,DEM,128
 Davison,15,President,,Hillary Clinton,DEM,175
 Davison,16,President,,Hillary Clinton,DEM,133
@@ -2793,13 +2777,13 @@ Davison,Total,President,,Hillary Clinton,DEM,2355
 Davison,1,President,,Darrell L. Castle,CON,1
 Davison,2,President,,Darrell L. Castle,CON,3
 Davison,3,President,,Darrell L. Castle,CON,8
-Davison,4/5,President,,Darrell L. Castle,CON,10
-Davison,6/7,President,,Darrell L. Castle,CON,5
+Davison,5-Apr,President,,Darrell L. Castle,CON,10
+Davison,7-Jun,President,,Darrell L. Castle,CON,5
 Davison,8,President,,Darrell L. Castle,CON,6
 Davison,9,President,,Darrell L. Castle,CON,5
 Davison,10,President,,Darrell L. Castle,CON,6
 Davison,11,President,,Darrell L. Castle,CON,4
-Davison,12/13,President,,Darrell L. Castle,CON,2
+Davison,13-Dec,President,,Darrell L. Castle,CON,2
 Davison,14,President,,Darrell L. Castle,CON,7
 Davison,15,President,,Darrell L. Castle,CON,3
 Davison,16,President,,Darrell L. Castle,CON,4
@@ -2810,13 +2794,13 @@ Davison,Total,President,,Darrell L. Castle,CON,91
 Davison,1,U.S. Senate,,John R. Thune,REP,228
 Davison,2,U.S. Senate,,John R. Thune,REP,315
 Davison,3,U.S. Senate,,John R. Thune,REP,521
-Davison,4/5,U.S. Senate,,John R. Thune,REP,540
-Davison,6/7,U.S. Senate,,John R. Thune,REP,689
+Davison,5-Apr,U.S. Senate,,John R. Thune,REP,540
+Davison,7-Jun,U.S. Senate,,John R. Thune,REP,689
 Davison,8,U.S. Senate,,John R. Thune,REP,342
 Davison,9,U.S. Senate,,John R. Thune,REP,304
 Davison,10,U.S. Senate,,John R. Thune,REP,282
 Davison,11,U.S. Senate,,John R. Thune,REP,305
-Davison,12/13,U.S. Senate,,John R. Thune,REP,438
+Davison,13-Dec,U.S. Senate,,John R. Thune,REP,438
 Davison,14,U.S. Senate,,John R. Thune,REP,255
 Davison,15,U.S. Senate,,John R. Thune,REP,403
 Davison,16,U.S. Senate,,John R. Thune,REP,277
@@ -2827,13 +2811,13 @@ Davison,Total,U.S. Senate,,John R. Thune,REP,6017
 Davison,1,U.S. Senate,,Jay Williams,DEM,59
 Davison,2,U.S. Senate,,Jay Williams,DEM,71
 Davison,3,U.S. Senate,,Jay Williams,DEM,138
-Davison,4/5,U.S. Senate,,Jay Williams,DEM,128
-Davison,6/7,U.S. Senate,,Jay Williams,DEM,195
+Davison,5-Apr,U.S. Senate,,Jay Williams,DEM,128
+Davison,7-Jun,U.S. Senate,,Jay Williams,DEM,195
 Davison,8,U.S. Senate,,Jay Williams,DEM,108
 Davison,9,U.S. Senate,,Jay Williams,DEM,117
 Davison,10,U.S. Senate,,Jay Williams,DEM,121
 Davison,11,U.S. Senate,,Jay Williams,DEM,113
-Davison,12/13,U.S. Senate,,Jay Williams,DEM,151
+Davison,13-Dec,U.S. Senate,,Jay Williams,DEM,151
 Davison,14,U.S. Senate,,Jay Williams,DEM,113
 Davison,15,U.S. Senate,,Jay Williams,DEM,165
 Davison,16,U.S. Senate,,Jay Williams,DEM,93
@@ -2844,13 +2828,13 @@ Davison,Total,U.S. Senate,,Jay Williams,DEM,1990
 Davison,1,U.S. House,1,Kristi Noem,REP,205
 Davison,2,U.S. House,1,Kristi Noem,REP,290
 Davison,3,U.S. House,1,Kristi Noem,REP,467
-Davison,4/5,U.S. House,1,Kristi Noem,REP,487
-Davison,6/7,U.S. House,1,Kristi Noem,REP,610
+Davison,5-Apr,U.S. House,1,Kristi Noem,REP,487
+Davison,7-Jun,U.S. House,1,Kristi Noem,REP,610
 Davison,8,U.S. House,1,Kristi Noem,REP,293
 Davison,9,U.S. House,1,Kristi Noem,REP,258
 Davison,10,U.S. House,1,Kristi Noem,REP,250
 Davison,11,U.S. House,1,Kristi Noem,REP,266
-Davison,12/13,U.S. House,1,Kristi Noem,REP,375
+Davison,13-Dec,U.S. House,1,Kristi Noem,REP,375
 Davison,14,U.S. House,1,Kristi Noem,REP,212
 Davison,15,U.S. House,1,Kristi Noem,REP,353
 Davison,16,U.S. House,1,Kristi Noem,REP,219
@@ -2861,13 +2845,13 @@ Davison,Total,U.S. House,1,Kristi Noem,REP,5253
 Davison,1,U.S. House,1,Paula Hawks,DEM,83
 Davison,2,U.S. House,1,Paula Hawks,DEM,97
 Davison,3,U.S. House,1,Paula Hawks,DEM,193
-Davison,4/5,U.S. House,1,Paula Hawks,DEM,186
-Davison,6/7,U.S. House,1,Paula Hawks,DEM,271
+Davison,5-Apr,U.S. House,1,Paula Hawks,DEM,186
+Davison,7-Jun,U.S. House,1,Paula Hawks,DEM,271
 Davison,8,U.S. House,1,Paula Hawks,DEM,150
 Davison,9,U.S. House,1,Paula Hawks,DEM,161
 Davison,10,U.S. House,1,Paula Hawks,DEM,156
 Davison,11,U.S. House,1,Paula Hawks,DEM,152
-Davison,12/13,U.S. House,1,Paula Hawks,DEM,210
+Davison,13-Dec,U.S. House,1,Paula Hawks,DEM,210
 Davison,14,U.S. House,1,Paula Hawks,DEM,158
 Davison,15,U.S. House,1,Paula Hawks,DEM,221
 Davison,16,U.S. House,1,Paula Hawks,DEM,146
@@ -2878,13 +2862,13 @@ Davison,Total,U.S. House,1,Paula Hawks,DEM,2759
 Davison,1,Public Utilities commissioner,,Chris Nelson,REP,252
 Davison,2,Public Utilities commissioner,,Chris Nelson,REP,340
 Davison,3,Public Utilities commissioner,,Chris Nelson,REP,570
-Davison,4/5,Public Utilities commissioner,,Chris Nelson,REP,557
-Davison,6/7,Public Utilities commissioner,,Chris Nelson,REP,743
+Davison,5-Apr,Public Utilities commissioner,,Chris Nelson,REP,557
+Davison,7-Jun,Public Utilities commissioner,,Chris Nelson,REP,743
 Davison,8,Public Utilities commissioner,,Chris Nelson,REP,351
 Davison,9,Public Utilities commissioner,,Chris Nelson,REP,317
 Davison,10,Public Utilities commissioner,,Chris Nelson,REP,317
 Davison,11,Public Utilities commissioner,,Chris Nelson,REP,332
-Davison,12/13,Public Utilities commissioner,,Chris Nelson,REP,439
+Davison,13-Dec,Public Utilities commissioner,,Chris Nelson,REP,439
 Davison,14,Public Utilities commissioner,,Chris Nelson,REP,262
 Davison,15,Public Utilities commissioner,,Chris Nelson,REP,455
 Davison,16,Public Utilities commissioner,,Chris Nelson,REP,269
@@ -2895,13 +2879,13 @@ Davison,Total,Public Utilities commissioner,,Chris Nelson,REP,6405
 Davison,1,Public Utilities commissioner,,Henry Red Cloud,DEM,33
 Davison,2,Public Utilities commissioner,,Henry Red Cloud,DEM,44
 Davison,3,Public Utilities commissioner,,Henry Red Cloud,DEM,82
-Davison,4/5,Public Utilities commissioner,,Henry Red Cloud,DEM,96
-Davison,6/7,Public Utilities commissioner,,Henry Red Cloud,DEM,128
+Davison,5-Apr,Public Utilities commissioner,,Henry Red Cloud,DEM,96
+Davison,7-Jun,Public Utilities commissioner,,Henry Red Cloud,DEM,128
 Davison,8,Public Utilities commissioner,,Henry Red Cloud,DEM,89
 Davison,9,Public Utilities commissioner,,Henry Red Cloud,DEM,96
 Davison,10,Public Utilities commissioner,,Henry Red Cloud,DEM,83
 Davison,11,Public Utilities commissioner,,Henry Red Cloud,DEM,78
-Davison,12/13,Public Utilities commissioner,,Henry Red Cloud,DEM,132
+Davison,13-Dec,Public Utilities commissioner,,Henry Red Cloud,DEM,132
 Davison,14,Public Utilities commissioner,,Henry Red Cloud,DEM,97
 Davison,15,Public Utilities commissioner,,Henry Red Cloud,DEM,105
 Davison,16,Public Utilities commissioner,,Henry Red Cloud,DEM,81
@@ -2912,13 +2896,13 @@ Davison,Total,Public Utilities commissioner,,Henry Red Cloud,DEM,1445
 Davison,1,State Senate,20,Joshua Klumb,REP,226
 Davison,2,State Senate,20,Joshua Klumb,REP,307
 Davison,3,State Senate,20,Joshua Klumb,REP,496
-Davison,4/5,State Senate,20,Joshua Klumb,REP,500
-Davison,6/7,State Senate,20,Joshua Klumb,REP,599
+Davison,5-Apr,State Senate,20,Joshua Klumb,REP,500
+Davison,7-Jun,State Senate,20,Joshua Klumb,REP,599
 Davison,8,State Senate,20,Joshua Klumb,REP,301
 Davison,9,State Senate,20,Joshua Klumb,REP,262
 Davison,10,State Senate,20,Joshua Klumb,REP,262
 Davison,11,State Senate,20,Joshua Klumb,REP,270
-Davison,12/13,State Senate,20,Joshua Klumb,REP,395
+Davison,13-Dec,State Senate,20,Joshua Klumb,REP,395
 Davison,14,State Senate,20,Joshua Klumb,REP,217
 Davison,15,State Senate,20,Joshua Klumb,REP,369
 Davison,16,State Senate,20,Joshua Klumb,REP,226
@@ -2929,13 +2913,13 @@ Davison,Total,State Senate,20,Joshua Klumb,REP,5432
 Davison,1,State Senate,20,Quinten L Burg,DEM,65
 Davison,2,State Senate,20,Quinten L Burg,DEM,82
 Davison,3,State Senate,20,Quinten L Burg,DEM,153
-Davison,4/5,State Senate,20,Quinten L Burg,DEM,170
-Davison,6/7,State Senate,20,Quinten L Burg,DEM,271
+Davison,5-Apr,State Senate,20,Quinten L Burg,DEM,170
+Davison,7-Jun,State Senate,20,Quinten L Burg,DEM,271
 Davison,8,State Senate,20,Quinten L Burg,DEM,139
 Davison,9,State Senate,20,Quinten L Burg,DEM,149
 Davison,10,State Senate,20,Quinten L Burg,DEM,140
 Davison,11,State Senate,20,Quinten L Burg,DEM,144
-Davison,12/13,State Senate,20,Quinten L Burg,DEM,181
+Davison,13-Dec,State Senate,20,Quinten L Burg,DEM,181
 Davison,14,State Senate,20,Quinten L Burg,DEM,145
 Davison,15,State Senate,20,Quinten L Burg,DEM,198
 Davison,16,State Senate,20,Quinten L Burg,DEM,125
@@ -2946,13 +2930,13 @@ Davison,Total,State House,20,Quinten L Burg,DEM,2478
 Davison,1,State House,20,Tona Rozum,REP,178
 Davison,2,State House,20,Tona Rozum,REP,266
 Davison,3,State House,20,Tona Rozum,REP,459
-Davison,4/5,State House,20,Tona Rozum,REP,487
-Davison,6/7,State House,20,Tona Rozum,REP,690
+Davison,5-Apr,State House,20,Tona Rozum,REP,487
+Davison,7-Jun,State House,20,Tona Rozum,REP,690
 Davison,8,State House,20,Tona Rozum,REP,300
 Davison,9,State House,20,Tona Rozum,REP,272
 Davison,10,State House,20,Tona Rozum,REP,248
 Davison,11,State House,20,Tona Rozum,REP,276
-Davison,12/13,State House,20,Tona Rozum,REP,374
+Davison,13-Dec,State House,20,Tona Rozum,REP,374
 Davison,14,State House,20,Tona Rozum,REP,226
 Davison,15,State House,20,Tona Rozum,REP,374
 Davison,16,State House,20,Tona Rozum,REP,223
@@ -2963,13 +2947,13 @@ Davison,Total,State House,20,Tona Rozum,REP,5441
 Davison,1,State House,20,Lance Carson,REP,170
 Davison,2,State House,20,Lance Carson,REP,237
 Davison,3,State House,20,Lance Carson,REP,438
-Davison,4/5,State House,20,Lance Carson,REP,432
-Davison,6/7,State House,20,Lance Carson,REP,540
+Davison,5-Apr,State House,20,Lance Carson,REP,432
+Davison,7-Jun,State House,20,Lance Carson,REP,540
 Davison,8,State House,20,Lance Carson,REP,229
 Davison,9,State House,20,Lance Carson,REP,237
 Davison,10,State House,20,Lance Carson,REP,232
 Davison,11,State House,20,Lance Carson,REP,250
-Davison,12/13,State House,20,Lance Carson,REP,322
+Davison,13-Dec,State House,20,Lance Carson,REP,322
 Davison,14,State House,20,Lance Carson,REP,185
 Davison,15,State House,20,Lance Carson,REP,332
 Davison,16,State House,20,Lance Carson,REP,206
@@ -7370,20 +7354,6 @@ Mellette,West 6,Public Utilities Commissioner,,Chris Nelson,REP,102
 Mellette,West 6,Public Utilities Commissioner,,Henry Red Cloud,DEM,60
 Mellette,West 6,State Senate,26,Troy Heinert,REP,101
 Mellette,West 6,State House,26A,Shawn Bourdeaux,REP,86
-Mellette,,Registered Voters,,,,1172
-Mellette,,President,,Donald J. Trump,REP,402
-Mellette,,President,,Gary Johnson,LIB,32
-Mellette,,President,,Hillary Clinton,DEM,238
-Mellette,,President,,Darrell L. Castle,CON,11
-Mellette,,President,,,Total,691
-Mellette,,U.S. Senate,,John R. Thune,REP,464
-Mellette,,U.S. Senate,,Jay Williams,DEM,224
-Mellette,,U.S. House,1,Kristi Noem,REP,419
-Mellette,,U.S. House,1,Paula Hawks,DEM,274
-Mellette,,Public Utilities Commissioner,,Chris Nelson,REP,449
-Mellette,,Public Utilities Commissioner,,Henry Red Cloud,DEM,232
-Mellette,,State Senate,26,Troy Heinert,REP,433
-Mellette,,State House,26A,Shawn Bourdeaux,REP,371
 Miner,HOWARD WARD 1,President,,Trump & Pence,REP,76
 Miner,HOWARD WARD 2,President,,Trump & Pence,REP,75
 Miner,HOWARD WARD 3,President,,Trump & Pence,REP,62
