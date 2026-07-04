@@ -1,0 +1,161 @@
+county,precinct,office,district,candidate,party,votes
+Hand,1,President,,Bernie Sanders,DEM,3
+Hand,1,President,,Joseph R. Biden,DEM,8
+Hand,2,President,,Bernie Sanders,DEM,2
+Hand,2,President,,Joseph R. Biden,DEM,1
+Hand,3,President,,Bernie Sanders,DEM,0
+Hand,3,President,,Joseph R. Biden,DEM,3
+Hand,4,President,,Bernie Sanders,DEM,1
+Hand,4,President,,Joseph R. Biden,DEM,4
+Hand,5,President,,Bernie Sanders,DEM,1
+Hand,5,President,,Joseph R. Biden,DEM,11
+Hand,6,President,,Bernie Sanders,DEM,5
+Hand,6,President,,Joseph R. Biden,DEM,21
+Hand,7,President,,Bernie Sanders,DEM,2
+Hand,7,President,,Joseph R. Biden,DEM,14
+Hand,8,President,,Bernie Sanders,DEM,0
+Hand,8,President,,Joseph R. Biden,DEM,0
+Hand,9,President,,Bernie Sanders,DEM,1
+Hand,9,President,,Joseph R. Biden,DEM,5
+Hand,10,President,,Bernie Sanders,DEM,1
+Hand,10,President,,Joseph R. Biden,DEM,2
+Hand,11,President,,Bernie Sanders,DEM,6
+Hand,11,President,,Joseph R. Biden,DEM,44
+Hand,12,President,,Bernie Sanders,DEM,6
+Hand,12,President,,Joseph R. Biden,DEM,38
+Hand,1,U.S. Senate,,Mike Rounds,REP,54
+Hand,1,U.S. Senate,,Scyller J. Borglum,REP,16
+Hand,2,U.S. Senate,,Mike Rounds,REP,12
+Hand,2,U.S. Senate,,Scyller J. Borglum,REP,11
+Hand,3,U.S. Senate,,Mike Rounds,REP,15
+Hand,3,U.S. Senate,,Scyller J. Borglum,REP,6
+Hand,4,U.S. Senate,,Mike Rounds,REP,25
+Hand,4,U.S. Senate,,Scyller J. Borglum,REP,16
+Hand,5,U.S. Senate,,Mike Rounds,REP,49
+Hand,5,U.S. Senate,,Scyller J. Borglum,REP,20
+Hand,6,U.S. Senate,,Mike Rounds,REP,37
+Hand,6,U.S. Senate,,Scyller J. Borglum,REP,9
+Hand,7,U.S. Senate,,Mike Rounds,REP,30
+Hand,7,U.S. Senate,,Scyller J. Borglum,REP,16
+Hand,8,U.S. Senate,,Mike Rounds,REP,2
+Hand,8,U.S. Senate,,Scyller J. Borglum,REP,1
+Hand,9,U.S. Senate,,Mike Rounds,REP,34
+Hand,9,U.S. Senate,,Scyller J. Borglum,REP,23
+Hand,10,U.S. Senate,,Mike Rounds,REP,11
+Hand,10,U.S. Senate,,Scyller J. Borglum,REP,1
+Hand,11,U.S. Senate,,Mike Rounds,REP,130
+Hand,11,U.S. Senate,,Scyller J. Borglum,REP,28
+Hand,12,U.S. Senate,,Mike Rounds,REP,161
+Hand,12,U.S. Senate,,Scyller J. Borglum,REP,45
+Hand,1,U.S. Representative,1,Liz Marty May,REP,15
+Hand,1,U.S. Representative,1,Dusty Johnson,REP,54
+Hand,2,U.S. Representative,1,Liz Marty May,REP,5
+Hand,2,U.S. Representative,1,Dusty Johnson,REP,19
+Hand,3,U.S. Representative,1,Liz Marty May,REP,3
+Hand,3,U.S. Representative,1,Dusty Johnson,REP,18
+Hand,4,U.S. Representative,1,Liz Marty May,REP,9
+Hand,4,U.S. Representative,1,Dusty Johnson,REP,30
+Hand,5,U.S. Representative,1,Liz Marty May,REP,20
+Hand,5,U.S. Representative,1,Dusty Johnson,REP,50
+Hand,6,U.S. Representative,1,Liz Marty May,REP,8
+Hand,6,U.S. Representative,1,Dusty Johnson,REP,37
+Hand,7,U.S. Representative,1,Liz Marty May,REP,4
+Hand,7,U.S. Representative,1,Dusty Johnson,REP,42
+Hand,8,U.S. Representative,1,Liz Marty May,REP,0
+Hand,8,U.S. Representative,1,Dusty Johnson,REP,3
+Hand,9,U.S. Representative,1,Liz Marty May,REP,16
+Hand,9,U.S. Representative,1,Dusty Johnson,REP,41
+Hand,10,U.S. Representative,1,Liz Marty May,REP,0
+Hand,10,U.S. Representative,1,Dusty Johnson,REP,12
+Hand,11,U.S. Representative,1,Liz Marty May,REP,27
+Hand,11,U.S. Representative,1,Dusty Johnson,REP,129
+Hand,12,U.S. Representative,1,Liz Marty May,REP,39
+Hand,12,U.S. Representative,1,Dusty Johnson,REP,165
+Hand,1,State Senate,23,Bryan J Breitling,REP,32
+Hand,1,State Senate,23,Larry Nielson,REP,37
+Hand,2,State Senate,23,Bryan J Breitling,REP,10
+Hand,2,State Senate,23,Larry Nielson,REP,13
+Hand,3,State Senate,23,Bryan J Breitling,REP,9
+Hand,3,State Senate,23,Larry Nielson,REP,12
+Hand,4,State Senate,23,Bryan J Breitling,REP,24
+Hand,4,State Senate,23,Larry Nielson,REP,17
+Hand,5,State Senate,23,Bryan J Breitling,REP,52
+Hand,5,State Senate,23,Larry Nielson,REP,18
+Hand,6,State Senate,23,Bryan J Breitling,REP,32
+Hand,6,State Senate,23,Larry Nielson,REP,14
+Hand,7,State Senate,23,Bryan J Breitling,REP,31
+Hand,7,State Senate,23,Larry Nielson,REP,9
+Hand,8,State Senate,23,Bryan J Breitling,REP,3
+Hand,8,State Senate,23,Larry Nielson,REP,0
+Hand,9,State Senate,23,Bryan J Breitling,REP,37
+Hand,9,State Senate,23,Larry Nielson,REP,20
+Hand,10,State Senate,23,Bryan J Breitling,REP,8
+Hand,10,State Senate,23,Larry Nielson,REP,1
+Hand,11,State Senate,23,Bryan J Breitling,REP,113
+Hand,11,State Senate,23,Larry Nielson,REP,41
+Hand,12,State Senate,23,Bryan J Breitling,REP,151
+Hand,12,State Senate,23,Larry Nielson,REP,55
+Hand,1,State Representative,23,Kevin E Watts,REP,29
+Hand,1,State Representative,23,Spencer Gosch,REP,36
+Hand,1,State Representative,23,Charlie Hoffman,REP,36
+Hand,1,State Representative,23,James D Wangsness,REP,25
+Hand,2,State Representative,23,Kevin E Watts,REP,13
+Hand,2,State Representative,23,Spencer Gosch,REP,8
+Hand,2,State Representative,23,Charlie Hoffman,REP,15
+Hand,2,State Representative,23,James D Wangsness,REP,9
+Hand,3,State Representative,23,Kevin E Watts,REP,10
+Hand,3,State Representative,23,Spencer Gosch,REP,7
+Hand,3,State Representative,23,Charlie Hoffman,REP,10
+Hand,3,State Representative,23,James D Wangsness,REP,11
+Hand,4,State Representative,23,Kevin E Watts,REP,17
+Hand,4,State Representative,23,Spencer Gosch,REP,20
+Hand,4,State Representative,23,Charlie Hoffman,REP,26
+Hand,4,State Representative,23,James D Wangsness,REP,15
+Hand,5,State Representative,23,Kevin E Watts,REP,42
+Hand,5,State Representative,23,Spencer Gosch,REP,32
+Hand,5,State Representative,23,Charlie Hoffman,REP,13
+Hand,5,State Representative,23,James D Wangsness,REP,37
+Hand,6,State Representative,23,Kevin E Watts,REP,15
+Hand,6,State Representative,23,Spencer Gosch,REP,16
+Hand,6,State Representative,23,Charlie Hoffman,REP,23
+Hand,6,State Representative,23,James D Wangsness,REP,27
+Hand,7,State Representative,23,Kevin E Watts,REP,33
+Hand,7,State Representative,23,Spencer Gosch,REP,12
+Hand,7,State Representative,23,Charlie Hoffman,REP,14
+Hand,7,State Representative,23,James D Wangsness,REP,20
+Hand,8,State Representative,23,Kevin E Watts,REP,2
+Hand,8,State Representative,23,Spencer Gosch,REP,0
+Hand,8,State Representative,23,Charlie Hoffman,REP,0
+Hand,8,State Representative,23,James D Wangsness,REP,2
+Hand,9,State Representative,23,Kevin E Watts,REP,18
+Hand,9,State Representative,23,Spencer Gosch,REP,40
+Hand,9,State Representative,23,Charlie Hoffman,REP,34
+Hand,9,State Representative,23,James D Wangsness,REP,14
+Hand,10,State Representative,23,Kevin E Watts,REP,6
+Hand,10,State Representative,23,Spencer Gosch,REP,3
+Hand,10,State Representative,23,Charlie Hoffman,REP,3
+Hand,10,State Representative,23,James D Wangsness,REP,6
+Hand,11,State Representative,23,Kevin E Watts,REP,74
+Hand,11,State Representative,23,Spencer Gosch,REP,57
+Hand,11,State Representative,23,Charlie Hoffman,REP,42
+Hand,11,State Representative,23,James D Wangsness,REP,106
+Hand,12,State Representative,23,Kevin E Watts,REP,108
+Hand,12,State Representative,23,Spencer Gosch,REP,70
+Hand,12,State Representative,23,Charlie Hoffman,REP,56
+Hand,12,State Representative,23,James D Wangsness,REP,135
+Hand,5,County Commissioner Hand-4,,Robert James Eschenbaum,REP,28
+Hand,5,County Commissioner Hand-4,,Billy Jack Hughes,REP,43
+Hand,8,County Commissioner Hand-4,,Robert James Eschenbaum,REP,1
+Hand,8,County Commissioner Hand-4,,Billy Jack Hughes,REP,2
+Hand,9,County Commissioner Hand-4,,Robert James Eschenbaum,REP,39
+Hand,9,County Commissioner Hand-4,,Billy Jack Hughes,REP,16
+Hand,10,County Commissioner Hand-4,,Robert James Eschenbaum,REP,5
+Hand,10,County Commissioner Hand-4,,Billy Jack Hughes,REP,1
+Hand,7,School Board Member Wolsey - Wessington School District 02-6,,Kevin Clarke,,13
+Hand,7,School Board Member Wolsey - Wessington School District 02-6,,Brooke Legrand,,8
+Hand,7,School Board Member Wolsey - Wessington School District 02-6,,Eric Benjamin Borah,,5
+Hand,7,School Board Member Wolsey - Wessington School District 02-6,,Destiny Finn,,0
+Hand,7,School Board Member Wolsey - Wessington School District 02-6,,Carol Larsen,,0
+Hand,7,School Board Member Wolsey - Wessington School District 02-6,,Jeannie Rainford,,0
+Hand,7,School Board Member Wolsey - Wessington School District 02-6,,Jeffrey J Luce,,16
+Hand,7,School Board Member Wolsey - Wessington School District 02-6,,Ashley Hiles,,4

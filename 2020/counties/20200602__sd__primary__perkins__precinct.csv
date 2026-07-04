@@ -1,0 +1,61 @@
+county,precinct,office,district,candidate,party,votes
+Perkins,1,President,,Bernie Sanders,DEM,6
+Perkins,1,President,,Joseph R. Biden,DEM,20
+Perkins,2,President,,Bernie Sanders,DEM,1
+Perkins,2,President,,Joseph R. Biden,DEM,6
+Perkins,3,President,,Bernie Sanders,DEM,8
+Perkins,3,President,,Joseph R. Biden,DEM,29
+Perkins,4,President,,Bernie Sanders,DEM,3
+Perkins,4,President,,Joseph R. Biden,DEM,4
+Perkins,5,President,,Bernie Sanders,DEM,2
+Perkins,5,President,,Joseph R. Biden,DEM,3
+Perkins,6,President,,Bernie Sanders,DEM,3
+Perkins,6,President,,Joseph R. Biden,DEM,4
+Perkins,7,President,,Bernie Sanders,DEM,0
+Perkins,7,President,,Joseph R. Biden,DEM,2
+Perkins,8,President,,Bernie Sanders,DEM,0
+Perkins,8,President,,Joseph R. Biden,DEM,2
+Perkins,9,President,,Bernie Sanders,DEM,0
+Perkins,9,President,,Joseph R. Biden,DEM,2
+Perkins,12,President,,Bernie Sanders,DEM,3
+Perkins,12,President,,Joseph R. Biden,DEM,11
+Perkins,1,U.S. Senate,,Mike Rounds,REP,52
+Perkins,1,U.S. Senate,,Scyller J. Borglum,REP,16
+Perkins,2,U.S. Senate,,Mike Rounds,REP,14
+Perkins,2,U.S. Senate,,Scyller J. Borglum,REP,9
+Perkins,3,U.S. Senate,,Mike Rounds,REP,80
+Perkins,3,U.S. Senate,,Scyller J. Borglum,REP,17
+Perkins,4,U.S. Senate,,Mike Rounds,REP,10
+Perkins,4,U.S. Senate,,Scyller J. Borglum,REP,14
+Perkins,5,U.S. Senate,,Mike Rounds,REP,27
+Perkins,5,U.S. Senate,,Scyller J. Borglum,REP,19
+Perkins,6,U.S. Senate,,Mike Rounds,REP,16
+Perkins,6,U.S. Senate,,Scyller J. Borglum,REP,27
+Perkins,7,U.S. Senate,,Mike Rounds,REP,25
+Perkins,7,U.S. Senate,,Scyller J. Borglum,REP,44
+Perkins,8,U.S. Senate,,Mike Rounds,REP,9
+Perkins,8,U.S. Senate,,Scyller J. Borglum,REP,9
+Perkins,9,U.S. Senate,,Mike Rounds,REP,18
+Perkins,9,U.S. Senate,,Scyller J. Borglum,REP,32
+Perkins,12,U.S. Senate,,Mike Rounds,REP,57
+Perkins,12,U.S. Senate,,Scyller J. Borglum,REP,105
+Perkins,1,U.S. Representative,1,Liz Marty May,REP,13
+Perkins,1,U.S. Representative,1,Dusty Johnson,REP,54
+Perkins,2,U.S. Representative,1,Liz Marty May,REP,19
+Perkins,2,U.S. Representative,1,Dusty Johnson,REP,5
+Perkins,3,U.S. Representative,1,Liz Marty May,REP,13
+Perkins,3,U.S. Representative,1,Dusty Johnson,REP,82
+Perkins,4,U.S. Representative,1,Liz Marty May,REP,14
+Perkins,4,U.S. Representative,1,Dusty Johnson,REP,10
+Perkins,5,U.S. Representative,1,Liz Marty May,REP,17
+Perkins,5,U.S. Representative,1,Dusty Johnson,REP,29
+Perkins,6,U.S. Representative,1,Liz Marty May,REP,28
+Perkins,6,U.S. Representative,1,Dusty Johnson,REP,15
+Perkins,7,U.S. Representative,1,Liz Marty May,REP,55
+Perkins,7,U.S. Representative,1,Dusty Johnson,REP,15
+Perkins,8,U.S. Representative,1,Liz Marty May,REP,11
+Perkins,8,U.S. Representative,1,Dusty Johnson,REP,7
+Perkins,9,U.S. Representative,1,Liz Marty May,REP,41
+Perkins,9,U.S. Representative,1,Dusty Johnson,REP,9
+Perkins,12,U.S. Representative,1,Liz Marty May,REP,103
+Perkins,12,U.S. Representative,1,Dusty Johnson,REP,61

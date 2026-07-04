@@ -1,0 +1,43 @@
+county,precinct,office,district,candidate,party,votes
+Potter,Absentee,President,,Bernie Sanders,DEM,9
+Potter,Absentee,President,,Joseph R. Biden,DEM,41
+Potter,Gettysburg Legion Annex,President,,Bernie Sanders,DEM,4
+Potter,Gettysburg Legion Annex,President,,Joseph R. Biden,DEM,10
+Potter,Hoven American Legion,President,,Bernie Sanders,DEM,2
+Potter,Hoven American Legion,President,,Joseph R. Biden,DEM,3
+Potter,Absentee,U.S. Senate,,Mike Rounds,REP,190
+Potter,Absentee,U.S. Senate,,Scyller J. Borglum,REP,37
+Potter,Gettysburg Legion Annex,U.S. Senate,,Mike Rounds,REP,134
+Potter,Gettysburg Legion Annex,U.S. Senate,,Scyller J. Borglum,REP,35
+Potter,Hoven American Legion,U.S. Senate,,Mike Rounds,REP,63
+Potter,Hoven American Legion,U.S. Senate,,Scyller J. Borglum,REP,17
+Potter,Absentee,U.S. Representative,1,Liz Marty May,REP,30
+Potter,Absentee,U.S. Representative,1,Dusty Johnson,REP,197
+Potter,Gettysburg Legion Annex,U.S. Representative,1,Liz Marty May,REP,46
+Potter,Gettysburg Legion Annex,U.S. Representative,1,Dusty Johnson,REP,120
+Potter,Hoven American Legion,U.S. Representative,1,Liz Marty May,REP,25
+Potter,Hoven American Legion,U.S. Representative,1,Dusty Johnson,REP,55
+Potter,Absentee,State Senate,23,Bryan J Breitling,REP,109
+Potter,Absentee,State Senate,23,Larry Nielson,REP,102
+Potter,Gettysburg Legion Annex,State Senate,23,Bryan J Breitling,REP,69
+Potter,Gettysburg Legion Annex,State Senate,23,Larry Nielson,REP,78
+Potter,Hoven American Legion,State Senate,23,Bryan J Breitling,REP,28
+Potter,Hoven American Legion,State Senate,23,Larry Nielson,REP,49
+Potter,Absentee,State Representative,23,Kevin E Watts,REP,28
+Potter,Absentee,State Representative,23,Spencer Gosch,REP,173
+Potter,Absentee,State Representative,23,Charlie Hoffman,REP,158
+Potter,Absentee,State Representative,23,James D Wangsness,REP,54
+Potter,Gettysburg Legion Annex,State Representative,23,Kevin E Watts,REP,16
+Potter,Gettysburg Legion Annex,State Representative,23,Spencer Gosch,REP,113
+Potter,Gettysburg Legion Annex,State Representative,23,Charlie Hoffman,REP,93
+Potter,Gettysburg Legion Annex,State Representative,23,James D Wangsness,REP,42
+Potter,Hoven American Legion,State Representative,23,Kevin E Watts,REP,7
+Potter,Hoven American Legion,State Representative,23,Spencer Gosch,REP,60
+Potter,Hoven American Legion,State Representative,23,Charlie Hoffman,REP,53
+Potter,Hoven American Legion,State Representative,23,James D Wangsness,REP,8
+Potter,Absentee,County Commissioner Potter-5,,Patrick W Everson,REP,29
+Potter,Absentee,County Commissioner Potter-5,,Karen S. Doerr,REP,25
+Potter,Gettysburg Legion Annex,County Commissioner Potter-5,,Patrick W Everson,REP,40
+Potter,Gettysburg Legion Annex,County Commissioner Potter-5,,Karen S. Doerr,REP,33
+Potter,Hoven American Legion,County Commissioner Potter-5,,Patrick W Everson,REP,1
+Potter,Hoven American Legion,County Commissioner Potter-5,,Karen S. Doerr,REP,0

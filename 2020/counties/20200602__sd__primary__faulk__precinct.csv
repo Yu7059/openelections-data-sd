@@ -1,0 +1,85 @@
+county,precinct,office,district,candidate,party,votes
+Faulk,1,President,,Bernie Sanders,DEM,4
+Faulk,1,President,,Joseph R. Biden,DEM,14
+Faulk,2,President,,Bernie Sanders,DEM,0
+Faulk,2,President,,Joseph R. Biden,DEM,2
+Faulk,3,President,,Bernie Sanders,DEM,3
+Faulk,3,President,,Joseph R. Biden,DEM,5
+Faulk,4,President,,Bernie Sanders,DEM,1
+Faulk,4,President,,Joseph R. Biden,DEM,4
+Faulk,5,President,,Bernie Sanders,DEM,1
+Faulk,5,President,,Joseph R. Biden,DEM,6
+Faulk,6,President,,Bernie Sanders,DEM,5
+Faulk,6,President,,Joseph R. Biden,DEM,11
+Faulk,7,President,,Bernie Sanders,DEM,4
+Faulk,7,President,,Joseph R. Biden,DEM,20
+Faulk,1,U.S. Senate,,Mike Rounds,REP,58
+Faulk,1,U.S. Senate,,Scyller J. Borglum,REP,8
+Faulk,2,U.S. Senate,,Mike Rounds,REP,25
+Faulk,2,U.S. Senate,,Scyller J. Borglum,REP,6
+Faulk,3,U.S. Senate,,Mike Rounds,REP,39
+Faulk,3,U.S. Senate,,Scyller J. Borglum,REP,17
+Faulk,4,U.S. Senate,,Mike Rounds,REP,32
+Faulk,4,U.S. Senate,,Scyller J. Borglum,REP,10
+Faulk,5,U.S. Senate,,Mike Rounds,REP,23
+Faulk,5,U.S. Senate,,Scyller J. Borglum,REP,11
+Faulk,6,U.S. Senate,,Mike Rounds,REP,83
+Faulk,6,U.S. Senate,,Scyller J. Borglum,REP,20
+Faulk,7,U.S. Senate,,Mike Rounds,REP,91
+Faulk,7,U.S. Senate,,Scyller J. Borglum,REP,16
+Faulk,1,U.S. Representative,1,Liz Marty May,REP,15
+Faulk,1,U.S. Representative,1,Dusty Johnson,REP,51
+Faulk,2,U.S. Representative,1,Liz Marty May,REP,5
+Faulk,2,U.S. Representative,1,Dusty Johnson,REP,26
+Faulk,3,U.S. Representative,1,Liz Marty May,REP,16
+Faulk,3,U.S. Representative,1,Dusty Johnson,REP,39
+Faulk,4,U.S. Representative,1,Liz Marty May,REP,9
+Faulk,4,U.S. Representative,1,Dusty Johnson,REP,32
+Faulk,5,U.S. Representative,1,Liz Marty May,REP,6
+Faulk,5,U.S. Representative,1,Dusty Johnson,REP,28
+Faulk,6,U.S. Representative,1,Liz Marty May,REP,17
+Faulk,6,U.S. Representative,1,Dusty Johnson,REP,85
+Faulk,7,U.S. Representative,1,Liz Marty May,REP,24
+Faulk,7,U.S. Representative,1,Dusty Johnson,REP,83
+Faulk,1,State Senate,23,Bryan J Breitling,REP,22
+Faulk,1,State Senate,23,Larry Nielson,REP,31
+Faulk,2,State Senate,23,Bryan J Breitling,REP,8
+Faulk,2,State Senate,23,Larry Nielson,REP,16
+Faulk,3,State Senate,23,Bryan J Breitling,REP,20
+Faulk,3,State Senate,23,Larry Nielson,REP,32
+Faulk,4,State Senate,23,Bryan J Breitling,REP,6
+Faulk,4,State Senate,23,Larry Nielson,REP,34
+Faulk,5,State Senate,23,Bryan J Breitling,REP,5
+Faulk,5,State Senate,23,Larry Nielson,REP,25
+Faulk,6,State Senate,23,Bryan J Breitling,REP,43
+Faulk,6,State Senate,23,Larry Nielson,REP,50
+Faulk,7,State Senate,23,Bryan J Breitling,REP,41
+Faulk,7,State Senate,23,Larry Nielson,REP,57
+Faulk,1,State Representative,23,Kevin E Watts,REP,14
+Faulk,1,State Representative,23,Spencer Gosch,REP,41
+Faulk,1,State Representative,23,Charlie Hoffman,REP,38
+Faulk,1,State Representative,23,James D Wangsness,REP,16
+Faulk,2,State Representative,23,Kevin E Watts,REP,2
+Faulk,2,State Representative,23,Spencer Gosch,REP,20
+Faulk,2,State Representative,23,Charlie Hoffman,REP,19
+Faulk,2,State Representative,23,James D Wangsness,REP,7
+Faulk,3,State Representative,23,Kevin E Watts,REP,6
+Faulk,3,State Representative,23,Spencer Gosch,REP,33
+Faulk,3,State Representative,23,Charlie Hoffman,REP,34
+Faulk,3,State Representative,23,James D Wangsness,REP,20
+Faulk,4,State Representative,23,Kevin E Watts,REP,13
+Faulk,4,State Representative,23,Spencer Gosch,REP,18
+Faulk,4,State Representative,23,Charlie Hoffman,REP,29
+Faulk,4,State Representative,23,James D Wangsness,REP,14
+Faulk,5,State Representative,23,Kevin E Watts,REP,7
+Faulk,5,State Representative,23,Spencer Gosch,REP,16
+Faulk,5,State Representative,23,Charlie Hoffman,REP,22
+Faulk,5,State Representative,23,James D Wangsness,REP,10
+Faulk,6,State Representative,23,Kevin E Watts,REP,24
+Faulk,6,State Representative,23,Spencer Gosch,REP,72
+Faulk,6,State Representative,23,Charlie Hoffman,REP,54
+Faulk,6,State Representative,23,James D Wangsness,REP,26
+Faulk,7,State Representative,23,Kevin E Watts,REP,18
+Faulk,7,State Representative,23,Spencer Gosch,REP,58
+Faulk,7,State Representative,23,Charlie Hoffman,REP,69
+Faulk,7,State Representative,23,James D Wangsness,REP,31

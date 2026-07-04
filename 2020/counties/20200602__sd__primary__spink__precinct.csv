@@ -1,0 +1,67 @@
+county,precinct,office,district,candidate,party,votes
+Spink,1,President,,Bernie Sanders,DEM,1
+Spink,1,President,,Joseph R. Biden,DEM,29
+Spink,3,President,,Bernie Sanders,DEM,5
+Spink,3,President,,Joseph R. Biden,DEM,30
+Spink,4,President,,Bernie Sanders,DEM,1
+Spink,4,President,,Joseph R. Biden,DEM,21
+Spink,5,President,,Bernie Sanders,DEM,2
+Spink,5,President,,Joseph R. Biden,DEM,19
+Spink,6,President,,Bernie Sanders,DEM,2
+Spink,6,President,,Joseph R. Biden,DEM,10
+Spink,7,President,,Bernie Sanders,DEM,6
+Spink,7,President,,Joseph R. Biden,DEM,47
+Spink,8,President,,Bernie Sanders,DEM,0
+Spink,8,President,,Joseph R. Biden,DEM,18
+Spink,9,President,,Bernie Sanders,DEM,7
+Spink,9,President,,Joseph R. Biden,DEM,71
+Spink,10,President,,Bernie Sanders,DEM,9
+Spink,10,President,,Joseph R. Biden,DEM,60
+Spink,1,U.S. Senate,,Mike Rounds,REP,57
+Spink,1,U.S. Senate,,Scyller J. Borglum,REP,17
+Spink,3,U.S. Senate,,Mike Rounds,REP,84
+Spink,3,U.S. Senate,,Scyller J. Borglum,REP,28
+Spink,4,U.S. Senate,,Mike Rounds,REP,63
+Spink,4,U.S. Senate,,Scyller J. Borglum,REP,18
+Spink,5,U.S. Senate,,Mike Rounds,REP,49
+Spink,5,U.S. Senate,,Scyller J. Borglum,REP,8
+Spink,6,U.S. Senate,,Mike Rounds,REP,11
+Spink,6,U.S. Senate,,Scyller J. Borglum,REP,4
+Spink,7,U.S. Senate,,Mike Rounds,REP,48
+Spink,7,U.S. Senate,,Scyller J. Borglum,REP,22
+Spink,8,U.S. Senate,,Mike Rounds,REP,8
+Spink,8,U.S. Senate,,Scyller J. Borglum,REP,7
+Spink,9,U.S. Senate,,Mike Rounds,REP,71
+Spink,9,U.S. Senate,,Scyller J. Borglum,REP,32
+Spink,10,U.S. Senate,,Mike Rounds,REP,72
+Spink,10,U.S. Senate,,Scyller J. Borglum,REP,28
+Spink,1,U.S. Representative,1,Liz Marty May,REP,8
+Spink,1,U.S. Representative,1,Dusty Johnson,REP,66
+Spink,3,U.S. Representative,1,Liz Marty May,REP,27
+Spink,3,U.S. Representative,1,Dusty Johnson,REP,86
+Spink,4,U.S. Representative,1,Liz Marty May,REP,5
+Spink,4,U.S. Representative,1,Dusty Johnson,REP,77
+Spink,5,U.S. Representative,1,Liz Marty May,REP,6
+Spink,5,U.S. Representative,1,Dusty Johnson,REP,50
+Spink,6,U.S. Representative,1,Liz Marty May,REP,3
+Spink,6,U.S. Representative,1,Dusty Johnson,REP,12
+Spink,7,U.S. Representative,1,Liz Marty May,REP,13
+Spink,7,U.S. Representative,1,Dusty Johnson,REP,57
+Spink,8,U.S. Representative,1,Liz Marty May,REP,2
+Spink,8,U.S. Representative,1,Dusty Johnson,REP,13
+Spink,9,U.S. Representative,1,Liz Marty May,REP,14
+Spink,9,U.S. Representative,1,Dusty Johnson,REP,89
+Spink,10,U.S. Representative,1,Liz Marty May,REP,19
+Spink,10,U.S. Representative,1,Dusty Johnson,REP,82
+Spink,3,State Senate,23,Bryan J Breitling,REP,32
+Spink,3,State Senate,23,Larry Nielson,REP,76
+Spink,3,State Representative,23,Kevin E Watts,REP,28
+Spink,3,State Representative,23,Spencer Gosch,REP,45
+Spink,3,State Representative,23,Charlie Hoffman,REP,60
+Spink,3,State Representative,23,James D Wangsness,REP,43
+Spink,3,County Commissioner Spink-2,,Robert J Roeber,REP,34
+Spink,3,County Commissioner Spink-2,,Brian Johnson,REP,70
+Spink,4,County Commissioner Spink-2,,Robert J Roeber,REP,14
+Spink,4,County Commissioner Spink-2,,Brian Johnson,REP,31
+Spink,5,County Commissioner Spink-2,,Robert J Roeber,REP,3
+Spink,5,County Commissioner Spink-2,,Brian Johnson,REP,47

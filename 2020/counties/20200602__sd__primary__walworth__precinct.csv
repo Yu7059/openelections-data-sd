@@ -1,0 +1,127 @@
+county,precinct,office,district,candidate,party,votes
+Walworth,1,President,,Bernie Sanders,DEM,2
+Walworth,1,President,,Joseph R. Biden,DEM,10
+Walworth,2,President,,Bernie Sanders,DEM,2
+Walworth,2,President,,Joseph R. Biden,DEM,5
+Walworth,3,President,,Bernie Sanders,DEM,4
+Walworth,3,President,,Joseph R. Biden,DEM,10
+Walworth,4,President,,Bernie Sanders,DEM,9
+Walworth,4,President,,Joseph R. Biden,DEM,12
+Walworth,5,President,,Bernie Sanders,DEM,6
+Walworth,5,President,,Joseph R. Biden,DEM,23
+Walworth,6,President,,Bernie Sanders,DEM,7
+Walworth,6,President,,Joseph R. Biden,DEM,46
+Walworth,7,President,,Bernie Sanders,DEM,6
+Walworth,7,President,,Joseph R. Biden,DEM,25
+Walworth,8,President,,Bernie Sanders,DEM,0
+Walworth,8,President,,Joseph R. Biden,DEM,3
+Walworth,9,President,,Bernie Sanders,DEM,2
+Walworth,9,President,,Joseph R. Biden,DEM,1
+Walworth,10,President,,Bernie Sanders,DEM,3
+Walworth,10,President,,Joseph R. Biden,DEM,10
+Walworth,1,U.S. Senate,,Mike Rounds,REP,61
+Walworth,1,U.S. Senate,,Scyller J. Borglum,REP,14
+Walworth,2,U.S. Senate,,Mike Rounds,REP,56
+Walworth,2,U.S. Senate,,Scyller J. Borglum,REP,24
+Walworth,3,U.S. Senate,,Mike Rounds,REP,167
+Walworth,3,U.S. Senate,,Scyller J. Borglum,REP,66
+Walworth,4,U.S. Senate,,Mike Rounds,REP,37
+Walworth,4,U.S. Senate,,Scyller J. Borglum,REP,7
+Walworth,5,U.S. Senate,,Mike Rounds,REP,75
+Walworth,5,U.S. Senate,,Scyller J. Borglum,REP,20
+Walworth,6,U.S. Senate,,Mike Rounds,REP,110
+Walworth,6,U.S. Senate,,Scyller J. Borglum,REP,36
+Walworth,7,U.S. Senate,,Mike Rounds,REP,131
+Walworth,7,U.S. Senate,,Scyller J. Borglum,REP,47
+Walworth,8,U.S. Senate,,Mike Rounds,REP,33
+Walworth,8,U.S. Senate,,Scyller J. Borglum,REP,4
+Walworth,9,U.S. Senate,,Mike Rounds,REP,30
+Walworth,9,U.S. Senate,,Scyller J. Borglum,REP,15
+Walworth,10,U.S. Senate,,Mike Rounds,REP,52
+Walworth,10,U.S. Senate,,Scyller J. Borglum,REP,20
+Walworth,1,U.S. Representative,1,Liz Marty May,REP,15
+Walworth,1,U.S. Representative,1,Dusty Johnson,REP,59
+Walworth,2,U.S. Representative,1,Liz Marty May,REP,26
+Walworth,2,U.S. Representative,1,Dusty Johnson,REP,55
+Walworth,3,U.S. Representative,1,Liz Marty May,REP,63
+Walworth,3,U.S. Representative,1,Dusty Johnson,REP,171
+Walworth,4,U.S. Representative,1,Liz Marty May,REP,16
+Walworth,4,U.S. Representative,1,Dusty Johnson,REP,28
+Walworth,5,U.S. Representative,1,Liz Marty May,REP,22
+Walworth,5,U.S. Representative,1,Dusty Johnson,REP,76
+Walworth,6,U.S. Representative,1,Liz Marty May,REP,35
+Walworth,6,U.S. Representative,1,Dusty Johnson,REP,110
+Walworth,7,U.S. Representative,1,Liz Marty May,REP,41
+Walworth,7,U.S. Representative,1,Dusty Johnson,REP,133
+Walworth,8,U.S. Representative,1,Liz Marty May,REP,5
+Walworth,8,U.S. Representative,1,Dusty Johnson,REP,31
+Walworth,9,U.S. Representative,1,Liz Marty May,REP,14
+Walworth,9,U.S. Representative,1,Dusty Johnson,REP,30
+Walworth,10,U.S. Representative,1,Liz Marty May,REP,27
+Walworth,10,U.S. Representative,1,Dusty Johnson,REP,45
+Walworth,1,State Senate,23,Bryan J Breitling,REP,23
+Walworth,1,State Senate,23,Larry Nielson,REP,46
+Walworth,2,State Senate,23,Bryan J Breitling,REP,35
+Walworth,2,State Senate,23,Larry Nielson,REP,38
+Walworth,3,State Senate,23,Bryan J Breitling,REP,89
+Walworth,3,State Senate,23,Larry Nielson,REP,112
+Walworth,4,State Senate,23,Bryan J Breitling,REP,21
+Walworth,4,State Senate,23,Larry Nielson,REP,21
+Walworth,5,State Senate,23,Bryan J Breitling,REP,46
+Walworth,5,State Senate,23,Larry Nielson,REP,39
+Walworth,6,State Senate,23,Bryan J Breitling,REP,65
+Walworth,6,State Senate,23,Larry Nielson,REP,64
+Walworth,7,State Senate,23,Bryan J Breitling,REP,86
+Walworth,7,State Senate,23,Larry Nielson,REP,73
+Walworth,8,State Senate,23,Bryan J Breitling,REP,10
+Walworth,8,State Senate,23,Larry Nielson,REP,20
+Walworth,9,State Senate,23,Bryan J Breitling,REP,17
+Walworth,9,State Senate,23,Larry Nielson,REP,22
+Walworth,10,State Senate,23,Bryan J Breitling,REP,32
+Walworth,10,State Senate,23,Larry Nielson,REP,26
+Walworth,1,State Representative,23,Kevin E Watts,REP,6
+Walworth,1,State Representative,23,Spencer Gosch,REP,62
+Walworth,1,State Representative,23,Charlie Hoffman,REP,42
+Walworth,1,State Representative,23,James D Wangsness,REP,13
+Walworth,2,State Representative,23,Kevin E Watts,REP,9
+Walworth,2,State Representative,23,Spencer Gosch,REP,71
+Walworth,2,State Representative,23,Charlie Hoffman,REP,46
+Walworth,2,State Representative,23,James D Wangsness,REP,15
+Walworth,3,State Representative,23,Kevin E Watts,REP,26
+Walworth,3,State Representative,23,Spencer Gosch,REP,213
+Walworth,3,State Representative,23,Charlie Hoffman,REP,125
+Walworth,3,State Representative,23,James D Wangsness,REP,47
+Walworth,4,State Representative,23,Kevin E Watts,REP,1
+Walworth,4,State Representative,23,Spencer Gosch,REP,41
+Walworth,4,State Representative,23,Charlie Hoffman,REP,17
+Walworth,4,State Representative,23,James D Wangsness,REP,10
+Walworth,5,State Representative,23,Kevin E Watts,REP,4
+Walworth,5,State Representative,23,Spencer Gosch,REP,91
+Walworth,5,State Representative,23,Charlie Hoffman,REP,59
+Walworth,5,State Representative,23,James D Wangsness,REP,20
+Walworth,6,State Representative,23,Kevin E Watts,REP,12
+Walworth,6,State Representative,23,Spencer Gosch,REP,132
+Walworth,6,State Representative,23,Charlie Hoffman,REP,89
+Walworth,6,State Representative,23,James D Wangsness,REP,23
+Walworth,7,State Representative,23,Kevin E Watts,REP,9
+Walworth,7,State Representative,23,Spencer Gosch,REP,163
+Walworth,7,State Representative,23,Charlie Hoffman,REP,121
+Walworth,7,State Representative,23,James D Wangsness,REP,19
+Walworth,8,State Representative,23,Kevin E Watts,REP,1
+Walworth,8,State Representative,23,Spencer Gosch,REP,34
+Walworth,8,State Representative,23,Charlie Hoffman,REP,23
+Walworth,8,State Representative,23,James D Wangsness,REP,6
+Walworth,9,State Representative,23,Kevin E Watts,REP,5
+Walworth,9,State Representative,23,Spencer Gosch,REP,42
+Walworth,9,State Representative,23,Charlie Hoffman,REP,26
+Walworth,9,State Representative,23,James D Wangsness,REP,4
+Walworth,10,State Representative,23,Kevin E Watts,REP,9
+Walworth,10,State Representative,23,Spencer Gosch,REP,63
+Walworth,10,State Representative,23,Charlie Hoffman,REP,49
+Walworth,10,State Representative,23,James D Wangsness,REP,11
+Walworth,5,County Commissioner Walworth-2,,Kevin Holgard,REP,49
+Walworth,5,County Commissioner Walworth-2,,Taylor Oster,REP,46
+Walworth,9,County Commissioner Walworth-2,,Kevin Holgard,REP,29
+Walworth,9,County Commissioner Walworth-2,,Taylor Oster,REP,16
+Walworth,6,County Commissioner Walworth-4,,Duane Mohr,REP,78
+Walworth,6,County Commissioner Walworth-4,,Marion Schlomer,REP,69

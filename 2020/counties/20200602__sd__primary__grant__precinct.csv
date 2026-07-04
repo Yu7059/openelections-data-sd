@@ -1,0 +1,109 @@
+county,precinct,office,district,candidate,party,votes
+Grant,11,President,,Bernie Sanders,DEM,12
+Grant,11,President,,Joseph R. Biden,DEM,29
+Grant,12,President,,Bernie Sanders,DEM,1
+Grant,12,President,,Joseph R. Biden,DEM,8
+Grant,21,President,,Bernie Sanders,DEM,1
+Grant,21,President,,Joseph R. Biden,DEM,5
+Grant,22,President,,Bernie Sanders,DEM,5
+Grant,22,President,,Joseph R. Biden,DEM,37
+Grant,31,President,,Bernie Sanders,DEM,0
+Grant,31,President,,Joseph R. Biden,DEM,5
+Grant,32,President,,Bernie Sanders,DEM,4
+Grant,32,President,,Joseph R. Biden,DEM,6
+Grant,33,President,,Bernie Sanders,DEM,8
+Grant,33,President,,Joseph R. Biden,DEM,41
+Grant,41,President,,Bernie Sanders,DEM,4
+Grant,41,President,,Joseph R. Biden,DEM,31
+Grant,42,President,,Bernie Sanders,DEM,2
+Grant,42,President,,Joseph R. Biden,DEM,22
+Grant,43,President,,Bernie Sanders,DEM,8
+Grant,43,President,,Joseph R. Biden,DEM,44
+Grant,44,President,,Bernie Sanders,DEM,2
+Grant,44,President,,Joseph R. Biden,DEM,7
+Grant,45,President,,Bernie Sanders,DEM,3
+Grant,45,President,,Joseph R. Biden,DEM,15
+Grant,46,President,,Bernie Sanders,DEM,3
+Grant,46,President,,Joseph R. Biden,DEM,21
+Grant,47,President,,Bernie Sanders,DEM,3
+Grant,47,President,,Joseph R. Biden,DEM,8
+Grant,49,President,,Bernie Sanders,DEM,2
+Grant,49,President,,Joseph R. Biden,DEM,8
+Grant,52,President,,Bernie Sanders,DEM,2
+Grant,52,President,,Joseph R. Biden,DEM,6
+Grant,53,President,,Bernie Sanders,DEM,1
+Grant,53,President,,Joseph R. Biden,DEM,5
+Grant,54,President,,Bernie Sanders,DEM,2
+Grant,54,President,,Joseph R. Biden,DEM,9
+Grant,11,U.S. Senate,,Mike Rounds,REP,36
+Grant,11,U.S. Senate,,Scyller J. Borglum,REP,15
+Grant,12,U.S. Senate,,Mike Rounds,REP,14
+Grant,12,U.S. Senate,,Scyller J. Borglum,REP,2
+Grant,21,U.S. Senate,,Mike Rounds,REP,14
+Grant,21,U.S. Senate,,Scyller J. Borglum,REP,7
+Grant,22,U.S. Senate,,Mike Rounds,REP,78
+Grant,22,U.S. Senate,,Scyller J. Borglum,REP,25
+Grant,31,U.S. Senate,,Mike Rounds,REP,11
+Grant,31,U.S. Senate,,Scyller J. Borglum,REP,4
+Grant,32,U.S. Senate,,Mike Rounds,REP,14
+Grant,32,U.S. Senate,,Scyller J. Borglum,REP,8
+Grant,33,U.S. Senate,,Mike Rounds,REP,69
+Grant,33,U.S. Senate,,Scyller J. Borglum,REP,10
+Grant,41,U.S. Senate,,Mike Rounds,REP,35
+Grant,41,U.S. Senate,,Scyller J. Borglum,REP,16
+Grant,42,U.S. Senate,,Mike Rounds,REP,38
+Grant,42,U.S. Senate,,Scyller J. Borglum,REP,14
+Grant,43,U.S. Senate,,Mike Rounds,REP,63
+Grant,43,U.S. Senate,,Scyller J. Borglum,REP,16
+Grant,44,U.S. Senate,,Mike Rounds,REP,12
+Grant,44,U.S. Senate,,Scyller J. Borglum,REP,1
+Grant,45,U.S. Senate,,Mike Rounds,REP,28
+Grant,45,U.S. Senate,,Scyller J. Borglum,REP,12
+Grant,46,U.S. Senate,,Mike Rounds,REP,34
+Grant,46,U.S. Senate,,Scyller J. Borglum,REP,6
+Grant,47,U.S. Senate,,Mike Rounds,REP,39
+Grant,47,U.S. Senate,,Scyller J. Borglum,REP,17
+Grant,49,U.S. Senate,,Mike Rounds,REP,14
+Grant,49,U.S. Senate,,Scyller J. Borglum,REP,7
+Grant,52,U.S. Senate,,Mike Rounds,REP,10
+Grant,52,U.S. Senate,,Scyller J. Borglum,REP,5
+Grant,53,U.S. Senate,,Mike Rounds,REP,7
+Grant,53,U.S. Senate,,Scyller J. Borglum,REP,2
+Grant,54,U.S. Senate,,Mike Rounds,REP,21
+Grant,54,U.S. Senate,,Scyller J. Borglum,REP,17
+Grant,11,U.S. Representative,1,Liz Marty May,REP,8
+Grant,11,U.S. Representative,1,Dusty Johnson,REP,42
+Grant,12,U.S. Representative,1,Liz Marty May,REP,3
+Grant,12,U.S. Representative,1,Dusty Johnson,REP,13
+Grant,21,U.S. Representative,1,Liz Marty May,REP,6
+Grant,21,U.S. Representative,1,Dusty Johnson,REP,16
+Grant,22,U.S. Representative,1,Liz Marty May,REP,18
+Grant,22,U.S. Representative,1,Dusty Johnson,REP,84
+Grant,31,U.S. Representative,1,Liz Marty May,REP,4
+Grant,31,U.S. Representative,1,Dusty Johnson,REP,11
+Grant,32,U.S. Representative,1,Liz Marty May,REP,5
+Grant,32,U.S. Representative,1,Dusty Johnson,REP,17
+Grant,33,U.S. Representative,1,Liz Marty May,REP,17
+Grant,33,U.S. Representative,1,Dusty Johnson,REP,64
+Grant,41,U.S. Representative,1,Liz Marty May,REP,12
+Grant,41,U.S. Representative,1,Dusty Johnson,REP,39
+Grant,42,U.S. Representative,1,Liz Marty May,REP,11
+Grant,42,U.S. Representative,1,Dusty Johnson,REP,41
+Grant,43,U.S. Representative,1,Liz Marty May,REP,15
+Grant,43,U.S. Representative,1,Dusty Johnson,REP,64
+Grant,44,U.S. Representative,1,Liz Marty May,REP,0
+Grant,44,U.S. Representative,1,Dusty Johnson,REP,13
+Grant,45,U.S. Representative,1,Liz Marty May,REP,8
+Grant,45,U.S. Representative,1,Dusty Johnson,REP,32
+Grant,46,U.S. Representative,1,Liz Marty May,REP,8
+Grant,46,U.S. Representative,1,Dusty Johnson,REP,31
+Grant,47,U.S. Representative,1,Liz Marty May,REP,9
+Grant,47,U.S. Representative,1,Dusty Johnson,REP,47
+Grant,49,U.S. Representative,1,Liz Marty May,REP,3
+Grant,49,U.S. Representative,1,Dusty Johnson,REP,17
+Grant,52,U.S. Representative,1,Liz Marty May,REP,4
+Grant,52,U.S. Representative,1,Dusty Johnson,REP,11
+Grant,53,U.S. Representative,1,Liz Marty May,REP,1
+Grant,53,U.S. Representative,1,Dusty Johnson,REP,8
+Grant,54,U.S. Representative,1,Liz Marty May,REP,12
+Grant,54,U.S. Representative,1,Dusty Johnson,REP,26

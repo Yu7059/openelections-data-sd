@@ -1,0 +1,62 @@
+county,precinct,office,district,candidate,party,votes
+Bon Homme,1,President,,Bernie Sanders,DEM,18
+Bon Homme,1,President,,Joseph R. Biden,DEM,37
+Bon Homme,2,President,,Bernie Sanders,DEM,6
+Bon Homme,2,President,,Joseph R. Biden,DEM,52
+Bon Homme,3,President,,Bernie Sanders,DEM,27
+Bon Homme,3,President,,Joseph R. Biden,DEM,73
+Bon Homme,4,President,,Bernie Sanders,DEM,12
+Bon Homme,4,President,,Joseph R. Biden,DEM,55
+Bon Homme,5,President,,Bernie Sanders,DEM,17
+Bon Homme,5,President,,Joseph R. Biden,DEM,55
+Bon Homme,1,U.S. Senate,,Mike Rounds,REP,121
+Bon Homme,1,U.S. Senate,,Scyller J. Borglum,REP,68
+Bon Homme,2,U.S. Senate,,Mike Rounds,REP,134
+Bon Homme,2,U.S. Senate,,Scyller J. Borglum,REP,52
+Bon Homme,3,U.S. Senate,,Mike Rounds,REP,137
+Bon Homme,3,U.S. Senate,,Scyller J. Borglum,REP,74
+Bon Homme,4,U.S. Senate,,Mike Rounds,REP,57
+Bon Homme,4,U.S. Senate,,Scyller J. Borglum,REP,48
+Bon Homme,5,U.S. Senate,,Mike Rounds,REP,165
+Bon Homme,5,U.S. Senate,,Scyller J. Borglum,REP,69
+Bon Homme,1,U.S. Representative,1,Liz Marty May,REP,54
+Bon Homme,1,U.S. Representative,1,Dusty Johnson,REP,136
+Bon Homme,2,U.S. Representative,1,Liz Marty May,REP,30
+Bon Homme,2,U.S. Representative,1,Dusty Johnson,REP,159
+Bon Homme,3,U.S. Representative,1,Liz Marty May,REP,44
+Bon Homme,3,U.S. Representative,1,Dusty Johnson,REP,169
+Bon Homme,4,U.S. Representative,1,Liz Marty May,REP,38
+Bon Homme,4,U.S. Representative,1,Dusty Johnson,REP,68
+Bon Homme,5,U.S. Representative,1,Liz Marty May,REP,55
+Bon Homme,5,U.S. Representative,1,Dusty Johnson,REP,174
+Bon Homme,2,State Senate,21,Erin Tobin,REP,110
+Bon Homme,2,State Senate,21,Lee Qualm,REP,80
+Bon Homme,5,State Senate,21,Erin Tobin,REP,116
+Bon Homme,5,State Senate,21,Lee Qualm,REP,113
+Bon Homme,1,State Representative,19,Marty Overweg,REP,126
+Bon Homme,1,State Representative,19,Kent Peterson,REP,103
+Bon Homme,1,State Representative,19,Jessica Bahmuller,REP,79
+Bon Homme,3,State Representative,19,Marty Overweg,REP,79
+Bon Homme,3,State Representative,19,Kent Peterson,REP,135
+Bon Homme,3,State Representative,19,Jessica Bahmuller,REP,120
+Bon Homme,4,State Representative,19,Marty Overweg,REP,42
+Bon Homme,4,State Representative,19,Kent Peterson,REP,59
+Bon Homme,4,State Representative,19,Jessica Bahmuller,REP,56
+Bon Homme,1,County Treasurer,,Jenn Knoll,REP,142
+Bon Homme,1,County Treasurer,,Brad J. Kopp,REP,39
+Bon Homme,2,County Treasurer,,Jenn Knoll,REP,135
+Bon Homme,2,County Treasurer,,Brad J. Kopp,REP,52
+Bon Homme,3,County Treasurer,,Jenn Knoll,REP,149
+Bon Homme,3,County Treasurer,,Brad J. Kopp,REP,63
+Bon Homme,4,County Treasurer,,Jenn Knoll,REP,75
+Bon Homme,4,County Treasurer,,Brad J. Kopp,REP,27
+Bon Homme,5,County Treasurer,,Jenn Knoll,REP,199
+Bon Homme,5,County Treasurer,,Brad J. Kopp,REP,34
+Bon Homme,1,County Commissioner Bon Homme-2,,Shon Whitwood,REP,11
+Bon Homme,1,County Commissioner Bon Homme-2,,Edward Van Gerpen,REP,6
+Bon Homme,2,County Commissioner Bon Homme-2,,Shon Whitwood,REP,81
+Bon Homme,2,County Commissioner Bon Homme-2,,Edward Van Gerpen,REP,106
+Bon Homme,3,County Commissioner Bon Homme-2,,Shon Whitwood,REP,7
+Bon Homme,3,County Commissioner Bon Homme-2,,Edward Van Gerpen,REP,22
+Bon Homme,5,County Commissioner Bon Homme-2,,Shon Whitwood,REP,0
+Bon Homme,5,County Commissioner Bon Homme-2,,Edward Van Gerpen,REP,0

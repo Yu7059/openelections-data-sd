@@ -1,0 +1,111 @@
+county,precinct,office,district,candidate,party,votes
+Lake,Chester-Franklin,President,,Bernie Sanders,DEM,10
+Lake,Chester-Franklin,President,,Joseph R. Biden,DEM,46
+Lake,Concord-Badus- Wayne/Ramona,President,,Bernie Sanders,DEM,9
+Lake,Concord-Badus- Wayne/Ramona,President,,Joseph R. Biden,DEM,29
+Lake,Farmington-Leroy-Clarno- Orland,President,,Bernie Sanders,DEM,11
+Lake,Farmington-Leroy-Clarno- Orland,President,,Joseph R. Biden,DEM,28
+Lake,Herman-Winfred,President,,Bernie Sanders,DEM,14
+Lake,Herman-Winfred,President,,Joseph R. Biden,DEM,56
+Lake,Lakeview,President,,Bernie Sanders,DEM,11
+Lake,Lakeview,President,,Joseph R. Biden,DEM,78
+Lake,Nunda-Summit,President,,Bernie Sanders,DEM,8
+Lake,Nunda-Summit,President,,Joseph R. Biden,DEM,14
+Lake,Ward One,President,,Bernie Sanders,DEM,76
+Lake,Ward One,President,,Joseph R. Biden,DEM,239
+Lake,Ward Three,President,,Bernie Sanders,DEM,33
+Lake,Ward Three,President,,Joseph R. Biden,DEM,122
+Lake,Ward Two,President,,Bernie Sanders,DEM,34
+Lake,Ward Two,President,,Joseph R. Biden,DEM,129
+Lake,Wentworth-Rutland,President,,Bernie Sanders,DEM,11
+Lake,Wentworth-Rutland,President,,Joseph R. Biden,DEM,65
+Lake,Chester-Franklin,U.S. Senate,,Mike Rounds,REP,77
+Lake,Chester-Franklin,U.S. Senate,,Scyller J. Borglum,REP,32
+Lake,Concord-Badus- Wayne/Ramona,U.S. Senate,,Mike Rounds,REP,56
+Lake,Concord-Badus- Wayne/Ramona,U.S. Senate,,Scyller J. Borglum,REP,11
+Lake,Farmington-Leroy-Clarno- Orland,U.S. Senate,,Mike Rounds,REP,69
+Lake,Farmington-Leroy-Clarno- Orland,U.S. Senate,,Scyller J. Borglum,REP,18
+Lake,Herman-Winfred,U.S. Senate,,Mike Rounds,REP,91
+Lake,Herman-Winfred,U.S. Senate,,Scyller J. Borglum,REP,32
+Lake,Lakeview,U.S. Senate,,Mike Rounds,REP,127
+Lake,Lakeview,U.S. Senate,,Scyller J. Borglum,REP,25
+Lake,Nunda-Summit,U.S. Senate,,Mike Rounds,REP,55
+Lake,Nunda-Summit,U.S. Senate,,Scyller J. Borglum,REP,13
+Lake,Ward One,U.S. Senate,,Mike Rounds,REP,352
+Lake,Ward One,U.S. Senate,,Scyller J. Borglum,REP,72
+Lake,Ward Three,U.S. Senate,,Mike Rounds,REP,129
+Lake,Ward Three,U.S. Senate,,Scyller J. Borglum,REP,34
+Lake,Ward Two,U.S. Senate,,Mike Rounds,REP,144
+Lake,Ward Two,U.S. Senate,,Scyller J. Borglum,REP,37
+Lake,Wentworth-Rutland,U.S. Senate,,Mike Rounds,REP,111
+Lake,Wentworth-Rutland,U.S. Senate,,Scyller J. Borglum,REP,37
+Lake,Chester-Franklin,U.S. Representative,1,Liz Marty May,REP,16
+Lake,Chester-Franklin,U.S. Representative,1,Dusty Johnson,REP,94
+Lake,Concord-Badus- Wayne/Ramona,U.S. Representative,1,Liz Marty May,REP,11
+Lake,Concord-Badus- Wayne/Ramona,U.S. Representative,1,Dusty Johnson,REP,56
+Lake,Farmington-Leroy-Clarno- Orland,U.S. Representative,1,Liz Marty May,REP,20
+Lake,Farmington-Leroy-Clarno- Orland,U.S. Representative,1,Dusty Johnson,REP,67
+Lake,Herman-Winfred,U.S. Representative,1,Liz Marty May,REP,21
+Lake,Herman-Winfred,U.S. Representative,1,Dusty Johnson,REP,100
+Lake,Lakeview,U.S. Representative,1,Liz Marty May,REP,17
+Lake,Lakeview,U.S. Representative,1,Dusty Johnson,REP,135
+Lake,Nunda-Summit,U.S. Representative,1,Liz Marty May,REP,7
+Lake,Nunda-Summit,U.S. Representative,1,Dusty Johnson,REP,61
+Lake,Ward One,U.S. Representative,1,Liz Marty May,REP,58
+Lake,Ward One,U.S. Representative,1,Dusty Johnson,REP,370
+Lake,Ward Three,U.S. Representative,1,Liz Marty May,REP,38
+Lake,Ward Three,U.S. Representative,1,Dusty Johnson,REP,125
+Lake,Ward Two,U.S. Representative,1,Liz Marty May,REP,33
+Lake,Ward Two,U.S. Representative,1,Dusty Johnson,REP,144
+Lake,Wentworth-Rutland,U.S. Representative,1,Liz Marty May,REP,19
+Lake,Wentworth-Rutland,U.S. Representative,1,Dusty Johnson,REP,130
+Lake,Chester-Franklin,County Commissioner At Large,,Adam Leighton,REP,63
+Lake,Chester-Franklin,County Commissioner At Large,,Phillip J Wohlers,REP,13
+Lake,Chester-Franklin,County Commissioner At Large,,Roger Hageman,REP,29
+Lake,Chester-Franklin,County Commissioner At Large,,Deb Reinicke,REP,77
+Lake,Chester-Franklin,County Commissioner At Large,,Dennis Slaughter,REP,57
+Lake,Concord-Badus- Wayne/Ramona,County Commissioner At Large,,Adam Leighton,REP,41
+Lake,Concord-Badus- Wayne/Ramona,County Commissioner At Large,,Phillip J Wohlers,REP,9
+Lake,Concord-Badus- Wayne/Ramona,County Commissioner At Large,,Roger Hageman,REP,56
+Lake,Concord-Badus- Wayne/Ramona,County Commissioner At Large,,Deb Reinicke,REP,41
+Lake,Concord-Badus- Wayne/Ramona,County Commissioner At Large,,Dennis Slaughter,REP,33
+Lake,Farmington-Leroy-Clarno- Orland,County Commissioner At Large,,Adam Leighton,REP,57
+Lake,Farmington-Leroy-Clarno- Orland,County Commissioner At Large,,Phillip J Wohlers,REP,18
+Lake,Farmington-Leroy-Clarno- Orland,County Commissioner At Large,,Roger Hageman,REP,45
+Lake,Farmington-Leroy-Clarno- Orland,County Commissioner At Large,,Deb Reinicke,REP,52
+Lake,Farmington-Leroy-Clarno- Orland,County Commissioner At Large,,Dennis Slaughter,REP,66
+Lake,Herman-Winfred,County Commissioner At Large,,Adam Leighton,REP,76
+Lake,Herman-Winfred,County Commissioner At Large,,Phillip J Wohlers,REP,48
+Lake,Herman-Winfred,County Commissioner At Large,,Roger Hageman,REP,49
+Lake,Herman-Winfred,County Commissioner At Large,,Deb Reinicke,REP,72
+Lake,Herman-Winfred,County Commissioner At Large,,Dennis Slaughter,REP,75
+Lake,Lakeview,County Commissioner At Large,,Adam Leighton,REP,84
+Lake,Lakeview,County Commissioner At Large,,Phillip J Wohlers,REP,28
+Lake,Lakeview,County Commissioner At Large,,Roger Hageman,REP,72
+Lake,Lakeview,County Commissioner At Large,,Deb Reinicke,REP,102
+Lake,Lakeview,County Commissioner At Large,,Dennis Slaughter,REP,96
+Lake,Nunda-Summit,County Commissioner At Large,,Adam Leighton,REP,54
+Lake,Nunda-Summit,County Commissioner At Large,,Phillip J Wohlers,REP,4
+Lake,Nunda-Summit,County Commissioner At Large,,Roger Hageman,REP,39
+Lake,Nunda-Summit,County Commissioner At Large,,Deb Reinicke,REP,31
+Lake,Nunda-Summit,County Commissioner At Large,,Dennis Slaughter,REP,31
+Lake,Ward One,County Commissioner At Large,,Adam Leighton,REP,254
+Lake,Ward One,County Commissioner At Large,,Phillip J Wohlers,REP,92
+Lake,Ward One,County Commissioner At Large,,Roger Hageman,REP,177
+Lake,Ward One,County Commissioner At Large,,Deb Reinicke,REP,291
+Lake,Ward One,County Commissioner At Large,,Dennis Slaughter,REP,276
+Lake,Ward Three,County Commissioner At Large,,Adam Leighton,REP,94
+Lake,Ward Three,County Commissioner At Large,,Phillip J Wohlers,REP,37
+Lake,Ward Three,County Commissioner At Large,,Roger Hageman,REP,76
+Lake,Ward Three,County Commissioner At Large,,Deb Reinicke,REP,105
+Lake,Ward Three,County Commissioner At Large,,Dennis Slaughter,REP,106
+Lake,Ward Two,County Commissioner At Large,,Adam Leighton,REP,103
+Lake,Ward Two,County Commissioner At Large,,Phillip J Wohlers,REP,35
+Lake,Ward Two,County Commissioner At Large,,Roger Hageman,REP,77
+Lake,Ward Two,County Commissioner At Large,,Deb Reinicke,REP,114
+Lake,Ward Two,County Commissioner At Large,,Dennis Slaughter,REP,117
+Lake,Wentworth-Rutland,County Commissioner At Large,,Adam Leighton,REP,102
+Lake,Wentworth-Rutland,County Commissioner At Large,,Phillip J Wohlers,REP,30
+Lake,Wentworth-Rutland,County Commissioner At Large,,Roger Hageman,REP,49
+Lake,Wentworth-Rutland,County Commissioner At Large,,Deb Reinicke,REP,85
+Lake,Wentworth-Rutland,County Commissioner At Large,,Dennis Slaughter,REP,63

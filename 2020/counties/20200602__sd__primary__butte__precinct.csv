@@ -1,0 +1,121 @@
+county,precinct,office,district,candidate,party,votes
+Butte,6,President,,Bernie Sanders,DEM,0
+Butte,6,President,,Joseph R. Biden,DEM,1
+Butte,"08 (13, 14)",President,,Bernie Sanders,DEM,10
+Butte,"08 (13, 14)",President,,Joseph R. Biden,DEM,20
+Butte,11,President,,Bernie Sanders,DEM,1
+Butte,11,President,,Joseph R. Biden,DEM,2
+Butte,12,President,,Bernie Sanders,DEM,4
+Butte,12,President,,Joseph R. Biden,DEM,2
+Butte,16,President,,Bernie Sanders,DEM,12
+Butte,16,President,,Joseph R. Biden,DEM,45
+Butte,17,President,,Bernie Sanders,DEM,4
+Butte,17,President,,Joseph R. Biden,DEM,11
+Butte,18,President,,Bernie Sanders,DEM,4
+Butte,18,President,,Joseph R. Biden,DEM,6
+Butte,20,President,,Bernie Sanders,DEM,9
+Butte,20,President,,Joseph R. Biden,DEM,15
+Butte,21,President,,Bernie Sanders,DEM,3
+Butte,21,President,,Joseph R. Biden,DEM,16
+Butte,22,President,,Bernie Sanders,DEM,7
+Butte,22,President,,Joseph R. Biden,DEM,17
+Butte,23,President,,Bernie Sanders,DEM,3
+Butte,23,President,,Joseph R. Biden,DEM,15
+Butte,24,President,,Bernie Sanders,DEM,9
+Butte,24,President,,Joseph R. Biden,DEM,23
+Butte,25,President,,Bernie Sanders,DEM,6
+Butte,25,President,,Joseph R. Biden,DEM,30
+Butte,26,President,,Bernie Sanders,DEM,4
+Butte,26,President,,Joseph R. Biden,DEM,17
+Butte,27,President,,Bernie Sanders,DEM,5
+Butte,27,President,,Joseph R. Biden,DEM,14
+Butte,28,President,,Bernie Sanders,DEM,8
+Butte,28,President,,Joseph R. Biden,DEM,31
+Butte,6,U.S. Senate,,Mike Rounds,REP,10
+Butte,6,U.S. Senate,,Scyller J. Borglum,REP,18
+Butte,"08 (13, 14)",U.S. Senate,,Mike Rounds,REP,122
+Butte,"08 (13, 14)",U.S. Senate,,Scyller J. Borglum,REP,97
+Butte,11,U.S. Senate,,Mike Rounds,REP,15
+Butte,11,U.S. Senate,,Scyller J. Borglum,REP,10
+Butte,12,U.S. Senate,,Mike Rounds,REP,24
+Butte,12,U.S. Senate,,Scyller J. Borglum,REP,24
+Butte,16,U.S. Senate,,Mike Rounds,REP,178
+Butte,16,U.S. Senate,,Scyller J. Borglum,REP,71
+Butte,17,U.S. Senate,,Mike Rounds,REP,95
+Butte,17,U.S. Senate,,Scyller J. Borglum,REP,43
+Butte,18,U.S. Senate,,Mike Rounds,REP,23
+Butte,18,U.S. Senate,,Scyller J. Borglum,REP,14
+Butte,20,U.S. Senate,,Mike Rounds,REP,64
+Butte,20,U.S. Senate,,Scyller J. Borglum,REP,33
+Butte,21,U.S. Senate,,Mike Rounds,REP,65
+Butte,21,U.S. Senate,,Scyller J. Borglum,REP,16
+Butte,22,U.S. Senate,,Mike Rounds,REP,31
+Butte,22,U.S. Senate,,Scyller J. Borglum,REP,9
+Butte,23,U.S. Senate,,Mike Rounds,REP,53
+Butte,23,U.S. Senate,,Scyller J. Borglum,REP,24
+Butte,24,U.S. Senate,,Mike Rounds,REP,80
+Butte,24,U.S. Senate,,Scyller J. Borglum,REP,29
+Butte,25,U.S. Senate,,Mike Rounds,REP,93
+Butte,25,U.S. Senate,,Scyller J. Borglum,REP,41
+Butte,26,U.S. Senate,,Mike Rounds,REP,57
+Butte,26,U.S. Senate,,Scyller J. Borglum,REP,21
+Butte,27,U.S. Senate,,Mike Rounds,REP,52
+Butte,27,U.S. Senate,,Scyller J. Borglum,REP,18
+Butte,28,U.S. Senate,,Mike Rounds,REP,101
+Butte,28,U.S. Senate,,Scyller J. Borglum,REP,36
+Butte,6,U.S. Representative,1,Liz Marty May,REP,25
+Butte,6,U.S. Representative,1,Dusty Johnson,REP,3
+Butte,"08 (13, 14)",U.S. Representative,1,Liz Marty May,REP,124
+Butte,"08 (13, 14)",U.S. Representative,1,Dusty Johnson,REP,95
+Butte,11,U.S. Representative,1,Liz Marty May,REP,19
+Butte,11,U.S. Representative,1,Dusty Johnson,REP,7
+Butte,12,U.S. Representative,1,Liz Marty May,REP,22
+Butte,12,U.S. Representative,1,Dusty Johnson,REP,26
+Butte,16,U.S. Representative,1,Liz Marty May,REP,75
+Butte,16,U.S. Representative,1,Dusty Johnson,REP,175
+Butte,17,U.S. Representative,1,Liz Marty May,REP,57
+Butte,17,U.S. Representative,1,Dusty Johnson,REP,81
+Butte,18,U.S. Representative,1,Liz Marty May,REP,9
+Butte,18,U.S. Representative,1,Dusty Johnson,REP,28
+Butte,20,U.S. Representative,1,Liz Marty May,REP,40
+Butte,20,U.S. Representative,1,Dusty Johnson,REP,56
+Butte,21,U.S. Representative,1,Liz Marty May,REP,21
+Butte,21,U.S. Representative,1,Dusty Johnson,REP,59
+Butte,22,U.S. Representative,1,Liz Marty May,REP,12
+Butte,22,U.S. Representative,1,Dusty Johnson,REP,27
+Butte,23,U.S. Representative,1,Liz Marty May,REP,37
+Butte,23,U.S. Representative,1,Dusty Johnson,REP,40
+Butte,24,U.S. Representative,1,Liz Marty May,REP,41
+Butte,24,U.S. Representative,1,Dusty Johnson,REP,68
+Butte,25,U.S. Representative,1,Liz Marty May,REP,42
+Butte,25,U.S. Representative,1,Dusty Johnson,REP,95
+Butte,26,U.S. Representative,1,Liz Marty May,REP,24
+Butte,26,U.S. Representative,1,Dusty Johnson,REP,54
+Butte,27,U.S. Representative,1,Liz Marty May,REP,31
+Butte,27,U.S. Representative,1,Dusty Johnson,REP,41
+Butte,28,U.S. Representative,1,Liz Marty May,REP,45
+Butte,28,U.S. Representative,1,Dusty Johnson,REP,91
+Butte,"08 (13, 14)",State Senate,29,Terri Jorgenson,REP,90
+Butte,"08 (13, 14)",State Senate,29,Gary L Cammack,REP,123
+Butte,12,State Senate,29,Terri Jorgenson,REP,21
+Butte,12,State Senate,29,Gary L Cammack,REP,26
+Butte,18,State Senate,29,Terri Jorgenson,REP,16
+Butte,18,State Senate,29,Gary L Cammack,REP,20
+Butte,20,State Senate,29,Terri Jorgenson,REP,29
+Butte,20,State Senate,29,Gary L Cammack,REP,65
+Butte,"08 (13, 14)",State Representative,29,Kirk J Chaffee,REP,88
+Butte,"08 (13, 14)",State Representative,29,Lincoln I Shuck,REP,55
+Butte,"08 (13, 14)",State Representative,29,Thomas J Brunner,REP,129
+Butte,"08 (13, 14)",State Representative,29,Dean Wink,REP,109
+Butte,12,State Representative,29,Kirk J Chaffee,REP,12
+Butte,12,State Representative,29,Lincoln I Shuck,REP,10
+Butte,12,State Representative,29,Thomas J Brunner,REP,41
+Butte,12,State Representative,29,Dean Wink,REP,21
+Butte,18,State Representative,29,Kirk J Chaffee,REP,12
+Butte,18,State Representative,29,Lincoln I Shuck,REP,7
+Butte,18,State Representative,29,Thomas J Brunner,REP,33
+Butte,18,State Representative,29,Dean Wink,REP,11
+Butte,20,State Representative,29,Kirk J Chaffee,REP,43
+Butte,20,State Representative,29,Lincoln I Shuck,REP,30
+Butte,20,State Representative,29,Thomas J Brunner,REP,55
+Butte,20,State Representative,29,Dean Wink,REP,43

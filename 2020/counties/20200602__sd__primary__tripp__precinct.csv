@@ -1,0 +1,111 @@
+county,precinct,office,district,candidate,party,votes
+Tripp,Clearfield Consolidated,President,,Bernie Sanders,DEM,1
+Tripp,Clearfield Consolidated,President,,Joseph R. Biden,DEM,11
+Tripp,Colome Consolidated,President,,Bernie Sanders,DEM,4
+Tripp,Colome Consolidated,President,,Joseph R. Biden,DEM,30
+Tripp,Hamill Consolidated,President,,Bernie Sanders,DEM,1
+Tripp,Hamill Consolidated,President,,Joseph R. Biden,DEM,7
+Tripp,Ideal Consolidated,President,,Bernie Sanders,DEM,0
+Tripp,Ideal Consolidated,President,,Joseph R. Biden,DEM,0
+Tripp,Lake Consolidated,President,,Bernie Sanders,DEM,1
+Tripp,Lake Consolidated,President,,Joseph R. Biden,DEM,8
+Tripp,Lamro Consolidated,President,,Bernie Sanders,DEM,5
+Tripp,Lamro Consolidated,President,,Joseph R. Biden,DEM,16
+Tripp,Sully Consolidated,President,,Bernie Sanders,DEM,0
+Tripp,Sully Consolidated,President,,Joseph R. Biden,DEM,7
+Tripp,WINNER Consolidated SE 1ST,President,,Bernie Sanders,DEM,1
+Tripp,WINNER Consolidated SE 1ST,President,,Joseph R. Biden,DEM,8
+Tripp,WINNER Consolidated-E 2ND,President,,Bernie Sanders,DEM,3
+Tripp,WINNER Consolidated-E 2ND,President,,Joseph R. Biden,DEM,18
+Tripp,WINNER Consolidated-E 3RD,President,,Bernie Sanders,DEM,6
+Tripp,WINNER Consolidated-E 3RD,President,,Joseph R. Biden,DEM,18
+Tripp,WINNER Consolidated-W 2ND,President,,Bernie Sanders,DEM,1
+Tripp,WINNER Consolidated-W 2ND,President,,Joseph R. Biden,DEM,36
+Tripp,WINNER Consolidated-W 3RD,President,,Bernie Sanders,DEM,8
+Tripp,WINNER Consolidated-W 3RD,President,,Joseph R. Biden,DEM,8
+Tripp,Witten Consolidated,President,,Bernie Sanders,DEM,1
+Tripp,Witten Consolidated,President,,Joseph R. Biden,DEM,3
+Tripp,Clearfield Consolidated,U.S. Senate,,Mike Rounds,REP,28
+Tripp,Clearfield Consolidated,U.S. Senate,,Scyller J. Borglum,REP,35
+Tripp,Colome Consolidated,U.S. Senate,,Mike Rounds,REP,86
+Tripp,Colome Consolidated,U.S. Senate,,Scyller J. Borglum,REP,80
+Tripp,Hamill Consolidated,U.S. Senate,,Mike Rounds,REP,14
+Tripp,Hamill Consolidated,U.S. Senate,,Scyller J. Borglum,REP,18
+Tripp,Ideal Consolidated,U.S. Senate,,Mike Rounds,REP,29
+Tripp,Ideal Consolidated,U.S. Senate,,Scyller J. Borglum,REP,9
+Tripp,Lake Consolidated,U.S. Senate,,Mike Rounds,REP,30
+Tripp,Lake Consolidated,U.S. Senate,,Scyller J. Borglum,REP,35
+Tripp,Lamro Consolidated,U.S. Senate,,Mike Rounds,REP,96
+Tripp,Lamro Consolidated,U.S. Senate,,Scyller J. Borglum,REP,60
+Tripp,Sully Consolidated,U.S. Senate,,Mike Rounds,REP,30
+Tripp,Sully Consolidated,U.S. Senate,,Scyller J. Borglum,REP,8
+Tripp,WINNER Consolidated SE 1ST,U.S. Senate,,Mike Rounds,REP,49
+Tripp,WINNER Consolidated SE 1ST,U.S. Senate,,Scyller J. Borglum,REP,19
+Tripp,WINNER Consolidated-E 2ND,U.S. Senate,,Mike Rounds,REP,71
+Tripp,WINNER Consolidated-E 2ND,U.S. Senate,,Scyller J. Borglum,REP,29
+Tripp,WINNER Consolidated-E 3RD,U.S. Senate,,Mike Rounds,REP,75
+Tripp,WINNER Consolidated-E 3RD,U.S. Senate,,Scyller J. Borglum,REP,47
+Tripp,WINNER Consolidated-W 2ND,U.S. Senate,,Mike Rounds,REP,88
+Tripp,WINNER Consolidated-W 2ND,U.S. Senate,,Scyller J. Borglum,REP,51
+Tripp,WINNER Consolidated-W 3RD,U.S. Senate,,Mike Rounds,REP,32
+Tripp,WINNER Consolidated-W 3RD,U.S. Senate,,Scyller J. Borglum,REP,24
+Tripp,Witten Consolidated,U.S. Senate,,Mike Rounds,REP,19
+Tripp,Witten Consolidated,U.S. Senate,,Scyller J. Borglum,REP,13
+Tripp,Clearfield Consolidated,U.S. Representative,1,Liz Marty May,REP,35
+Tripp,Clearfield Consolidated,U.S. Representative,1,Dusty Johnson,REP,29
+Tripp,Colome Consolidated,U.S. Representative,1,Liz Marty May,REP,76
+Tripp,Colome Consolidated,U.S. Representative,1,Dusty Johnson,REP,89
+Tripp,Hamill Consolidated,U.S. Representative,1,Liz Marty May,REP,22
+Tripp,Hamill Consolidated,U.S. Representative,1,Dusty Johnson,REP,11
+Tripp,Ideal Consolidated,U.S. Representative,1,Liz Marty May,REP,15
+Tripp,Ideal Consolidated,U.S. Representative,1,Dusty Johnson,REP,23
+Tripp,Lake Consolidated,U.S. Representative,1,Liz Marty May,REP,45
+Tripp,Lake Consolidated,U.S. Representative,1,Dusty Johnson,REP,22
+Tripp,Lamro Consolidated,U.S. Representative,1,Liz Marty May,REP,72
+Tripp,Lamro Consolidated,U.S. Representative,1,Dusty Johnson,REP,84
+Tripp,Sully Consolidated,U.S. Representative,1,Liz Marty May,REP,12
+Tripp,Sully Consolidated,U.S. Representative,1,Dusty Johnson,REP,25
+Tripp,WINNER Consolidated SE 1ST,U.S. Representative,1,Liz Marty May,REP,18
+Tripp,WINNER Consolidated SE 1ST,U.S. Representative,1,Dusty Johnson,REP,49
+Tripp,WINNER Consolidated-E 2ND,U.S. Representative,1,Liz Marty May,REP,31
+Tripp,WINNER Consolidated-E 2ND,U.S. Representative,1,Dusty Johnson,REP,68
+Tripp,WINNER Consolidated-E 3RD,U.S. Representative,1,Liz Marty May,REP,54
+Tripp,WINNER Consolidated-E 3RD,U.S. Representative,1,Dusty Johnson,REP,68
+Tripp,WINNER Consolidated-W 2ND,U.S. Representative,1,Liz Marty May,REP,60
+Tripp,WINNER Consolidated-W 2ND,U.S. Representative,1,Dusty Johnson,REP,79
+Tripp,WINNER Consolidated-W 3RD,U.S. Representative,1,Liz Marty May,REP,31
+Tripp,WINNER Consolidated-W 3RD,U.S. Representative,1,Dusty Johnson,REP,24
+Tripp,Witten Consolidated,U.S. Representative,1,Liz Marty May,REP,15
+Tripp,Witten Consolidated,U.S. Representative,1,Dusty Johnson,REP,17
+Tripp,Clearfield Consolidated,State Senate,21,Erin Tobin,REP,47
+Tripp,Clearfield Consolidated,State Senate,21,Lee Qualm,REP,17
+Tripp,Colome Consolidated,State Senate,21,Erin Tobin,REP,102
+Tripp,Colome Consolidated,State Senate,21,Lee Qualm,REP,61
+Tripp,Hamill Consolidated,State Senate,21,Erin Tobin,REP,18
+Tripp,Hamill Consolidated,State Senate,21,Lee Qualm,REP,15
+Tripp,Ideal Consolidated,State Senate,21,Erin Tobin,REP,30
+Tripp,Ideal Consolidated,State Senate,21,Lee Qualm,REP,8
+Tripp,Lake Consolidated,State Senate,21,Erin Tobin,REP,41
+Tripp,Lake Consolidated,State Senate,21,Lee Qualm,REP,24
+Tripp,Lamro Consolidated,State Senate,21,Erin Tobin,REP,138
+Tripp,Lamro Consolidated,State Senate,21,Lee Qualm,REP,18
+Tripp,Sully Consolidated,State Senate,21,Erin Tobin,REP,31
+Tripp,Sully Consolidated,State Senate,21,Lee Qualm,REP,7
+Tripp,WINNER Consolidated SE 1ST,State Senate,21,Erin Tobin,REP,54
+Tripp,WINNER Consolidated SE 1ST,State Senate,21,Lee Qualm,REP,13
+Tripp,WINNER Consolidated-E 2ND,State Senate,21,Erin Tobin,REP,85
+Tripp,WINNER Consolidated-E 2ND,State Senate,21,Lee Qualm,REP,15
+Tripp,WINNER Consolidated-E 3RD,State Senate,21,Erin Tobin,REP,103
+Tripp,WINNER Consolidated-E 3RD,State Senate,21,Lee Qualm,REP,21
+Tripp,WINNER Consolidated-W 2ND,State Senate,21,Erin Tobin,REP,121
+Tripp,WINNER Consolidated-W 2ND,State Senate,21,Lee Qualm,REP,19
+Tripp,WINNER Consolidated-W 3RD,State Senate,21,Erin Tobin,REP,44
+Tripp,WINNER Consolidated-W 3RD,State Senate,21,Lee Qualm,REP,12
+Tripp,Witten Consolidated,State Senate,21,Erin Tobin,REP,26
+Tripp,Witten Consolidated,State Senate,21,Lee Qualm,REP,7
+Tripp,Clearfield Consolidated,County Commissioner Tripp-4,,Greg English,REP,37
+Tripp,Clearfield Consolidated,County Commissioner Tripp-4,,Joyce Kartak,REP,26
+Tripp,Lamro Consolidated,County Commissioner Tripp-4,,Greg English,REP,5
+Tripp,Lamro Consolidated,County Commissioner Tripp-4,,Joyce Kartak,REP,13
+Tripp,WINNER Consolidated-W 2ND,County Commissioner Tripp-4,,Greg English,REP,52
+Tripp,WINNER Consolidated-W 2ND,County Commissioner Tripp-4,,Joyce Kartak,REP,88

@@ -1,0 +1,64 @@
+county,precinct,office,district,candidate,party,votes
+Lyman,1,President,,Bernie Sanders,DEM,1
+Lyman,1,President,,Joseph R. Biden,DEM,4
+Lyman,4,President,,Bernie Sanders,DEM,19
+Lyman,4,President,,Joseph R. Biden,DEM,26
+Lyman,6,President,,Bernie Sanders,DEM,5
+Lyman,6,President,,Joseph R. Biden,DEM,11
+Lyman,7,President,,Bernie Sanders,DEM,28
+Lyman,7,President,,Joseph R. Biden,DEM,43
+Lyman,9,President,,Bernie Sanders,DEM,4
+Lyman,9,President,,Joseph R. Biden,DEM,12
+Lyman,12,President,,Bernie Sanders,DEM,11
+Lyman,12,President,,Joseph R. Biden,DEM,14
+Lyman,13,President,,Bernie Sanders,DEM,5
+Lyman,13,President,,Joseph R. Biden,DEM,3
+Lyman,1,U.S. Senate,,Mike Rounds,REP,5
+Lyman,1,U.S. Senate,,Scyller J. Borglum,REP,17
+Lyman,4,U.S. Senate,,Mike Rounds,REP,88
+Lyman,4,U.S. Senate,,Scyller J. Borglum,REP,30
+Lyman,6,U.S. Senate,,Mike Rounds,REP,58
+Lyman,6,U.S. Senate,,Scyller J. Borglum,REP,11
+Lyman,7,U.S. Senate,,Mike Rounds,REP,3
+Lyman,7,U.S. Senate,,Scyller J. Borglum,REP,2
+Lyman,9,U.S. Senate,,Mike Rounds,REP,98
+Lyman,9,U.S. Senate,,Scyller J. Borglum,REP,33
+Lyman,12,U.S. Senate,,Mike Rounds,REP,133
+Lyman,12,U.S. Senate,,Scyller J. Borglum,REP,38
+Lyman,13,U.S. Senate,,Mike Rounds,REP,46
+Lyman,13,U.S. Senate,,Scyller J. Borglum,REP,13
+Lyman,1,U.S. Representative,1,Liz Marty May,REP,16
+Lyman,1,U.S. Representative,1,Dusty Johnson,REP,6
+Lyman,4,U.S. Representative,1,Liz Marty May,REP,19
+Lyman,4,U.S. Representative,1,Dusty Johnson,REP,99
+Lyman,6,U.S. Representative,1,Liz Marty May,REP,6
+Lyman,6,U.S. Representative,1,Dusty Johnson,REP,62
+Lyman,7,U.S. Representative,1,Liz Marty May,REP,2
+Lyman,7,U.S. Representative,1,Dusty Johnson,REP,3
+Lyman,9,U.S. Representative,1,Liz Marty May,REP,35
+Lyman,9,U.S. Representative,1,Dusty Johnson,REP,93
+Lyman,12,U.S. Representative,1,Liz Marty May,REP,48
+Lyman,12,U.S. Representative,1,Dusty Johnson,REP,122
+Lyman,13,U.S. Representative,1,Liz Marty May,REP,19
+Lyman,13,U.S. Representative,1,Dusty Johnson,REP,40
+Lyman,1,County Commissioner At Large,,Bill Lengkeek,REP,14
+Lyman,1,County Commissioner At Large,,Brian Kraus,REP,8
+Lyman,1,County Commissioner At Large,,Leslie Reuer,REP,9
+Lyman,4,County Commissioner At Large,,Bill Lengkeek,REP,45
+Lyman,4,County Commissioner At Large,,Brian Kraus,REP,67
+Lyman,4,County Commissioner At Large,,Leslie Reuer,REP,96
+Lyman,6,County Commissioner At Large,,Bill Lengkeek,REP,21
+Lyman,6,County Commissioner At Large,,Brian Kraus,REP,37
+Lyman,6,County Commissioner At Large,,Leslie Reuer,REP,49
+Lyman,7,County Commissioner At Large,,Bill Lengkeek,REP,1
+Lyman,7,County Commissioner At Large,,Brian Kraus,REP,4
+Lyman,7,County Commissioner At Large,,Leslie Reuer,REP,4
+Lyman,9,County Commissioner At Large,,Bill Lengkeek,REP,61
+Lyman,9,County Commissioner At Large,,Brian Kraus,REP,65
+Lyman,9,County Commissioner At Large,,Leslie Reuer,REP,90
+Lyman,12,County Commissioner At Large,,Bill Lengkeek,REP,86
+Lyman,12,County Commissioner At Large,,Brian Kraus,REP,101
+Lyman,12,County Commissioner At Large,,Leslie Reuer,REP,98
+Lyman,13,County Commissioner At Large,,Bill Lengkeek,REP,25
+Lyman,13,County Commissioner At Large,,Brian Kraus,REP,40
+Lyman,13,County Commissioner At Large,,Leslie Reuer,REP,30

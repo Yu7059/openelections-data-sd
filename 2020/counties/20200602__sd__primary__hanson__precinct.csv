@@ -1,0 +1,48 @@
+county,precinct,office,district,candidate,party,votes
+Hanson,1,President,,Bernie Sanders,DEM,17
+Hanson,1,President,,Joseph R. Biden,DEM,76
+Hanson,2,President,,Bernie Sanders,DEM,9
+Hanson,2,President,,Joseph R. Biden,DEM,42
+Hanson,3,President,,Bernie Sanders,DEM,4
+Hanson,3,President,,Joseph R. Biden,DEM,17
+Hanson,4,President,,Bernie Sanders,DEM,7
+Hanson,4,President,,Joseph R. Biden,DEM,15
+Hanson,5,President,,Bernie Sanders,DEM,2
+Hanson,5,President,,Joseph R. Biden,DEM,7
+Hanson,1,U.S. Senate,,Mike Rounds,REP,154
+Hanson,1,U.S. Senate,,Scyller J. Borglum,REP,47
+Hanson,2,U.S. Senate,,Mike Rounds,REP,107
+Hanson,2,U.S. Senate,,Scyller J. Borglum,REP,36
+Hanson,3,U.S. Senate,,Mike Rounds,REP,55
+Hanson,3,U.S. Senate,,Scyller J. Borglum,REP,27
+Hanson,4,U.S. Senate,,Mike Rounds,REP,53
+Hanson,4,U.S. Senate,,Scyller J. Borglum,REP,22
+Hanson,5,U.S. Senate,,Mike Rounds,REP,35
+Hanson,5,U.S. Senate,,Scyller J. Borglum,REP,5
+Hanson,1,U.S. Representative,1,Liz Marty May,REP,53
+Hanson,1,U.S. Representative,1,Dusty Johnson,REP,147
+Hanson,2,U.S. Representative,1,Liz Marty May,REP,38
+Hanson,2,U.S. Representative,1,Dusty Johnson,REP,105
+Hanson,3,U.S. Representative,1,Liz Marty May,REP,20
+Hanson,3,U.S. Representative,1,Dusty Johnson,REP,65
+Hanson,4,U.S. Representative,1,Liz Marty May,REP,18
+Hanson,4,U.S. Representative,1,Dusty Johnson,REP,57
+Hanson,5,U.S. Representative,1,Liz Marty May,REP,9
+Hanson,5,U.S. Representative,1,Dusty Johnson,REP,31
+Hanson,1,State Representative,19,Marty Overweg,REP,97
+Hanson,1,State Representative,19,Kent Peterson,REP,118
+Hanson,1,State Representative,19,Jessica Bahmuller,REP,119
+Hanson,2,State Representative,19,Marty Overweg,REP,38
+Hanson,2,State Representative,19,Kent Peterson,REP,65
+Hanson,2,State Representative,19,Jessica Bahmuller,REP,111
+Hanson,3,State Representative,19,Marty Overweg,REP,26
+Hanson,3,State Representative,19,Kent Peterson,REP,39
+Hanson,3,State Representative,19,Jessica Bahmuller,REP,63
+Hanson,4,State Representative,19,Marty Overweg,REP,47
+Hanson,4,State Representative,19,Kent Peterson,REP,42
+Hanson,4,State Representative,19,Jessica Bahmuller,REP,35
+Hanson,5,State Representative,19,Marty Overweg,REP,9
+Hanson,5,State Representative,19,Kent Peterson,REP,16
+Hanson,5,State Representative,19,Jessica Bahmuller,REP,34
+Hanson,2,County Commissioner Hanson-2,,Richard Waldera,REP,87
+Hanson,2,County Commissioner Hanson-2,,Dennis Maiers,REP,53

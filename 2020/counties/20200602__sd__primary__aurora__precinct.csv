@@ -1,0 +1,46 @@
+county,precinct,office,district,candidate,party,votes
+Aurora,1,President,,Bernie Sanders,DEM,1
+Aurora,1,President,,Joseph R. Biden,DEM,26
+Aurora,2,President,,Bernie Sanders,DEM,1
+Aurora,2,President,,Joseph R. Biden,DEM,6
+Aurora,3,President,,Bernie Sanders,DEM,11
+Aurora,3,President,,Joseph R. Biden,DEM,44
+Aurora,5,President,,Bernie Sanders,DEM,4
+Aurora,5,President,,Joseph R. Biden,DEM,12
+Aurora,7,President,,Bernie Sanders,DEM,10
+Aurora,7,President,,Joseph R. Biden,DEM,27
+Aurora,1,U.S. Senate,,Mike Rounds,REP,55
+Aurora,1,U.S. Senate,,Scyller J. Borglum,REP,29
+Aurora,2,U.S. Senate,,Mike Rounds,REP,37
+Aurora,2,U.S. Senate,,Scyller J. Borglum,REP,11
+Aurora,3,U.S. Senate,,Mike Rounds,REP,49
+Aurora,3,U.S. Senate,,Scyller J. Borglum,REP,28
+Aurora,5,U.S. Senate,,Mike Rounds,REP,18
+Aurora,5,U.S. Senate,,Scyller J. Borglum,REP,11
+Aurora,7,U.S. Senate,,Mike Rounds,REP,56
+Aurora,7,U.S. Senate,,Scyller J. Borglum,REP,19
+Aurora,1,U.S. Representative,1,Liz Marty May,REP,27
+Aurora,1,U.S. Representative,1,Dusty Johnson,REP,55
+Aurora,2,U.S. Representative,1,Liz Marty May,REP,11
+Aurora,2,U.S. Representative,1,Dusty Johnson,REP,37
+Aurora,3,U.S. Representative,1,Liz Marty May,REP,26
+Aurora,3,U.S. Representative,1,Dusty Johnson,REP,51
+Aurora,5,U.S. Representative,1,Liz Marty May,REP,6
+Aurora,5,U.S. Representative,1,Dusty Johnson,REP,22
+Aurora,7,U.S. Representative,1,Liz Marty May,REP,20
+Aurora,7,U.S. Representative,1,Dusty Johnson,REP,55
+Aurora,1,State Representative,20,Lance Koth,REP,49
+Aurora,1,State Representative,20,Barry Volk,REP,48
+Aurora,1,State Representative,20,Paul R Miskimins,REP,47
+Aurora,2,State Representative,20,Lance Koth,REP,33
+Aurora,2,State Representative,20,Barry Volk,REP,27
+Aurora,2,State Representative,20,Paul R Miskimins,REP,27
+Aurora,3,State Representative,20,Lance Koth,REP,44
+Aurora,3,State Representative,20,Barry Volk,REP,45
+Aurora,3,State Representative,20,Paul R Miskimins,REP,41
+Aurora,5,State Representative,20,Lance Koth,REP,20
+Aurora,5,State Representative,20,Barry Volk,REP,10
+Aurora,5,State Representative,20,Paul R Miskimins,REP,19
+Aurora,7,State Representative,20,Lance Koth,REP,48
+Aurora,7,State Representative,20,Barry Volk,REP,27
+Aurora,7,State Representative,20,Paul R Miskimins,REP,54

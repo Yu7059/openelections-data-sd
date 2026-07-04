@@ -1,0 +1,49 @@
+county,precinct,office,district,candidate,party,votes
+Ziebach,1 Bridger,President,,Bernie Sanders,DEM,5
+Ziebach,1 Bridger,President,,Joseph R. Biden,DEM,6
+Ziebach,2 Cherry Creek,President,,Bernie Sanders,DEM,6
+Ziebach,2 Cherry Creek,President,,Joseph R. Biden,DEM,14
+Ziebach,3 Davis,President,,Bernie Sanders,DEM,39
+Ziebach,3 Davis,President,,Joseph R. Biden,DEM,33
+Ziebach,4 Glad Valley,President,,Bernie Sanders,DEM,3
+Ziebach,4 Glad Valley,President,,Joseph R. Biden,DEM,11
+Ziebach,"6 Redelm (5 North Dupree, 8 South Dupree)",President,,Bernie Sanders,DEM,25
+Ziebach,"6 Redelm (5 North Dupree, 8 South Dupree)",President,,Joseph R. Biden,DEM,51
+Ziebach,7 Red Scaffold,President,,Bernie Sanders,DEM,5
+Ziebach,7 Red Scaffold,President,,Joseph R. Biden,DEM,8
+Ziebach,1 Bridger,U.S. Senate,,Mike Rounds,REP,3
+Ziebach,1 Bridger,U.S. Senate,,Scyller J. Borglum,REP,4
+Ziebach,2 Cherry Creek,U.S. Senate,,Mike Rounds,REP,1
+Ziebach,2 Cherry Creek,U.S. Senate,,Scyller J. Borglum,REP,2
+Ziebach,3 Davis,U.S. Senate,,Mike Rounds,REP,17
+Ziebach,3 Davis,U.S. Senate,,Scyller J. Borglum,REP,6
+Ziebach,4 Glad Valley,U.S. Senate,,Mike Rounds,REP,8
+Ziebach,4 Glad Valley,U.S. Senate,,Scyller J. Borglum,REP,15
+Ziebach,"6 Redelm (5 North Dupree, 8 South Dupree)",U.S. Senate,,Mike Rounds,REP,53
+Ziebach,"6 Redelm (5 North Dupree, 8 South Dupree)",U.S. Senate,,Scyller J. Borglum,REP,39
+Ziebach,7 Red Scaffold,U.S. Senate,,Mike Rounds,REP,1
+Ziebach,7 Red Scaffold,U.S. Senate,,Scyller J. Borglum,REP,2
+Ziebach,1 Bridger,U.S. Representative,1,Liz Marty May,REP,4
+Ziebach,1 Bridger,U.S. Representative,1,Dusty Johnson,REP,3
+Ziebach,2 Cherry Creek,U.S. Representative,1,Liz Marty May,REP,2
+Ziebach,2 Cherry Creek,U.S. Representative,1,Dusty Johnson,REP,1
+Ziebach,3 Davis,U.S. Representative,1,Liz Marty May,REP,9
+Ziebach,3 Davis,U.S. Representative,1,Dusty Johnson,REP,16
+Ziebach,4 Glad Valley,U.S. Representative,1,Liz Marty May,REP,13
+Ziebach,4 Glad Valley,U.S. Representative,1,Dusty Johnson,REP,10
+Ziebach,"6 Redelm (5 North Dupree, 8 South Dupree)",U.S. Representative,1,Liz Marty May,REP,43
+Ziebach,"6 Redelm (5 North Dupree, 8 South Dupree)",U.S. Representative,1,Dusty Johnson,REP,48
+Ziebach,7 Red Scaffold,U.S. Representative,1,Liz Marty May,REP,2
+Ziebach,7 Red Scaffold,U.S. Representative,1,Dusty Johnson,REP,1
+Ziebach,1 Bridger,State Representative,28A,Oren Lee Lesmeister,DEM,12
+Ziebach,1 Bridger,State Representative,28A,Dean Schrempp,DEM,1
+Ziebach,2 Cherry Creek,State Representative,28A,Oren Lee Lesmeister,DEM,16
+Ziebach,2 Cherry Creek,State Representative,28A,Dean Schrempp,DEM,5
+Ziebach,3 Davis,State Representative,28A,Oren Lee Lesmeister,DEM,65
+Ziebach,3 Davis,State Representative,28A,Dean Schrempp,DEM,11
+Ziebach,4 Glad Valley,State Representative,28A,Oren Lee Lesmeister,DEM,6
+Ziebach,4 Glad Valley,State Representative,28A,Dean Schrempp,DEM,11
+Ziebach,"6 Redelm (5 North Dupree, 8 South Dupree)",State Representative,28A,Oren Lee Lesmeister,DEM,66
+Ziebach,"6 Redelm (5 North Dupree, 8 South Dupree)",State Representative,28A,Dean Schrempp,DEM,25
+Ziebach,7 Red Scaffold,State Representative,28A,Oren Lee Lesmeister,DEM,5
+Ziebach,7 Red Scaffold,State Representative,28A,Dean Schrempp,DEM,8

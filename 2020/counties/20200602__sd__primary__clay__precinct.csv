@@ -1,0 +1,131 @@
+county,precinct,office,district,candidate,party,votes
+Clay,1,President,,Bernie Sanders,DEM,7
+Clay,1,President,,Joseph R. Biden,DEM,41
+Clay,2,President,,Bernie Sanders,DEM,10
+Clay,2,President,,Joseph R. Biden,DEM,62
+Clay,3,President,,Bernie Sanders,DEM,58
+Clay,3,President,,Joseph R. Biden,DEM,198
+Clay,C1 (C2),President,,Bernie Sanders,DEM,64
+Clay,C1 (C2),President,,Joseph R. Biden,DEM,132
+Clay,E1 (E2),President,,Bernie Sanders,DEM,33
+Clay,E1 (E2),President,,Joseph R. Biden,DEM,53
+Clay,S1 (S2),President,,Bernie Sanders,DEM,91
+Clay,S1 (S2),President,,Joseph R. Biden,DEM,412
+Clay,W1 (W2),President,,Bernie Sanders,DEM,68
+Clay,W1 (W2),President,,Joseph R. Biden,DEM,193
+Clay,1,U.S. Senate,,Mike Rounds,REP,78
+Clay,1,U.S. Senate,,Scyller J. Borglum,REP,21
+Clay,2,U.S. Senate,,Mike Rounds,REP,45
+Clay,2,U.S. Senate,,Scyller J. Borglum,REP,13
+Clay,3,U.S. Senate,,Mike Rounds,REP,167
+Clay,3,U.S. Senate,,Scyller J. Borglum,REP,28
+Clay,C1 (C2),U.S. Senate,,Mike Rounds,REP,36
+Clay,C1 (C2),U.S. Senate,,Scyller J. Borglum,REP,15
+Clay,E1 (E2),U.S. Senate,,Mike Rounds,REP,62
+Clay,E1 (E2),U.S. Senate,,Scyller J. Borglum,REP,6
+Clay,S1 (S2),U.S. Senate,,Mike Rounds,REP,224
+Clay,S1 (S2),U.S. Senate,,Scyller J. Borglum,REP,44
+Clay,W1 (W2),U.S. Senate,,Mike Rounds,REP,132
+Clay,W1 (W2),U.S. Senate,,Scyller J. Borglum,REP,30
+Clay,1,U.S. Representative,1,Liz Marty May,REP,16
+Clay,1,U.S. Representative,1,Dusty Johnson,REP,83
+Clay,2,U.S. Representative,1,Liz Marty May,REP,6
+Clay,2,U.S. Representative,1,Dusty Johnson,REP,53
+Clay,3,U.S. Representative,1,Liz Marty May,REP,24
+Clay,3,U.S. Representative,1,Dusty Johnson,REP,171
+Clay,C1 (C2),U.S. Representative,1,Liz Marty May,REP,8
+Clay,C1 (C2),U.S. Representative,1,Dusty Johnson,REP,44
+Clay,E1 (E2),U.S. Representative,1,Liz Marty May,REP,12
+Clay,E1 (E2),U.S. Representative,1,Dusty Johnson,REP,55
+Clay,S1 (S2),U.S. Representative,1,Liz Marty May,REP,28
+Clay,S1 (S2),U.S. Representative,1,Dusty Johnson,REP,242
+Clay,W1 (W2),U.S. Representative,1,Liz Marty May,REP,35
+Clay,W1 (W2),U.S. Representative,1,Dusty Johnson,REP,127
+Clay,1,State Senate,17,Arthur Rusch,REP,42
+Clay,1,State Senate,17,Nancy Rasmussen,REP,54
+Clay,2,State Senate,17,Arthur Rusch,REP,29
+Clay,2,State Senate,17,Nancy Rasmussen,REP,29
+Clay,3,State Senate,17,Arthur Rusch,REP,125
+Clay,3,State Senate,17,Nancy Rasmussen,REP,66
+Clay,C1 (C2),State Senate,17,Arthur Rusch,REP,39
+Clay,C1 (C2),State Senate,17,Nancy Rasmussen,REP,13
+Clay,E1 (E2),State Senate,17,Arthur Rusch,REP,39
+Clay,E1 (E2),State Senate,17,Nancy Rasmussen,REP,28
+Clay,S1 (S2),State Senate,17,Arthur Rusch,REP,220
+Clay,S1 (S2),State Senate,17,Nancy Rasmussen,REP,49
+Clay,W1 (W2),State Senate,17,Arthur Rusch,REP,106
+Clay,W1 (W2),State Senate,17,Nancy Rasmussen,REP,52
+Clay,1,State Representative,17,Richard Vasgaard,REP,56
+Clay,1,State Representative,17,Dan Werner,REP,19
+Clay,1,State Representative,17,Sydney Davis,REP,69
+Clay,1,State Representative,17,Charles Kludt,REP,15
+Clay,2,State Representative,17,Richard Vasgaard,REP,26
+Clay,2,State Representative,17,Dan Werner,REP,17
+Clay,2,State Representative,17,Sydney Davis,REP,28
+Clay,2,State Representative,17,Charles Kludt,REP,16
+Clay,3,State Representative,17,Richard Vasgaard,REP,66
+Clay,3,State Representative,17,Dan Werner,REP,38
+Clay,3,State Representative,17,Sydney Davis,REP,144
+Clay,3,State Representative,17,Charles Kludt,REP,20
+Clay,C1 (C2),State Representative,17,Richard Vasgaard,REP,19
+Clay,C1 (C2),State Representative,17,Dan Werner,REP,7
+Clay,C1 (C2),State Representative,17,Sydney Davis,REP,41
+Clay,C1 (C2),State Representative,17,Charles Kludt,REP,4
+Clay,E1 (E2),State Representative,17,Richard Vasgaard,REP,25
+Clay,E1 (E2),State Representative,17,Dan Werner,REP,17
+Clay,E1 (E2),State Representative,17,Sydney Davis,REP,47
+Clay,E1 (E2),State Representative,17,Charles Kludt,REP,6
+Clay,S1 (S2),State Representative,17,Richard Vasgaard,REP,82
+Clay,S1 (S2),State Representative,17,Dan Werner,REP,50
+Clay,S1 (S2),State Representative,17,Sydney Davis,REP,205
+Clay,S1 (S2),State Representative,17,Charles Kludt,REP,19
+Clay,W1 (W2),State Representative,17,Richard Vasgaard,REP,56
+Clay,W1 (W2),State Representative,17,Dan Werner,REP,33
+Clay,W1 (W2),State Representative,17,Sydney Davis,REP,115
+Clay,W1 (W2),State Representative,17,Charles Kludt,REP,20
+Clay,1,County Commissioner At Large,,Cynthia Aden,DEM,38
+Clay,1,County Commissioner At Large,,"Elizabeth ""Betty"" Smith",DEM,25
+Clay,1,County Commissioner At Large,,Mark Winegar,DEM,22
+Clay,1,County Commissioner At Large,,Richard Hammond,DEM,28
+Clay,2,County Commissioner At Large,,Cynthia Aden,DEM,50
+Clay,2,County Commissioner At Large,,"Elizabeth ""Betty"" Smith",DEM,26
+Clay,2,County Commissioner At Large,,Mark Winegar,DEM,28
+Clay,2,County Commissioner At Large,,Richard Hammond,DEM,42
+Clay,3,County Commissioner At Large,,Cynthia Aden,DEM,136
+Clay,3,County Commissioner At Large,,"Elizabeth ""Betty"" Smith",DEM,143
+Clay,3,County Commissioner At Large,,Mark Winegar,DEM,150
+Clay,3,County Commissioner At Large,,Richard Hammond,DEM,137
+Clay,C1 (C2),County Commissioner At Large,,Cynthia Aden,DEM,68
+Clay,C1 (C2),County Commissioner At Large,,"Elizabeth ""Betty"" Smith",DEM,150
+Clay,C1 (C2),County Commissioner At Large,,Mark Winegar,DEM,137
+Clay,C1 (C2),County Commissioner At Large,,Richard Hammond,DEM,95
+Clay,E1 (E2),County Commissioner At Large,,Cynthia Aden,DEM,45
+Clay,E1 (E2),County Commissioner At Large,,"Elizabeth ""Betty"" Smith",DEM,53
+Clay,E1 (E2),County Commissioner At Large,,Mark Winegar,DEM,58
+Clay,E1 (E2),County Commissioner At Large,,Richard Hammond,DEM,41
+Clay,S1 (S2),County Commissioner At Large,,Cynthia Aden,DEM,213
+Clay,S1 (S2),County Commissioner At Large,,"Elizabeth ""Betty"" Smith",DEM,336
+Clay,S1 (S2),County Commissioner At Large,,Mark Winegar,DEM,285
+Clay,S1 (S2),County Commissioner At Large,,Richard Hammond,DEM,255
+Clay,W1 (W2),County Commissioner At Large,,Cynthia Aden,DEM,116
+Clay,W1 (W2),County Commissioner At Large,,"Elizabeth ""Betty"" Smith",DEM,173
+Clay,W1 (W2),County Commissioner At Large,,Mark Winegar,DEM,173
+Clay,W1 (W2),County Commissioner At Large,,Richard Hammond,DEM,120
+Clay,1,School Board Member Vermillion School District 13-1,,Shane Nordyke,,1
+Clay,1,School Board Member Vermillion School District 13-1,,Curt Kevin Cameron,,5
+Clay,1,School Board Member Vermillion School District 13-1,,Carol Voss-Ward,,6
+Clay,3,School Board Member Vermillion School District 13-1,,Shane Nordyke,,85
+Clay,3,School Board Member Vermillion School District 13-1,,Curt Kevin Cameron,,161
+Clay,3,School Board Member Vermillion School District 13-1,,Carol Voss-Ward,,155
+Clay,C1 (C2),School Board Member Vermillion School District 13-1,,Shane Nordyke,,106
+Clay,C1 (C2),School Board Member Vermillion School District 13-1,,Curt Kevin Cameron,,48
+Clay,C1 (C2),School Board Member Vermillion School District 13-1,,Carol Voss-Ward,,113
+Clay,E1 (E2),School Board Member Vermillion School District 13-1,,Shane Nordyke,,38
+Clay,E1 (E2),School Board Member Vermillion School District 13-1,,Curt Kevin Cameron,,41
+Clay,E1 (E2),School Board Member Vermillion School District 13-1,,Carol Voss-Ward,,72
+Clay,S1 (S2),School Board Member Vermillion School District 13-1,,Shane Nordyke,,192
+Clay,S1 (S2),School Board Member Vermillion School District 13-1,,Curt Kevin Cameron,,208
+Clay,S1 (S2),School Board Member Vermillion School District 13-1,,Carol Voss-Ward,,407
+Clay,W1 (W2),School Board Member Vermillion School District 13-1,,Shane Nordyke,,109
+Clay,W1 (W2),School Board Member Vermillion School District 13-1,,Curt Kevin Cameron,,157
+Clay,W1 (W2),School Board Member Vermillion School District 13-1,,Carol Voss-Ward,,192

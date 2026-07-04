@@ -1,0 +1,762 @@
+county,precinct,office,district,candidate,party,votes
+Minnehaha,103,President,,Bernie Sanders,DEM,43
+Minnehaha,103,President,,Joseph R. Biden,DEM,161
+Minnehaha,0104 (0105),President,,Bernie Sanders,DEM,67
+Minnehaha,0104 (0105),President,,Joseph R. Biden,DEM,214
+Minnehaha,106,President,,Bernie Sanders,DEM,37
+Minnehaha,106,President,,Joseph R. Biden,DEM,175
+Minnehaha,109,President,,Bernie Sanders,DEM,44
+Minnehaha,109,President,,Joseph R. Biden,DEM,166
+Minnehaha,110,President,,Bernie Sanders,DEM,46
+Minnehaha,110,President,,Joseph R. Biden,DEM,146
+Minnehaha,117,President,,Bernie Sanders,DEM,60
+Minnehaha,117,President,,Joseph R. Biden,DEM,122
+Minnehaha,201,President,,Bernie Sanders,DEM,42
+Minnehaha,201,President,,Joseph R. Biden,DEM,203
+Minnehaha,202,President,,Bernie Sanders,DEM,54
+Minnehaha,202,President,,Joseph R. Biden,DEM,262
+Minnehaha,203,President,,Bernie Sanders,DEM,55
+Minnehaha,203,President,,Joseph R. Biden,DEM,182
+Minnehaha,206,President,,Bernie Sanders,DEM,47
+Minnehaha,206,President,,Joseph R. Biden,DEM,219
+Minnehaha,207,President,,Bernie Sanders,DEM,73
+Minnehaha,207,President,,Joseph R. Biden,DEM,252
+Minnehaha,208,President,,Bernie Sanders,DEM,21
+Minnehaha,208,President,,Joseph R. Biden,DEM,174
+Minnehaha,209,President,,Bernie Sanders,DEM,42
+Minnehaha,209,President,,Joseph R. Biden,DEM,193
+Minnehaha,214,President,,Bernie Sanders,DEM,76
+Minnehaha,214,President,,Joseph R. Biden,DEM,405
+Minnehaha,305,President,,Bernie Sanders,DEM,40
+Minnehaha,305,President,,Joseph R. Biden,DEM,125
+Minnehaha,306,President,,Bernie Sanders,DEM,64
+Minnehaha,306,President,,Joseph R. Biden,DEM,132
+Minnehaha,309,President,,Bernie Sanders,DEM,73
+Minnehaha,309,President,,Joseph R. Biden,DEM,192
+Minnehaha,310,President,,Bernie Sanders,DEM,45
+Minnehaha,310,President,,Joseph R. Biden,DEM,207
+Minnehaha,311,President,,Bernie Sanders,DEM,27
+Minnehaha,311,President,,Joseph R. Biden,DEM,137
+Minnehaha,312,President,,Bernie Sanders,DEM,54
+Minnehaha,312,President,,Joseph R. Biden,DEM,140
+Minnehaha,313,President,,Bernie Sanders,DEM,31
+Minnehaha,313,President,,Joseph R. Biden,DEM,89
+Minnehaha,314,President,,Bernie Sanders,DEM,78
+Minnehaha,314,President,,Joseph R. Biden,DEM,194
+Minnehaha,315,President,,Bernie Sanders,DEM,59
+Minnehaha,315,President,,Joseph R. Biden,DEM,161
+Minnehaha,316,President,,Bernie Sanders,DEM,57
+Minnehaha,316,President,,Joseph R. Biden,DEM,182
+Minnehaha,317,President,,Bernie Sanders,DEM,82
+Minnehaha,317,President,,Joseph R. Biden,DEM,250
+Minnehaha,0401 (0414),President,,Bernie Sanders,DEM,108
+Minnehaha,0401 (0414),President,,Joseph R. Biden,DEM,191
+Minnehaha,402,President,,Bernie Sanders,DEM,45
+Minnehaha,402,President,,Joseph R. Biden,DEM,116
+Minnehaha,403,President,,Bernie Sanders,DEM,29
+Minnehaha,403,President,,Joseph R. Biden,DEM,74
+Minnehaha,404,President,,Bernie Sanders,DEM,23
+Minnehaha,404,President,,Joseph R. Biden,DEM,111
+Minnehaha,405,President,,Bernie Sanders,DEM,59
+Minnehaha,405,President,,Joseph R. Biden,DEM,185
+Minnehaha,406,President,,Bernie Sanders,DEM,12
+Minnehaha,406,President,,Joseph R. Biden,DEM,52
+Minnehaha,0407 (0408),President,,Bernie Sanders,DEM,69
+Minnehaha,0407 (0408),President,,Joseph R. Biden,DEM,257
+Minnehaha,409,President,,Bernie Sanders,DEM,58
+Minnehaha,409,President,,Joseph R. Biden,DEM,128
+Minnehaha,410,President,,Bernie Sanders,DEM,39
+Minnehaha,410,President,,Joseph R. Biden,DEM,113
+Minnehaha,411,President,,Bernie Sanders,DEM,43
+Minnehaha,411,President,,Joseph R. Biden,DEM,192
+Minnehaha,412,President,,Bernie Sanders,DEM,53
+Minnehaha,412,President,,Joseph R. Biden,DEM,198
+Minnehaha,413,President,,Bernie Sanders,DEM,32
+Minnehaha,413,President,,Joseph R. Biden,DEM,107
+Minnehaha,0501 (0502),President,,Bernie Sanders,DEM,114
+Minnehaha,0501 (0502),President,,Joseph R. Biden,DEM,201
+Minnehaha,503,President,,Bernie Sanders,DEM,35
+Minnehaha,503,President,,Joseph R. Biden,DEM,52
+Minnehaha,504,President,,Bernie Sanders,DEM,82
+Minnehaha,504,President,,Joseph R. Biden,DEM,185
+Minnehaha,506,President,,Bernie Sanders,DEM,69
+Minnehaha,506,President,,Joseph R. Biden,DEM,154
+Minnehaha,507,President,,Bernie Sanders,DEM,38
+Minnehaha,507,President,,Joseph R. Biden,DEM,127
+Minnehaha,508,President,,Bernie Sanders,DEM,62
+Minnehaha,508,President,,Joseph R. Biden,DEM,170
+Minnehaha,509,President,,Bernie Sanders,DEM,45
+Minnehaha,509,President,,Joseph R. Biden,DEM,62
+Minnehaha,510,President,,Bernie Sanders,DEM,44
+Minnehaha,510,President,,Joseph R. Biden,DEM,104
+Minnehaha,511,President,,Bernie Sanders,DEM,43
+Minnehaha,511,President,,Joseph R. Biden,DEM,79
+Minnehaha,512,President,,Bernie Sanders,DEM,44
+Minnehaha,512,President,,Joseph R. Biden,DEM,118
+Minnehaha,513,President,,Bernie Sanders,DEM,29
+Minnehaha,513,President,,Joseph R. Biden,DEM,144
+Minnehaha,514,President,,Bernie Sanders,DEM,80
+Minnehaha,514,President,,Joseph R. Biden,DEM,118
+Minnehaha,517,President,,Bernie Sanders,DEM,32
+Minnehaha,517,President,,Joseph R. Biden,DEM,97
+Minnehaha,518,President,,Bernie Sanders,DEM,85
+Minnehaha,518,President,,Joseph R. Biden,DEM,202
+Minnehaha,519,President,,Bernie Sanders,DEM,25
+Minnehaha,519,President,,Joseph R. Biden,DEM,95
+Minnehaha,520,President,,Bernie Sanders,DEM,51
+Minnehaha,520,President,,Joseph R. Biden,DEM,118
+Minnehaha,521,President,,Bernie Sanders,DEM,15
+Minnehaha,521,President,,Joseph R. Biden,DEM,98
+Minnehaha,VP01,President,,Bernie Sanders,DEM,8
+Minnehaha,VP01,President,,Joseph R. Biden,DEM,44
+Minnehaha,VP02,President,,Bernie Sanders,DEM,38
+Minnehaha,VP02,President,,Joseph R. Biden,DEM,138
+Minnehaha,VP03,President,,Bernie Sanders,DEM,37
+Minnehaha,VP03,President,,Joseph R. Biden,DEM,159
+Minnehaha,VP04,President,,Bernie Sanders,DEM,25
+Minnehaha,VP04,President,,Joseph R. Biden,DEM,89
+Minnehaha,VP05,President,,Bernie Sanders,DEM,28
+Minnehaha,VP05,President,,Joseph R. Biden,DEM,90
+Minnehaha,VP06,President,,Bernie Sanders,DEM,7
+Minnehaha,VP06,President,,Joseph R. Biden,DEM,49
+Minnehaha,VP07,President,,Bernie Sanders,DEM,47
+Minnehaha,VP07,President,,Joseph R. Biden,DEM,169
+Minnehaha,VP08,President,,Bernie Sanders,DEM,9
+Minnehaha,VP08,President,,Joseph R. Biden,DEM,41
+Minnehaha,VP09,President,,Bernie Sanders,DEM,31
+Minnehaha,VP09,President,,Joseph R. Biden,DEM,94
+Minnehaha,VP10,President,,Bernie Sanders,DEM,32
+Minnehaha,VP10,President,,Joseph R. Biden,DEM,113
+Minnehaha,VP11,President,,Bernie Sanders,DEM,25
+Minnehaha,VP11,President,,Joseph R. Biden,DEM,85
+Minnehaha,VP12,President,,Bernie Sanders,DEM,2
+Minnehaha,VP12,President,,Joseph R. Biden,DEM,10
+Minnehaha,VP13,President,,Bernie Sanders,DEM,16
+Minnehaha,VP13,President,,Joseph R. Biden,DEM,48
+Minnehaha,VP15,President,,Bernie Sanders,DEM,28
+Minnehaha,VP15,President,,Joseph R. Biden,DEM,133
+Minnehaha,VP16,President,,Bernie Sanders,DEM,23
+Minnehaha,VP16,President,,Joseph R. Biden,DEM,87
+Minnehaha,VP17,President,,Bernie Sanders,DEM,10
+Minnehaha,VP17,President,,Joseph R. Biden,DEM,48
+Minnehaha,VP21,President,,Bernie Sanders,DEM,21
+Minnehaha,VP21,President,,Joseph R. Biden,DEM,96
+Minnehaha,103,U.S. Senate,,Mike Rounds,REP,178
+Minnehaha,103,U.S. Senate,,Scyller J. Borglum,REP,40
+Minnehaha,0104 (0105),U.S. Senate,,Mike Rounds,REP,196
+Minnehaha,0104 (0105),U.S. Senate,,Scyller J. Borglum,REP,57
+Minnehaha,106,U.S. Senate,,Mike Rounds,REP,190
+Minnehaha,106,U.S. Senate,,Scyller J. Borglum,REP,35
+Minnehaha,109,U.S. Senate,,Mike Rounds,REP,159
+Minnehaha,109,U.S. Senate,,Scyller J. Borglum,REP,66
+Minnehaha,110,U.S. Senate,,Mike Rounds,REP,164
+Minnehaha,110,U.S. Senate,,Scyller J. Borglum,REP,46
+Minnehaha,117,U.S. Senate,,Mike Rounds,REP,159
+Minnehaha,117,U.S. Senate,,Scyller J. Borglum,REP,36
+Minnehaha,201,U.S. Senate,,Mike Rounds,REP,271
+Minnehaha,201,U.S. Senate,,Scyller J. Borglum,REP,70
+Minnehaha,202,U.S. Senate,,Mike Rounds,REP,319
+Minnehaha,202,U.S. Senate,,Scyller J. Borglum,REP,94
+Minnehaha,203,U.S. Senate,,Mike Rounds,REP,219
+Minnehaha,203,U.S. Senate,,Scyller J. Borglum,REP,72
+Minnehaha,206,U.S. Senate,,Mike Rounds,REP,206
+Minnehaha,206,U.S. Senate,,Scyller J. Borglum,REP,47
+Minnehaha,207,U.S. Senate,,Mike Rounds,REP,327
+Minnehaha,207,U.S. Senate,,Scyller J. Borglum,REP,96
+Minnehaha,208,U.S. Senate,,Mike Rounds,REP,288
+Minnehaha,208,U.S. Senate,,Scyller J. Borglum,REP,79
+Minnehaha,209,U.S. Senate,,Mike Rounds,REP,207
+Minnehaha,209,U.S. Senate,,Scyller J. Borglum,REP,76
+Minnehaha,214,U.S. Senate,,Mike Rounds,REP,495
+Minnehaha,214,U.S. Senate,,Scyller J. Borglum,REP,140
+Minnehaha,305,U.S. Senate,,Mike Rounds,REP,62
+Minnehaha,305,U.S. Senate,,Scyller J. Borglum,REP,23
+Minnehaha,306,U.S. Senate,,Mike Rounds,REP,74
+Minnehaha,306,U.S. Senate,,Scyller J. Borglum,REP,29
+Minnehaha,309,U.S. Senate,,Mike Rounds,REP,152
+Minnehaha,309,U.S. Senate,,Scyller J. Borglum,REP,44
+Minnehaha,310,U.S. Senate,,Mike Rounds,REP,300
+Minnehaha,310,U.S. Senate,,Scyller J. Borglum,REP,72
+Minnehaha,311,U.S. Senate,,Mike Rounds,REP,193
+Minnehaha,311,U.S. Senate,,Scyller J. Borglum,REP,60
+Minnehaha,312,U.S. Senate,,Mike Rounds,REP,188
+Minnehaha,312,U.S. Senate,,Scyller J. Borglum,REP,40
+Minnehaha,313,U.S. Senate,,Mike Rounds,REP,154
+Minnehaha,313,U.S. Senate,,Scyller J. Borglum,REP,46
+Minnehaha,314,U.S. Senate,,Mike Rounds,REP,192
+Minnehaha,314,U.S. Senate,,Scyller J. Borglum,REP,58
+Minnehaha,315,U.S. Senate,,Mike Rounds,REP,191
+Minnehaha,315,U.S. Senate,,Scyller J. Borglum,REP,58
+Minnehaha,316,U.S. Senate,,Mike Rounds,REP,254
+Minnehaha,316,U.S. Senate,,Scyller J. Borglum,REP,44
+Minnehaha,317,U.S. Senate,,Mike Rounds,REP,294
+Minnehaha,317,U.S. Senate,,Scyller J. Borglum,REP,78
+Minnehaha,0401 (0414),U.S. Senate,,Mike Rounds,REP,118
+Minnehaha,0401 (0414),U.S. Senate,,Scyller J. Borglum,REP,35
+Minnehaha,402,U.S. Senate,,Mike Rounds,REP,94
+Minnehaha,402,U.S. Senate,,Scyller J. Borglum,REP,26
+Minnehaha,403,U.S. Senate,,Mike Rounds,REP,53
+Minnehaha,403,U.S. Senate,,Scyller J. Borglum,REP,19
+Minnehaha,404,U.S. Senate,,Mike Rounds,REP,73
+Minnehaha,404,U.S. Senate,,Scyller J. Borglum,REP,21
+Minnehaha,405,U.S. Senate,,Mike Rounds,REP,155
+Minnehaha,405,U.S. Senate,,Scyller J. Borglum,REP,35
+Minnehaha,406,U.S. Senate,,Mike Rounds,REP,26
+Minnehaha,406,U.S. Senate,,Scyller J. Borglum,REP,10
+Minnehaha,0407 (0408),U.S. Senate,,Mike Rounds,REP,275
+Minnehaha,0407 (0408),U.S. Senate,,Scyller J. Borglum,REP,72
+Minnehaha,409,U.S. Senate,,Mike Rounds,REP,87
+Minnehaha,409,U.S. Senate,,Scyller J. Borglum,REP,26
+Minnehaha,410,U.S. Senate,,Mike Rounds,REP,111
+Minnehaha,410,U.S. Senate,,Scyller J. Borglum,REP,39
+Minnehaha,411,U.S. Senate,,Mike Rounds,REP,273
+Minnehaha,411,U.S. Senate,,Scyller J. Borglum,REP,77
+Minnehaha,412,U.S. Senate,,Mike Rounds,REP,161
+Minnehaha,412,U.S. Senate,,Scyller J. Borglum,REP,53
+Minnehaha,413,U.S. Senate,,Mike Rounds,REP,85
+Minnehaha,413,U.S. Senate,,Scyller J. Borglum,REP,17
+Minnehaha,0501 (0502),U.S. Senate,,Mike Rounds,REP,106
+Minnehaha,0501 (0502),U.S. Senate,,Scyller J. Borglum,REP,27
+Minnehaha,503,U.S. Senate,,Mike Rounds,REP,39
+Minnehaha,503,U.S. Senate,,Scyller J. Borglum,REP,13
+Minnehaha,504,U.S. Senate,,Mike Rounds,REP,120
+Minnehaha,504,U.S. Senate,,Scyller J. Borglum,REP,39
+Minnehaha,506,U.S. Senate,,Mike Rounds,REP,143
+Minnehaha,506,U.S. Senate,,Scyller J. Borglum,REP,50
+Minnehaha,507,U.S. Senate,,Mike Rounds,REP,102
+Minnehaha,507,U.S. Senate,,Scyller J. Borglum,REP,19
+Minnehaha,508,U.S. Senate,,Mike Rounds,REP,153
+Minnehaha,508,U.S. Senate,,Scyller J. Borglum,REP,45
+Minnehaha,509,U.S. Senate,,Mike Rounds,REP,46
+Minnehaha,509,U.S. Senate,,Scyller J. Borglum,REP,13
+Minnehaha,510,U.S. Senate,,Mike Rounds,REP,83
+Minnehaha,510,U.S. Senate,,Scyller J. Borglum,REP,18
+Minnehaha,511,U.S. Senate,,Mike Rounds,REP,78
+Minnehaha,511,U.S. Senate,,Scyller J. Borglum,REP,11
+Minnehaha,512,U.S. Senate,,Mike Rounds,REP,112
+Minnehaha,512,U.S. Senate,,Scyller J. Borglum,REP,31
+Minnehaha,513,U.S. Senate,,Mike Rounds,REP,124
+Minnehaha,513,U.S. Senate,,Scyller J. Borglum,REP,30
+Minnehaha,514,U.S. Senate,,Mike Rounds,REP,93
+Minnehaha,514,U.S. Senate,,Scyller J. Borglum,REP,35
+Minnehaha,517,U.S. Senate,,Mike Rounds,REP,120
+Minnehaha,517,U.S. Senate,,Scyller J. Borglum,REP,31
+Minnehaha,518,U.S. Senate,,Mike Rounds,REP,111
+Minnehaha,518,U.S. Senate,,Scyller J. Borglum,REP,34
+Minnehaha,519,U.S. Senate,,Mike Rounds,REP,109
+Minnehaha,519,U.S. Senate,,Scyller J. Borglum,REP,31
+Minnehaha,520,U.S. Senate,,Mike Rounds,REP,106
+Minnehaha,520,U.S. Senate,,Scyller J. Borglum,REP,37
+Minnehaha,521,U.S. Senate,,Mike Rounds,REP,96
+Minnehaha,521,U.S. Senate,,Scyller J. Borglum,REP,9
+Minnehaha,VP01,U.S. Senate,,Mike Rounds,REP,93
+Minnehaha,VP01,U.S. Senate,,Scyller J. Borglum,REP,24
+Minnehaha,VP02,U.S. Senate,,Mike Rounds,REP,297
+Minnehaha,VP02,U.S. Senate,,Scyller J. Borglum,REP,92
+Minnehaha,VP03,U.S. Senate,,Mike Rounds,REP,316
+Minnehaha,VP03,U.S. Senate,,Scyller J. Borglum,REP,73
+Minnehaha,VP04,U.S. Senate,,Mike Rounds,REP,176
+Minnehaha,VP04,U.S. Senate,,Scyller J. Borglum,REP,61
+Minnehaha,VP05,U.S. Senate,,Mike Rounds,REP,160
+Minnehaha,VP05,U.S. Senate,,Scyller J. Borglum,REP,35
+Minnehaha,VP06,U.S. Senate,,Mike Rounds,REP,70
+Minnehaha,VP06,U.S. Senate,,Scyller J. Borglum,REP,31
+Minnehaha,VP07,U.S. Senate,,Mike Rounds,REP,269
+Minnehaha,VP07,U.S. Senate,,Scyller J. Borglum,REP,53
+Minnehaha,VP08,U.S. Senate,,Mike Rounds,REP,83
+Minnehaha,VP08,U.S. Senate,,Scyller J. Borglum,REP,30
+Minnehaha,VP09,U.S. Senate,,Mike Rounds,REP,148
+Minnehaha,VP09,U.S. Senate,,Scyller J. Borglum,REP,68
+Minnehaha,VP10,U.S. Senate,,Mike Rounds,REP,142
+Minnehaha,VP10,U.S. Senate,,Scyller J. Borglum,REP,35
+Minnehaha,VP11,U.S. Senate,,Mike Rounds,REP,118
+Minnehaha,VP11,U.S. Senate,,Scyller J. Borglum,REP,48
+Minnehaha,VP12,U.S. Senate,,Mike Rounds,REP,20
+Minnehaha,VP12,U.S. Senate,,Scyller J. Borglum,REP,9
+Minnehaha,VP13,U.S. Senate,,Mike Rounds,REP,139
+Minnehaha,VP13,U.S. Senate,,Scyller J. Borglum,REP,49
+Minnehaha,VP15,U.S. Senate,,Mike Rounds,REP,205
+Minnehaha,VP15,U.S. Senate,,Scyller J. Borglum,REP,45
+Minnehaha,VP16,U.S. Senate,,Mike Rounds,REP,139
+Minnehaha,VP16,U.S. Senate,,Scyller J. Borglum,REP,55
+Minnehaha,VP17,U.S. Senate,,Mike Rounds,REP,128
+Minnehaha,VP17,U.S. Senate,,Scyller J. Borglum,REP,36
+Minnehaha,VP21,U.S. Senate,,Mike Rounds,REP,159
+Minnehaha,VP21,U.S. Senate,,Scyller J. Borglum,REP,43
+Minnehaha,103,U.S. Representative,1,Liz Marty May,REP,31
+Minnehaha,103,U.S. Representative,1,Dusty Johnson,REP,186
+Minnehaha,0104 (0105),U.S. Representative,1,Liz Marty May,REP,52
+Minnehaha,0104 (0105),U.S. Representative,1,Dusty Johnson,REP,199
+Minnehaha,106,U.S. Representative,1,Liz Marty May,REP,32
+Minnehaha,106,U.S. Representative,1,Dusty Johnson,REP,192
+Minnehaha,109,U.S. Representative,1,Liz Marty May,REP,46
+Minnehaha,109,U.S. Representative,1,Dusty Johnson,REP,183
+Minnehaha,110,U.S. Representative,1,Liz Marty May,REP,55
+Minnehaha,110,U.S. Representative,1,Dusty Johnson,REP,158
+Minnehaha,117,U.S. Representative,1,Liz Marty May,REP,38
+Minnehaha,117,U.S. Representative,1,Dusty Johnson,REP,157
+Minnehaha,201,U.S. Representative,1,Liz Marty May,REP,53
+Minnehaha,201,U.S. Representative,1,Dusty Johnson,REP,288
+Minnehaha,202,U.S. Representative,1,Liz Marty May,REP,55
+Minnehaha,202,U.S. Representative,1,Dusty Johnson,REP,356
+Minnehaha,203,U.S. Representative,1,Liz Marty May,REP,47
+Minnehaha,203,U.S. Representative,1,Dusty Johnson,REP,243
+Minnehaha,206,U.S. Representative,1,Liz Marty May,REP,44
+Minnehaha,206,U.S. Representative,1,Dusty Johnson,REP,209
+Minnehaha,207,U.S. Representative,1,Liz Marty May,REP,74
+Minnehaha,207,U.S. Representative,1,Dusty Johnson,REP,350
+Minnehaha,208,U.S. Representative,1,Liz Marty May,REP,57
+Minnehaha,208,U.S. Representative,1,Dusty Johnson,REP,310
+Minnehaha,209,U.S. Representative,1,Liz Marty May,REP,45
+Minnehaha,209,U.S. Representative,1,Dusty Johnson,REP,234
+Minnehaha,214,U.S. Representative,1,Liz Marty May,REP,114
+Minnehaha,214,U.S. Representative,1,Dusty Johnson,REP,515
+Minnehaha,305,U.S. Representative,1,Liz Marty May,REP,24
+Minnehaha,305,U.S. Representative,1,Dusty Johnson,REP,62
+Minnehaha,306,U.S. Representative,1,Liz Marty May,REP,22
+Minnehaha,306,U.S. Representative,1,Dusty Johnson,REP,80
+Minnehaha,309,U.S. Representative,1,Liz Marty May,REP,41
+Minnehaha,309,U.S. Representative,1,Dusty Johnson,REP,156
+Minnehaha,310,U.S. Representative,1,Liz Marty May,REP,56
+Minnehaha,310,U.S. Representative,1,Dusty Johnson,REP,312
+Minnehaha,311,U.S. Representative,1,Liz Marty May,REP,51
+Minnehaha,311,U.S. Representative,1,Dusty Johnson,REP,201
+Minnehaha,312,U.S. Representative,1,Liz Marty May,REP,33
+Minnehaha,312,U.S. Representative,1,Dusty Johnson,REP,191
+Minnehaha,313,U.S. Representative,1,Liz Marty May,REP,35
+Minnehaha,313,U.S. Representative,1,Dusty Johnson,REP,166
+Minnehaha,314,U.S. Representative,1,Liz Marty May,REP,52
+Minnehaha,314,U.S. Representative,1,Dusty Johnson,REP,196
+Minnehaha,315,U.S. Representative,1,Liz Marty May,REP,51
+Minnehaha,315,U.S. Representative,1,Dusty Johnson,REP,198
+Minnehaha,316,U.S. Representative,1,Liz Marty May,REP,49
+Minnehaha,316,U.S. Representative,1,Dusty Johnson,REP,248
+Minnehaha,317,U.S. Representative,1,Liz Marty May,REP,61
+Minnehaha,317,U.S. Representative,1,Dusty Johnson,REP,308
+Minnehaha,0401 (0414),U.S. Representative,1,Liz Marty May,REP,42
+Minnehaha,0401 (0414),U.S. Representative,1,Dusty Johnson,REP,114
+Minnehaha,402,U.S. Representative,1,Liz Marty May,REP,25
+Minnehaha,402,U.S. Representative,1,Dusty Johnson,REP,93
+Minnehaha,403,U.S. Representative,1,Liz Marty May,REP,16
+Minnehaha,403,U.S. Representative,1,Dusty Johnson,REP,57
+Minnehaha,404,U.S. Representative,1,Liz Marty May,REP,21
+Minnehaha,404,U.S. Representative,1,Dusty Johnson,REP,72
+Minnehaha,405,U.S. Representative,1,Liz Marty May,REP,53
+Minnehaha,405,U.S. Representative,1,Dusty Johnson,REP,137
+Minnehaha,406,U.S. Representative,1,Liz Marty May,REP,5
+Minnehaha,406,U.S. Representative,1,Dusty Johnson,REP,30
+Minnehaha,0407 (0408),U.S. Representative,1,Liz Marty May,REP,65
+Minnehaha,0407 (0408),U.S. Representative,1,Dusty Johnson,REP,276
+Minnehaha,409,U.S. Representative,1,Liz Marty May,REP,25
+Minnehaha,409,U.S. Representative,1,Dusty Johnson,REP,88
+Minnehaha,410,U.S. Representative,1,Liz Marty May,REP,26
+Minnehaha,410,U.S. Representative,1,Dusty Johnson,REP,123
+Minnehaha,411,U.S. Representative,1,Liz Marty May,REP,65
+Minnehaha,411,U.S. Representative,1,Dusty Johnson,REP,280
+Minnehaha,412,U.S. Representative,1,Liz Marty May,REP,36
+Minnehaha,412,U.S. Representative,1,Dusty Johnson,REP,177
+Minnehaha,413,U.S. Representative,1,Liz Marty May,REP,15
+Minnehaha,413,U.S. Representative,1,Dusty Johnson,REP,89
+Minnehaha,0501 (0502),U.S. Representative,1,Liz Marty May,REP,34
+Minnehaha,0501 (0502),U.S. Representative,1,Dusty Johnson,REP,99
+Minnehaha,503,U.S. Representative,1,Liz Marty May,REP,13
+Minnehaha,503,U.S. Representative,1,Dusty Johnson,REP,39
+Minnehaha,504,U.S. Representative,1,Liz Marty May,REP,31
+Minnehaha,504,U.S. Representative,1,Dusty Johnson,REP,129
+Minnehaha,506,U.S. Representative,1,Liz Marty May,REP,47
+Minnehaha,506,U.S. Representative,1,Dusty Johnson,REP,142
+Minnehaha,507,U.S. Representative,1,Liz Marty May,REP,16
+Minnehaha,507,U.S. Representative,1,Dusty Johnson,REP,105
+Minnehaha,508,U.S. Representative,1,Liz Marty May,REP,35
+Minnehaha,508,U.S. Representative,1,Dusty Johnson,REP,166
+Minnehaha,509,U.S. Representative,1,Liz Marty May,REP,18
+Minnehaha,509,U.S. Representative,1,Dusty Johnson,REP,39
+Minnehaha,510,U.S. Representative,1,Liz Marty May,REP,17
+Minnehaha,510,U.S. Representative,1,Dusty Johnson,REP,84
+Minnehaha,511,U.S. Representative,1,Liz Marty May,REP,19
+Minnehaha,511,U.S. Representative,1,Dusty Johnson,REP,72
+Minnehaha,512,U.S. Representative,1,Liz Marty May,REP,26
+Minnehaha,512,U.S. Representative,1,Dusty Johnson,REP,118
+Minnehaha,513,U.S. Representative,1,Liz Marty May,REP,27
+Minnehaha,513,U.S. Representative,1,Dusty Johnson,REP,127
+Minnehaha,514,U.S. Representative,1,Liz Marty May,REP,23
+Minnehaha,514,U.S. Representative,1,Dusty Johnson,REP,106
+Minnehaha,517,U.S. Representative,1,Liz Marty May,REP,27
+Minnehaha,517,U.S. Representative,1,Dusty Johnson,REP,123
+Minnehaha,518,U.S. Representative,1,Liz Marty May,REP,35
+Minnehaha,518,U.S. Representative,1,Dusty Johnson,REP,110
+Minnehaha,519,U.S. Representative,1,Liz Marty May,REP,31
+Minnehaha,519,U.S. Representative,1,Dusty Johnson,REP,110
+Minnehaha,520,U.S. Representative,1,Liz Marty May,REP,32
+Minnehaha,520,U.S. Representative,1,Dusty Johnson,REP,115
+Minnehaha,521,U.S. Representative,1,Liz Marty May,REP,7
+Minnehaha,521,U.S. Representative,1,Dusty Johnson,REP,99
+Minnehaha,VP01,U.S. Representative,1,Liz Marty May,REP,22
+Minnehaha,VP01,U.S. Representative,1,Dusty Johnson,REP,95
+Minnehaha,VP02,U.S. Representative,1,Liz Marty May,REP,79
+Minnehaha,VP02,U.S. Representative,1,Dusty Johnson,REP,310
+Minnehaha,VP03,U.S. Representative,1,Liz Marty May,REP,67
+Minnehaha,VP03,U.S. Representative,1,Dusty Johnson,REP,323
+Minnehaha,VP04,U.S. Representative,1,Liz Marty May,REP,56
+Minnehaha,VP04,U.S. Representative,1,Dusty Johnson,REP,180
+Minnehaha,VP05,U.S. Representative,1,Liz Marty May,REP,32
+Minnehaha,VP05,U.S. Representative,1,Dusty Johnson,REP,162
+Minnehaha,VP06,U.S. Representative,1,Liz Marty May,REP,17
+Minnehaha,VP06,U.S. Representative,1,Dusty Johnson,REP,82
+Minnehaha,VP07,U.S. Representative,1,Liz Marty May,REP,54
+Minnehaha,VP07,U.S. Representative,1,Dusty Johnson,REP,267
+Minnehaha,VP08,U.S. Representative,1,Liz Marty May,REP,22
+Minnehaha,VP08,U.S. Representative,1,Dusty Johnson,REP,90
+Minnehaha,VP09,U.S. Representative,1,Liz Marty May,REP,54
+Minnehaha,VP09,U.S. Representative,1,Dusty Johnson,REP,158
+Minnehaha,VP10,U.S. Representative,1,Liz Marty May,REP,38
+Minnehaha,VP10,U.S. Representative,1,Dusty Johnson,REP,139
+Minnehaha,VP11,U.S. Representative,1,Liz Marty May,REP,46
+Minnehaha,VP11,U.S. Representative,1,Dusty Johnson,REP,119
+Minnehaha,VP12,U.S. Representative,1,Liz Marty May,REP,8
+Minnehaha,VP12,U.S. Representative,1,Dusty Johnson,REP,21
+Minnehaha,VP13,U.S. Representative,1,Liz Marty May,REP,30
+Minnehaha,VP13,U.S. Representative,1,Dusty Johnson,REP,160
+Minnehaha,VP15,U.S. Representative,1,Liz Marty May,REP,39
+Minnehaha,VP15,U.S. Representative,1,Dusty Johnson,REP,215
+Minnehaha,VP16,U.S. Representative,1,Liz Marty May,REP,52
+Minnehaha,VP16,U.S. Representative,1,Dusty Johnson,REP,141
+Minnehaha,VP17,U.S. Representative,1,Liz Marty May,REP,20
+Minnehaha,VP17,U.S. Representative,1,Dusty Johnson,REP,141
+Minnehaha,VP21,U.S. Representative,1,Liz Marty May,REP,47
+Minnehaha,VP21,U.S. Representative,1,Dusty Johnson,REP,157
+Minnehaha,202,State Senate,14,David B Zellmer,REP,168
+Minnehaha,202,State Senate,14,Larry P Zikmund,REP,213
+Minnehaha,203,State Senate,14,David B Zellmer,REP,95
+Minnehaha,203,State Senate,14,Larry P Zikmund,REP,169
+Minnehaha,206,State Senate,14,David B Zellmer,REP,104
+Minnehaha,206,State Senate,14,Larry P Zikmund,REP,120
+Minnehaha,208,State Senate,14,David B Zellmer,REP,133
+Minnehaha,208,State Senate,14,Larry P Zikmund,REP,205
+Minnehaha,209,State Senate,14,David B Zellmer,REP,87
+Minnehaha,209,State Senate,14,Larry P Zikmund,REP,187
+Minnehaha,214,State Senate,14,David B Zellmer,REP,270
+Minnehaha,214,State Senate,14,Larry P Zikmund,REP,325
+Minnehaha,402,State Senate,14,David B Zellmer,REP,36
+Minnehaha,402,State Senate,14,Larry P Zikmund,REP,66
+Minnehaha,409,State Senate,14,David B Zellmer,REP,39
+Minnehaha,409,State Senate,14,Larry P Zikmund,REP,67
+Minnehaha,413,State Senate,14,David B Zellmer,REP,39
+Minnehaha,413,State Senate,14,Larry P Zikmund,REP,61
+Minnehaha,506,State Senate,14,David B Zellmer,REP,75
+Minnehaha,506,State Senate,14,Larry P Zikmund,REP,106
+Minnehaha,305,State Representative,9,Rhonda Milstead,REP,51
+Minnehaha,305,State Representative,9,Michael Clark,REP,40
+Minnehaha,305,State Representative,9,Bethany Soye,REP,28
+Minnehaha,309,State Representative,9,Rhonda Milstead,REP,130
+Minnehaha,309,State Representative,9,Michael Clark,REP,60
+Minnehaha,309,State Representative,9,Bethany Soye,REP,70
+Minnehaha,312,State Representative,9,Rhonda Milstead,REP,108
+Minnehaha,312,State Representative,9,Michael Clark,REP,48
+Minnehaha,312,State Representative,9,Bethany Soye,REP,51
+Minnehaha,314,State Representative,9,Rhonda Milstead,REP,155
+Minnehaha,314,State Representative,9,Michael Clark,REP,94
+Minnehaha,314,State Representative,9,Bethany Soye,REP,85
+Minnehaha,405,State Representative,9,Rhonda Milstead,REP,108
+Minnehaha,405,State Representative,9,Michael Clark,REP,81
+Minnehaha,405,State Representative,9,Bethany Soye,REP,78
+Minnehaha,VP07,State Representative,9,Rhonda Milstead,REP,251
+Minnehaha,VP07,State Representative,9,Michael Clark,REP,109
+Minnehaha,VP07,State Representative,9,Bethany Soye,REP,102
+Minnehaha,VP08,State Representative,9,Rhonda Milstead,REP,74
+Minnehaha,VP08,State Representative,9,Michael Clark,REP,44
+Minnehaha,VP08,State Representative,9,Bethany Soye,REP,44
+Minnehaha,VP16,State Representative,9,Rhonda Milstead,REP,135
+Minnehaha,VP16,State Representative,9,Michael Clark,REP,61
+Minnehaha,VP16,State Representative,9,Bethany Soye,REP,72
+Minnehaha,VP17,State Representative,9,Rhonda Milstead,REP,125
+Minnehaha,VP17,State Representative,9,Michael Clark,REP,44
+Minnehaha,VP17,State Representative,9,Bethany Soye,REP,59
+Minnehaha,103,State Representative,12,Greg Jamison,REP,151
+Minnehaha,103,State Representative,12,Amy B Miller,REP,44
+Minnehaha,103,State Representative,12,George Hendrickson,REP,25
+Minnehaha,103,State Representative,12,Arch Beal,REP,120
+Minnehaha,0104 (0105),State Representative,12,Greg Jamison,REP,165
+Minnehaha,0104 (0105),State Representative,12,Amy B Miller,REP,85
+Minnehaha,0104 (0105),State Representative,12,George Hendrickson,REP,28
+Minnehaha,0104 (0105),State Representative,12,Arch Beal,REP,128
+Minnehaha,106,State Representative,12,Greg Jamison,REP,136
+Minnehaha,106,State Representative,12,Amy B Miller,REP,71
+Minnehaha,106,State Representative,12,George Hendrickson,REP,37
+Minnehaha,106,State Representative,12,Arch Beal,REP,134
+Minnehaha,503,State Representative,12,Greg Jamison,REP,39
+Minnehaha,503,State Representative,12,Amy B Miller,REP,13
+Minnehaha,503,State Representative,12,George Hendrickson,REP,8
+Minnehaha,503,State Representative,12,Arch Beal,REP,28
+Minnehaha,514,State Representative,12,Greg Jamison,REP,92
+Minnehaha,514,State Representative,12,Amy B Miller,REP,35
+Minnehaha,514,State Representative,12,George Hendrickson,REP,19
+Minnehaha,514,State Representative,12,Arch Beal,REP,73
+Minnehaha,517,State Representative,12,Greg Jamison,REP,100
+Minnehaha,517,State Representative,12,Amy B Miller,REP,30
+Minnehaha,517,State Representative,12,George Hendrickson,REP,30
+Minnehaha,517,State Representative,12,Arch Beal,REP,90
+Minnehaha,519,State Representative,12,Greg Jamison,REP,97
+Minnehaha,519,State Representative,12,Amy B Miller,REP,27
+Minnehaha,519,State Representative,12,George Hendrickson,REP,36
+Minnehaha,519,State Representative,12,Arch Beal,REP,90
+Minnehaha,521,State Representative,12,Greg Jamison,REP,75
+Minnehaha,521,State Representative,12,Amy B Miller,REP,21
+Minnehaha,521,State Representative,12,George Hendrickson,REP,8
+Minnehaha,521,State Representative,12,Arch Beal,REP,76
+Minnehaha,202,State Representative,14,Brad Lindwurm,REP,108
+Minnehaha,202,State Representative,14,Tom Holmes,REP,235
+Minnehaha,202,State Representative,14,Taylor Rae Rehfeldt,REP,243
+Minnehaha,203,State Representative,14,Brad Lindwurm,REP,94
+Minnehaha,203,State Representative,14,Tom Holmes,REP,156
+Minnehaha,203,State Representative,14,Taylor Rae Rehfeldt,REP,163
+Minnehaha,206,State Representative,14,Brad Lindwurm,REP,91
+Minnehaha,206,State Representative,14,Tom Holmes,REP,132
+Minnehaha,206,State Representative,14,Taylor Rae Rehfeldt,REP,129
+Minnehaha,208,State Representative,14,Brad Lindwurm,REP,104
+Minnehaha,208,State Representative,14,Tom Holmes,REP,220
+Minnehaha,208,State Representative,14,Taylor Rae Rehfeldt,REP,202
+Minnehaha,209,State Representative,14,Brad Lindwurm,REP,80
+Minnehaha,209,State Representative,14,Tom Holmes,REP,190
+Minnehaha,209,State Representative,14,Taylor Rae Rehfeldt,REP,163
+Minnehaha,214,State Representative,14,Brad Lindwurm,REP,193
+Minnehaha,214,State Representative,14,Tom Holmes,REP,366
+Minnehaha,214,State Representative,14,Taylor Rae Rehfeldt,REP,427
+Minnehaha,402,State Representative,14,Brad Lindwurm,REP,35
+Minnehaha,402,State Representative,14,Tom Holmes,REP,61
+Minnehaha,402,State Representative,14,Taylor Rae Rehfeldt,REP,52
+Minnehaha,409,State Representative,14,Brad Lindwurm,REP,37
+Minnehaha,409,State Representative,14,Tom Holmes,REP,37
+Minnehaha,409,State Representative,14,Taylor Rae Rehfeldt,REP,80
+Minnehaha,413,State Representative,14,Brad Lindwurm,REP,29
+Minnehaha,413,State Representative,14,Tom Holmes,REP,51
+Minnehaha,413,State Representative,14,Taylor Rae Rehfeldt,REP,61
+Minnehaha,506,State Representative,14,Brad Lindwurm,REP,77
+Minnehaha,506,State Representative,14,Tom Holmes,REP,104
+Minnehaha,506,State Representative,14,Taylor Rae Rehfeldt,REP,101
+Minnehaha,103,States Attorney,,Crystal Johnson,REP,84
+Minnehaha,103,States Attorney,,Paul Bengford,REP,22
+Minnehaha,103,States Attorney,,Daniel Haggar,REP,95
+Minnehaha,0104 (0105),States Attorney,,Crystal Johnson,REP,86
+Minnehaha,0104 (0105),States Attorney,,Paul Bengford,REP,26
+Minnehaha,0104 (0105),States Attorney,,Daniel Haggar,REP,118
+Minnehaha,106,States Attorney,,Crystal Johnson,REP,84
+Minnehaha,106,States Attorney,,Paul Bengford,REP,43
+Minnehaha,106,States Attorney,,Daniel Haggar,REP,82
+Minnehaha,109,States Attorney,,Crystal Johnson,REP,86
+Minnehaha,109,States Attorney,,Paul Bengford,REP,25
+Minnehaha,109,States Attorney,,Daniel Haggar,REP,99
+Minnehaha,110,States Attorney,,Crystal Johnson,REP,75
+Minnehaha,110,States Attorney,,Paul Bengford,REP,40
+Minnehaha,110,States Attorney,,Daniel Haggar,REP,73
+Minnehaha,117,States Attorney,,Crystal Johnson,REP,65
+Minnehaha,117,States Attorney,,Paul Bengford,REP,34
+Minnehaha,117,States Attorney,,Daniel Haggar,REP,75
+Minnehaha,201,States Attorney,,Crystal Johnson,REP,125
+Minnehaha,201,States Attorney,,Paul Bengford,REP,52
+Minnehaha,201,States Attorney,,Daniel Haggar,REP,126
+Minnehaha,202,States Attorney,,Crystal Johnson,REP,183
+Minnehaha,202,States Attorney,,Paul Bengford,REP,60
+Minnehaha,202,States Attorney,,Daniel Haggar,REP,136
+Minnehaha,203,States Attorney,,Crystal Johnson,REP,127
+Minnehaha,203,States Attorney,,Paul Bengford,REP,24
+Minnehaha,203,States Attorney,,Daniel Haggar,REP,113
+Minnehaha,206,States Attorney,,Crystal Johnson,REP,92
+Minnehaha,206,States Attorney,,Paul Bengford,REP,30
+Minnehaha,206,States Attorney,,Daniel Haggar,REP,102
+Minnehaha,207,States Attorney,,Crystal Johnson,REP,130
+Minnehaha,207,States Attorney,,Paul Bengford,REP,51
+Minnehaha,207,States Attorney,,Daniel Haggar,REP,206
+Minnehaha,208,States Attorney,,Crystal Johnson,REP,117
+Minnehaha,208,States Attorney,,Paul Bengford,REP,60
+Minnehaha,208,States Attorney,,Daniel Haggar,REP,157
+Minnehaha,209,States Attorney,,Crystal Johnson,REP,118
+Minnehaha,209,States Attorney,,Paul Bengford,REP,41
+Minnehaha,209,States Attorney,,Daniel Haggar,REP,96
+Minnehaha,214,States Attorney,,Crystal Johnson,REP,252
+Minnehaha,214,States Attorney,,Paul Bengford,REP,71
+Minnehaha,214,States Attorney,,Daniel Haggar,REP,266
+Minnehaha,305,States Attorney,,Crystal Johnson,REP,24
+Minnehaha,305,States Attorney,,Paul Bengford,REP,10
+Minnehaha,305,States Attorney,,Daniel Haggar,REP,36
+Minnehaha,306,States Attorney,,Crystal Johnson,REP,42
+Minnehaha,306,States Attorney,,Paul Bengford,REP,14
+Minnehaha,306,States Attorney,,Daniel Haggar,REP,36
+Minnehaha,309,States Attorney,,Crystal Johnson,REP,67
+Minnehaha,309,States Attorney,,Paul Bengford,REP,29
+Minnehaha,309,States Attorney,,Daniel Haggar,REP,85
+Minnehaha,310,States Attorney,,Crystal Johnson,REP,136
+Minnehaha,310,States Attorney,,Paul Bengford,REP,45
+Minnehaha,310,States Attorney,,Daniel Haggar,REP,161
+Minnehaha,311,States Attorney,,Crystal Johnson,REP,95
+Minnehaha,311,States Attorney,,Paul Bengford,REP,25
+Minnehaha,311,States Attorney,,Daniel Haggar,REP,112
+Minnehaha,312,States Attorney,,Crystal Johnson,REP,93
+Minnehaha,312,States Attorney,,Paul Bengford,REP,27
+Minnehaha,312,States Attorney,,Daniel Haggar,REP,82
+Minnehaha,313,States Attorney,,Crystal Johnson,REP,84
+Minnehaha,313,States Attorney,,Paul Bengford,REP,30
+Minnehaha,313,States Attorney,,Daniel Haggar,REP,72
+Minnehaha,314,States Attorney,,Crystal Johnson,REP,85
+Minnehaha,314,States Attorney,,Paul Bengford,REP,32
+Minnehaha,314,States Attorney,,Daniel Haggar,REP,113
+Minnehaha,315,States Attorney,,Crystal Johnson,REP,107
+Minnehaha,315,States Attorney,,Paul Bengford,REP,30
+Minnehaha,315,States Attorney,,Daniel Haggar,REP,89
+Minnehaha,316,States Attorney,,Crystal Johnson,REP,113
+Minnehaha,316,States Attorney,,Paul Bengford,REP,44
+Minnehaha,316,States Attorney,,Daniel Haggar,REP,103
+Minnehaha,317,States Attorney,,Crystal Johnson,REP,138
+Minnehaha,317,States Attorney,,Paul Bengford,REP,49
+Minnehaha,317,States Attorney,,Daniel Haggar,REP,148
+Minnehaha,0401 (0414),States Attorney,,Crystal Johnson,REP,62
+Minnehaha,0401 (0414),States Attorney,,Paul Bengford,REP,22
+Minnehaha,0401 (0414),States Attorney,,Daniel Haggar,REP,50
+Minnehaha,402,States Attorney,,Crystal Johnson,REP,31
+Minnehaha,402,States Attorney,,Paul Bengford,REP,15
+Minnehaha,402,States Attorney,,Daniel Haggar,REP,52
+Minnehaha,403,States Attorney,,Crystal Johnson,REP,22
+Minnehaha,403,States Attorney,,Paul Bengford,REP,11
+Minnehaha,403,States Attorney,,Daniel Haggar,REP,35
+Minnehaha,404,States Attorney,,Crystal Johnson,REP,36
+Minnehaha,404,States Attorney,,Paul Bengford,REP,13
+Minnehaha,404,States Attorney,,Daniel Haggar,REP,35
+Minnehaha,405,States Attorney,,Crystal Johnson,REP,77
+Minnehaha,405,States Attorney,,Paul Bengford,REP,24
+Minnehaha,405,States Attorney,,Daniel Haggar,REP,63
+Minnehaha,406,States Attorney,,Crystal Johnson,REP,11
+Minnehaha,406,States Attorney,,Paul Bengford,REP,1
+Minnehaha,406,States Attorney,,Daniel Haggar,REP,18
+Minnehaha,0407 (0408),States Attorney,,Crystal Johnson,REP,134
+Minnehaha,0407 (0408),States Attorney,,Paul Bengford,REP,39
+Minnehaha,0407 (0408),States Attorney,,Daniel Haggar,REP,142
+Minnehaha,409,States Attorney,,Crystal Johnson,REP,32
+Minnehaha,409,States Attorney,,Paul Bengford,REP,16
+Minnehaha,409,States Attorney,,Daniel Haggar,REP,52
+Minnehaha,410,States Attorney,,Crystal Johnson,REP,56
+Minnehaha,410,States Attorney,,Paul Bengford,REP,22
+Minnehaha,410,States Attorney,,Daniel Haggar,REP,58
+Minnehaha,411,States Attorney,,Crystal Johnson,REP,104
+Minnehaha,411,States Attorney,,Paul Bengford,REP,44
+Minnehaha,411,States Attorney,,Daniel Haggar,REP,164
+Minnehaha,412,States Attorney,,Crystal Johnson,REP,71
+Minnehaha,412,States Attorney,,Paul Bengford,REP,25
+Minnehaha,412,States Attorney,,Daniel Haggar,REP,104
+Minnehaha,413,States Attorney,,Crystal Johnson,REP,39
+Minnehaha,413,States Attorney,,Paul Bengford,REP,16
+Minnehaha,413,States Attorney,,Daniel Haggar,REP,41
+Minnehaha,0501 (0502),States Attorney,,Crystal Johnson,REP,52
+Minnehaha,0501 (0502),States Attorney,,Paul Bengford,REP,20
+Minnehaha,0501 (0502),States Attorney,,Daniel Haggar,REP,50
+Minnehaha,503,States Attorney,,Crystal Johnson,REP,18
+Minnehaha,503,States Attorney,,Paul Bengford,REP,8
+Minnehaha,503,States Attorney,,Daniel Haggar,REP,22
+Minnehaha,504,States Attorney,,Crystal Johnson,REP,56
+Minnehaha,504,States Attorney,,Paul Bengford,REP,20
+Minnehaha,504,States Attorney,,Daniel Haggar,REP,63
+Minnehaha,506,States Attorney,,Crystal Johnson,REP,77
+Minnehaha,506,States Attorney,,Paul Bengford,REP,31
+Minnehaha,506,States Attorney,,Daniel Haggar,REP,65
+Minnehaha,507,States Attorney,,Crystal Johnson,REP,46
+Minnehaha,507,States Attorney,,Paul Bengford,REP,20
+Minnehaha,507,States Attorney,,Daniel Haggar,REP,44
+Minnehaha,508,States Attorney,,Crystal Johnson,REP,84
+Minnehaha,508,States Attorney,,Paul Bengford,REP,36
+Minnehaha,508,States Attorney,,Daniel Haggar,REP,68
+Minnehaha,509,States Attorney,,Crystal Johnson,REP,23
+Minnehaha,509,States Attorney,,Paul Bengford,REP,11
+Minnehaha,509,States Attorney,,Daniel Haggar,REP,20
+Minnehaha,510,States Attorney,,Crystal Johnson,REP,33
+Minnehaha,510,States Attorney,,Paul Bengford,REP,17
+Minnehaha,510,States Attorney,,Daniel Haggar,REP,36
+Minnehaha,511,States Attorney,,Crystal Johnson,REP,29
+Minnehaha,511,States Attorney,,Paul Bengford,REP,18
+Minnehaha,511,States Attorney,,Daniel Haggar,REP,38
+Minnehaha,512,States Attorney,,Crystal Johnson,REP,57
+Minnehaha,512,States Attorney,,Paul Bengford,REP,28
+Minnehaha,512,States Attorney,,Daniel Haggar,REP,55
+Minnehaha,513,States Attorney,,Crystal Johnson,REP,51
+Minnehaha,513,States Attorney,,Paul Bengford,REP,28
+Minnehaha,513,States Attorney,,Daniel Haggar,REP,63
+Minnehaha,514,States Attorney,,Crystal Johnson,REP,48
+Minnehaha,514,States Attorney,,Paul Bengford,REP,22
+Minnehaha,514,States Attorney,,Daniel Haggar,REP,49
+Minnehaha,517,States Attorney,,Crystal Johnson,REP,49
+Minnehaha,517,States Attorney,,Paul Bengford,REP,35
+Minnehaha,517,States Attorney,,Daniel Haggar,REP,50
+Minnehaha,518,States Attorney,,Crystal Johnson,REP,49
+Minnehaha,518,States Attorney,,Paul Bengford,REP,18
+Minnehaha,518,States Attorney,,Daniel Haggar,REP,64
+Minnehaha,519,States Attorney,,Crystal Johnson,REP,47
+Minnehaha,519,States Attorney,,Paul Bengford,REP,21
+Minnehaha,519,States Attorney,,Daniel Haggar,REP,63
+Minnehaha,520,States Attorney,,Crystal Johnson,REP,54
+Minnehaha,520,States Attorney,,Paul Bengford,REP,24
+Minnehaha,520,States Attorney,,Daniel Haggar,REP,57
+Minnehaha,521,States Attorney,,Crystal Johnson,REP,46
+Minnehaha,521,States Attorney,,Paul Bengford,REP,15
+Minnehaha,521,States Attorney,,Daniel Haggar,REP,41
+Minnehaha,VP01,States Attorney,,Crystal Johnson,REP,47
+Minnehaha,VP01,States Attorney,,Paul Bengford,REP,11
+Minnehaha,VP01,States Attorney,,Daniel Haggar,REP,46
+Minnehaha,VP02,States Attorney,,Crystal Johnson,REP,141
+Minnehaha,VP02,States Attorney,,Paul Bengford,REP,33
+Minnehaha,VP02,States Attorney,,Daniel Haggar,REP,179
+Minnehaha,VP03,States Attorney,,Crystal Johnson,REP,140
+Minnehaha,VP03,States Attorney,,Paul Bengford,REP,37
+Minnehaha,VP03,States Attorney,,Daniel Haggar,REP,172
+Minnehaha,VP04,States Attorney,,Crystal Johnson,REP,75
+Minnehaha,VP04,States Attorney,,Paul Bengford,REP,22
+Minnehaha,VP04,States Attorney,,Daniel Haggar,REP,126
+Minnehaha,VP05,States Attorney,,Crystal Johnson,REP,67
+Minnehaha,VP05,States Attorney,,Paul Bengford,REP,23
+Minnehaha,VP05,States Attorney,,Daniel Haggar,REP,85
+Minnehaha,VP06,States Attorney,,Crystal Johnson,REP,41
+Minnehaha,VP06,States Attorney,,Paul Bengford,REP,9
+Minnehaha,VP06,States Attorney,,Daniel Haggar,REP,47
+Minnehaha,VP07,States Attorney,,Crystal Johnson,REP,120
+Minnehaha,VP07,States Attorney,,Paul Bengford,REP,24
+Minnehaha,VP07,States Attorney,,Daniel Haggar,REP,141
+Minnehaha,VP08,States Attorney,,Crystal Johnson,REP,30
+Minnehaha,VP08,States Attorney,,Paul Bengford,REP,15
+Minnehaha,VP08,States Attorney,,Daniel Haggar,REP,53
+Minnehaha,VP09,States Attorney,,Crystal Johnson,REP,89
+Minnehaha,VP09,States Attorney,,Paul Bengford,REP,33
+Minnehaha,VP09,States Attorney,,Daniel Haggar,REP,78
+Minnehaha,VP10,States Attorney,,Crystal Johnson,REP,69
+Minnehaha,VP10,States Attorney,,Paul Bengford,REP,23
+Minnehaha,VP10,States Attorney,,Daniel Haggar,REP,67
+Minnehaha,VP11,States Attorney,,Crystal Johnson,REP,52
+Minnehaha,VP11,States Attorney,,Paul Bengford,REP,22
+Minnehaha,VP11,States Attorney,,Daniel Haggar,REP,68
+Minnehaha,VP12,States Attorney,,Crystal Johnson,REP,17
+Minnehaha,VP12,States Attorney,,Paul Bengford,REP,1
+Minnehaha,VP12,States Attorney,,Daniel Haggar,REP,8
+Minnehaha,VP13,States Attorney,,Crystal Johnson,REP,66
+Minnehaha,VP13,States Attorney,,Paul Bengford,REP,24
+Minnehaha,VP13,States Attorney,,Daniel Haggar,REP,75
+Minnehaha,VP15,States Attorney,,Crystal Johnson,REP,96
+Minnehaha,VP15,States Attorney,,Paul Bengford,REP,30
+Minnehaha,VP15,States Attorney,,Daniel Haggar,REP,101
+Minnehaha,VP16,States Attorney,,Crystal Johnson,REP,86
+Minnehaha,VP16,States Attorney,,Paul Bengford,REP,21
+Minnehaha,VP16,States Attorney,,Daniel Haggar,REP,66
+Minnehaha,VP17,States Attorney,,Crystal Johnson,REP,68
+Minnehaha,VP17,States Attorney,,Paul Bengford,REP,12
+Minnehaha,VP17,States Attorney,,Daniel Haggar,REP,69
+Minnehaha,VP21,States Attorney,,Crystal Johnson,REP,70
+Minnehaha,VP21,States Attorney,,Paul Bengford,REP,17
+Minnehaha,VP21,States Attorney,,Daniel Haggar,REP,96
+Minnehaha,208,Precinct Committeeman Precinct-0208,,R. Shawn Tornow,REP,173
+Minnehaha,208,Precinct Committeeman Precinct-0208,,John Gregg III,REP,93
+Minnehaha,306,Precinct Committeeman Precinct-0306,,Anthony VanderWoude,REP,39
+Minnehaha,306,Precinct Committeeman Precinct-0306,,Matt Rosburg,REP,33
+Minnehaha,317,Precinct Committeeman Precinct-0317,,David Bachmann,REP,79
+Minnehaha,317,Precinct Committeeman Precinct-0317,,Greg A Neitzert,REP,240
+Minnehaha,512,Precinct Committeeman Precinct-0512,,Justin Bosma,REP,41
+Minnehaha,512,Precinct Committeeman Precinct-0512,,Thomas Bosma,REP,22
+Minnehaha,VP15,Precinct Committeeman Precinct-VP15,,David R. Carson,REP,68
+Minnehaha,VP15,Precinct Committeeman Precinct-VP15,,Michael Steltz,REP,62
+Minnehaha,314,Precinct Committeewoman Precinct- 0314,,Linda J Johnson,REP,61
+Minnehaha,314,Precinct Committeewoman Precinct- 0314,,Bethany Soye,REP,81
+Minnehaha,314,Precinct Committeewoman Precinct- 0314,,Amanda Randall,REP,43

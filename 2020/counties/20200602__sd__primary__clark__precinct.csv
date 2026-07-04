@@ -1,0 +1,79 @@
+county,precinct,office,district,candidate,party,votes
+Clark,1,President,,Bernie Sanders,DEM,3
+Clark,1,President,,Joseph R. Biden,DEM,17
+Clark,2,President,,Bernie Sanders,DEM,0
+Clark,2,President,,Joseph R. Biden,DEM,7
+Clark,3,President,,Bernie Sanders,DEM,3
+Clark,3,President,,Joseph R. Biden,DEM,4
+Clark,4,President,,Bernie Sanders,DEM,0
+Clark,4,President,,Joseph R. Biden,DEM,8
+Clark,5,President,,Bernie Sanders,DEM,0
+Clark,5,President,,Joseph R. Biden,DEM,7
+Clark,6,President,,Bernie Sanders,DEM,0
+Clark,6,President,,Joseph R. Biden,DEM,6
+Clark,7,President,,Bernie Sanders,DEM,0
+Clark,7,President,,Joseph R. Biden,DEM,13
+Clark,8,President,,Bernie Sanders,DEM,4
+Clark,8,President,,Joseph R. Biden,DEM,10
+Clark,9,President,,Bernie Sanders,DEM,0
+Clark,9,President,,Joseph R. Biden,DEM,0
+Clark,10,President,,Bernie Sanders,DEM,1
+Clark,10,President,,Joseph R. Biden,DEM,3
+Clark,11,President,,Bernie Sanders,DEM,5
+Clark,11,President,,Joseph R. Biden,DEM,9
+Clark,12,President,,Bernie Sanders,DEM,1
+Clark,12,President,,Joseph R. Biden,DEM,12
+Clark,13,President,,Bernie Sanders,DEM,2
+Clark,13,President,,Joseph R. Biden,DEM,15
+Clark,1,U.S. Senate,,Mike Rounds,REP,23
+Clark,1,U.S. Senate,,Scyller J. Borglum,REP,11
+Clark,2,U.S. Senate,,Mike Rounds,REP,13
+Clark,2,U.S. Senate,,Scyller J. Borglum,REP,12
+Clark,3,U.S. Senate,,Mike Rounds,REP,11
+Clark,3,U.S. Senate,,Scyller J. Borglum,REP,6
+Clark,4,U.S. Senate,,Mike Rounds,REP,17
+Clark,4,U.S. Senate,,Scyller J. Borglum,REP,5
+Clark,5,U.S. Senate,,Mike Rounds,REP,20
+Clark,5,U.S. Senate,,Scyller J. Borglum,REP,6
+Clark,6,U.S. Senate,,Mike Rounds,REP,9
+Clark,6,U.S. Senate,,Scyller J. Borglum,REP,8
+Clark,7,U.S. Senate,,Mike Rounds,REP,21
+Clark,7,U.S. Senate,,Scyller J. Borglum,REP,2
+Clark,8,U.S. Senate,,Mike Rounds,REP,21
+Clark,8,U.S. Senate,,Scyller J. Borglum,REP,3
+Clark,9,U.S. Senate,,Mike Rounds,REP,5
+Clark,9,U.S. Senate,,Scyller J. Borglum,REP,1
+Clark,10,U.S. Senate,,Mike Rounds,REP,13
+Clark,10,U.S. Senate,,Scyller J. Borglum,REP,3
+Clark,11,U.S. Senate,,Mike Rounds,REP,19
+Clark,11,U.S. Senate,,Scyller J. Borglum,REP,7
+Clark,12,U.S. Senate,,Mike Rounds,REP,25
+Clark,12,U.S. Senate,,Scyller J. Borglum,REP,9
+Clark,13,U.S. Senate,,Mike Rounds,REP,49
+Clark,13,U.S. Senate,,Scyller J. Borglum,REP,10
+Clark,1,U.S. Representative,1,Liz Marty May,REP,13
+Clark,1,U.S. Representative,1,Dusty Johnson,REP,21
+Clark,2,U.S. Representative,1,Liz Marty May,REP,12
+Clark,2,U.S. Representative,1,Dusty Johnson,REP,13
+Clark,3,U.S. Representative,1,Liz Marty May,REP,4
+Clark,3,U.S. Representative,1,Dusty Johnson,REP,13
+Clark,4,U.S. Representative,1,Liz Marty May,REP,3
+Clark,4,U.S. Representative,1,Dusty Johnson,REP,18
+Clark,5,U.S. Representative,1,Liz Marty May,REP,6
+Clark,5,U.S. Representative,1,Dusty Johnson,REP,20
+Clark,6,U.S. Representative,1,Liz Marty May,REP,3
+Clark,6,U.S. Representative,1,Dusty Johnson,REP,14
+Clark,7,U.S. Representative,1,Liz Marty May,REP,6
+Clark,7,U.S. Representative,1,Dusty Johnson,REP,17
+Clark,8,U.S. Representative,1,Liz Marty May,REP,3
+Clark,8,U.S. Representative,1,Dusty Johnson,REP,21
+Clark,9,U.S. Representative,1,Liz Marty May,REP,1
+Clark,9,U.S. Representative,1,Dusty Johnson,REP,5
+Clark,10,U.S. Representative,1,Liz Marty May,REP,3
+Clark,10,U.S. Representative,1,Dusty Johnson,REP,13
+Clark,11,U.S. Representative,1,Liz Marty May,REP,6
+Clark,11,U.S. Representative,1,Dusty Johnson,REP,20
+Clark,12,U.S. Representative,1,Liz Marty May,REP,9
+Clark,12,U.S. Representative,1,Dusty Johnson,REP,24
+Clark,13,U.S. Representative,1,Liz Marty May,REP,12
+Clark,13,U.S. Representative,1,Dusty Johnson,REP,47

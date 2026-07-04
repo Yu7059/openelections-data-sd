@@ -1,0 +1,97 @@
+county,precinct,office,district,candidate,party,votes
+Roberts,1,President,,Bernie Sanders,DEM,5
+Roberts,1,President,,Joseph R. Biden,DEM,28
+Roberts,2,President,,Bernie Sanders,DEM,6
+Roberts,2,President,,Joseph R. Biden,DEM,54
+Roberts,3,President,,Bernie Sanders,DEM,14
+Roberts,3,President,,Joseph R. Biden,DEM,35
+Roberts,4,President,,Bernie Sanders,DEM,6
+Roberts,4,President,,Joseph R. Biden,DEM,15
+Roberts,5,President,,Bernie Sanders,DEM,28
+Roberts,5,President,,Joseph R. Biden,DEM,89
+Roberts,06 (07),President,,Bernie Sanders,DEM,19
+Roberts,06 (07),President,,Joseph R. Biden,DEM,80
+Roberts,8,President,,Bernie Sanders,DEM,6
+Roberts,8,President,,Joseph R. Biden,DEM,22
+Roberts,9,President,,Bernie Sanders,DEM,18
+Roberts,9,President,,Joseph R. Biden,DEM,62
+Roberts,10,President,,Bernie Sanders,DEM,19
+Roberts,10,President,,Joseph R. Biden,DEM,26
+Roberts,11,President,,Bernie Sanders,DEM,54
+Roberts,11,President,,Joseph R. Biden,DEM,149
+Roberts,12 (14),President,,Bernie Sanders,DEM,18
+Roberts,12 (14),President,,Joseph R. Biden,DEM,61
+Roberts,13,President,,Bernie Sanders,DEM,17
+Roberts,13,President,,Joseph R. Biden,DEM,70
+Roberts,1,U.S. Senate,,Mike Rounds,REP,21
+Roberts,1,U.S. Senate,,Scyller J. Borglum,REP,4
+Roberts,2,U.S. Senate,,Mike Rounds,REP,76
+Roberts,2,U.S. Senate,,Scyller J. Borglum,REP,37
+Roberts,3,U.S. Senate,,Mike Rounds,REP,31
+Roberts,3,U.S. Senate,,Scyller J. Borglum,REP,2
+Roberts,4,U.S. Senate,,Mike Rounds,REP,8
+Roberts,4,U.S. Senate,,Scyller J. Borglum,REP,2
+Roberts,5,U.S. Senate,,Mike Rounds,REP,35
+Roberts,5,U.S. Senate,,Scyller J. Borglum,REP,8
+Roberts,06 (07),U.S. Senate,,Mike Rounds,REP,85
+Roberts,06 (07),U.S. Senate,,Scyller J. Borglum,REP,21
+Roberts,8,U.S. Senate,,Mike Rounds,REP,8
+Roberts,8,U.S. Senate,,Scyller J. Borglum,REP,3
+Roberts,9,U.S. Senate,,Mike Rounds,REP,73
+Roberts,9,U.S. Senate,,Scyller J. Borglum,REP,24
+Roberts,10,U.S. Senate,,Mike Rounds,REP,31
+Roberts,10,U.S. Senate,,Scyller J. Borglum,REP,2
+Roberts,11,U.S. Senate,,Mike Rounds,REP,94
+Roberts,11,U.S. Senate,,Scyller J. Borglum,REP,16
+Roberts,12 (14),U.S. Senate,,Mike Rounds,REP,29
+Roberts,12 (14),U.S. Senate,,Scyller J. Borglum,REP,6
+Roberts,13,U.S. Senate,,Mike Rounds,REP,45
+Roberts,13,U.S. Senate,,Scyller J. Borglum,REP,3
+Roberts,1,U.S. Representative,1,Liz Marty May,REP,5
+Roberts,1,U.S. Representative,1,Dusty Johnson,REP,19
+Roberts,2,U.S. Representative,1,Liz Marty May,REP,23
+Roberts,2,U.S. Representative,1,Dusty Johnson,REP,90
+Roberts,3,U.S. Representative,1,Liz Marty May,REP,5
+Roberts,3,U.S. Representative,1,Dusty Johnson,REP,27
+Roberts,4,U.S. Representative,1,Liz Marty May,REP,1
+Roberts,4,U.S. Representative,1,Dusty Johnson,REP,10
+Roberts,5,U.S. Representative,1,Liz Marty May,REP,10
+Roberts,5,U.S. Representative,1,Dusty Johnson,REP,33
+Roberts,06 (07),U.S. Representative,1,Liz Marty May,REP,21
+Roberts,06 (07),U.S. Representative,1,Dusty Johnson,REP,83
+Roberts,8,U.S. Representative,1,Liz Marty May,REP,2
+Roberts,8,U.S. Representative,1,Dusty Johnson,REP,9
+Roberts,9,U.S. Representative,1,Liz Marty May,REP,27
+Roberts,9,U.S. Representative,1,Dusty Johnson,REP,69
+Roberts,10,U.S. Representative,1,Liz Marty May,REP,0
+Roberts,10,U.S. Representative,1,Dusty Johnson,REP,32
+Roberts,11,U.S. Representative,1,Liz Marty May,REP,22
+Roberts,11,U.S. Representative,1,Dusty Johnson,REP,87
+Roberts,12 (14),U.S. Representative,1,Liz Marty May,REP,6
+Roberts,12 (14),U.S. Representative,1,Dusty Johnson,REP,29
+Roberts,13,U.S. Representative,1,Liz Marty May,REP,10
+Roberts,13,U.S. Representative,1,Dusty Johnson,REP,38
+Roberts,1,Sheriff,,Barry Hillestad,DEM,17
+Roberts,1,Sheriff,,Tyler Appel,DEM,23
+Roberts,2,Sheriff,,Barry Hillestad,DEM,33
+Roberts,2,Sheriff,,Tyler Appel,DEM,31
+Roberts,3,Sheriff,,Barry Hillestad,DEM,31
+Roberts,3,Sheriff,,Tyler Appel,DEM,31
+Roberts,4,Sheriff,,Barry Hillestad,DEM,16
+Roberts,4,Sheriff,,Tyler Appel,DEM,10
+Roberts,5,Sheriff,,Barry Hillestad,DEM,52
+Roberts,5,Sheriff,,Tyler Appel,DEM,96
+Roberts,06 (07),Sheriff,,Barry Hillestad,DEM,53
+Roberts,06 (07),Sheriff,,Tyler Appel,DEM,69
+Roberts,8,Sheriff,,Barry Hillestad,DEM,23
+Roberts,8,Sheriff,,Tyler Appel,DEM,7
+Roberts,9,Sheriff,,Barry Hillestad,DEM,45
+Roberts,9,Sheriff,,Tyler Appel,DEM,57
+Roberts,10,Sheriff,,Barry Hillestad,DEM,20
+Roberts,10,Sheriff,,Tyler Appel,DEM,27
+Roberts,11,Sheriff,,Barry Hillestad,DEM,86
+Roberts,11,Sheriff,,Tyler Appel,DEM,153
+Roberts,12 (14),Sheriff,,Barry Hillestad,DEM,31
+Roberts,12 (14),Sheriff,,Tyler Appel,DEM,62
+Roberts,13,Sheriff,,Barry Hillestad,DEM,34
+Roberts,13,Sheriff,,Tyler Appel,DEM,68

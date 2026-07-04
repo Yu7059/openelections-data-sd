@@ -1,0 +1,77 @@
+county,precinct,office,district,candidate,party,votes
+Edmunds,1,President,,Bernie Sanders,DEM,10
+Edmunds,1,President,,Joseph R. Biden,DEM,47
+Edmunds,2,President,,Bernie Sanders,DEM,3
+Edmunds,2,President,,Joseph R. Biden,DEM,28
+Edmunds,3,President,,Bernie Sanders,DEM,6
+Edmunds,3,President,,Joseph R. Biden,DEM,28
+Edmunds,4,President,,Bernie Sanders,DEM,4
+Edmunds,4,President,,Joseph R. Biden,DEM,27
+Edmunds,5,President,,Bernie Sanders,DEM,7
+Edmunds,5,President,,Joseph R. Biden,DEM,21
+Edmunds,6,President,,Bernie Sanders,DEM,5
+Edmunds,6,President,,Joseph R. Biden,DEM,19
+Edmunds,1,U.S. Senate,,Mike Rounds,REP,89
+Edmunds,1,U.S. Senate,,Scyller J. Borglum,REP,22
+Edmunds,2,U.S. Senate,,Mike Rounds,REP,62
+Edmunds,2,U.S. Senate,,Scyller J. Borglum,REP,20
+Edmunds,3,U.S. Senate,,Mike Rounds,REP,53
+Edmunds,3,U.S. Senate,,Scyller J. Borglum,REP,26
+Edmunds,4,U.S. Senate,,Mike Rounds,REP,49
+Edmunds,4,U.S. Senate,,Scyller J. Borglum,REP,13
+Edmunds,5,U.S. Senate,,Mike Rounds,REP,103
+Edmunds,5,U.S. Senate,,Scyller J. Borglum,REP,34
+Edmunds,6,U.S. Senate,,Mike Rounds,REP,37
+Edmunds,6,U.S. Senate,,Scyller J. Borglum,REP,10
+Edmunds,1,U.S. Representative,1,Liz Marty May,REP,21
+Edmunds,1,U.S. Representative,1,Dusty Johnson,REP,90
+Edmunds,2,U.S. Representative,1,Liz Marty May,REP,10
+Edmunds,2,U.S. Representative,1,Dusty Johnson,REP,72
+Edmunds,3,U.S. Representative,1,Liz Marty May,REP,16
+Edmunds,3,U.S. Representative,1,Dusty Johnson,REP,62
+Edmunds,4,U.S. Representative,1,Liz Marty May,REP,8
+Edmunds,4,U.S. Representative,1,Dusty Johnson,REP,53
+Edmunds,5,U.S. Representative,1,Liz Marty May,REP,37
+Edmunds,5,U.S. Representative,1,Dusty Johnson,REP,101
+Edmunds,6,U.S. Representative,1,Liz Marty May,REP,12
+Edmunds,6,U.S. Representative,1,Dusty Johnson,REP,35
+Edmunds,1,State Senate,23,Bryan J Breitling,REP,51
+Edmunds,1,State Senate,23,Larry Nielson,REP,47
+Edmunds,2,State Senate,23,Bryan J Breitling,REP,57
+Edmunds,2,State Senate,23,Larry Nielson,REP,18
+Edmunds,3,State Senate,23,Bryan J Breitling,REP,52
+Edmunds,3,State Senate,23,Larry Nielson,REP,21
+Edmunds,4,State Senate,23,Bryan J Breitling,REP,52
+Edmunds,4,State Senate,23,Larry Nielson,REP,9
+Edmunds,5,State Senate,23,Bryan J Breitling,REP,100
+Edmunds,5,State Senate,23,Larry Nielson,REP,37
+Edmunds,6,State Senate,23,Bryan J Breitling,REP,28
+Edmunds,6,State Senate,23,Larry Nielson,REP,15
+Edmunds,1,State Representative,23,Kevin E Watts,REP,19
+Edmunds,1,State Representative,23,Spencer Gosch,REP,70
+Edmunds,1,State Representative,23,Charlie Hoffman,REP,74
+Edmunds,1,State Representative,23,James D Wangsness,REP,24
+Edmunds,2,State Representative,23,Kevin E Watts,REP,11
+Edmunds,2,State Representative,23,Spencer Gosch,REP,64
+Edmunds,2,State Representative,23,Charlie Hoffman,REP,57
+Edmunds,2,State Representative,23,James D Wangsness,REP,15
+Edmunds,3,State Representative,23,Kevin E Watts,REP,13
+Edmunds,3,State Representative,23,Spencer Gosch,REP,62
+Edmunds,3,State Representative,23,Charlie Hoffman,REP,35
+Edmunds,3,State Representative,23,James D Wangsness,REP,21
+Edmunds,4,State Representative,23,Kevin E Watts,REP,8
+Edmunds,4,State Representative,23,Spencer Gosch,REP,53
+Edmunds,4,State Representative,23,Charlie Hoffman,REP,37
+Edmunds,4,State Representative,23,James D Wangsness,REP,12
+Edmunds,5,State Representative,23,Kevin E Watts,REP,11
+Edmunds,5,State Representative,23,Spencer Gosch,REP,110
+Edmunds,5,State Representative,23,Charlie Hoffman,REP,116
+Edmunds,5,State Representative,23,James D Wangsness,REP,16
+Edmunds,6,State Representative,23,Kevin E Watts,REP,2
+Edmunds,6,State Representative,23,Spencer Gosch,REP,34
+Edmunds,6,State Representative,23,Charlie Hoffman,REP,35
+Edmunds,6,State Representative,23,James D Wangsness,REP,7
+Edmunds,4,County Commissioner Edmunds-4,,Dennis Hoyle,REP,21
+Edmunds,4,County Commissioner Edmunds-4,,Chad M Preszler,REP,40
+Edmunds,6,County Commissioner Edmunds-4,,Dennis Hoyle,REP,5
+Edmunds,6,County Commissioner Edmunds-4,,Chad M Preszler,REP,42

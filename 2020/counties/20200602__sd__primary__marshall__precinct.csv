@@ -1,0 +1,73 @@
+county,precinct,office,district,candidate,party,votes
+Marshall,A1,President,,Bernie Sanders,DEM,5
+Marshall,A1,President,,Joseph R. Biden,DEM,60
+Marshall,A2,President,,Bernie Sanders,DEM,9
+Marshall,A2,President,,Joseph R. Biden,DEM,40
+Marshall,A3,President,,Bernie Sanders,DEM,14
+Marshall,A3,President,,Joseph R. Biden,DEM,53
+Marshall,A4,President,,Bernie Sanders,DEM,9
+Marshall,A4,President,,Joseph R. Biden,DEM,75
+Marshall,A5,President,,Bernie Sanders,DEM,13
+Marshall,A5,President,,Joseph R. Biden,DEM,26
+Marshall,A6,President,,Bernie Sanders,DEM,11
+Marshall,A6,President,,Joseph R. Biden,DEM,67
+Marshall,A7,President,,Bernie Sanders,DEM,11
+Marshall,A7,President,,Joseph R. Biden,DEM,30
+Marshall,A8,President,,Bernie Sanders,DEM,10
+Marshall,A8,President,,Joseph R. Biden,DEM,47
+Marshall,A9,President,,Bernie Sanders,DEM,7
+Marshall,A9,President,,Joseph R. Biden,DEM,49
+Marshall,A1,U.S. Senate,,Mike Rounds,REP,44
+Marshall,A1,U.S. Senate,,Scyller J. Borglum,REP,11
+Marshall,A2,U.S. Senate,,Mike Rounds,REP,32
+Marshall,A2,U.S. Senate,,Scyller J. Borglum,REP,3
+Marshall,A3,U.S. Senate,,Mike Rounds,REP,54
+Marshall,A3,U.S. Senate,,Scyller J. Borglum,REP,9
+Marshall,A4,U.S. Senate,,Mike Rounds,REP,49
+Marshall,A4,U.S. Senate,,Scyller J. Borglum,REP,18
+Marshall,A5,U.S. Senate,,Mike Rounds,REP,27
+Marshall,A5,U.S. Senate,,Scyller J. Borglum,REP,13
+Marshall,A6,U.S. Senate,,Mike Rounds,REP,64
+Marshall,A6,U.S. Senate,,Scyller J. Borglum,REP,18
+Marshall,A7,U.S. Senate,,Mike Rounds,REP,40
+Marshall,A7,U.S. Senate,,Scyller J. Borglum,REP,14
+Marshall,A8,U.S. Senate,,Mike Rounds,REP,29
+Marshall,A8,U.S. Senate,,Scyller J. Borglum,REP,15
+Marshall,A9,U.S. Senate,,Mike Rounds,REP,42
+Marshall,A9,U.S. Senate,,Scyller J. Borglum,REP,6
+Marshall,A1,U.S. Representative,1,Liz Marty May,REP,11
+Marshall,A1,U.S. Representative,1,Dusty Johnson,REP,42
+Marshall,A2,U.S. Representative,1,Liz Marty May,REP,5
+Marshall,A2,U.S. Representative,1,Dusty Johnson,REP,29
+Marshall,A3,U.S. Representative,1,Liz Marty May,REP,5
+Marshall,A3,U.S. Representative,1,Dusty Johnson,REP,58
+Marshall,A4,U.S. Representative,1,Liz Marty May,REP,14
+Marshall,A4,U.S. Representative,1,Dusty Johnson,REP,53
+Marshall,A5,U.S. Representative,1,Liz Marty May,REP,8
+Marshall,A5,U.S. Representative,1,Dusty Johnson,REP,32
+Marshall,A6,U.S. Representative,1,Liz Marty May,REP,17
+Marshall,A6,U.S. Representative,1,Dusty Johnson,REP,66
+Marshall,A7,U.S. Representative,1,Liz Marty May,REP,15
+Marshall,A7,U.S. Representative,1,Dusty Johnson,REP,38
+Marshall,A8,U.S. Representative,1,Liz Marty May,REP,8
+Marshall,A8,U.S. Representative,1,Dusty Johnson,REP,35
+Marshall,A9,U.S. Representative,1,Liz Marty May,REP,9
+Marshall,A9,U.S. Representative,1,Dusty Johnson,REP,39
+Marshall,A1,Bond Issue : Courthouse Bond Issue,,Yes,,51
+Marshall,A1,Bond Issue : Courthouse Bond Issue,,No,,86
+Marshall,A2,Bond Issue : Courthouse Bond Issue,,Yes,,43
+Marshall,A2,Bond Issue : Courthouse Bond Issue,,No,,52
+Marshall,A3,Bond Issue : Courthouse Bond Issue,,Yes,,58
+Marshall,A3,Bond Issue : Courthouse Bond Issue,,No,,92
+Marshall,A4,Bond Issue : Courthouse Bond Issue,,Yes,,54
+Marshall,A4,Bond Issue : Courthouse Bond Issue,,No,,120
+Marshall,A5,Bond Issue : Courthouse Bond Issue,,Yes,,35
+Marshall,A5,Bond Issue : Courthouse Bond Issue,,No,,51
+Marshall,A6,Bond Issue : Courthouse Bond Issue,,Yes,,57
+Marshall,A6,Bond Issue : Courthouse Bond Issue,,No,,119
+Marshall,A7,Bond Issue : Courthouse Bond Issue,,Yes,,48
+Marshall,A7,Bond Issue : Courthouse Bond Issue,,No,,67
+Marshall,A8,Bond Issue : Courthouse Bond Issue,,Yes,,31
+Marshall,A8,Bond Issue : Courthouse Bond Issue,,No,,94
+Marshall,A9,Bond Issue : Courthouse Bond Issue,,Yes,,35
+Marshall,A9,Bond Issue : Courthouse Bond Issue,,No,,84

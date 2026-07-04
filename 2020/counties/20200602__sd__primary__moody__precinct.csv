@@ -1,0 +1,37 @@
+county,precinct,office,district,candidate,party,votes
+Moody,1,President,,Bernie Sanders,DEM,26
+Moody,1,President,,Joseph R. Biden,DEM,97
+Moody,2,President,,Bernie Sanders,DEM,20
+Moody,2,President,,Joseph R. Biden,DEM,77
+Moody,3,President,,Bernie Sanders,DEM,12
+Moody,3,President,,Joseph R. Biden,DEM,31
+Moody,34,President,,Bernie Sanders,DEM,4
+Moody,34,President,,Joseph R. Biden,DEM,26
+Moody,4,President,,Bernie Sanders,DEM,10
+Moody,4,President,,Joseph R. Biden,DEM,24
+Moody,5,President,,Bernie Sanders,DEM,13
+Moody,5,President,,Joseph R. Biden,DEM,42
+Moody,1,U.S. Senate,,Mike Rounds,REP,58
+Moody,1,U.S. Senate,,Scyller J. Borglum,REP,14
+Moody,2,U.S. Senate,,Mike Rounds,REP,62
+Moody,2,U.S. Senate,,Scyller J. Borglum,REP,17
+Moody,3,U.S. Senate,,Mike Rounds,REP,57
+Moody,3,U.S. Senate,,Scyller J. Borglum,REP,14
+Moody,34,U.S. Senate,,Mike Rounds,REP,56
+Moody,34,U.S. Senate,,Scyller J. Borglum,REP,5
+Moody,4,U.S. Senate,,Mike Rounds,REP,53
+Moody,4,U.S. Senate,,Scyller J. Borglum,REP,16
+Moody,5,U.S. Senate,,Mike Rounds,REP,74
+Moody,5,U.S. Senate,,Scyller J. Borglum,REP,23
+Moody,1,U.S. Representative,1,Liz Marty May,REP,20
+Moody,1,U.S. Representative,1,Dusty Johnson,REP,52
+Moody,2,U.S. Representative,1,Liz Marty May,REP,15
+Moody,2,U.S. Representative,1,Dusty Johnson,REP,64
+Moody,3,U.S. Representative,1,Liz Marty May,REP,16
+Moody,3,U.S. Representative,1,Dusty Johnson,REP,55
+Moody,34,U.S. Representative,1,Liz Marty May,REP,4
+Moody,34,U.S. Representative,1,Dusty Johnson,REP,57
+Moody,4,U.S. Representative,1,Liz Marty May,REP,21
+Moody,4,U.S. Representative,1,Dusty Johnson,REP,48
+Moody,5,U.S. Representative,1,Liz Marty May,REP,25
+Moody,5,U.S. Representative,1,Dusty Johnson,REP,71

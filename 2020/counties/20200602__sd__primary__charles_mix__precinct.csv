@@ -1,0 +1,143 @@
+county,precinct,office,district,candidate,party,votes
+Charles Mix,1,President,,Bernie Sanders,DEM,11
+Charles Mix,1,President,,Joseph R. Biden,DEM,34
+Charles Mix,2,President,,Bernie Sanders,DEM,8
+Charles Mix,2,President,,Joseph R. Biden,DEM,22
+Charles Mix,3,President,,Bernie Sanders,DEM,27
+Charles Mix,3,President,,Joseph R. Biden,DEM,62
+Charles Mix,4,President,,Bernie Sanders,DEM,16
+Charles Mix,4,President,,Joseph R. Biden,DEM,16
+Charles Mix,5,President,,Bernie Sanders,DEM,13
+Charles Mix,5,President,,Joseph R. Biden,DEM,25
+Charles Mix,6,President,,Bernie Sanders,DEM,15
+Charles Mix,6,President,,Joseph R. Biden,DEM,38
+Charles Mix,7,President,,Bernie Sanders,DEM,3
+Charles Mix,7,President,,Joseph R. Biden,DEM,18
+Charles Mix,8,President,,Bernie Sanders,DEM,1
+Charles Mix,8,President,,Joseph R. Biden,DEM,12
+Charles Mix,9,President,,Bernie Sanders,DEM,10
+Charles Mix,9,President,,Joseph R. Biden,DEM,27
+Charles Mix,10,President,,Bernie Sanders,DEM,4
+Charles Mix,10,President,,Joseph R. Biden,DEM,4
+Charles Mix,11,President,,Bernie Sanders,DEM,23
+Charles Mix,11,President,,Joseph R. Biden,DEM,73
+Charles Mix,12,President,,Bernie Sanders,DEM,2
+Charles Mix,12,President,,Joseph R. Biden,DEM,15
+Charles Mix,13,President,,Bernie Sanders,DEM,3
+Charles Mix,13,President,,Joseph R. Biden,DEM,6
+Charles Mix,1,U.S. Senate,,Mike Rounds,REP,91
+Charles Mix,1,U.S. Senate,,Scyller J. Borglum,REP,24
+Charles Mix,2,U.S. Senate,,Mike Rounds,REP,25
+Charles Mix,2,U.S. Senate,,Scyller J. Borglum,REP,14
+Charles Mix,3,U.S. Senate,,Mike Rounds,REP,65
+Charles Mix,3,U.S. Senate,,Scyller J. Borglum,REP,18
+Charles Mix,4,U.S. Senate,,Mike Rounds,REP,27
+Charles Mix,4,U.S. Senate,,Scyller J. Borglum,REP,3
+Charles Mix,5,U.S. Senate,,Mike Rounds,REP,53
+Charles Mix,5,U.S. Senate,,Scyller J. Borglum,REP,11
+Charles Mix,6,U.S. Senate,,Mike Rounds,REP,22
+Charles Mix,6,U.S. Senate,,Scyller J. Borglum,REP,4
+Charles Mix,7,U.S. Senate,,Mike Rounds,REP,41
+Charles Mix,7,U.S. Senate,,Scyller J. Borglum,REP,8
+Charles Mix,8,U.S. Senate,,Mike Rounds,REP,49
+Charles Mix,8,U.S. Senate,,Scyller J. Borglum,REP,15
+Charles Mix,9,U.S. Senate,,Mike Rounds,REP,137
+Charles Mix,9,U.S. Senate,,Scyller J. Borglum,REP,50
+Charles Mix,10,U.S. Senate,,Mike Rounds,REP,89
+Charles Mix,10,U.S. Senate,,Scyller J. Borglum,REP,22
+Charles Mix,11,U.S. Senate,,Mike Rounds,REP,262
+Charles Mix,11,U.S. Senate,,Scyller J. Borglum,REP,88
+Charles Mix,12,U.S. Senate,,Mike Rounds,REP,14
+Charles Mix,12,U.S. Senate,,Scyller J. Borglum,REP,16
+Charles Mix,13,U.S. Senate,,Mike Rounds,REP,11
+Charles Mix,13,U.S. Senate,,Scyller J. Borglum,REP,1
+Charles Mix,1,U.S. Representative,1,Liz Marty May,REP,19
+Charles Mix,1,U.S. Representative,1,Dusty Johnson,REP,94
+Charles Mix,2,U.S. Representative,1,Liz Marty May,REP,8
+Charles Mix,2,U.S. Representative,1,Dusty Johnson,REP,31
+Charles Mix,3,U.S. Representative,1,Liz Marty May,REP,13
+Charles Mix,3,U.S. Representative,1,Dusty Johnson,REP,72
+Charles Mix,4,U.S. Representative,1,Liz Marty May,REP,5
+Charles Mix,4,U.S. Representative,1,Dusty Johnson,REP,25
+Charles Mix,5,U.S. Representative,1,Liz Marty May,REP,12
+Charles Mix,5,U.S. Representative,1,Dusty Johnson,REP,51
+Charles Mix,6,U.S. Representative,1,Liz Marty May,REP,3
+Charles Mix,6,U.S. Representative,1,Dusty Johnson,REP,23
+Charles Mix,7,U.S. Representative,1,Liz Marty May,REP,6
+Charles Mix,7,U.S. Representative,1,Dusty Johnson,REP,43
+Charles Mix,8,U.S. Representative,1,Liz Marty May,REP,20
+Charles Mix,8,U.S. Representative,1,Dusty Johnson,REP,44
+Charles Mix,9,U.S. Representative,1,Liz Marty May,REP,34
+Charles Mix,9,U.S. Representative,1,Dusty Johnson,REP,149
+Charles Mix,10,U.S. Representative,1,Liz Marty May,REP,20
+Charles Mix,10,U.S. Representative,1,Dusty Johnson,REP,94
+Charles Mix,11,U.S. Representative,1,Liz Marty May,REP,70
+Charles Mix,11,U.S. Representative,1,Dusty Johnson,REP,283
+Charles Mix,12,U.S. Representative,1,Liz Marty May,REP,12
+Charles Mix,12,U.S. Representative,1,Dusty Johnson,REP,19
+Charles Mix,13,U.S. Representative,1,Liz Marty May,REP,2
+Charles Mix,13,U.S. Representative,1,Dusty Johnson,REP,10
+Charles Mix,1,State Senate,21,Erin Tobin,REP,70
+Charles Mix,1,State Senate,21,Lee Qualm,REP,39
+Charles Mix,2,State Senate,21,Erin Tobin,REP,22
+Charles Mix,2,State Senate,21,Lee Qualm,REP,17
+Charles Mix,3,State Senate,21,Erin Tobin,REP,53
+Charles Mix,3,State Senate,21,Lee Qualm,REP,31
+Charles Mix,4,State Senate,21,Erin Tobin,REP,17
+Charles Mix,4,State Senate,21,Lee Qualm,REP,11
+Charles Mix,5,State Senate,21,Erin Tobin,REP,26
+Charles Mix,5,State Senate,21,Lee Qualm,REP,37
+Charles Mix,6,State Senate,21,Erin Tobin,REP,14
+Charles Mix,6,State Senate,21,Lee Qualm,REP,12
+Charles Mix,7,State Senate,21,Erin Tobin,REP,21
+Charles Mix,7,State Senate,21,Lee Qualm,REP,27
+Charles Mix,8,State Senate,21,Erin Tobin,REP,37
+Charles Mix,8,State Senate,21,Lee Qualm,REP,27
+Charles Mix,9,State Senate,21,Erin Tobin,REP,99
+Charles Mix,9,State Senate,21,Lee Qualm,REP,88
+Charles Mix,10,State Senate,21,Erin Tobin,REP,13
+Charles Mix,10,State Senate,21,Lee Qualm,REP,103
+Charles Mix,11,State Senate,21,Erin Tobin,REP,175
+Charles Mix,11,State Senate,21,Lee Qualm,REP,180
+Charles Mix,12,State Senate,21,Erin Tobin,REP,27
+Charles Mix,12,State Senate,21,Lee Qualm,REP,4
+Charles Mix,13,State Senate,21,Erin Tobin,REP,6
+Charles Mix,13,State Senate,21,Lee Qualm,REP,6
+Charles Mix,1,States Attorney,,Steven R. Cotton,REP,89
+Charles Mix,1,States Attorney,,Pamela S. Hein,REP,24
+Charles Mix,2,States Attorney,,Steven R. Cotton,REP,27
+Charles Mix,2,States Attorney,,Pamela S. Hein,REP,12
+Charles Mix,3,States Attorney,,Steven R. Cotton,REP,58
+Charles Mix,3,States Attorney,,Pamela S. Hein,REP,24
+Charles Mix,4,States Attorney,,Steven R. Cotton,REP,19
+Charles Mix,4,States Attorney,,Pamela S. Hein,REP,12
+Charles Mix,5,States Attorney,,Steven R. Cotton,REP,37
+Charles Mix,5,States Attorney,,Pamela S. Hein,REP,27
+Charles Mix,6,States Attorney,,Steven R. Cotton,REP,10
+Charles Mix,6,States Attorney,,Pamela S. Hein,REP,16
+Charles Mix,7,States Attorney,,Steven R. Cotton,REP,33
+Charles Mix,7,States Attorney,,Pamela S. Hein,REP,12
+Charles Mix,8,States Attorney,,Steven R. Cotton,REP,37
+Charles Mix,8,States Attorney,,Pamela S. Hein,REP,21
+Charles Mix,9,States Attorney,,Steven R. Cotton,REP,96
+Charles Mix,9,States Attorney,,Pamela S. Hein,REP,58
+Charles Mix,10,States Attorney,,Steven R. Cotton,REP,81
+Charles Mix,10,States Attorney,,Pamela S. Hein,REP,22
+Charles Mix,11,States Attorney,,Steven R. Cotton,REP,169
+Charles Mix,11,States Attorney,,Pamela S. Hein,REP,120
+Charles Mix,12,States Attorney,,Steven R. Cotton,REP,18
+Charles Mix,12,States Attorney,,Pamela S. Hein,REP,9
+Charles Mix,13,States Attorney,,Steven R. Cotton,REP,8
+Charles Mix,13,States Attorney,,Pamela S. Hein,REP,4
+Charles Mix,1,County Commissioner Charles Mix-2,,Neil Von Eschen,REP,27
+Charles Mix,1,County Commissioner Charles Mix-2,,Colin Soukup,REP,56
+Charles Mix,2,County Commissioner Charles Mix-2,,Neil Von Eschen,REP,14
+Charles Mix,2,County Commissioner Charles Mix-2,,Colin Soukup,REP,25
+Charles Mix,3,County Commissioner Charles Mix-2,,Neil Von Eschen,REP,38
+Charles Mix,3,County Commissioner Charles Mix-2,,Colin Soukup,REP,34
+Charles Mix,5,County Commissioner Charles Mix-2,,Neil Von Eschen,REP,7
+Charles Mix,5,County Commissioner Charles Mix-2,,Colin Soukup,REP,16
+Charles Mix,6,County Commissioner Charles Mix-2,,Neil Von Eschen,REP,6
+Charles Mix,6,County Commissioner Charles Mix-2,,Colin Soukup,REP,5
+Charles Mix,13,County Commissioner Charles Mix-2,,Neil Von Eschen,REP,2
+Charles Mix,13,County Commissioner Charles Mix-2,,Colin Soukup,REP,3

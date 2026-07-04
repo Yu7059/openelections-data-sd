@@ -1,0 +1,34 @@
+county,precinct,office,district,candidate,party,votes
+Stanley,1,President,,Bernie Sanders,DEM,21
+Stanley,1,President,,Joseph R. Biden,DEM,103
+Stanley,2,President,,Bernie Sanders,DEM,0
+Stanley,2,President,,Joseph R. Biden,DEM,7
+Stanley,3,President,,Bernie Sanders,DEM,1
+Stanley,3,President,,Joseph R. Biden,DEM,6
+Stanley,1,U.S. Senate,,Mike Rounds,REP,508
+Stanley,1,U.S. Senate,,Scyller J. Borglum,REP,104
+Stanley,2,U.S. Senate,,Mike Rounds,REP,27
+Stanley,2,U.S. Senate,,Scyller J. Borglum,REP,8
+Stanley,3,U.S. Senate,,Mike Rounds,REP,43
+Stanley,3,U.S. Senate,,Scyller J. Borglum,REP,13
+Stanley,1,U.S. Representative,1,Liz Marty May,REP,133
+Stanley,1,U.S. Representative,1,Dusty Johnson,REP,477
+Stanley,2,U.S. Representative,1,Liz Marty May,REP,16
+Stanley,2,U.S. Representative,1,Dusty Johnson,REP,18
+Stanley,3,U.S. Representative,1,Liz Marty May,REP,14
+Stanley,3,U.S. Representative,1,Dusty Johnson,REP,43
+Stanley,1,State Representative,24,Jeff Monroe,REP,154
+Stanley,1,State Representative,24,Noel D Chicoine,REP,93
+Stanley,1,State Representative,24,Will D Mortenson,REP,416
+Stanley,1,State Representative,24,Mike Weisgram,REP,399
+Stanley,1,State Representative,24,Bob Lowery,REP,44
+Stanley,2,State Representative,24,Jeff Monroe,REP,12
+Stanley,2,State Representative,24,Noel D Chicoine,REP,4
+Stanley,2,State Representative,24,Will D Mortenson,REP,30
+Stanley,2,State Representative,24,Mike Weisgram,REP,13
+Stanley,2,State Representative,24,Bob Lowery,REP,0
+Stanley,3,State Representative,24,Jeff Monroe,REP,18
+Stanley,3,State Representative,24,Noel D Chicoine,REP,5
+Stanley,3,State Representative,24,Will D Mortenson,REP,46
+Stanley,3,State Representative,24,Mike Weisgram,REP,15
+Stanley,3,State Representative,24,Bob Lowery,REP,7

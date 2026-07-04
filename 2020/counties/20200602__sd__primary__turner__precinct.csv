@@ -1,0 +1,97 @@
+county,precinct,office,district,candidate,party,votes
+Turner,1,President,,Bernie Sanders,DEM,17
+Turner,1,President,,Joseph R. Biden,DEM,56
+Turner,2,President,,Bernie Sanders,DEM,9
+Turner,2,President,,Joseph R. Biden,DEM,70
+Turner,3,President,,Bernie Sanders,DEM,7
+Turner,3,President,,Joseph R. Biden,DEM,20
+Turner,4,President,,Bernie Sanders,DEM,1
+Turner,4,President,,Joseph R. Biden,DEM,15
+Turner,5,President,,Bernie Sanders,DEM,7
+Turner,5,President,,Joseph R. Biden,DEM,36
+Turner,6,President,,Bernie Sanders,DEM,11
+Turner,6,President,,Joseph R. Biden,DEM,42
+Turner,7,President,,Bernie Sanders,DEM,7
+Turner,7,President,,Joseph R. Biden,DEM,21
+Turner,8,President,,Bernie Sanders,DEM,12
+Turner,8,President,,Joseph R. Biden,DEM,23
+Turner,1,U.S. Senate,,Mike Rounds,REP,206
+Turner,1,U.S. Senate,,Scyller J. Borglum,REP,58
+Turner,2,U.S. Senate,,Mike Rounds,REP,200
+Turner,2,U.S. Senate,,Scyller J. Borglum,REP,72
+Turner,3,U.S. Senate,,Mike Rounds,REP,33
+Turner,3,U.S. Senate,,Scyller J. Borglum,REP,24
+Turner,4,U.S. Senate,,Mike Rounds,REP,48
+Turner,4,U.S. Senate,,Scyller J. Borglum,REP,14
+Turner,5,U.S. Senate,,Mike Rounds,REP,92
+Turner,5,U.S. Senate,,Scyller J. Borglum,REP,49
+Turner,6,U.S. Senate,,Mike Rounds,REP,107
+Turner,6,U.S. Senate,,Scyller J. Borglum,REP,36
+Turner,7,U.S. Senate,,Mike Rounds,REP,26
+Turner,7,U.S. Senate,,Scyller J. Borglum,REP,5
+Turner,8,U.S. Senate,,Mike Rounds,REP,128
+Turner,8,U.S. Senate,,Scyller J. Borglum,REP,36
+Turner,1,U.S. Representative,1,Liz Marty May,REP,58
+Turner,1,U.S. Representative,1,Dusty Johnson,REP,204
+Turner,2,U.S. Representative,1,Liz Marty May,REP,56
+Turner,2,U.S. Representative,1,Dusty Johnson,REP,219
+Turner,3,U.S. Representative,1,Liz Marty May,REP,13
+Turner,3,U.S. Representative,1,Dusty Johnson,REP,44
+Turner,4,U.S. Representative,1,Liz Marty May,REP,10
+Turner,4,U.S. Representative,1,Dusty Johnson,REP,49
+Turner,5,U.S. Representative,1,Liz Marty May,REP,27
+Turner,5,U.S. Representative,1,Dusty Johnson,REP,112
+Turner,6,U.S. Representative,1,Liz Marty May,REP,33
+Turner,6,U.S. Representative,1,Dusty Johnson,REP,109
+Turner,7,U.S. Representative,1,Liz Marty May,REP,4
+Turner,7,U.S. Representative,1,Dusty Johnson,REP,27
+Turner,8,U.S. Representative,1,Liz Marty May,REP,21
+Turner,8,U.S. Representative,1,Dusty Johnson,REP,142
+Turner,1,State Senate,17,Arthur Rusch,REP,77
+Turner,1,State Senate,17,Nancy Rasmussen,REP,175
+Turner,2,State Senate,17,Arthur Rusch,REP,111
+Turner,2,State Senate,17,Nancy Rasmussen,REP,157
+Turner,3,State Senate,17,Arthur Rusch,REP,20
+Turner,3,State Senate,17,Nancy Rasmussen,REP,37
+Turner,4,State Senate,17,Arthur Rusch,REP,11
+Turner,4,State Senate,17,Nancy Rasmussen,REP,50
+Turner,5,State Senate,17,Arthur Rusch,REP,50
+Turner,5,State Senate,17,Nancy Rasmussen,REP,89
+Turner,6,State Senate,17,Arthur Rusch,REP,47
+Turner,6,State Senate,17,Nancy Rasmussen,REP,91
+Turner,7,State Senate,17,Arthur Rusch,REP,9
+Turner,7,State Senate,17,Nancy Rasmussen,REP,22
+Turner,8,State Senate,17,Arthur Rusch,REP,77
+Turner,8,State Senate,17,Nancy Rasmussen,REP,84
+Turner,1,State Representative,17,Richard Vasgaard,REP,73
+Turner,1,State Representative,17,Dan Werner,REP,158
+Turner,1,State Representative,17,Sydney Davis,REP,119
+Turner,1,State Representative,17,Charles Kludt,REP,43
+Turner,2,State Representative,17,Richard Vasgaard,REP,97
+Turner,2,State Representative,17,Dan Werner,REP,65
+Turner,2,State Representative,17,Sydney Davis,REP,196
+Turner,2,State Representative,17,Charles Kludt,REP,70
+Turner,3,State Representative,17,Richard Vasgaard,REP,32
+Turner,3,State Representative,17,Dan Werner,REP,18
+Turner,3,State Representative,17,Sydney Davis,REP,37
+Turner,3,State Representative,17,Charles Kludt,REP,16
+Turner,4,State Representative,17,Richard Vasgaard,REP,28
+Turner,4,State Representative,17,Dan Werner,REP,18
+Turner,4,State Representative,17,Sydney Davis,REP,34
+Turner,4,State Representative,17,Charles Kludt,REP,26
+Turner,5,State Representative,17,Richard Vasgaard,REP,78
+Turner,5,State Representative,17,Dan Werner,REP,21
+Turner,5,State Representative,17,Sydney Davis,REP,89
+Turner,5,State Representative,17,Charles Kludt,REP,45
+Turner,6,State Representative,17,Richard Vasgaard,REP,66
+Turner,6,State Representative,17,Dan Werner,REP,15
+Turner,6,State Representative,17,Sydney Davis,REP,65
+Turner,6,State Representative,17,Charles Kludt,REP,94
+Turner,7,State Representative,17,Richard Vasgaard,REP,16
+Turner,7,State Representative,17,Dan Werner,REP,4
+Turner,7,State Representative,17,Sydney Davis,REP,14
+Turner,7,State Representative,17,Charles Kludt,REP,24
+Turner,8,State Representative,17,Richard Vasgaard,REP,124
+Turner,8,State Representative,17,Dan Werner,REP,21
+Turner,8,State Representative,17,Sydney Davis,REP,69
+Turner,8,State Representative,17,Charles Kludt,REP,64

@@ -1,0 +1,113 @@
+county,precinct,office,district,candidate,party,votes
+Todd,Bordeaux,President,,Bernie Sanders,DEM,8
+Todd,Bordeaux,President,,Joseph R. Biden,DEM,18
+Todd,Jeanette,President,,Bernie Sanders,DEM,1
+Todd,Jeanette,President,,Joseph R. Biden,DEM,6
+Todd,Lakeview,President,,Bernie Sanders,DEM,4
+Todd,Lakeview,President,,Joseph R. Biden,DEM,8
+Todd,Mission-N. Antelope,President,,Bernie Sanders,DEM,95
+Todd,Mission-N. Antelope,President,,Joseph R. Biden,DEM,142
+Todd,OKreek,President,,Bernie Sanders,DEM,20
+Todd,OKreek,President,,Joseph R. Biden,DEM,15
+Todd,Parmelee,President,,Bernie Sanders,DEM,57
+Todd,Parmelee,President,,Joseph R. Biden,DEM,50
+Todd,Rosebud,President,,Bernie Sanders,DEM,58
+Todd,Rosebud,President,,Joseph R. Biden,DEM,94
+Todd,S. Antelope,President,,Bernie Sanders,DEM,53
+Todd,S. Antelope,President,,Joseph R. Biden,DEM,61
+Todd,Saint Francis,President,,Bernie Sanders,DEM,41
+Todd,Saint Francis,President,,Joseph R. Biden,DEM,59
+Todd,Bordeaux,U.S. Senate,,Mike Rounds,REP,3
+Todd,Bordeaux,U.S. Senate,,Scyller J. Borglum,REP,0
+Todd,Jeanette,U.S. Senate,,Mike Rounds,REP,16
+Todd,Jeanette,U.S. Senate,,Scyller J. Borglum,REP,9
+Todd,Lakeview,U.S. Senate,,Mike Rounds,REP,29
+Todd,Lakeview,U.S. Senate,,Scyller J. Borglum,REP,22
+Todd,Mission-N. Antelope,U.S. Senate,,Mike Rounds,REP,39
+Todd,Mission-N. Antelope,U.S. Senate,,Scyller J. Borglum,REP,15
+Todd,OKreek,U.S. Senate,,Mike Rounds,REP,4
+Todd,OKreek,U.S. Senate,,Scyller J. Borglum,REP,13
+Todd,Parmelee,U.S. Senate,,Mike Rounds,REP,5
+Todd,Parmelee,U.S. Senate,,Scyller J. Borglum,REP,5
+Todd,Rosebud,U.S. Senate,,Mike Rounds,REP,10
+Todd,Rosebud,U.S. Senate,,Scyller J. Borglum,REP,4
+Todd,S. Antelope,U.S. Senate,,Mike Rounds,REP,13
+Todd,S. Antelope,U.S. Senate,,Scyller J. Borglum,REP,12
+Todd,Saint Francis,U.S. Senate,,Mike Rounds,REP,12
+Todd,Saint Francis,U.S. Senate,,Scyller J. Borglum,REP,6
+Todd,Bordeaux,U.S. Representative,1,Liz Marty May,REP,1
+Todd,Bordeaux,U.S. Representative,1,Dusty Johnson,REP,2
+Todd,Jeanette,U.S. Representative,1,Liz Marty May,REP,11
+Todd,Jeanette,U.S. Representative,1,Dusty Johnson,REP,13
+Todd,Lakeview,U.S. Representative,1,Liz Marty May,REP,30
+Todd,Lakeview,U.S. Representative,1,Dusty Johnson,REP,20
+Todd,Mission-N. Antelope,U.S. Representative,1,Liz Marty May,REP,21
+Todd,Mission-N. Antelope,U.S. Representative,1,Dusty Johnson,REP,33
+Todd,OKreek,U.S. Representative,1,Liz Marty May,REP,9
+Todd,OKreek,U.S. Representative,1,Dusty Johnson,REP,9
+Todd,Parmelee,U.S. Representative,1,Liz Marty May,REP,7
+Todd,Parmelee,U.S. Representative,1,Dusty Johnson,REP,3
+Todd,Rosebud,U.S. Representative,1,Liz Marty May,REP,4
+Todd,Rosebud,U.S. Representative,1,Dusty Johnson,REP,10
+Todd,S. Antelope,U.S. Representative,1,Liz Marty May,REP,15
+Todd,S. Antelope,U.S. Representative,1,Dusty Johnson,REP,10
+Todd,Saint Francis,U.S. Representative,1,Liz Marty May,REP,6
+Todd,Saint Francis,U.S. Representative,1,Dusty Johnson,REP,12
+Todd,Bordeaux,State Representative,26A,Shawn Bordeaux,DEM,13
+Todd,Bordeaux,State Representative,26A,Alexandra Frederick,DEM,13
+Todd,Jeanette,State Representative,26A,Shawn Bordeaux,DEM,1
+Todd,Jeanette,State Representative,26A,Alexandra Frederick,DEM,5
+Todd,Lakeview,State Representative,26A,Shawn Bordeaux,DEM,7
+Todd,Lakeview,State Representative,26A,Alexandra Frederick,DEM,10
+Todd,Mission-N. Antelope,State Representative,26A,Shawn Bordeaux,DEM,140
+Todd,Mission-N. Antelope,State Representative,26A,Alexandra Frederick,DEM,98
+Todd,OKreek,State Representative,26A,Shawn Bordeaux,DEM,15
+Todd,OKreek,State Representative,26A,Alexandra Frederick,DEM,21
+Todd,Parmelee,State Representative,26A,Shawn Bordeaux,DEM,64
+Todd,Parmelee,State Representative,26A,Alexandra Frederick,DEM,45
+Todd,Rosebud,State Representative,26A,Shawn Bordeaux,DEM,88
+Todd,Rosebud,State Representative,26A,Alexandra Frederick,DEM,67
+Todd,S. Antelope,State Representative,26A,Shawn Bordeaux,DEM,64
+Todd,S. Antelope,State Representative,26A,Alexandra Frederick,DEM,54
+Todd,Saint Francis,State Representative,26A,Shawn Bordeaux,DEM,66
+Todd,Saint Francis,State Representative,26A,Alexandra Frederick,DEM,38
+Todd,Bordeaux,County Commissioner Todd-4,,Howard Heinert,DEM,7
+Todd,Bordeaux,County Commissioner Todd-4,,Viola Waln,DEM,18
+Todd,Parmelee,County Commissioner Todd-4,,Howard Heinert,DEM,42
+Todd,Parmelee,County Commissioner Todd-4,,Viola Waln,DEM,65
+Todd,Bordeaux,School Board Member Todd County School District 66-1,,Glen Yellow Eagle,,4
+Todd,Bordeaux,School Board Member Todd County School District 66-1,,Linda Bordeaux,,4
+Todd,Bordeaux,School Board Member Todd County School District 66-1,,Jennifer Bordeaux-Black Bear,,5
+Todd,Bordeaux,School Board Member Todd County School District 66-1,,Sage D. Fast Dog,,13
+Todd,Jeanette,School Board Member Todd County School District 66-1,,Glen Yellow Eagle,,2
+Todd,Jeanette,School Board Member Todd County School District 66-1,,Linda Bordeaux,,13
+Todd,Jeanette,School Board Member Todd County School District 66-1,,Jennifer Bordeaux-Black Bear,,3
+Todd,Jeanette,School Board Member Todd County School District 66-1,,Sage D. Fast Dog,,5
+Todd,Lakeview,School Board Member Todd County School District 66-1,,Glen Yellow Eagle,,2
+Todd,Lakeview,School Board Member Todd County School District 66-1,,Linda Bordeaux,,34
+Todd,Lakeview,School Board Member Todd County School District 66-1,,Jennifer Bordeaux-Black Bear,,6
+Todd,Lakeview,School Board Member Todd County School District 66-1,,Sage D. Fast Dog,,13
+Todd,Mission-N. Antelope,School Board Member Todd County School District 66-1,,Glen Yellow Eagle,,23
+Todd,Mission-N. Antelope,School Board Member Todd County School District 66-1,,Linda Bordeaux,,81
+Todd,Mission-N. Antelope,School Board Member Todd County School District 66-1,,Jennifer Bordeaux-Black Bear,,7
+Todd,Mission-N. Antelope,School Board Member Todd County School District 66-1,,Sage D. Fast Dog,,196
+Todd,OKreek,School Board Member Todd County School District 66-1,,Glen Yellow Eagle,,1
+Todd,OKreek,School Board Member Todd County School District 66-1,,Linda Bordeaux,,17
+Todd,OKreek,School Board Member Todd County School District 66-1,,Jennifer Bordeaux-Black Bear,,5
+Todd,OKreek,School Board Member Todd County School District 66-1,,Sage D. Fast Dog,,24
+Todd,Parmelee,School Board Member Todd County School District 66-1,,Glen Yellow Eagle,,11
+Todd,Parmelee,School Board Member Todd County School District 66-1,,Linda Bordeaux,,23
+Todd,Parmelee,School Board Member Todd County School District 66-1,,Jennifer Bordeaux-Black Bear,,15
+Todd,Parmelee,School Board Member Todd County School District 66-1,,Sage D. Fast Dog,,85
+Todd,Rosebud,School Board Member Todd County School District 66-1,,Glen Yellow Eagle,,15
+Todd,Rosebud,School Board Member Todd County School District 66-1,,Linda Bordeaux,,34
+Todd,Rosebud,School Board Member Todd County School District 66-1,,Jennifer Bordeaux-Black Bear,,28
+Todd,Rosebud,School Board Member Todd County School District 66-1,,Sage D. Fast Dog,,118
+Todd,S. Antelope,School Board Member Todd County School District 66-1,,Glen Yellow Eagle,,19
+Todd,S. Antelope,School Board Member Todd County School District 66-1,,Linda Bordeaux,,30
+Todd,S. Antelope,School Board Member Todd County School District 66-1,,Jennifer Bordeaux-Black Bear,,5
+Todd,S. Antelope,School Board Member Todd County School District 66-1,,Sage D. Fast Dog,,93
+Todd,Saint Francis,School Board Member Todd County School District 66-1,,Glen Yellow Eagle,,19
+Todd,Saint Francis,School Board Member Todd County School District 66-1,,Linda Bordeaux,,29
+Todd,Saint Francis,School Board Member Todd County School District 66-1,,Jennifer Bordeaux-Black Bear,,16
+Todd,Saint Francis,School Board Member Todd County School District 66-1,,Sage D. Fast Dog,,55

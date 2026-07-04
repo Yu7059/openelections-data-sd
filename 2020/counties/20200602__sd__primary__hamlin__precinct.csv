@@ -1,0 +1,43 @@
+county,precinct,office,district,candidate,party,votes
+Hamlin,2,President,,Bernie Sanders,DEM,1
+Hamlin,2,President,,Joseph R. Biden,DEM,4
+Hamlin,21,President,,Bernie Sanders,DEM,9
+Hamlin,21,President,,Joseph R. Biden,DEM,52
+Hamlin,22,President,,Bernie Sanders,DEM,1
+Hamlin,22,President,,Joseph R. Biden,DEM,0
+Hamlin,23,President,,Bernie Sanders,DEM,1
+Hamlin,23,President,,Joseph R. Biden,DEM,11
+Hamlin,24,President,,Bernie Sanders,DEM,7
+Hamlin,24,President,,Joseph R. Biden,DEM,38
+Hamlin,25,President,,Bernie Sanders,DEM,12
+Hamlin,25,President,,Joseph R. Biden,DEM,64
+Hamlin,26,President,,Bernie Sanders,DEM,4
+Hamlin,26,President,,Joseph R. Biden,DEM,9
+Hamlin,2,U.S. Senate,,Mike Rounds,REP,39
+Hamlin,2,U.S. Senate,,Scyller J. Borglum,REP,14
+Hamlin,21,U.S. Senate,,Mike Rounds,REP,128
+Hamlin,21,U.S. Senate,,Scyller J. Borglum,REP,45
+Hamlin,22,U.S. Senate,,Mike Rounds,REP,21
+Hamlin,22,U.S. Senate,,Scyller J. Borglum,REP,18
+Hamlin,23,U.S. Senate,,Mike Rounds,REP,57
+Hamlin,23,U.S. Senate,,Scyller J. Borglum,REP,24
+Hamlin,24,U.S. Senate,,Mike Rounds,REP,140
+Hamlin,24,U.S. Senate,,Scyller J. Borglum,REP,32
+Hamlin,25,U.S. Senate,,Mike Rounds,REP,65
+Hamlin,25,U.S. Senate,,Scyller J. Borglum,REP,19
+Hamlin,26,U.S. Senate,,Mike Rounds,REP,110
+Hamlin,26,U.S. Senate,,Scyller J. Borglum,REP,24
+Hamlin,2,U.S. Representative,1,Liz Marty May,REP,11
+Hamlin,2,U.S. Representative,1,Dusty Johnson,REP,41
+Hamlin,21,U.S. Representative,1,Liz Marty May,REP,50
+Hamlin,21,U.S. Representative,1,Dusty Johnson,REP,120
+Hamlin,22,U.S. Representative,1,Liz Marty May,REP,15
+Hamlin,22,U.S. Representative,1,Dusty Johnson,REP,24
+Hamlin,23,U.S. Representative,1,Liz Marty May,REP,15
+Hamlin,23,U.S. Representative,1,Dusty Johnson,REP,66
+Hamlin,24,U.S. Representative,1,Liz Marty May,REP,27
+Hamlin,24,U.S. Representative,1,Dusty Johnson,REP,145
+Hamlin,25,U.S. Representative,1,Liz Marty May,REP,19
+Hamlin,25,U.S. Representative,1,Dusty Johnson,REP,66
+Hamlin,26,U.S. Representative,1,Liz Marty May,REP,17
+Hamlin,26,U.S. Representative,1,Dusty Johnson,REP,118

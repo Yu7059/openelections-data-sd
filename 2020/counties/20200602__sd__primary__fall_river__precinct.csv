@@ -1,0 +1,206 @@
+county,precinct,office,district,candidate,party,votes
+Fall River,BEA,President,,Bernie Sanders,DEM,0
+Fall River,BEA,President,,Joseph R. Biden,DEM,2
+Fall River,CAS,President,,Bernie Sanders,DEM,3
+Fall River,CAS,President,,Joseph R. Biden,DEM,6
+Fall River,EDA,President,,Bernie Sanders,DEM,8
+Fall River,EDA,President,,Joseph R. Biden,DEM,32
+Fall River,HS 1,President,,Bernie Sanders,DEM,15
+Fall River,HS 1,President,,Joseph R. Biden,DEM,45
+Fall River,HS 2,President,,Bernie Sanders,DEM,15
+Fall River,HS 2,President,,Joseph R. Biden,DEM,61
+Fall River,HS 3,President,,Bernie Sanders,DEM,11
+Fall River,HS 3,President,,Joseph R. Biden,DEM,56
+Fall River,HS 4,President,,Bernie Sanders,DEM,14
+Fall River,HS 4,President,,Joseph R. Biden,DEM,37
+Fall River,JAC,President,,Bernie Sanders,DEM,20
+Fall River,JAC,President,,Joseph R. Biden,DEM,81
+Fall River,Oelrichs Area,President,,Bernie Sanders,DEM,2
+Fall River,Oelrichs Area,President,,Joseph R. Biden,DEM,13
+Fall River,BEA,U.S. Senate,,Mike Rounds,REP,46
+Fall River,BEA,U.S. Senate,,Scyller J. Borglum,REP,30
+Fall River,CAS,U.S. Senate,,Mike Rounds,REP,55
+Fall River,CAS,U.S. Senate,,Scyller J. Borglum,REP,18
+Fall River,EDA,U.S. Senate,,Mike Rounds,REP,169
+Fall River,EDA,U.S. Senate,,Scyller J. Borglum,REP,44
+Fall River,HS 1,U.S. Senate,,Mike Rounds,REP,109
+Fall River,HS 1,U.S. Senate,,Scyller J. Borglum,REP,35
+Fall River,HS 2,U.S. Senate,,Mike Rounds,REP,141
+Fall River,HS 2,U.S. Senate,,Scyller J. Borglum,REP,33
+Fall River,HS 3,U.S. Senate,,Mike Rounds,REP,117
+Fall River,HS 3,U.S. Senate,,Scyller J. Borglum,REP,37
+Fall River,HS 4,U.S. Senate,,Mike Rounds,REP,89
+Fall River,HS 4,U.S. Senate,,Scyller J. Borglum,REP,20
+Fall River,JAC,U.S. Senate,,Mike Rounds,REP,297
+Fall River,JAC,U.S. Senate,,Scyller J. Borglum,REP,118
+Fall River,Oelrichs Area,U.S. Senate,,Mike Rounds,REP,95
+Fall River,Oelrichs Area,U.S. Senate,,Scyller J. Borglum,REP,37
+Fall River,BEA,U.S. Representative,1,Liz Marty May,REP,31
+Fall River,BEA,U.S. Representative,1,Dusty Johnson,REP,47
+Fall River,CAS,U.S. Representative,1,Liz Marty May,REP,24
+Fall River,CAS,U.S. Representative,1,Dusty Johnson,REP,49
+Fall River,EDA,U.S. Representative,1,Liz Marty May,REP,57
+Fall River,EDA,U.S. Representative,1,Dusty Johnson,REP,155
+Fall River,HS 1,U.S. Representative,1,Liz Marty May,REP,42
+Fall River,HS 1,U.S. Representative,1,Dusty Johnson,REP,100
+Fall River,HS 2,U.S. Representative,1,Liz Marty May,REP,31
+Fall River,HS 2,U.S. Representative,1,Dusty Johnson,REP,142
+Fall River,HS 3,U.S. Representative,1,Liz Marty May,REP,44
+Fall River,HS 3,U.S. Representative,1,Dusty Johnson,REP,112
+Fall River,HS 4,U.S. Representative,1,Liz Marty May,REP,24
+Fall River,HS 4,U.S. Representative,1,Dusty Johnson,REP,85
+Fall River,JAC,U.S. Representative,1,Liz Marty May,REP,99
+Fall River,JAC,U.S. Representative,1,Dusty Johnson,REP,318
+Fall River,Oelrichs Area,U.S. Representative,1,Liz Marty May,REP,45
+Fall River,Oelrichs Area,U.S. Representative,1,Dusty Johnson,REP,84
+Fall River,BEA,State Senate,30,Julie Frye-Mueller,REP,36
+Fall River,BEA,State Senate,30,George H Kotti,REP,39
+Fall River,CAS,State Senate,30,Julie Frye-Mueller,REP,34
+Fall River,CAS,State Senate,30,George H Kotti,REP,37
+Fall River,EDA,State Senate,30,Julie Frye-Mueller,REP,107
+Fall River,EDA,State Senate,30,George H Kotti,REP,89
+Fall River,HS 1,State Senate,30,Julie Frye-Mueller,REP,57
+Fall River,HS 1,State Senate,30,George H Kotti,REP,86
+Fall River,HS 2,State Senate,30,Julie Frye-Mueller,REP,55
+Fall River,HS 2,State Senate,30,George H Kotti,REP,118
+Fall River,HS 3,State Senate,30,Julie Frye-Mueller,REP,75
+Fall River,HS 3,State Senate,30,George H Kotti,REP,83
+Fall River,HS 4,State Senate,30,Julie Frye-Mueller,REP,43
+Fall River,HS 4,State Senate,30,George H Kotti,REP,65
+Fall River,JAC,State Senate,30,Julie Frye-Mueller,REP,197
+Fall River,JAC,State Senate,30,George H Kotti,REP,202
+Fall River,Oelrichs Area,State Senate,30,Julie Frye-Mueller,REP,86
+Fall River,Oelrichs Area,State Senate,30,George H Kotti,REP,36
+Fall River,BEA,State Representative,30,Tim R Goodwin,REP,50
+Fall River,BEA,State Representative,30,Kwinn Neff,REP,24
+Fall River,BEA,State Representative,30,Trish Ladner,REP,29
+Fall River,BEA,State Representative,30,Florence Thompson,REP,16
+Fall River,CAS,State Representative,30,Tim R Goodwin,REP,48
+Fall River,CAS,State Representative,30,Kwinn Neff,REP,9
+Fall River,CAS,State Representative,30,Trish Ladner,REP,28
+Fall River,CAS,State Representative,30,Florence Thompson,REP,20
+Fall River,EDA,State Representative,30,Tim R Goodwin,REP,146
+Fall River,EDA,State Representative,30,Kwinn Neff,REP,64
+Fall River,EDA,State Representative,30,Trish Ladner,REP,61
+Fall River,EDA,State Representative,30,Florence Thompson,REP,52
+Fall River,HS 1,State Representative,30,Tim R Goodwin,REP,91
+Fall River,HS 1,State Representative,30,Kwinn Neff,REP,22
+Fall River,HS 1,State Representative,30,Trish Ladner,REP,58
+Fall River,HS 1,State Representative,30,Florence Thompson,REP,52
+Fall River,HS 2,State Representative,30,Tim R Goodwin,REP,120
+Fall River,HS 2,State Representative,30,Kwinn Neff,REP,33
+Fall River,HS 2,State Representative,30,Trish Ladner,REP,69
+Fall River,HS 2,State Representative,30,Florence Thompson,REP,41
+Fall River,HS 3,State Representative,30,Tim R Goodwin,REP,101
+Fall River,HS 3,State Representative,30,Kwinn Neff,REP,30
+Fall River,HS 3,State Representative,30,Trish Ladner,REP,52
+Fall River,HS 3,State Representative,30,Florence Thompson,REP,58
+Fall River,HS 4,State Representative,30,Tim R Goodwin,REP,70
+Fall River,HS 4,State Representative,30,Kwinn Neff,REP,21
+Fall River,HS 4,State Representative,30,Trish Ladner,REP,40
+Fall River,HS 4,State Representative,30,Florence Thompson,REP,33
+Fall River,JAC,State Representative,30,Tim R Goodwin,REP,301
+Fall River,JAC,State Representative,30,Kwinn Neff,REP,71
+Fall River,JAC,State Representative,30,Trish Ladner,REP,134
+Fall River,JAC,State Representative,30,Florence Thompson,REP,119
+Fall River,Oelrichs Area,State Representative,30,Tim R Goodwin,REP,94
+Fall River,Oelrichs Area,State Representative,30,Kwinn Neff,REP,18
+Fall River,Oelrichs Area,State Representative,30,Trish Ladner,REP,31
+Fall River,Oelrichs Area,State Representative,30,Florence Thompson,REP,54
+Fall River,BEA,County Commissioner At Large,,Ben Tubbs,REP,20
+Fall River,BEA,County Commissioner At Large,,Trudy Dibble,REP,7
+Fall River,BEA,County Commissioner At Large,,Lyle L Rudloff,REP,9
+Fall River,BEA,County Commissioner At Large,,Paul Nabholz,REP,17
+Fall River,BEA,County Commissioner At Large,,Joe Allen,REP,35
+Fall River,BEA,County Commissioner At Large,,Heath Greenough,REP,41
+Fall River,BEA,County Commissioner At Large,,Les Cope,REP,53
+Fall River,BEA,County Commissioner At Large,,Suzanne Davidson,REP,17
+Fall River,BEA,County Commissioner At Large,,Troy L Goettsch,REP,12
+Fall River,CAS,County Commissioner At Large,,Ben Tubbs,REP,12
+Fall River,CAS,County Commissioner At Large,,Trudy Dibble,REP,17
+Fall River,CAS,County Commissioner At Large,,Lyle L Rudloff,REP,10
+Fall River,CAS,County Commissioner At Large,,Paul Nabholz,REP,19
+Fall River,CAS,County Commissioner At Large,,Joe Allen,REP,33
+Fall River,CAS,County Commissioner At Large,,Heath Greenough,REP,28
+Fall River,CAS,County Commissioner At Large,,Les Cope,REP,14
+Fall River,CAS,County Commissioner At Large,,Suzanne Davidson,REP,19
+Fall River,CAS,County Commissioner At Large,,Troy L Goettsch,REP,21
+Fall River,EDA,County Commissioner At Large,,Ben Tubbs,REP,48
+Fall River,EDA,County Commissioner At Large,,Trudy Dibble,REP,62
+Fall River,EDA,County Commissioner At Large,,Lyle L Rudloff,REP,69
+Fall River,EDA,County Commissioner At Large,,Paul Nabholz,REP,90
+Fall River,EDA,County Commissioner At Large,,Joe Allen,REP,61
+Fall River,EDA,County Commissioner At Large,,Heath Greenough,REP,62
+Fall River,EDA,County Commissioner At Large,,Les Cope,REP,90
+Fall River,EDA,County Commissioner At Large,,Suzanne Davidson,REP,43
+Fall River,EDA,County Commissioner At Large,,Troy L Goettsch,REP,32
+Fall River,HS 1,County Commissioner At Large,,Ben Tubbs,REP,30
+Fall River,HS 1,County Commissioner At Large,,Trudy Dibble,REP,24
+Fall River,HS 1,County Commissioner At Large,,Lyle L Rudloff,REP,4
+Fall River,HS 1,County Commissioner At Large,,Paul Nabholz,REP,58
+Fall River,HS 1,County Commissioner At Large,,Joe Allen,REP,49
+Fall River,HS 1,County Commissioner At Large,,Heath Greenough,REP,32
+Fall River,HS 1,County Commissioner At Large,,Les Cope,REP,40
+Fall River,HS 1,County Commissioner At Large,,Suzanne Davidson,REP,68
+Fall River,HS 1,County Commissioner At Large,,Troy L Goettsch,REP,50
+Fall River,HS 2,County Commissioner At Large,,Ben Tubbs,REP,32
+Fall River,HS 2,County Commissioner At Large,,Trudy Dibble,REP,38
+Fall River,HS 2,County Commissioner At Large,,Lyle L Rudloff,REP,23
+Fall River,HS 2,County Commissioner At Large,,Paul Nabholz,REP,55
+Fall River,HS 2,County Commissioner At Large,,Joe Allen,REP,95
+Fall River,HS 2,County Commissioner At Large,,Heath Greenough,REP,54
+Fall River,HS 2,County Commissioner At Large,,Les Cope,REP,58
+Fall River,HS 2,County Commissioner At Large,,Suzanne Davidson,REP,57
+Fall River,HS 2,County Commissioner At Large,,Troy L Goettsch,REP,44
+Fall River,HS 3,County Commissioner At Large,,Ben Tubbs,REP,32
+Fall River,HS 3,County Commissioner At Large,,Trudy Dibble,REP,36
+Fall River,HS 3,County Commissioner At Large,,Lyle L Rudloff,REP,10
+Fall River,HS 3,County Commissioner At Large,,Paul Nabholz,REP,47
+Fall River,HS 3,County Commissioner At Large,,Joe Allen,REP,75
+Fall River,HS 3,County Commissioner At Large,,Heath Greenough,REP,45
+Fall River,HS 3,County Commissioner At Large,,Les Cope,REP,52
+Fall River,HS 3,County Commissioner At Large,,Suzanne Davidson,REP,52
+Fall River,HS 3,County Commissioner At Large,,Troy L Goettsch,REP,34
+Fall River,HS 4,County Commissioner At Large,,Ben Tubbs,REP,15
+Fall River,HS 4,County Commissioner At Large,,Trudy Dibble,REP,20
+Fall River,HS 4,County Commissioner At Large,,Lyle L Rudloff,REP,9
+Fall River,HS 4,County Commissioner At Large,,Paul Nabholz,REP,27
+Fall River,HS 4,County Commissioner At Large,,Joe Allen,REP,59
+Fall River,HS 4,County Commissioner At Large,,Heath Greenough,REP,43
+Fall River,HS 4,County Commissioner At Large,,Les Cope,REP,40
+Fall River,HS 4,County Commissioner At Large,,Suzanne Davidson,REP,35
+Fall River,HS 4,County Commissioner At Large,,Troy L Goettsch,REP,23
+Fall River,JAC,County Commissioner At Large,,Ben Tubbs,REP,65
+Fall River,JAC,County Commissioner At Large,,Trudy Dibble,REP,63
+Fall River,JAC,County Commissioner At Large,,Lyle L Rudloff,REP,44
+Fall River,JAC,County Commissioner At Large,,Paul Nabholz,REP,140
+Fall River,JAC,County Commissioner At Large,,Joe Allen,REP,190
+Fall River,JAC,County Commissioner At Large,,Heath Greenough,REP,149
+Fall River,JAC,County Commissioner At Large,,Les Cope,REP,175
+Fall River,JAC,County Commissioner At Large,,Suzanne Davidson,REP,135
+Fall River,JAC,County Commissioner At Large,,Troy L Goettsch,REP,102
+Fall River,Oelrichs Area,County Commissioner At Large,,Ben Tubbs,REP,16
+Fall River,Oelrichs Area,County Commissioner At Large,,Trudy Dibble,REP,4
+Fall River,Oelrichs Area,County Commissioner At Large,,Lyle L Rudloff,REP,5
+Fall River,Oelrichs Area,County Commissioner At Large,,Paul Nabholz,REP,48
+Fall River,Oelrichs Area,County Commissioner At Large,,Joe Allen,REP,28
+Fall River,Oelrichs Area,County Commissioner At Large,,Heath Greenough,REP,70
+Fall River,Oelrichs Area,County Commissioner At Large,,Les Cope,REP,94
+Fall River,Oelrichs Area,County Commissioner At Large,,Suzanne Davidson,REP,53
+Fall River,Oelrichs Area,County Commissioner At Large,,Troy L Goettsch,REP,22
+Fall River,BEA,School Board Member Hot Springs School District 23- 2,,Petra Wilson,,51
+Fall River,BEA,School Board Member Hot Springs School District 23- 2,,Malisa Niles,,19
+Fall River,CAS,School Board Member Hot Springs School District 23- 2,,Petra Wilson,,44
+Fall River,CAS,School Board Member Hot Springs School District 23- 2,,Malisa Niles,,19
+Fall River,HS 1,School Board Member Hot Springs School District 23- 2,,Petra Wilson,,106
+Fall River,HS 1,School Board Member Hot Springs School District 23- 2,,Malisa Niles,,85
+Fall River,HS 2,School Board Member Hot Springs School District 23- 2,,Petra Wilson,,163
+Fall River,HS 2,School Board Member Hot Springs School District 23- 2,,Malisa Niles,,77
+Fall River,HS 3,School Board Member Hot Springs School District 23- 2,,Petra Wilson,,138
+Fall River,HS 3,School Board Member Hot Springs School District 23- 2,,Malisa Niles,,63
+Fall River,HS 4,School Board Member Hot Springs School District 23- 2,,Petra Wilson,,99
+Fall River,HS 4,School Board Member Hot Springs School District 23- 2,,Malisa Niles,,56
+Fall River,JAC,School Board Member Hot Springs School District 23- 2,,Petra Wilson,,267
+Fall River,JAC,School Board Member Hot Springs School District 23- 2,,Malisa Niles,,150
+Fall River,HS 4,Alderman Hot Springs Ward-4,,Debra A Johnston,,59
+Fall River,HS 4,Alderman Hot Springs Ward-4,,Caitlin Turner,,109

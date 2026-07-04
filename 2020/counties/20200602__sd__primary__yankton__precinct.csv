@@ -1,0 +1,99 @@
+county,precinct,office,district,candidate,party,votes
+Yankton,Absentee,President,,Bernie Sanders,DEM,123
+Yankton,Absentee,President,,Joseph R. Biden,DEM,985
+Yankton,Gayville Community Center,President,,Bernie Sanders,DEM,8
+Yankton,Gayville Community Center,President,,Joseph R. Biden,DEM,20
+Yankton,Lesterville Fire Hall,President,,Bernie Sanders,DEM,5
+Yankton,Lesterville Fire Hall,President,,Joseph R. Biden,DEM,7
+Yankton,Lewis and Clark Recreation Area,President,,Bernie Sanders,DEM,8
+Yankton,Lewis and Clark Recreation Area,President,,Joseph R. Biden,DEM,13
+Yankton,Mayfield Store,President,,Bernie Sanders,DEM,1
+Yankton,Mayfield Store,President,,Joseph R. Biden,DEM,8
+Yankton,Yankton City Hall,President,,Bernie Sanders,DEM,51
+Yankton,Yankton City Hall,President,,Joseph R. Biden,DEM,132
+Yankton,Yankton Fire Station #2,President,,Bernie Sanders,DEM,33
+Yankton,Yankton Fire Station #2,President,,Joseph R. Biden,DEM,81
+Yankton,Absentee,U.S. Senate,,Mike Rounds,REP,1047
+Yankton,Absentee,U.S. Senate,,Scyller J. Borglum,REP,298
+Yankton,Gayville Community Center,U.S. Senate,,Mike Rounds,REP,35
+Yankton,Gayville Community Center,U.S. Senate,,Scyller J. Borglum,REP,18
+Yankton,Lesterville Fire Hall,U.S. Senate,,Mike Rounds,REP,27
+Yankton,Lesterville Fire Hall,U.S. Senate,,Scyller J. Borglum,REP,23
+Yankton,Lewis and Clark Recreation Area,U.S. Senate,,Mike Rounds,REP,48
+Yankton,Lewis and Clark Recreation Area,U.S. Senate,,Scyller J. Borglum,REP,16
+Yankton,Mayfield Store,U.S. Senate,,Mike Rounds,REP,33
+Yankton,Mayfield Store,U.S. Senate,,Scyller J. Borglum,REP,16
+Yankton,Yankton City Hall,U.S. Senate,,Mike Rounds,REP,190
+Yankton,Yankton City Hall,U.S. Senate,,Scyller J. Borglum,REP,109
+Yankton,Yankton Fire Station #2,U.S. Senate,,Mike Rounds,REP,276
+Yankton,Yankton Fire Station #2,U.S. Senate,,Scyller J. Borglum,REP,123
+Yankton,Absentee,U.S. Representative,1,Liz Marty May,REP,231
+Yankton,Absentee,U.S. Representative,1,Dusty Johnson,REP,1104
+Yankton,Gayville Community Center,U.S. Representative,1,Liz Marty May,REP,18
+Yankton,Gayville Community Center,U.S. Representative,1,Dusty Johnson,REP,35
+Yankton,Lesterville Fire Hall,U.S. Representative,1,Liz Marty May,REP,17
+Yankton,Lesterville Fire Hall,U.S. Representative,1,Dusty Johnson,REP,32
+Yankton,Lewis and Clark Recreation Area,U.S. Representative,1,Liz Marty May,REP,16
+Yankton,Lewis and Clark Recreation Area,U.S. Representative,1,Dusty Johnson,REP,47
+Yankton,Mayfield Store,U.S. Representative,1,Liz Marty May,REP,12
+Yankton,Mayfield Store,U.S. Representative,1,Dusty Johnson,REP,38
+Yankton,Yankton City Hall,U.S. Representative,1,Liz Marty May,REP,71
+Yankton,Yankton City Hall,U.S. Representative,1,Dusty Johnson,REP,228
+Yankton,Yankton Fire Station #2,U.S. Representative,1,Liz Marty May,REP,86
+Yankton,Yankton Fire Station #2,U.S. Representative,1,Dusty Johnson,REP,307
+Yankton,Absentee,County Commissioner At Large,,Wanda Howey-Fox,REP,676
+Yankton,Absentee,County Commissioner At Large,,Ward Youngblom,REP,568
+Yankton,Absentee,County Commissioner At Large,,Don Kettering,REP,890
+Yankton,Gayville Community Center,County Commissioner At Large,,Wanda Howey-Fox,REP,25
+Yankton,Gayville Community Center,County Commissioner At Large,,Ward Youngblom,REP,16
+Yankton,Gayville Community Center,County Commissioner At Large,,Don Kettering,REP,37
+Yankton,Lesterville Fire Hall,County Commissioner At Large,,Wanda Howey-Fox,REP,30
+Yankton,Lesterville Fire Hall,County Commissioner At Large,,Ward Youngblom,REP,23
+Yankton,Lesterville Fire Hall,County Commissioner At Large,,Don Kettering,REP,25
+Yankton,Lewis and Clark Recreation Area,County Commissioner At Large,,Wanda Howey-Fox,REP,34
+Yankton,Lewis and Clark Recreation Area,County Commissioner At Large,,Ward Youngblom,REP,32
+Yankton,Lewis and Clark Recreation Area,County Commissioner At Large,,Don Kettering,REP,35
+Yankton,Mayfield Store,County Commissioner At Large,,Wanda Howey-Fox,REP,28
+Yankton,Mayfield Store,County Commissioner At Large,,Ward Youngblom,REP,17
+Yankton,Mayfield Store,County Commissioner At Large,,Don Kettering,REP,32
+Yankton,Yankton City Hall,County Commissioner At Large,,Wanda Howey-Fox,REP,171
+Yankton,Yankton City Hall,County Commissioner At Large,,Ward Youngblom,REP,134
+Yankton,Yankton City Hall,County Commissioner At Large,,Don Kettering,REP,186
+Yankton,Yankton Fire Station #2,County Commissioner At Large,,Wanda Howey-Fox,REP,208
+Yankton,Yankton Fire Station #2,County Commissioner At Large,,Ward Youngblom,REP,174
+Yankton,Yankton Fire Station #2,County Commissioner At Large,,Don Kettering,REP,246
+Yankton,Absentee,City Commissioner Yankton,,Stephanie Moser,,1186
+Yankton,Absentee,City Commissioner Yankton,,Timothy Sean Wamble,,462
+Yankton,Absentee,City Commissioner Yankton,,Tony Maibaum,,887
+Yankton,Absentee,City Commissioner Yankton,,Ben Brunick,,1108
+Yankton,Absentee,City Commissioner Yankton,,Bruce T Viau,,659
+Yankton,Gayville Community Center,City Commissioner Yankton,,Stephanie Moser,,1
+Yankton,Gayville Community Center,City Commissioner Yankton,,Timothy Sean Wamble,,0
+Yankton,Gayville Community Center,City Commissioner Yankton,,Tony Maibaum,,0
+Yankton,Gayville Community Center,City Commissioner Yankton,,Ben Brunick,,1
+Yankton,Gayville Community Center,City Commissioner Yankton,,Bruce T Viau,,1
+Yankton,Lesterville Fire Hall,City Commissioner Yankton,,Stephanie Moser,,2
+Yankton,Lesterville Fire Hall,City Commissioner Yankton,,Timothy Sean Wamble,,2
+Yankton,Lesterville Fire Hall,City Commissioner Yankton,,Tony Maibaum,,0
+Yankton,Lesterville Fire Hall,City Commissioner Yankton,,Ben Brunick,,2
+Yankton,Lesterville Fire Hall,City Commissioner Yankton,,Bruce T Viau,,0
+Yankton,Lewis and Clark Recreation Area,City Commissioner Yankton,,Stephanie Moser,,0
+Yankton,Lewis and Clark Recreation Area,City Commissioner Yankton,,Timothy Sean Wamble,,0
+Yankton,Lewis and Clark Recreation Area,City Commissioner Yankton,,Tony Maibaum,,0
+Yankton,Lewis and Clark Recreation Area,City Commissioner Yankton,,Ben Brunick,,0
+Yankton,Lewis and Clark Recreation Area,City Commissioner Yankton,,Bruce T Viau,,0
+Yankton,Mayfield Store,City Commissioner Yankton,,Stephanie Moser,,0
+Yankton,Mayfield Store,City Commissioner Yankton,,Timothy Sean Wamble,,0
+Yankton,Mayfield Store,City Commissioner Yankton,,Tony Maibaum,,0
+Yankton,Mayfield Store,City Commissioner Yankton,,Ben Brunick,,0
+Yankton,Mayfield Store,City Commissioner Yankton,,Bruce T Viau,,0
+Yankton,Yankton City Hall,City Commissioner Yankton,,Stephanie Moser,,260
+Yankton,Yankton City Hall,City Commissioner Yankton,,Timothy Sean Wamble,,139
+Yankton,Yankton City Hall,City Commissioner Yankton,,Tony Maibaum,,208
+Yankton,Yankton City Hall,City Commissioner Yankton,,Ben Brunick,,274
+Yankton,Yankton City Hall,City Commissioner Yankton,,Bruce T Viau,,147
+Yankton,Yankton Fire Station #2,City Commissioner Yankton,,Stephanie Moser,,307
+Yankton,Yankton Fire Station #2,City Commissioner Yankton,,Timothy Sean Wamble,,140
+Yankton,Yankton Fire Station #2,City Commissioner Yankton,,Tony Maibaum,,245
+Yankton,Yankton Fire Station #2,City Commissioner Yankton,,Ben Brunick,,283
+Yankton,Yankton Fire Station #2,City Commissioner Yankton,,Bruce T Viau,,187

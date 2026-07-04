@@ -1,0 +1,828 @@
+county,precinct,office,district,candidate,party,votes
+Pennington,1-1,President,,Bernie Sanders,DEM,48
+Pennington,1-1,President,,Joseph R. Biden,DEM,150
+Pennington,1-2,President,,Bernie Sanders,DEM,84
+Pennington,1-2,President,,Joseph R. Biden,DEM,190
+Pennington,1-3,President,,Bernie Sanders,DEM,77
+Pennington,1-3,President,,Joseph R. Biden,DEM,318
+Pennington,1-4,President,,Bernie Sanders,DEM,25
+Pennington,1-4,President,,Joseph R. Biden,DEM,113
+Pennington,2-1,President,,Bernie Sanders,DEM,3
+Pennington,2-1,President,,Joseph R. Biden,DEM,19
+Pennington,2-2,President,,Bernie Sanders,DEM,3
+Pennington,2-2,President,,Joseph R. Biden,DEM,9
+Pennington,2-3,President,,Bernie Sanders,DEM,63
+Pennington,2-3,President,,Joseph R. Biden,DEM,143
+Pennington,2-4,President,,Bernie Sanders,DEM,138
+Pennington,2-4,President,,Joseph R. Biden,DEM,251
+Pennington,2-5,President,,Bernie Sanders,DEM,12
+Pennington,2-5,President,,Joseph R. Biden,DEM,10
+Pennington,3-1,President,,Bernie Sanders,DEM,32
+Pennington,3-1,President,,Joseph R. Biden,DEM,84
+Pennington,3-2,President,,Bernie Sanders,DEM,54
+Pennington,3-2,President,,Joseph R. Biden,DEM,344
+Pennington,3-3,President,,Bernie Sanders,DEM,28
+Pennington,3-3,President,,Joseph R. Biden,DEM,130
+Pennington,3-4,President,,Bernie Sanders,DEM,101
+Pennington,3-4,President,,Joseph R. Biden,DEM,395
+Pennington,3-5,President,,Bernie Sanders,DEM,9
+Pennington,3-5,President,,Joseph R. Biden,DEM,51
+Pennington,4-1,President,,Bernie Sanders,DEM,34
+Pennington,4-1,President,,Joseph R. Biden,DEM,44
+Pennington,4-2,President,,Bernie Sanders,DEM,60
+Pennington,4-2,President,,Joseph R. Biden,DEM,145
+Pennington,4-3,President,,Bernie Sanders,DEM,49
+Pennington,4-3,President,,Joseph R. Biden,DEM,108
+Pennington,4-4,President,,Bernie Sanders,DEM,62
+Pennington,4-4,President,,Joseph R. Biden,DEM,127
+Pennington,4-5,President,,Bernie Sanders,DEM,34
+Pennington,4-5,President,,Joseph R. Biden,DEM,86
+Pennington,5-1,President,,Bernie Sanders,DEM,17
+Pennington,5-1,President,,Joseph R. Biden,DEM,70
+Pennington,5-2,President,,Bernie Sanders,DEM,88
+Pennington,5-2,President,,Joseph R. Biden,DEM,213
+Pennington,5-3,President,,Bernie Sanders,DEM,88
+Pennington,5-3,President,,Joseph R. Biden,DEM,230
+Pennington,5-4,President,,Bernie Sanders,DEM,93
+Pennington,5-4,President,,Joseph R. Biden,DEM,256
+Pennington,5-5,President,,Bernie Sanders,DEM,7
+Pennington,5-5,President,,Joseph R. Biden,DEM,65
+Pennington,AW,President,,Bernie Sanders,DEM,73
+Pennington,AW,President,,Joseph R. Biden,DEM,356
+Pennington,BE,President,,Bernie Sanders,DEM,31
+Pennington,BE,President,,Joseph R. Biden,DEM,94
+Pennington,CA,President,,Bernie Sanders,DEM,8
+Pennington,CA,President,,Joseph R. Biden,DEM,36
+Pennington,CL,President,,Bernie Sanders,DEM,12
+Pennington,CL,President,,Joseph R. Biden,DEM,58
+Pennington,CR,President,,Bernie Sanders,DEM,0
+Pennington,CR,President,,Joseph R. Biden,DEM,1
+Pennington,DT,President,,Bernie Sanders,DEM,34
+Pennington,DT,President,,Joseph R. Biden,DEM,85
+Pennington,EL,President,,Bernie Sanders,DEM,21
+Pennington,EL,President,,Joseph R. Biden,DEM,50
+Pennington,HC,President,,Bernie Sanders,DEM,40
+Pennington,HC,President,,Joseph R. Biden,DEM,107
+Pennington,HR,President,,Bernie Sanders,DEM,27
+Pennington,HR,President,,Joseph R. Biden,DEM,127
+Pennington,JS,President,,Bernie Sanders,DEM,24
+Pennington,JS,President,,Joseph R. Biden,DEM,147
+Pennington,KY,President,,Bernie Sanders,DEM,17
+Pennington,KY,President,,Joseph R. Biden,DEM,57
+Pennington,LS,President,,Bernie Sanders,DEM,9
+Pennington,LS,President,,Joseph R. Biden,DEM,28
+Pennington,NH,President,,Bernie Sanders,DEM,5
+Pennington,NH,President,,Joseph R. Biden,DEM,21
+Pennington,NU,President,,Bernie Sanders,DEM,14
+Pennington,NU,President,,Joseph R. Biden,DEM,52
+Pennington,QU,President,,Bernie Sanders,DEM,3
+Pennington,QU,President,,Joseph R. Biden,DEM,6
+Pennington,RK,President,,Bernie Sanders,DEM,2
+Pennington,RK,President,,Joseph R. Biden,DEM,3
+Pennington,RV,President,,Bernie Sanders,DEM,36
+Pennington,RV,President,,Joseph R. Biden,DEM,100
+Pennington,SC,President,,Bernie Sanders,DEM,4
+Pennington,SC,President,,Joseph R. Biden,DEM,2
+Pennington,VF,President,,Bernie Sanders,DEM,51
+Pennington,VF,President,,Joseph R. Biden,DEM,137
+Pennington,VV,President,,Bernie Sanders,DEM,27
+Pennington,VV,President,,Joseph R. Biden,DEM,106
+Pennington,WL,President,,Bernie Sanders,DEM,4
+Pennington,WL,President,,Joseph R. Biden,DEM,18
+Pennington,WP,President,,Bernie Sanders,DEM,42
+Pennington,WP,President,,Joseph R. Biden,DEM,132
+Pennington,WS,President,,Bernie Sanders,DEM,3
+Pennington,WS,President,,Joseph R. Biden,DEM,5
+Pennington,1-1,U.S. Senate,,Mike Rounds,REP,310
+Pennington,1-1,U.S. Senate,,Scyller J. Borglum,REP,121
+Pennington,1-2,U.S. Senate,,Mike Rounds,REP,343
+Pennington,1-2,U.S. Senate,,Scyller J. Borglum,REP,156
+Pennington,1-3,U.S. Senate,,Mike Rounds,REP,634
+Pennington,1-3,U.S. Senate,,Scyller J. Borglum,REP,260
+Pennington,1-4,U.S. Senate,,Mike Rounds,REP,234
+Pennington,1-4,U.S. Senate,,Scyller J. Borglum,REP,81
+Pennington,2-1,U.S. Senate,,Mike Rounds,REP,18
+Pennington,2-1,U.S. Senate,,Scyller J. Borglum,REP,3
+Pennington,2-2,U.S. Senate,,Mike Rounds,REP,21
+Pennington,2-2,U.S. Senate,,Scyller J. Borglum,REP,3
+Pennington,2-3,U.S. Senate,,Mike Rounds,REP,238
+Pennington,2-3,U.S. Senate,,Scyller J. Borglum,REP,89
+Pennington,2-4,U.S. Senate,,Mike Rounds,REP,268
+Pennington,2-4,U.S. Senate,,Scyller J. Borglum,REP,153
+Pennington,2-5,U.S. Senate,,Mike Rounds,REP,20
+Pennington,2-5,U.S. Senate,,Scyller J. Borglum,REP,6
+Pennington,3-1,U.S. Senate,,Mike Rounds,REP,144
+Pennington,3-1,U.S. Senate,,Scyller J. Borglum,REP,65
+Pennington,3-2,U.S. Senate,,Mike Rounds,REP,783
+Pennington,3-2,U.S. Senate,,Scyller J. Borglum,REP,297
+Pennington,3-3,U.S. Senate,,Mike Rounds,REP,221
+Pennington,3-3,U.S. Senate,,Scyller J. Borglum,REP,80
+Pennington,3-4,U.S. Senate,,Mike Rounds,REP,630
+Pennington,3-4,U.S. Senate,,Scyller J. Borglum,REP,248
+Pennington,3-5,U.S. Senate,,Mike Rounds,REP,95
+Pennington,3-5,U.S. Senate,,Scyller J. Borglum,REP,35
+Pennington,4-1,U.S. Senate,,Mike Rounds,REP,85
+Pennington,4-1,U.S. Senate,,Scyller J. Borglum,REP,27
+Pennington,4-2,U.S. Senate,,Mike Rounds,REP,179
+Pennington,4-2,U.S. Senate,,Scyller J. Borglum,REP,73
+Pennington,4-3,U.S. Senate,,Mike Rounds,REP,173
+Pennington,4-3,U.S. Senate,,Scyller J. Borglum,REP,60
+Pennington,4-4,U.S. Senate,,Mike Rounds,REP,153
+Pennington,4-4,U.S. Senate,,Scyller J. Borglum,REP,55
+Pennington,4-5,U.S. Senate,,Mike Rounds,REP,166
+Pennington,4-5,U.S. Senate,,Scyller J. Borglum,REP,77
+Pennington,5-1,U.S. Senate,,Mike Rounds,REP,80
+Pennington,5-1,U.S. Senate,,Scyller J. Borglum,REP,33
+Pennington,5-2,U.S. Senate,,Mike Rounds,REP,274
+Pennington,5-2,U.S. Senate,,Scyller J. Borglum,REP,145
+Pennington,5-3,U.S. Senate,,Mike Rounds,REP,427
+Pennington,5-3,U.S. Senate,,Scyller J. Borglum,REP,184
+Pennington,5-4,U.S. Senate,,Mike Rounds,REP,248
+Pennington,5-4,U.S. Senate,,Scyller J. Borglum,REP,119
+Pennington,5-5,U.S. Senate,,Mike Rounds,REP,117
+Pennington,5-5,U.S. Senate,,Scyller J. Borglum,REP,40
+Pennington,AW,U.S. Senate,,Mike Rounds,REP,672
+Pennington,AW,U.S. Senate,,Scyller J. Borglum,REP,97
+Pennington,BE,U.S. Senate,,Mike Rounds,REP,177
+Pennington,BE,U.S. Senate,,Scyller J. Borglum,REP,66
+Pennington,CA,U.S. Senate,,Mike Rounds,REP,100
+Pennington,CA,U.S. Senate,,Scyller J. Borglum,REP,65
+Pennington,CL,U.S. Senate,,Mike Rounds,REP,125
+Pennington,CL,U.S. Senate,,Scyller J. Borglum,REP,37
+Pennington,CR,U.S. Senate,,Mike Rounds,REP,15
+Pennington,CR,U.S. Senate,,Scyller J. Borglum,REP,4
+Pennington,DT,U.S. Senate,,Mike Rounds,REP,290
+Pennington,DT,U.S. Senate,,Scyller J. Borglum,REP,90
+Pennington,EL,U.S. Senate,,Mike Rounds,REP,75
+Pennington,EL,U.S. Senate,,Scyller J. Borglum,REP,25
+Pennington,HC,U.S. Senate,,Mike Rounds,REP,287
+Pennington,HC,U.S. Senate,,Scyller J. Borglum,REP,79
+Pennington,HR,U.S. Senate,,Mike Rounds,REP,311
+Pennington,HR,U.S. Senate,,Scyller J. Borglum,REP,130
+Pennington,JS,U.S. Senate,,Mike Rounds,REP,385
+Pennington,JS,U.S. Senate,,Scyller J. Borglum,REP,152
+Pennington,KY,U.S. Senate,,Mike Rounds,REP,140
+Pennington,KY,U.S. Senate,,Scyller J. Borglum,REP,37
+Pennington,LS,U.S. Senate,,Mike Rounds,REP,95
+Pennington,LS,U.S. Senate,,Scyller J. Borglum,REP,38
+Pennington,NH,U.S. Senate,,Mike Rounds,REP,47
+Pennington,NH,U.S. Senate,,Scyller J. Borglum,REP,23
+Pennington,NU,U.S. Senate,,Mike Rounds,REP,155
+Pennington,NU,U.S. Senate,,Scyller J. Borglum,REP,81
+Pennington,QU,U.S. Senate,,Mike Rounds,REP,61
+Pennington,QU,U.S. Senate,,Scyller J. Borglum,REP,39
+Pennington,RK,U.S. Senate,,Mike Rounds,REP,13
+Pennington,RK,U.S. Senate,,Scyller J. Borglum,REP,4
+Pennington,RV,U.S. Senate,,Mike Rounds,REP,194
+Pennington,RV,U.S. Senate,,Scyller J. Borglum,REP,72
+Pennington,SC,U.S. Senate,,Mike Rounds,REP,16
+Pennington,SC,U.S. Senate,,Scyller J. Borglum,REP,23
+Pennington,VF,U.S. Senate,,Mike Rounds,REP,286
+Pennington,VF,U.S. Senate,,Scyller J. Borglum,REP,121
+Pennington,VV,U.S. Senate,,Mike Rounds,REP,205
+Pennington,VV,U.S. Senate,,Scyller J. Borglum,REP,90
+Pennington,WL,U.S. Senate,,Mike Rounds,REP,101
+Pennington,WL,U.S. Senate,,Scyller J. Borglum,REP,67
+Pennington,WP,U.S. Senate,,Mike Rounds,REP,340
+Pennington,WP,U.S. Senate,,Scyller J. Borglum,REP,109
+Pennington,WS,U.S. Senate,,Mike Rounds,REP,15
+Pennington,WS,U.S. Senate,,Scyller J. Borglum,REP,23
+Pennington,1-1,U.S. Representative,1,Liz Marty May,REP,83
+Pennington,1-1,U.S. Representative,1,Dusty Johnson,REP,349
+Pennington,1-2,U.S. Representative,1,Liz Marty May,REP,102
+Pennington,1-2,U.S. Representative,1,Dusty Johnson,REP,392
+Pennington,1-3,U.S. Representative,1,Liz Marty May,REP,183
+Pennington,1-3,U.S. Representative,1,Dusty Johnson,REP,698
+Pennington,1-4,U.S. Representative,1,Liz Marty May,REP,68
+Pennington,1-4,U.S. Representative,1,Dusty Johnson,REP,245
+Pennington,2-1,U.S. Representative,1,Liz Marty May,REP,4
+Pennington,2-1,U.S. Representative,1,Dusty Johnson,REP,16
+Pennington,2-2,U.S. Representative,1,Liz Marty May,REP,6
+Pennington,2-2,U.S. Representative,1,Dusty Johnson,REP,18
+Pennington,2-3,U.S. Representative,1,Liz Marty May,REP,81
+Pennington,2-3,U.S. Representative,1,Dusty Johnson,REP,242
+Pennington,2-4,U.S. Representative,1,Liz Marty May,REP,107
+Pennington,2-4,U.S. Representative,1,Dusty Johnson,REP,315
+Pennington,2-5,U.S. Representative,1,Liz Marty May,REP,5
+Pennington,2-5,U.S. Representative,1,Dusty Johnson,REP,20
+Pennington,3-1,U.S. Representative,1,Liz Marty May,REP,69
+Pennington,3-1,U.S. Representative,1,Dusty Johnson,REP,139
+Pennington,3-2,U.S. Representative,1,Liz Marty May,REP,206
+Pennington,3-2,U.S. Representative,1,Dusty Johnson,REP,872
+Pennington,3-3,U.S. Representative,1,Liz Marty May,REP,68
+Pennington,3-3,U.S. Representative,1,Dusty Johnson,REP,229
+Pennington,3-4,U.S. Representative,1,Liz Marty May,REP,188
+Pennington,3-4,U.S. Representative,1,Dusty Johnson,REP,693
+Pennington,3-5,U.S. Representative,1,Liz Marty May,REP,27
+Pennington,3-5,U.S. Representative,1,Dusty Johnson,REP,106
+Pennington,4-1,U.S. Representative,1,Liz Marty May,REP,24
+Pennington,4-1,U.S. Representative,1,Dusty Johnson,REP,87
+Pennington,4-2,U.S. Representative,1,Liz Marty May,REP,67
+Pennington,4-2,U.S. Representative,1,Dusty Johnson,REP,183
+Pennington,4-3,U.S. Representative,1,Liz Marty May,REP,59
+Pennington,4-3,U.S. Representative,1,Dusty Johnson,REP,169
+Pennington,4-4,U.S. Representative,1,Liz Marty May,REP,45
+Pennington,4-4,U.S. Representative,1,Dusty Johnson,REP,161
+Pennington,4-5,U.S. Representative,1,Liz Marty May,REP,74
+Pennington,4-5,U.S. Representative,1,Dusty Johnson,REP,164
+Pennington,5-1,U.S. Representative,1,Liz Marty May,REP,24
+Pennington,5-1,U.S. Representative,1,Dusty Johnson,REP,88
+Pennington,5-2,U.S. Representative,1,Liz Marty May,REP,130
+Pennington,5-2,U.S. Representative,1,Dusty Johnson,REP,281
+Pennington,5-3,U.S. Representative,1,Liz Marty May,REP,131
+Pennington,5-3,U.S. Representative,1,Dusty Johnson,REP,474
+Pennington,5-4,U.S. Representative,1,Liz Marty May,REP,105
+Pennington,5-4,U.S. Representative,1,Dusty Johnson,REP,265
+Pennington,5-5,U.S. Representative,1,Liz Marty May,REP,19
+Pennington,5-5,U.S. Representative,1,Dusty Johnson,REP,138
+Pennington,AW,U.S. Representative,1,Liz Marty May,REP,215
+Pennington,AW,U.S. Representative,1,Dusty Johnson,REP,550
+Pennington,BE,U.S. Representative,1,Liz Marty May,REP,66
+Pennington,BE,U.S. Representative,1,Dusty Johnson,REP,176
+Pennington,CA,U.S. Representative,1,Liz Marty May,REP,66
+Pennington,CA,U.S. Representative,1,Dusty Johnson,REP,97
+Pennington,CL,U.S. Representative,1,Liz Marty May,REP,33
+Pennington,CL,U.S. Representative,1,Dusty Johnson,REP,131
+Pennington,CR,U.S. Representative,1,Liz Marty May,REP,8
+Pennington,CR,U.S. Representative,1,Dusty Johnson,REP,11
+Pennington,DT,U.S. Representative,1,Liz Marty May,REP,93
+Pennington,DT,U.S. Representative,1,Dusty Johnson,REP,288
+Pennington,EL,U.S. Representative,1,Liz Marty May,REP,27
+Pennington,EL,U.S. Representative,1,Dusty Johnson,REP,72
+Pennington,HC,U.S. Representative,1,Liz Marty May,REP,91
+Pennington,HC,U.S. Representative,1,Dusty Johnson,REP,271
+Pennington,HR,U.S. Representative,1,Liz Marty May,REP,115
+Pennington,HR,U.S. Representative,1,Dusty Johnson,REP,318
+Pennington,JS,U.S. Representative,1,Liz Marty May,REP,154
+Pennington,JS,U.S. Representative,1,Dusty Johnson,REP,381
+Pennington,KY,U.S. Representative,1,Liz Marty May,REP,41
+Pennington,KY,U.S. Representative,1,Dusty Johnson,REP,136
+Pennington,LS,U.S. Representative,1,Liz Marty May,REP,42
+Pennington,LS,U.S. Representative,1,Dusty Johnson,REP,92
+Pennington,NH,U.S. Representative,1,Liz Marty May,REP,18
+Pennington,NH,U.S. Representative,1,Dusty Johnson,REP,51
+Pennington,NU,U.S. Representative,1,Liz Marty May,REP,97
+Pennington,NU,U.S. Representative,1,Dusty Johnson,REP,139
+Pennington,QU,U.S. Representative,1,Liz Marty May,REP,64
+Pennington,QU,U.S. Representative,1,Dusty Johnson,REP,36
+Pennington,RK,U.S. Representative,1,Liz Marty May,REP,4
+Pennington,RK,U.S. Representative,1,Dusty Johnson,REP,13
+Pennington,RV,U.S. Representative,1,Liz Marty May,REP,66
+Pennington,RV,U.S. Representative,1,Dusty Johnson,REP,197
+Pennington,SC,U.S. Representative,1,Liz Marty May,REP,32
+Pennington,SC,U.S. Representative,1,Dusty Johnson,REP,9
+Pennington,VF,U.S. Representative,1,Liz Marty May,REP,113
+Pennington,VF,U.S. Representative,1,Dusty Johnson,REP,288
+Pennington,VV,U.S. Representative,1,Liz Marty May,REP,84
+Pennington,VV,U.S. Representative,1,Dusty Johnson,REP,211
+Pennington,WL,U.S. Representative,1,Liz Marty May,REP,87
+Pennington,WL,U.S. Representative,1,Dusty Johnson,REP,78
+Pennington,WP,U.S. Representative,1,Liz Marty May,REP,98
+Pennington,WP,U.S. Representative,1,Dusty Johnson,REP,352
+Pennington,WS,U.S. Representative,1,Liz Marty May,REP,17
+Pennington,WS,U.S. Representative,1,Dusty Johnson,REP,22
+Pennington,EL,State Senate,29,Terri Jorgenson,REP,57
+Pennington,EL,State Senate,29,Gary L Cammack,REP,37
+Pennington,CA,State Senate,30,Julie Frye-Mueller,REP,83
+Pennington,CA,State Senate,30,George H Kotti,REP,66
+Pennington,HC,State Senate,30,Julie Frye-Mueller,REP,180
+Pennington,HC,State Senate,30,George H Kotti,REP,171
+Pennington,HR,State Senate,30,Julie Frye-Mueller,REP,223
+Pennington,HR,State Senate,30,George H Kotti,REP,188
+Pennington,KY,State Senate,30,Julie Frye-Mueller,REP,89
+Pennington,KY,State Senate,30,George H Kotti,REP,73
+Pennington,LS,State Senate,30,Julie Frye-Mueller,REP,57
+Pennington,LS,State Senate,30,George H Kotti,REP,72
+Pennington,NU,State Senate,30,Julie Frye-Mueller,REP,95
+Pennington,NU,State Senate,30,George H Kotti,REP,108
+Pennington,WL,State Senate,30,Julie Frye-Mueller,REP,78
+Pennington,WL,State Senate,30,George H Kotti,REP,73
+Pennington,WS,State Senate,30,Julie Frye-Mueller,REP,20
+Pennington,WS,State Senate,30,George H Kotti,REP,16
+Pennington,2-2,State Senate,33,David Johnson,REP,2
+Pennington,2-2,State Senate,33,Janet Jensen,REP,23
+Pennington,3-5,State Senate,33,David Johnson,REP,76
+Pennington,3-5,State Senate,33,Janet Jensen,REP,56
+Pennington,4-3,State Senate,33,David Johnson,REP,107
+Pennington,4-3,State Senate,33,Janet Jensen,REP,126
+Pennington,4-4,State Senate,33,David Johnson,REP,119
+Pennington,4-4,State Senate,33,Janet Jensen,REP,85
+Pennington,4-5,State Senate,33,David Johnson,REP,138
+Pennington,4-5,State Senate,33,Janet Jensen,REP,95
+Pennington,5-5,State Senate,33,David Johnson,REP,94
+Pennington,5-5,State Senate,33,Janet Jensen,REP,60
+Pennington,AW,State Senate,33,David Johnson,REP,409
+Pennington,AW,State Senate,33,Janet Jensen,REP,340
+Pennington,CL,State Senate,33,David Johnson,REP,98
+Pennington,CL,State Senate,33,Janet Jensen,REP,61
+Pennington,DT,State Senate,33,David Johnson,REP,208
+Pennington,DT,State Senate,33,Janet Jensen,REP,164
+Pennington,JS,State Senate,33,David Johnson,REP,286
+Pennington,JS,State Senate,33,Janet Jensen,REP,252
+Pennington,NH,State Senate,33,David Johnson,REP,34
+Pennington,NH,State Senate,33,Janet Jensen,REP,33
+Pennington,WP,State Senate,33,David Johnson,REP,262
+Pennington,WP,State Senate,33,Janet Jensen,REP,186
+Pennington,1-4,State Senate,35,Kevin Quick,REP,75
+Pennington,1-4,State Senate,35,Jessica Castleberry,REP,215
+Pennington,2-3,State Senate,35,Kevin Quick,REP,89
+Pennington,2-3,State Senate,35,Jessica Castleberry,REP,221
+Pennington,4-2,State Senate,35,Kevin Quick,REP,64
+Pennington,4-2,State Senate,35,Jessica Castleberry,REP,167
+Pennington,BE,State Senate,35,Kevin Quick,REP,61
+Pennington,BE,State Senate,35,Jessica Castleberry,REP,169
+Pennington,RV,State Senate,35,Kevin Quick,REP,70
+Pennington,RV,State Senate,35,Jessica Castleberry,REP,193
+Pennington,VF,State Senate,35,Kevin Quick,REP,109
+Pennington,VF,State Senate,35,Jessica Castleberry,REP,283
+Pennington,VV,State Senate,35,Kevin Quick,REP,83
+Pennington,VV,State Senate,35,Jessica Castleberry,REP,194
+Pennington,EL,State Representative,29,Kirk J Chaffee,REP,46
+Pennington,EL,State Representative,29,Lincoln I Shuck,REP,20
+Pennington,EL,State Representative,29,Thomas J Brunner,REP,55
+Pennington,EL,State Representative,29,Dean Wink,REP,32
+Pennington,CA,State Representative,30,Tim R Goodwin,REP,93
+Pennington,CA,State Representative,30,Kwinn Neff,REP,39
+Pennington,CA,State Representative,30,Trish Ladner,REP,46
+Pennington,CA,State Representative,30,Florence Thompson,REP,59
+Pennington,HC,State Representative,30,Tim R Goodwin,REP,257
+Pennington,HC,State Representative,30,Kwinn Neff,REP,181
+Pennington,HC,State Representative,30,Trish Ladner,REP,86
+Pennington,HC,State Representative,30,Florence Thompson,REP,56
+Pennington,HR,State Representative,30,Tim R Goodwin,REP,285
+Pennington,HR,State Representative,30,Kwinn Neff,REP,150
+Pennington,HR,State Representative,30,Trish Ladner,REP,135
+Pennington,HR,State Representative,30,Florence Thompson,REP,93
+Pennington,KY,State Representative,30,Tim R Goodwin,REP,140
+Pennington,KY,State Representative,30,Kwinn Neff,REP,84
+Pennington,KY,State Representative,30,Trish Ladner,REP,26
+Pennington,KY,State Representative,30,Florence Thompson,REP,40
+Pennington,LS,State Representative,30,Tim R Goodwin,REP,84
+Pennington,LS,State Representative,30,Kwinn Neff,REP,29
+Pennington,LS,State Representative,30,Trish Ladner,REP,44
+Pennington,LS,State Representative,30,Florence Thompson,REP,34
+Pennington,NU,State Representative,30,Tim R Goodwin,REP,131
+Pennington,NU,State Representative,30,Kwinn Neff,REP,53
+Pennington,NU,State Representative,30,Trish Ladner,REP,50
+Pennington,NU,State Representative,30,Florence Thompson,REP,76
+Pennington,WL,State Representative,30,Tim R Goodwin,REP,94
+Pennington,WL,State Representative,30,Kwinn Neff,REP,35
+Pennington,WL,State Representative,30,Trish Ladner,REP,70
+Pennington,WL,State Representative,30,Florence Thompson,REP,42
+Pennington,WS,State Representative,30,Tim R Goodwin,REP,17
+Pennington,WS,State Representative,30,Kwinn Neff,REP,11
+Pennington,WS,State Representative,30,Trish Ladner,REP,11
+Pennington,WS,State Representative,30,Florence Thompson,REP,11
+Pennington,2-2,State Representative,33,Phil Jensen,REP,19
+Pennington,2-2,State Representative,33,Taffy Howard,REP,16
+Pennington,2-2,State Representative,33,Melanie Torno,REP,6
+Pennington,3-5,State Representative,33,Phil Jensen,REP,57
+Pennington,3-5,State Representative,33,Taffy Howard,REP,102
+Pennington,3-5,State Representative,33,Melanie Torno,REP,63
+Pennington,4-3,State Representative,33,Phil Jensen,REP,137
+Pennington,4-3,State Representative,33,Taffy Howard,REP,158
+Pennington,4-3,State Representative,33,Melanie Torno,REP,96
+Pennington,4-4,State Representative,33,Phil Jensen,REP,127
+Pennington,4-4,State Representative,33,Taffy Howard,REP,119
+Pennington,4-4,State Representative,33,Melanie Torno,REP,76
+Pennington,4-5,State Representative,33,Phil Jensen,REP,128
+Pennington,4-5,State Representative,33,Taffy Howard,REP,145
+Pennington,4-5,State Representative,33,Melanie Torno,REP,108
+Pennington,5-5,State Representative,33,Phil Jensen,REP,75
+Pennington,5-5,State Representative,33,Taffy Howard,REP,93
+Pennington,5-5,State Representative,33,Melanie Torno,REP,71
+Pennington,AW,State Representative,33,Phil Jensen,REP,480
+Pennington,AW,State Representative,33,Taffy Howard,REP,515
+Pennington,AW,State Representative,33,Melanie Torno,REP,175
+Pennington,CL,State Representative,33,Phil Jensen,REP,77
+Pennington,CL,State Representative,33,Taffy Howard,REP,116
+Pennington,CL,State Representative,33,Melanie Torno,REP,73
+Pennington,DT,State Representative,33,Phil Jensen,REP,220
+Pennington,DT,State Representative,33,Taffy Howard,REP,266
+Pennington,DT,State Representative,33,Melanie Torno,REP,162
+Pennington,JS,State Representative,33,Phil Jensen,REP,276
+Pennington,JS,State Representative,33,Taffy Howard,REP,388
+Pennington,JS,State Representative,33,Melanie Torno,REP,243
+Pennington,NH,State Representative,33,Phil Jensen,REP,46
+Pennington,NH,State Representative,33,Taffy Howard,REP,39
+Pennington,NH,State Representative,33,Melanie Torno,REP,26
+Pennington,WP,State Representative,33,Phil Jensen,REP,210
+Pennington,WP,State Representative,33,Taffy Howard,REP,338
+Pennington,WP,State Representative,33,Melanie Torno,REP,205
+Pennington,2-1,State Representative,34,Mike Derby,REP,10
+Pennington,2-1,State Representative,34,Jodie Frye,REP,15
+Pennington,2-1,State Representative,34,Jess Olson,REP,11
+Pennington,3-2,State Representative,34,Mike Derby,REP,698
+Pennington,3-2,State Representative,34,Jodie Frye,REP,382
+Pennington,3-2,State Representative,34,Jess Olson,REP,601
+Pennington,3-3,State Representative,34,Mike Derby,REP,194
+Pennington,3-3,State Representative,34,Jodie Frye,REP,107
+Pennington,3-3,State Representative,34,Jess Olson,REP,150
+Pennington,3-4,State Representative,34,Mike Derby,REP,548
+Pennington,3-4,State Representative,34,Jodie Frye,REP,334
+Pennington,3-4,State Representative,34,Jess Olson,REP,517
+Pennington,4-1,State Representative,34,Mike Derby,REP,58
+Pennington,4-1,State Representative,34,Jodie Frye,REP,81
+Pennington,4-1,State Representative,34,Jess Olson,REP,44
+Pennington,5-1,State Representative,34,Mike Derby,REP,76
+Pennington,5-1,State Representative,34,Jodie Frye,REP,47
+Pennington,5-1,State Representative,34,Jess Olson,REP,55
+Pennington,5-2,State Representative,34,Mike Derby,REP,229
+Pennington,5-2,State Representative,34,Jodie Frye,REP,199
+Pennington,5-2,State Representative,34,Jess Olson,REP,200
+Pennington,5-3,State Representative,34,Mike Derby,REP,381
+Pennington,5-3,State Representative,34,Jodie Frye,REP,256
+Pennington,5-3,State Representative,34,Jess Olson,REP,321
+Pennington,1-1,County Treasurer,,Janet Sayler,REP,244
+Pennington,1-1,County Treasurer,,Jody Sorenson,REP,126
+Pennington,1-2,County Treasurer,,Janet Sayler,REP,286
+Pennington,1-2,County Treasurer,,Jody Sorenson,REP,160
+Pennington,1-3,County Treasurer,,Janet Sayler,REP,531
+Pennington,1-3,County Treasurer,,Jody Sorenson,REP,245
+Pennington,1-4,County Treasurer,,Janet Sayler,REP,192
+Pennington,1-4,County Treasurer,,Jody Sorenson,REP,77
+Pennington,2-1,County Treasurer,,Janet Sayler,REP,13
+Pennington,2-1,County Treasurer,,Jody Sorenson,REP,7
+Pennington,2-2,County Treasurer,,Janet Sayler,REP,18
+Pennington,2-2,County Treasurer,,Jody Sorenson,REP,6
+Pennington,2-3,County Treasurer,,Janet Sayler,REP,177
+Pennington,2-3,County Treasurer,,Jody Sorenson,REP,116
+Pennington,2-4,County Treasurer,,Janet Sayler,REP,258
+Pennington,2-4,County Treasurer,,Jody Sorenson,REP,131
+Pennington,2-5,County Treasurer,,Janet Sayler,REP,13
+Pennington,2-5,County Treasurer,,Jody Sorenson,REP,10
+Pennington,3-1,County Treasurer,,Janet Sayler,REP,134
+Pennington,3-1,County Treasurer,,Jody Sorenson,REP,54
+Pennington,3-2,County Treasurer,,Janet Sayler,REP,729
+Pennington,3-2,County Treasurer,,Jody Sorenson,REP,225
+Pennington,3-3,County Treasurer,,Janet Sayler,REP,199
+Pennington,3-3,County Treasurer,,Jody Sorenson,REP,72
+Pennington,3-4,County Treasurer,,Janet Sayler,REP,557
+Pennington,3-4,County Treasurer,,Jody Sorenson,REP,223
+Pennington,3-5,County Treasurer,,Janet Sayler,REP,90
+Pennington,3-5,County Treasurer,,Jody Sorenson,REP,27
+Pennington,4-1,County Treasurer,,Janet Sayler,REP,62
+Pennington,4-1,County Treasurer,,Jody Sorenson,REP,45
+Pennington,4-2,County Treasurer,,Janet Sayler,REP,149
+Pennington,4-2,County Treasurer,,Jody Sorenson,REP,65
+Pennington,4-3,County Treasurer,,Janet Sayler,REP,125
+Pennington,4-3,County Treasurer,,Jody Sorenson,REP,83
+Pennington,4-4,County Treasurer,,Janet Sayler,REP,131
+Pennington,4-4,County Treasurer,,Jody Sorenson,REP,60
+Pennington,4-5,County Treasurer,,Janet Sayler,REP,139
+Pennington,4-5,County Treasurer,,Jody Sorenson,REP,69
+Pennington,5-1,County Treasurer,,Janet Sayler,REP,70
+Pennington,5-1,County Treasurer,,Jody Sorenson,REP,35
+Pennington,5-2,County Treasurer,,Janet Sayler,REP,244
+Pennington,5-2,County Treasurer,,Jody Sorenson,REP,127
+Pennington,5-3,County Treasurer,,Janet Sayler,REP,393
+Pennington,5-3,County Treasurer,,Jody Sorenson,REP,151
+Pennington,5-4,County Treasurer,,Janet Sayler,REP,238
+Pennington,5-4,County Treasurer,,Jody Sorenson,REP,94
+Pennington,5-5,County Treasurer,,Janet Sayler,REP,102
+Pennington,5-5,County Treasurer,,Jody Sorenson,REP,33
+Pennington,AW,County Treasurer,,Janet Sayler,REP,448
+Pennington,AW,County Treasurer,,Jody Sorenson,REP,169
+Pennington,BE,County Treasurer,,Janet Sayler,REP,147
+Pennington,BE,County Treasurer,,Jody Sorenson,REP,77
+Pennington,CA,County Treasurer,,Janet Sayler,REP,99
+Pennington,CA,County Treasurer,,Jody Sorenson,REP,53
+Pennington,CL,County Treasurer,,Janet Sayler,REP,100
+Pennington,CL,County Treasurer,,Jody Sorenson,REP,41
+Pennington,CR,County Treasurer,,Janet Sayler,REP,15
+Pennington,CR,County Treasurer,,Jody Sorenson,REP,4
+Pennington,DT,County Treasurer,,Janet Sayler,REP,237
+Pennington,DT,County Treasurer,,Jody Sorenson,REP,95
+Pennington,EL,County Treasurer,,Janet Sayler,REP,53
+Pennington,EL,County Treasurer,,Jody Sorenson,REP,34
+Pennington,HC,County Treasurer,,Janet Sayler,REP,212
+Pennington,HC,County Treasurer,,Jody Sorenson,REP,87
+Pennington,HR,County Treasurer,,Janet Sayler,REP,273
+Pennington,HR,County Treasurer,,Jody Sorenson,REP,102
+Pennington,JS,County Treasurer,,Janet Sayler,REP,344
+Pennington,JS,County Treasurer,,Jody Sorenson,REP,130
+Pennington,KY,County Treasurer,,Janet Sayler,REP,103
+Pennington,KY,County Treasurer,,Jody Sorenson,REP,47
+Pennington,LS,County Treasurer,,Janet Sayler,REP,78
+Pennington,LS,County Treasurer,,Jody Sorenson,REP,41
+Pennington,NH,County Treasurer,,Janet Sayler,REP,49
+Pennington,NH,County Treasurer,,Jody Sorenson,REP,19
+Pennington,NU,County Treasurer,,Janet Sayler,REP,124
+Pennington,NU,County Treasurer,,Jody Sorenson,REP,82
+Pennington,QU,County Treasurer,,Janet Sayler,REP,61
+Pennington,QU,County Treasurer,,Jody Sorenson,REP,18
+Pennington,RK,County Treasurer,,Janet Sayler,REP,13
+Pennington,RK,County Treasurer,,Jody Sorenson,REP,2
+Pennington,RV,County Treasurer,,Janet Sayler,REP,166
+Pennington,RV,County Treasurer,,Jody Sorenson,REP,88
+Pennington,SC,County Treasurer,,Janet Sayler,REP,18
+Pennington,SC,County Treasurer,,Jody Sorenson,REP,17
+Pennington,VF,County Treasurer,,Janet Sayler,REP,216
+Pennington,VF,County Treasurer,,Jody Sorenson,REP,163
+Pennington,VV,County Treasurer,,Janet Sayler,REP,173
+Pennington,VV,County Treasurer,,Jody Sorenson,REP,104
+Pennington,WL,County Treasurer,,Janet Sayler,REP,109
+Pennington,WL,County Treasurer,,Jody Sorenson,REP,45
+Pennington,WP,County Treasurer,,Janet Sayler,REP,298
+Pennington,WP,County Treasurer,,Jody Sorenson,REP,111
+Pennington,WS,County Treasurer,,Janet Sayler,REP,24
+Pennington,WS,County Treasurer,,Jody Sorenson,REP,10
+Pennington,1-4,County Commissioner Pennington-4,,Travis Lasseter,REP,1
+Pennington,1-4,County Commissioner Pennington-4,,Frank Bloom,REP,1
+Pennington,2-3,County Commissioner Pennington-4,,Travis Lasseter,REP,27
+Pennington,2-3,County Commissioner Pennington-4,,Frank Bloom,REP,9
+Pennington,AW,County Commissioner Pennington-4,,Travis Lasseter,REP,480
+Pennington,AW,County Commissioner Pennington-4,,Frank Bloom,REP,131
+Pennington,BE,County Commissioner Pennington-4,,Travis Lasseter,REP,128
+Pennington,BE,County Commissioner Pennington-4,,Frank Bloom,REP,80
+Pennington,CA,County Commissioner Pennington-4,,Travis Lasseter,REP,64
+Pennington,CA,County Commissioner Pennington-4,,Frank Bloom,REP,85
+Pennington,CR,County Commissioner Pennington-4,,Travis Lasseter,REP,3
+Pennington,CR,County Commissioner Pennington-4,,Frank Bloom,REP,14
+Pennington,EL,County Commissioner Pennington-4,,Travis Lasseter,REP,49
+Pennington,EL,County Commissioner Pennington-4,,Frank Bloom,REP,25
+Pennington,LS,County Commissioner Pennington-4,,Travis Lasseter,REP,67
+Pennington,LS,County Commissioner Pennington-4,,Frank Bloom,REP,46
+Pennington,NH,County Commissioner Pennington-4,,Travis Lasseter,REP,37
+Pennington,NH,County Commissioner Pennington-4,,Frank Bloom,REP,26
+Pennington,NU,County Commissioner Pennington-4,,Travis Lasseter,REP,82
+Pennington,NU,County Commissioner Pennington-4,,Frank Bloom,REP,136
+Pennington,QU,County Commissioner Pennington-4,,Travis Lasseter,REP,14
+Pennington,QU,County Commissioner Pennington-4,,Frank Bloom,REP,76
+Pennington,RV,County Commissioner Pennington-4,,Travis Lasseter,REP,154
+Pennington,RV,County Commissioner Pennington-4,,Frank Bloom,REP,82
+Pennington,SC,County Commissioner Pennington-4,,Travis Lasseter,REP,6
+Pennington,SC,County Commissioner Pennington-4,,Frank Bloom,REP,34
+Pennington,VF,County Commissioner Pennington-4,,Travis Lasseter,REP,189
+Pennington,VF,County Commissioner Pennington-4,,Frank Bloom,REP,159
+Pennington,VV,County Commissioner Pennington-4,,Travis Lasseter,REP,156
+Pennington,VV,County Commissioner Pennington-4,,Frank Bloom,REP,93
+Pennington,WL,County Commissioner Pennington-4,,Travis Lasseter,REP,60
+Pennington,WL,County Commissioner Pennington-4,,Frank Bloom,REP,90
+Pennington,WS,County Commissioner Pennington-4,,Travis Lasseter,REP,12
+Pennington,WS,County Commissioner Pennington-4,,Frank Bloom,REP,21
+Pennington,1-1,Delegates to State Convention,,Marguerite McPhillips,REP,152
+Pennington,1-1,Delegates to State Convention,,Shari L. Bradstream,REP,171
+Pennington,1-1,Delegates to State Convention,,Andrew Ainslie,REP,193
+Pennington,1-1,Delegates to State Convention,,John Santana,REP,170
+Pennington,1-2,Delegates to State Convention,,Marguerite McPhillips,REP,174
+Pennington,1-2,Delegates to State Convention,,Shari L. Bradstream,REP,196
+Pennington,1-2,Delegates to State Convention,,Andrew Ainslie,REP,215
+Pennington,1-2,Delegates to State Convention,,John Santana,REP,190
+Pennington,1-3,Delegates to State Convention,,Marguerite McPhillips,REP,302
+Pennington,1-3,Delegates to State Convention,,Shari L. Bradstream,REP,329
+Pennington,1-3,Delegates to State Convention,,Andrew Ainslie,REP,388
+Pennington,1-3,Delegates to State Convention,,John Santana,REP,328
+Pennington,1-4,Delegates to State Convention,,Marguerite McPhillips,REP,114
+Pennington,1-4,Delegates to State Convention,,Shari L. Bradstream,REP,123
+Pennington,1-4,Delegates to State Convention,,Andrew Ainslie,REP,134
+Pennington,1-4,Delegates to State Convention,,John Santana,REP,118
+Pennington,2-1,Delegates to State Convention,,Marguerite McPhillips,REP,8
+Pennington,2-1,Delegates to State Convention,,Shari L. Bradstream,REP,8
+Pennington,2-1,Delegates to State Convention,,Andrew Ainslie,REP,12
+Pennington,2-1,Delegates to State Convention,,John Santana,REP,9
+Pennington,2-2,Delegates to State Convention,,Marguerite McPhillips,REP,15
+Pennington,2-2,Delegates to State Convention,,Shari L. Bradstream,REP,14
+Pennington,2-2,Delegates to State Convention,,Andrew Ainslie,REP,13
+Pennington,2-2,Delegates to State Convention,,John Santana,REP,18
+Pennington,2-3,Delegates to State Convention,,Marguerite McPhillips,REP,95
+Pennington,2-3,Delegates to State Convention,,Shari L. Bradstream,REP,110
+Pennington,2-3,Delegates to State Convention,,Andrew Ainslie,REP,140
+Pennington,2-3,Delegates to State Convention,,John Santana,REP,131
+Pennington,2-4,Delegates to State Convention,,Marguerite McPhillips,REP,157
+Pennington,2-4,Delegates to State Convention,,Shari L. Bradstream,REP,194
+Pennington,2-4,Delegates to State Convention,,Andrew Ainslie,REP,216
+Pennington,2-4,Delegates to State Convention,,John Santana,REP,203
+Pennington,2-5,Delegates to State Convention,,Marguerite McPhillips,REP,8
+Pennington,2-5,Delegates to State Convention,,Shari L. Bradstream,REP,8
+Pennington,2-5,Delegates to State Convention,,Andrew Ainslie,REP,14
+Pennington,2-5,Delegates to State Convention,,John Santana,REP,7
+Pennington,3-1,Delegates to State Convention,,Marguerite McPhillips,REP,76
+Pennington,3-1,Delegates to State Convention,,Shari L. Bradstream,REP,81
+Pennington,3-1,Delegates to State Convention,,Andrew Ainslie,REP,106
+Pennington,3-1,Delegates to State Convention,,John Santana,REP,87
+Pennington,3-2,Delegates to State Convention,,Marguerite McPhillips,REP,341
+Pennington,3-2,Delegates to State Convention,,Shari L. Bradstream,REP,371
+Pennington,3-2,Delegates to State Convention,,Andrew Ainslie,REP,530
+Pennington,3-2,Delegates to State Convention,,John Santana,REP,393
+Pennington,3-3,Delegates to State Convention,,Marguerite McPhillips,REP,89
+Pennington,3-3,Delegates to State Convention,,Shari L. Bradstream,REP,104
+Pennington,3-3,Delegates to State Convention,,Andrew Ainslie,REP,141
+Pennington,3-3,Delegates to State Convention,,John Santana,REP,103
+Pennington,3-4,Delegates to State Convention,,Marguerite McPhillips,REP,263
+Pennington,3-4,Delegates to State Convention,,Shari L. Bradstream,REP,298
+Pennington,3-4,Delegates to State Convention,,Andrew Ainslie,REP,444
+Pennington,3-4,Delegates to State Convention,,John Santana,REP,306
+Pennington,3-5,Delegates to State Convention,,Marguerite McPhillips,REP,53
+Pennington,3-5,Delegates to State Convention,,Shari L. Bradstream,REP,39
+Pennington,3-5,Delegates to State Convention,,Andrew Ainslie,REP,60
+Pennington,3-5,Delegates to State Convention,,John Santana,REP,38
+Pennington,4-1,Delegates to State Convention,,Marguerite McPhillips,REP,45
+Pennington,4-1,Delegates to State Convention,,Shari L. Bradstream,REP,55
+Pennington,4-1,Delegates to State Convention,,Andrew Ainslie,REP,56
+Pennington,4-1,Delegates to State Convention,,John Santana,REP,56
+Pennington,4-2,Delegates to State Convention,,Marguerite McPhillips,REP,81
+Pennington,4-2,Delegates to State Convention,,Shari L. Bradstream,REP,113
+Pennington,4-2,Delegates to State Convention,,Andrew Ainslie,REP,98
+Pennington,4-2,Delegates to State Convention,,John Santana,REP,94
+Pennington,4-3,Delegates to State Convention,,Marguerite McPhillips,REP,77
+Pennington,4-3,Delegates to State Convention,,Shari L. Bradstream,REP,84
+Pennington,4-3,Delegates to State Convention,,Andrew Ainslie,REP,103
+Pennington,4-3,Delegates to State Convention,,John Santana,REP,95
+Pennington,4-4,Delegates to State Convention,,Marguerite McPhillips,REP,85
+Pennington,4-4,Delegates to State Convention,,Shari L. Bradstream,REP,102
+Pennington,4-4,Delegates to State Convention,,Andrew Ainslie,REP,107
+Pennington,4-4,Delegates to State Convention,,John Santana,REP,84
+Pennington,4-5,Delegates to State Convention,,Marguerite McPhillips,REP,74
+Pennington,4-5,Delegates to State Convention,,Shari L. Bradstream,REP,84
+Pennington,4-5,Delegates to State Convention,,Andrew Ainslie,REP,101
+Pennington,4-5,Delegates to State Convention,,John Santana,REP,91
+Pennington,5-1,Delegates to State Convention,,Marguerite McPhillips,REP,35
+Pennington,5-1,Delegates to State Convention,,Shari L. Bradstream,REP,54
+Pennington,5-1,Delegates to State Convention,,Andrew Ainslie,REP,64
+Pennington,5-1,Delegates to State Convention,,John Santana,REP,51
+Pennington,5-2,Delegates to State Convention,,Marguerite McPhillips,REP,144
+Pennington,5-2,Delegates to State Convention,,Shari L. Bradstream,REP,148
+Pennington,5-2,Delegates to State Convention,,Andrew Ainslie,REP,187
+Pennington,5-2,Delegates to State Convention,,John Santana,REP,167
+Pennington,5-3,Delegates to State Convention,,Marguerite McPhillips,REP,191
+Pennington,5-3,Delegates to State Convention,,Shari L. Bradstream,REP,215
+Pennington,5-3,Delegates to State Convention,,Andrew Ainslie,REP,283
+Pennington,5-3,Delegates to State Convention,,John Santana,REP,238
+Pennington,5-4,Delegates to State Convention,,Marguerite McPhillips,REP,109
+Pennington,5-4,Delegates to State Convention,,Shari L. Bradstream,REP,123
+Pennington,5-4,Delegates to State Convention,,Andrew Ainslie,REP,140
+Pennington,5-4,Delegates to State Convention,,John Santana,REP,122
+Pennington,5-5,Delegates to State Convention,,Marguerite McPhillips,REP,48
+Pennington,5-5,Delegates to State Convention,,Shari L. Bradstream,REP,48
+Pennington,5-5,Delegates to State Convention,,Andrew Ainslie,REP,56
+Pennington,5-5,Delegates to State Convention,,John Santana,REP,51
+Pennington,AW,Delegates to State Convention,,Marguerite McPhillips,REP,282
+Pennington,AW,Delegates to State Convention,,Shari L. Bradstream,REP,280
+Pennington,AW,Delegates to State Convention,,Andrew Ainslie,REP,284
+Pennington,AW,Delegates to State Convention,,John Santana,REP,295
+Pennington,BE,Delegates to State Convention,,Marguerite McPhillips,REP,106
+Pennington,BE,Delegates to State Convention,,Shari L. Bradstream,REP,123
+Pennington,BE,Delegates to State Convention,,Andrew Ainslie,REP,125
+Pennington,BE,Delegates to State Convention,,John Santana,REP,99
+Pennington,CA,Delegates to State Convention,,Marguerite McPhillips,REP,62
+Pennington,CA,Delegates to State Convention,,Shari L. Bradstream,REP,52
+Pennington,CA,Delegates to State Convention,,Andrew Ainslie,REP,57
+Pennington,CA,Delegates to State Convention,,John Santana,REP,67
+Pennington,CL,Delegates to State Convention,,Marguerite McPhillips,REP,54
+Pennington,CL,Delegates to State Convention,,Shari L. Bradstream,REP,55
+Pennington,CL,Delegates to State Convention,,Andrew Ainslie,REP,70
+Pennington,CL,Delegates to State Convention,,John Santana,REP,66
+Pennington,CR,Delegates to State Convention,,Marguerite McPhillips,REP,6
+Pennington,CR,Delegates to State Convention,,Shari L. Bradstream,REP,5
+Pennington,CR,Delegates to State Convention,,Andrew Ainslie,REP,6
+Pennington,CR,Delegates to State Convention,,John Santana,REP,5
+Pennington,DT,Delegates to State Convention,,Marguerite McPhillips,REP,102
+Pennington,DT,Delegates to State Convention,,Shari L. Bradstream,REP,157
+Pennington,DT,Delegates to State Convention,,Andrew Ainslie,REP,174
+Pennington,DT,Delegates to State Convention,,John Santana,REP,168
+Pennington,EL,Delegates to State Convention,,Marguerite McPhillips,REP,46
+Pennington,EL,Delegates to State Convention,,Shari L. Bradstream,REP,47
+Pennington,EL,Delegates to State Convention,,Andrew Ainslie,REP,48
+Pennington,EL,Delegates to State Convention,,John Santana,REP,47
+Pennington,HC,Delegates to State Convention,,Marguerite McPhillips,REP,111
+Pennington,HC,Delegates to State Convention,,Shari L. Bradstream,REP,99
+Pennington,HC,Delegates to State Convention,,Andrew Ainslie,REP,120
+Pennington,HC,Delegates to State Convention,,John Santana,REP,115
+Pennington,HR,Delegates to State Convention,,Marguerite McPhillips,REP,160
+Pennington,HR,Delegates to State Convention,,Shari L. Bradstream,REP,155
+Pennington,HR,Delegates to State Convention,,Andrew Ainslie,REP,195
+Pennington,HR,Delegates to State Convention,,John Santana,REP,183
+Pennington,JS,Delegates to State Convention,,Marguerite McPhillips,REP,169
+Pennington,JS,Delegates to State Convention,,Shari L. Bradstream,REP,191
+Pennington,JS,Delegates to State Convention,,Andrew Ainslie,REP,235
+Pennington,JS,Delegates to State Convention,,John Santana,REP,202
+Pennington,KY,Delegates to State Convention,,Marguerite McPhillips,REP,56
+Pennington,KY,Delegates to State Convention,,Shari L. Bradstream,REP,53
+Pennington,KY,Delegates to State Convention,,Andrew Ainslie,REP,63
+Pennington,KY,Delegates to State Convention,,John Santana,REP,59
+Pennington,LS,Delegates to State Convention,,Marguerite McPhillips,REP,39
+Pennington,LS,Delegates to State Convention,,Shari L. Bradstream,REP,37
+Pennington,LS,Delegates to State Convention,,Andrew Ainslie,REP,55
+Pennington,LS,Delegates to State Convention,,John Santana,REP,42
+Pennington,NH,Delegates to State Convention,,Marguerite McPhillips,REP,35
+Pennington,NH,Delegates to State Convention,,Shari L. Bradstream,REP,32
+Pennington,NH,Delegates to State Convention,,Andrew Ainslie,REP,32
+Pennington,NH,Delegates to State Convention,,John Santana,REP,29
+Pennington,NU,Delegates to State Convention,,Marguerite McPhillips,REP,72
+Pennington,NU,Delegates to State Convention,,Shari L. Bradstream,REP,65
+Pennington,NU,Delegates to State Convention,,Andrew Ainslie,REP,78
+Pennington,NU,Delegates to State Convention,,John Santana,REP,67
+Pennington,QU,Delegates to State Convention,,Marguerite McPhillips,REP,25
+Pennington,QU,Delegates to State Convention,,Shari L. Bradstream,REP,27
+Pennington,QU,Delegates to State Convention,,Andrew Ainslie,REP,30
+Pennington,QU,Delegates to State Convention,,John Santana,REP,21
+Pennington,RK,Delegates to State Convention,,Marguerite McPhillips,REP,3
+Pennington,RK,Delegates to State Convention,,Shari L. Bradstream,REP,7
+Pennington,RK,Delegates to State Convention,,Andrew Ainslie,REP,7
+Pennington,RK,Delegates to State Convention,,John Santana,REP,3
+Pennington,RV,Delegates to State Convention,,Marguerite McPhillips,REP,110
+Pennington,RV,Delegates to State Convention,,Shari L. Bradstream,REP,120
+Pennington,RV,Delegates to State Convention,,Andrew Ainslie,REP,124
+Pennington,RV,Delegates to State Convention,,John Santana,REP,100
+Pennington,SC,Delegates to State Convention,,Marguerite McPhillips,REP,11
+Pennington,SC,Delegates to State Convention,,Shari L. Bradstream,REP,13
+Pennington,SC,Delegates to State Convention,,Andrew Ainslie,REP,16
+Pennington,SC,Delegates to State Convention,,John Santana,REP,13
+Pennington,VF,Delegates to State Convention,,Marguerite McPhillips,REP,166
+Pennington,VF,Delegates to State Convention,,Shari L. Bradstream,REP,195
+Pennington,VF,Delegates to State Convention,,Andrew Ainslie,REP,195
+Pennington,VF,Delegates to State Convention,,John Santana,REP,194
+Pennington,VV,Delegates to State Convention,,Marguerite McPhillips,REP,113
+Pennington,VV,Delegates to State Convention,,Shari L. Bradstream,REP,129
+Pennington,VV,Delegates to State Convention,,Andrew Ainslie,REP,151
+Pennington,VV,Delegates to State Convention,,John Santana,REP,125
+Pennington,WL,Delegates to State Convention,,Marguerite McPhillips,REP,53
+Pennington,WL,Delegates to State Convention,,Shari L. Bradstream,REP,57
+Pennington,WL,Delegates to State Convention,,Andrew Ainslie,REP,62
+Pennington,WL,Delegates to State Convention,,John Santana,REP,57
+Pennington,WP,Delegates to State Convention,,Marguerite McPhillips,REP,152
+Pennington,WP,Delegates to State Convention,,Shari L. Bradstream,REP,156
+Pennington,WP,Delegates to State Convention,,Andrew Ainslie,REP,217
+Pennington,WP,Delegates to State Convention,,John Santana,REP,180
+Pennington,WS,Delegates to State Convention,,Marguerite McPhillips,REP,14
+Pennington,WS,Delegates to State Convention,,Shari L. Bradstream,REP,8
+Pennington,WS,Delegates to State Convention,,Andrew Ainslie,REP,17
+Pennington,WS,Delegates to State Convention,,John Santana,REP,14
+Pennington,VF,Precinct Committeeman Precinct VF,,Brandon Frizzell,REP,156
+Pennington,VF,Precinct Committeeman Precinct VF,,Ken Straatmeyer,REP,139
+Pennington,5-2,Precinct Committeewoman Precinct 5-2,,Tonchi (Toni E.) Weaver,REP,149
+Pennington,5-2,Precinct Committeewoman Precinct 5-2,,Kathryn Henning,REP,193
+Pennington,4-1,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Leah Ann Lutheran,,18
+Pennington,4-1,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Bill Freytag,,54
+Pennington,4-1,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Amelia (Amy) Sazue,,56
+Pennington,4-1,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Jim Hansen,,65
+Pennington,4-2,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Leah Ann Lutheran,,41
+Pennington,4-2,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Bill Freytag,,86
+Pennington,4-2,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Amelia (Amy) Sazue,,85
+Pennington,4-2,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Jim Hansen,,97
+Pennington,4-3,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Leah Ann Lutheran,,40
+Pennington,4-3,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Bill Freytag,,96
+Pennington,4-3,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Amelia (Amy) Sazue,,118
+Pennington,4-3,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Jim Hansen,,142
+Pennington,4-4,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Leah Ann Lutheran,,43
+Pennington,4-4,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Bill Freytag,,71
+Pennington,4-4,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Amelia (Amy) Sazue,,124
+Pennington,4-4,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Jim Hansen,,164
+Pennington,4-5,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Leah Ann Lutheran,,28
+Pennington,4-5,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Bill Freytag,,85
+Pennington,4-5,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Amelia (Amy) Sazue,,100
+Pennington,4-5,School Area Board Member Rapid City School Dist 51 -4 Area 4,,Jim Hansen,,121
+Pennington,3-1,School Area Board Member Rapid City School Dist 51-4 Area 5,,Clay Colombe,,158
+Pennington,3-1,School Area Board Member Rapid City School Dist 51-4 Area 5,,Larry Begley,,117
+Pennington,3-4,School Area Board Member Rapid City School Dist 51-4 Area 5,,Clay Colombe,,51
+Pennington,3-4,School Area Board Member Rapid City School Dist 51-4 Area 5,,Larry Begley,,41
+Pennington,5-1,School Area Board Member Rapid City School Dist 51-4 Area 5,,Clay Colombe,,90
+Pennington,5-1,School Area Board Member Rapid City School Dist 51-4 Area 5,,Larry Begley,,74
+Pennington,5-2,School Area Board Member Rapid City School Dist 51-4 Area 5,,Clay Colombe,,249
+Pennington,5-2,School Area Board Member Rapid City School Dist 51-4 Area 5,,Larry Begley,,172
+Pennington,5-3,School Area Board Member Rapid City School Dist 51-4 Area 5,,Clay Colombe,,517
+Pennington,5-3,School Area Board Member Rapid City School Dist 51-4 Area 5,,Larry Begley,,334
+Pennington,5-4,School Area Board Member Rapid City School Dist 51-4 Area 5,,Clay Colombe,,429
+Pennington,5-4,School Area Board Member Rapid City School Dist 51-4 Area 5,,Larry Begley,,132
+Pennington,5-5,School Area Board Member Rapid City School Dist 51-4 Area 5,,Clay Colombe,,119
+Pennington,5-5,School Area Board Member Rapid City School Dist 51-4 Area 5,,Larry Begley,,65
+Pennington,1-1,Alderman Rapid City Ward-1,,Vince Vidal,,199
+Pennington,1-1,Alderman Rapid City Ward-1,,Patrick S. Jones,,226
+Pennington,1-1,Alderman Rapid City Ward-1,,Robert Overturf,,153
+Pennington,1-2,Alderman Rapid City Ward-1,,Vince Vidal,,279
+Pennington,1-2,Alderman Rapid City Ward-1,,Patrick S. Jones,,312
+Pennington,1-2,Alderman Rapid City Ward-1,,Robert Overturf,,168
+Pennington,1-3,Alderman Rapid City Ward-1,,Vince Vidal,,388
+Pennington,1-3,Alderman Rapid City Ward-1,,Patrick S. Jones,,482
+Pennington,1-3,Alderman Rapid City Ward-1,,Robert Overturf,,335
+Pennington,1-4,Alderman Rapid City Ward-1,,Vince Vidal,,132
+Pennington,1-4,Alderman Rapid City Ward-1,,Patrick S. Jones,,168
+Pennington,1-4,Alderman Rapid City Ward-1,,Robert Overturf,,85
+Pennington,3-1,Alderman Rapid City Ward-3,,Chad Lewis,,92
+Pennington,3-1,Alderman Rapid City Ward-3,,Jerome Wright,,106
+Pennington,3-1,Alderman Rapid City Ward-3,,Jason R. Salamun,,133
+Pennington,3-2,Alderman Rapid City Ward-3,,Chad Lewis,,448
+Pennington,3-2,Alderman Rapid City Ward-3,,Jerome Wright,,496
+Pennington,3-2,Alderman Rapid City Ward-3,,Jason R. Salamun,,507
+Pennington,3-3,Alderman Rapid City Ward-3,,Chad Lewis,,163
+Pennington,3-3,Alderman Rapid City Ward-3,,Jerome Wright,,138
+Pennington,3-3,Alderman Rapid City Ward-3,,Jason R. Salamun,,160
+Pennington,3-4,Alderman Rapid City Ward-3,,Chad Lewis,,465
+Pennington,3-4,Alderman Rapid City Ward-3,,Jerome Wright,,493
+Pennington,3-4,Alderman Rapid City Ward-3,,Jason R. Salamun,,487
+Pennington,3-5,Alderman Rapid City Ward-3,,Chad Lewis,,56
+Pennington,3-5,Alderman Rapid City Ward-3,,Jerome Wright,,61
+Pennington,3-5,Alderman Rapid City Ward-3,,Jason R. Salamun,,68
+Pennington,4-1,Alderman Rapid City Ward -4,,John B. Roberts,,111
+Pennington,4-1,Alderman Rapid City Ward -4,,Walter Swan Jr,,86
+Pennington,4-2,Alderman Rapid City Ward -4,,John B. Roberts,,290
+Pennington,4-2,Alderman Rapid City Ward -4,,Walter Swan Jr,,192
+Pennington,4-3,Alderman Rapid City Ward -4,,John B. Roberts,,210
+Pennington,4-3,Alderman Rapid City Ward -4,,Walter Swan Jr,,193
+Pennington,4-4,Alderman Rapid City Ward -4,,John B. Roberts,,194
+Pennington,4-4,Alderman Rapid City Ward -4,,Walter Swan Jr,,215
+Pennington,4-5,Alderman Rapid City Ward -4,,John B. Roberts,,218
+Pennington,4-5,Alderman Rapid City Ward -4,,Walter Swan Jr,,138
+Pennington,HC,Alderman Hill City Ward-2,,"Harold ""Dale"" Householder",,77
+Pennington,HC,Alderman Hill City Ward-2,,John Johnson,,34

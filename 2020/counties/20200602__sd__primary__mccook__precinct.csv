@@ -1,0 +1,55 @@
+county,precinct,office,district,candidate,party,votes
+McCook,1,President,,Bernie Sanders,DEM,7
+McCook,1,President,,Joseph R. Biden,DEM,40
+McCook,2,President,,Bernie Sanders,DEM,2
+McCook,2,President,,Joseph R. Biden,DEM,14
+McCook,3,President,,Bernie Sanders,DEM,5
+McCook,3,President,,Joseph R. Biden,DEM,28
+McCook,4,President,,Bernie Sanders,DEM,7
+McCook,4,President,,Joseph R. Biden,DEM,8
+McCook,5,President,,Bernie Sanders,DEM,17
+McCook,5,President,,Joseph R. Biden,DEM,70
+McCook,6,President,,Bernie Sanders,DEM,5
+McCook,6,President,,Joseph R. Biden,DEM,17
+McCook,1,U.S. Senate,,Mike Rounds,REP,58
+McCook,1,U.S. Senate,,Scyller J. Borglum,REP,19
+McCook,2,U.S. Senate,,Mike Rounds,REP,30
+McCook,2,U.S. Senate,,Scyller J. Borglum,REP,10
+McCook,3,U.S. Senate,,Mike Rounds,REP,57
+McCook,3,U.S. Senate,,Scyller J. Borglum,REP,23
+McCook,4,U.S. Senate,,Mike Rounds,REP,74
+McCook,4,U.S. Senate,,Scyller J. Borglum,REP,20
+McCook,5,U.S. Senate,,Mike Rounds,REP,124
+McCook,5,U.S. Senate,,Scyller J. Borglum,REP,47
+McCook,6,U.S. Senate,,Mike Rounds,REP,81
+McCook,6,U.S. Senate,,Scyller J. Borglum,REP,16
+McCook,1,U.S. Representative,1,Liz Marty May,REP,14
+McCook,1,U.S. Representative,1,Dusty Johnson,REP,64
+McCook,2,U.S. Representative,1,Liz Marty May,REP,4
+McCook,2,U.S. Representative,1,Dusty Johnson,REP,36
+McCook,3,U.S. Representative,1,Liz Marty May,REP,18
+McCook,3,U.S. Representative,1,Dusty Johnson,REP,62
+McCook,4,U.S. Representative,1,Liz Marty May,REP,19
+McCook,4,U.S. Representative,1,Dusty Johnson,REP,74
+McCook,5,U.S. Representative,1,Liz Marty May,REP,33
+McCook,5,U.S. Representative,1,Dusty Johnson,REP,139
+McCook,6,U.S. Representative,1,Liz Marty May,REP,7
+McCook,6,U.S. Representative,1,Dusty Johnson,REP,90
+McCook,1,State Representative,19,Marty Overweg,REP,30
+McCook,1,State Representative,19,Kent Peterson,REP,50
+McCook,1,State Representative,19,Jessica Bahmuller,REP,39
+McCook,2,State Representative,19,Marty Overweg,REP,9
+McCook,2,State Representative,19,Kent Peterson,REP,29
+McCook,2,State Representative,19,Jessica Bahmuller,REP,29
+McCook,3,State Representative,19,Marty Overweg,REP,49
+McCook,3,State Representative,19,Kent Peterson,REP,44
+McCook,3,State Representative,19,Jessica Bahmuller,REP,40
+McCook,4,State Representative,19,Marty Overweg,REP,43
+McCook,4,State Representative,19,Kent Peterson,REP,56
+McCook,4,State Representative,19,Jessica Bahmuller,REP,54
+McCook,5,State Representative,19,Marty Overweg,REP,71
+McCook,5,State Representative,19,Kent Peterson,REP,132
+McCook,5,State Representative,19,Jessica Bahmuller,REP,74
+McCook,6,State Representative,19,Marty Overweg,REP,39
+McCook,6,State Representative,19,Kent Peterson,REP,76
+McCook,6,State Representative,19,Jessica Bahmuller,REP,53

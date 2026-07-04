@@ -1,0 +1,49 @@
+county,precinct,office,district,candidate,party,votes
+Jackson,1,President,,Bernie Sanders,DEM,1
+Jackson,1,President,,Joseph R. Biden,DEM,3
+Jackson,2,President,,Bernie Sanders,DEM,4
+Jackson,2,President,,Joseph R. Biden,DEM,9
+Jackson,3,President,,Bernie Sanders,DEM,0
+Jackson,3,President,,Joseph R. Biden,DEM,8
+Jackson,4,President,,Bernie Sanders,DEM,2
+Jackson,4,President,,Joseph R. Biden,DEM,9
+Jackson,5,President,,Bernie Sanders,DEM,1
+Jackson,5,President,,Joseph R. Biden,DEM,3
+Jackson,6,President,,Bernie Sanders,DEM,2
+Jackson,6,President,,Joseph R. Biden,DEM,8
+Jackson,7,President,,Bernie Sanders,DEM,16
+Jackson,7,President,,Joseph R. Biden,DEM,29
+Jackson,8,President,,Bernie Sanders,DEM,10
+Jackson,8,President,,Joseph R. Biden,DEM,7
+Jackson,1,U.S. Senate,,Mike Rounds,REP,13
+Jackson,1,U.S. Senate,,Scyller J. Borglum,REP,7
+Jackson,2,U.S. Senate,,Mike Rounds,REP,27
+Jackson,2,U.S. Senate,,Scyller J. Borglum,REP,22
+Jackson,3,U.S. Senate,,Mike Rounds,REP,52
+Jackson,3,U.S. Senate,,Scyller J. Borglum,REP,69
+Jackson,4,U.S. Senate,,Mike Rounds,REP,48
+Jackson,4,U.S. Senate,,Scyller J. Borglum,REP,27
+Jackson,5,U.S. Senate,,Mike Rounds,REP,20
+Jackson,5,U.S. Senate,,Scyller J. Borglum,REP,27
+Jackson,6,U.S. Senate,,Mike Rounds,REP,11
+Jackson,6,U.S. Senate,,Scyller J. Borglum,REP,40
+Jackson,7,U.S. Senate,,Mike Rounds,REP,4
+Jackson,7,U.S. Senate,,Scyller J. Borglum,REP,10
+Jackson,8,U.S. Senate,,Mike Rounds,REP,10
+Jackson,8,U.S. Senate,,Scyller J. Borglum,REP,12
+Jackson,1,U.S. Representative,1,Liz Marty May,REP,14
+Jackson,1,U.S. Representative,1,Dusty Johnson,REP,6
+Jackson,2,U.S. Representative,1,Liz Marty May,REP,37
+Jackson,2,U.S. Representative,1,Dusty Johnson,REP,13
+Jackson,3,U.S. Representative,1,Liz Marty May,REP,83
+Jackson,3,U.S. Representative,1,Dusty Johnson,REP,38
+Jackson,4,U.S. Representative,1,Liz Marty May,REP,40
+Jackson,4,U.S. Representative,1,Dusty Johnson,REP,36
+Jackson,5,U.S. Representative,1,Liz Marty May,REP,31
+Jackson,5,U.S. Representative,1,Dusty Johnson,REP,16
+Jackson,6,U.S. Representative,1,Liz Marty May,REP,44
+Jackson,6,U.S. Representative,1,Dusty Johnson,REP,8
+Jackson,7,U.S. Representative,1,Liz Marty May,REP,10
+Jackson,7,U.S. Representative,1,Dusty Johnson,REP,4
+Jackson,8,U.S. Representative,1,Liz Marty May,REP,17
+Jackson,8,U.S. Representative,1,Dusty Johnson,REP,4

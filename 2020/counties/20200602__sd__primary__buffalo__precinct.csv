@@ -1,0 +1,19 @@
+county,precinct,office,district,candidate,party,votes
+Buffalo,1,President,,Bernie Sanders,DEM,0
+Buffalo,1,President,,Joseph R. Biden,DEM,9
+Buffalo,2,President,,Bernie Sanders,DEM,4
+Buffalo,2,President,,Joseph R. Biden,DEM,9
+Buffalo,3,President,,Bernie Sanders,DEM,35
+Buffalo,3,President,,Joseph R. Biden,DEM,41
+Buffalo,1,U.S. Senate,,Mike Rounds,REP,19
+Buffalo,1,U.S. Senate,,Scyller J. Borglum,REP,8
+Buffalo,2,U.S. Senate,,Mike Rounds,REP,4
+Buffalo,2,U.S. Senate,,Scyller J. Borglum,REP,2
+Buffalo,3,U.S. Senate,,Mike Rounds,REP,8
+Buffalo,3,U.S. Senate,,Scyller J. Borglum,REP,4
+Buffalo,1,U.S. Representative,1,Liz Marty May,REP,7
+Buffalo,1,U.S. Representative,1,Dusty Johnson,REP,20
+Buffalo,2,U.S. Representative,1,Liz Marty May,REP,2
+Buffalo,2,U.S. Representative,1,Dusty Johnson,REP,4
+Buffalo,3,U.S. Representative,1,Liz Marty May,REP,6
+Buffalo,3,U.S. Representative,1,Dusty Johnson,REP,6

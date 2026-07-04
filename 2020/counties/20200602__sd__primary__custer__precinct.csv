@@ -1,0 +1,179 @@
+county,precinct,office,district,candidate,party,votes
+Custer,1,President,,Bernie Sanders,DEM,18
+Custer,1,President,,Joseph R. Biden,DEM,80
+Custer,2,President,,Bernie Sanders,DEM,4
+Custer,2,President,,Joseph R. Biden,DEM,12
+Custer,3,President,,Bernie Sanders,DEM,2
+Custer,3,President,,Joseph R. Biden,DEM,21
+Custer,4,President,,Bernie Sanders,DEM,6
+Custer,4,President,,Joseph R. Biden,DEM,35
+Custer,5,President,,Bernie Sanders,DEM,11
+Custer,5,President,,Joseph R. Biden,DEM,54
+Custer,6,President,,Bernie Sanders,DEM,9
+Custer,6,President,,Joseph R. Biden,DEM,34
+Custer,7,President,,Bernie Sanders,DEM,4
+Custer,7,President,,Joseph R. Biden,DEM,27
+Custer,8,President,,Bernie Sanders,DEM,5
+Custer,8,President,,Joseph R. Biden,DEM,59
+Custer,9,President,,Bernie Sanders,DEM,32
+Custer,9,President,,Joseph R. Biden,DEM,131
+Custer,10,President,,Bernie Sanders,DEM,1
+Custer,10,President,,Joseph R. Biden,DEM,8
+Custer,1,U.S. Senate,,Mike Rounds,REP,248
+Custer,1,U.S. Senate,,Scyller J. Borglum,REP,140
+Custer,2,U.S. Senate,,Mike Rounds,REP,41
+Custer,2,U.S. Senate,,Scyller J. Borglum,REP,48
+Custer,3,U.S. Senate,,Mike Rounds,REP,29
+Custer,3,U.S. Senate,,Scyller J. Borglum,REP,19
+Custer,4,U.S. Senate,,Mike Rounds,REP,113
+Custer,4,U.S. Senate,,Scyller J. Borglum,REP,52
+Custer,5,U.S. Senate,,Mike Rounds,REP,169
+Custer,5,U.S. Senate,,Scyller J. Borglum,REP,73
+Custer,6,U.S. Senate,,Mike Rounds,REP,87
+Custer,6,U.S. Senate,,Scyller J. Borglum,REP,30
+Custer,7,U.S. Senate,,Mike Rounds,REP,53
+Custer,7,U.S. Senate,,Scyller J. Borglum,REP,16
+Custer,8,U.S. Senate,,Mike Rounds,REP,119
+Custer,8,U.S. Senate,,Scyller J. Borglum,REP,49
+Custer,9,U.S. Senate,,Mike Rounds,REP,365
+Custer,9,U.S. Senate,,Scyller J. Borglum,REP,137
+Custer,10,U.S. Senate,,Mike Rounds,REP,43
+Custer,10,U.S. Senate,,Scyller J. Borglum,REP,4
+Custer,1,U.S. Representative,1,Liz Marty May,REP,153
+Custer,1,U.S. Representative,1,Dusty Johnson,REP,234
+Custer,2,U.S. Representative,1,Liz Marty May,REP,52
+Custer,2,U.S. Representative,1,Dusty Johnson,REP,39
+Custer,3,U.S. Representative,1,Liz Marty May,REP,12
+Custer,3,U.S. Representative,1,Dusty Johnson,REP,37
+Custer,4,U.S. Representative,1,Liz Marty May,REP,51
+Custer,4,U.S. Representative,1,Dusty Johnson,REP,117
+Custer,5,U.S. Representative,1,Liz Marty May,REP,74
+Custer,5,U.S. Representative,1,Dusty Johnson,REP,164
+Custer,6,U.S. Representative,1,Liz Marty May,REP,26
+Custer,6,U.S. Representative,1,Dusty Johnson,REP,89
+Custer,7,U.S. Representative,1,Liz Marty May,REP,20
+Custer,7,U.S. Representative,1,Dusty Johnson,REP,48
+Custer,8,U.S. Representative,1,Liz Marty May,REP,36
+Custer,8,U.S. Representative,1,Dusty Johnson,REP,133
+Custer,9,U.S. Representative,1,Liz Marty May,REP,127
+Custer,9,U.S. Representative,1,Dusty Johnson,REP,370
+Custer,10,U.S. Representative,1,Liz Marty May,REP,16
+Custer,10,U.S. Representative,1,Dusty Johnson,REP,30
+Custer,1,State Senate,30,Julie Frye-Mueller,REP,210
+Custer,1,State Senate,30,George H Kotti,REP,157
+Custer,2,State Senate,30,Julie Frye-Mueller,REP,52
+Custer,2,State Senate,30,George H Kotti,REP,31
+Custer,3,State Senate,30,Julie Frye-Mueller,REP,20
+Custer,3,State Senate,30,George H Kotti,REP,24
+Custer,4,State Senate,30,Julie Frye-Mueller,REP,104
+Custer,4,State Senate,30,George H Kotti,REP,58
+Custer,5,State Senate,30,Julie Frye-Mueller,REP,115
+Custer,5,State Senate,30,George H Kotti,REP,117
+Custer,6,State Senate,30,Julie Frye-Mueller,REP,57
+Custer,6,State Senate,30,George H Kotti,REP,53
+Custer,7,State Senate,30,Julie Frye-Mueller,REP,21
+Custer,7,State Senate,30,George H Kotti,REP,41
+Custer,8,State Senate,30,Julie Frye-Mueller,REP,85
+Custer,8,State Senate,30,George H Kotti,REP,75
+Custer,9,State Senate,30,Julie Frye-Mueller,REP,277
+Custer,9,State Senate,30,George H Kotti,REP,196
+Custer,10,State Senate,30,Julie Frye-Mueller,REP,21
+Custer,10,State Senate,30,George H Kotti,REP,23
+Custer,1,State Representative,30,Tim R Goodwin,REP,239
+Custer,1,State Representative,30,Kwinn Neff,REP,85
+Custer,1,State Representative,30,Trish Ladner,REP,107
+Custer,1,State Representative,30,Florence Thompson,REP,129
+Custer,2,State Representative,30,Tim R Goodwin,REP,53
+Custer,2,State Representative,30,Kwinn Neff,REP,22
+Custer,2,State Representative,30,Trish Ladner,REP,19
+Custer,2,State Representative,30,Florence Thompson,REP,41
+Custer,3,State Representative,30,Tim R Goodwin,REP,37
+Custer,3,State Representative,30,Kwinn Neff,REP,12
+Custer,3,State Representative,30,Trish Ladner,REP,13
+Custer,3,State Representative,30,Florence Thompson,REP,11
+Custer,4,State Representative,30,Tim R Goodwin,REP,112
+Custer,4,State Representative,30,Kwinn Neff,REP,41
+Custer,4,State Representative,30,Trish Ladner,REP,48
+Custer,4,State Representative,30,Florence Thompson,REP,49
+Custer,5,State Representative,30,Tim R Goodwin,REP,189
+Custer,5,State Representative,30,Kwinn Neff,REP,76
+Custer,5,State Representative,30,Trish Ladner,REP,60
+Custer,5,State Representative,30,Florence Thompson,REP,63
+Custer,6,State Representative,30,Tim R Goodwin,REP,92
+Custer,6,State Representative,30,Kwinn Neff,REP,35
+Custer,6,State Representative,30,Trish Ladner,REP,36
+Custer,6,State Representative,30,Florence Thompson,REP,24
+Custer,7,State Representative,30,Tim R Goodwin,REP,48
+Custer,7,State Representative,30,Kwinn Neff,REP,25
+Custer,7,State Representative,30,Trish Ladner,REP,16
+Custer,7,State Representative,30,Florence Thompson,REP,20
+Custer,8,State Representative,30,Tim R Goodwin,REP,129
+Custer,8,State Representative,30,Kwinn Neff,REP,50
+Custer,8,State Representative,30,Trish Ladner,REP,46
+Custer,8,State Representative,30,Florence Thompson,REP,40
+Custer,9,State Representative,30,Tim R Goodwin,REP,390
+Custer,9,State Representative,30,Kwinn Neff,REP,127
+Custer,9,State Representative,30,Trish Ladner,REP,114
+Custer,9,State Representative,30,Florence Thompson,REP,131
+Custer,10,State Representative,30,Tim R Goodwin,REP,37
+Custer,10,State Representative,30,Kwinn Neff,REP,11
+Custer,10,State Representative,30,Trish Ladner,REP,9
+Custer,10,State Representative,30,Florence Thompson,REP,11
+Custer,1,County Commissioner At Large,,Matt Steen,REP,170
+Custer,1,County Commissioner At Large,,Mark Hartman,REP,78
+Custer,1,County Commissioner At Large,,Ellen Ballard,REP,78
+Custer,1,County Commissioner At Large,,Jesse Sorenson,REP,118
+Custer,1,County Commissioner At Large,,Travis L Bies,REP,168
+Custer,2,County Commissioner At Large,,Matt Steen,REP,39
+Custer,2,County Commissioner At Large,,Mark Hartman,REP,22
+Custer,2,County Commissioner At Large,,Ellen Ballard,REP,20
+Custer,2,County Commissioner At Large,,Jesse Sorenson,REP,35
+Custer,2,County Commissioner At Large,,Travis L Bies,REP,34
+Custer,3,County Commissioner At Large,,Matt Steen,REP,12
+Custer,3,County Commissioner At Large,,Mark Hartman,REP,12
+Custer,3,County Commissioner At Large,,Ellen Ballard,REP,19
+Custer,3,County Commissioner At Large,,Jesse Sorenson,REP,13
+Custer,3,County Commissioner At Large,,Travis L Bies,REP,14
+Custer,4,County Commissioner At Large,,Matt Steen,REP,32
+Custer,4,County Commissioner At Large,,Mark Hartman,REP,72
+Custer,4,County Commissioner At Large,,Ellen Ballard,REP,43
+Custer,4,County Commissioner At Large,,Jesse Sorenson,REP,60
+Custer,4,County Commissioner At Large,,Travis L Bies,REP,58
+Custer,5,County Commissioner At Large,,Matt Steen,REP,57
+Custer,5,County Commissioner At Large,,Mark Hartman,REP,125
+Custer,5,County Commissioner At Large,,Ellen Ballard,REP,88
+Custer,5,County Commissioner At Large,,Jesse Sorenson,REP,72
+Custer,5,County Commissioner At Large,,Travis L Bies,REP,93
+Custer,6,County Commissioner At Large,,Matt Steen,REP,12
+Custer,6,County Commissioner At Large,,Mark Hartman,REP,54
+Custer,6,County Commissioner At Large,,Ellen Ballard,REP,31
+Custer,6,County Commissioner At Large,,Jesse Sorenson,REP,55
+Custer,6,County Commissioner At Large,,Travis L Bies,REP,54
+Custer,7,County Commissioner At Large,,Matt Steen,REP,7
+Custer,7,County Commissioner At Large,,Mark Hartman,REP,34
+Custer,7,County Commissioner At Large,,Ellen Ballard,REP,20
+Custer,7,County Commissioner At Large,,Jesse Sorenson,REP,30
+Custer,7,County Commissioner At Large,,Travis L Bies,REP,30
+Custer,8,County Commissioner At Large,,Matt Steen,REP,20
+Custer,8,County Commissioner At Large,,Mark Hartman,REP,78
+Custer,8,County Commissioner At Large,,Ellen Ballard,REP,64
+Custer,8,County Commissioner At Large,,Jesse Sorenson,REP,71
+Custer,8,County Commissioner At Large,,Travis L Bies,REP,73
+Custer,9,County Commissioner At Large,,Matt Steen,REP,84
+Custer,9,County Commissioner At Large,,Mark Hartman,REP,244
+Custer,9,County Commissioner At Large,,Ellen Ballard,REP,152
+Custer,9,County Commissioner At Large,,Jesse Sorenson,REP,180
+Custer,9,County Commissioner At Large,,Travis L Bies,REP,195
+Custer,10,County Commissioner At Large,,Matt Steen,REP,8
+Custer,10,County Commissioner At Large,,Mark Hartman,REP,25
+Custer,10,County Commissioner At Large,,Ellen Ballard,REP,10
+Custer,10,County Commissioner At Large,,Jesse Sorenson,REP,25
+Custer,10,County Commissioner At Large,,Travis L Bies,REP,11
+Custer,3,School Board Member Hot Springs School District 23- 2,,Petra Wilson,,28
+Custer,3,School Board Member Hot Springs School District 23- 2,,Malisa Niles,,16
+Custer,4,School Board Member Hot Springs School District 23- 2,,Petra Wilson,,9
+Custer,4,School Board Member Hot Springs School District 23- 2,,Malisa Niles,,3
+Custer,2,City Council Member Fairburn,,Sally Nordstrom,,20
+Custer,2,City Council Member Fairburn,,Bradley Mikkelson,,10
+Custer,8,City Council Member Custer Ward-3,,Todd Pechota,,124
+Custer,8,City Council Member Custer Ward-3,,Carrie Moore,,124

@@ -1,0 +1,45 @@
+county,precinct,office,district,candidate,party,votes
+Sully,Absentee,President,,Bernie Sanders,DEM,8
+Sully,Absentee,President,,Joseph R. Biden,DEM,49
+Sully,Agar Fire Hall,President,,Bernie Sanders,DEM,4
+Sully,Agar Fire Hall,President,,Joseph R. Biden,DEM,3
+Sully,Bill Floyd Shop,President,,Bernie Sanders,DEM,2
+Sully,Bill Floyd Shop,President,,Joseph R. Biden,DEM,4
+Sully,Phoenix Center,President,,Bernie Sanders,DEM,3
+Sully,Phoenix Center,President,,Joseph R. Biden,DEM,11
+Sully,Absentee,U.S. Senate,,Mike Rounds,REP,123
+Sully,Absentee,U.S. Senate,,Scyller J. Borglum,REP,20
+Sully,Agar Fire Hall,U.S. Senate,,Mike Rounds,REP,20
+Sully,Agar Fire Hall,U.S. Senate,,Scyller J. Borglum,REP,4
+Sully,Bill Floyd Shop,U.S. Senate,,Mike Rounds,REP,33
+Sully,Bill Floyd Shop,U.S. Senate,,Scyller J. Borglum,REP,12
+Sully,Phoenix Center,U.S. Senate,,Mike Rounds,REP,112
+Sully,Phoenix Center,U.S. Senate,,Scyller J. Borglum,REP,33
+Sully,Absentee,U.S. Representative,1,Liz Marty May,REP,30
+Sully,Absentee,U.S. Representative,1,Dusty Johnson,REP,114
+Sully,Agar Fire Hall,U.S. Representative,1,Liz Marty May,REP,5
+Sully,Agar Fire Hall,U.S. Representative,1,Dusty Johnson,REP,17
+Sully,Bill Floyd Shop,U.S. Representative,1,Liz Marty May,REP,9
+Sully,Bill Floyd Shop,U.S. Representative,1,Dusty Johnson,REP,34
+Sully,Phoenix Center,U.S. Representative,1,Liz Marty May,REP,38
+Sully,Phoenix Center,U.S. Representative,1,Dusty Johnson,REP,108
+Sully,Absentee,State Representative,24,Jeff Monroe,REP,75
+Sully,Absentee,State Representative,24,Noel D Chicoine,REP,48
+Sully,Absentee,State Representative,24,Will D Mortenson,REP,72
+Sully,Absentee,State Representative,24,Mike Weisgram,REP,50
+Sully,Absentee,State Representative,24,Bob Lowery,REP,12
+Sully,Agar Fire Hall,State Representative,24,Jeff Monroe,REP,13
+Sully,Agar Fire Hall,State Representative,24,Noel D Chicoine,REP,4
+Sully,Agar Fire Hall,State Representative,24,Will D Mortenson,REP,15
+Sully,Agar Fire Hall,State Representative,24,Mike Weisgram,REP,6
+Sully,Agar Fire Hall,State Representative,24,Bob Lowery,REP,4
+Sully,Bill Floyd Shop,State Representative,24,Jeff Monroe,REP,25
+Sully,Bill Floyd Shop,State Representative,24,Noel D Chicoine,REP,12
+Sully,Bill Floyd Shop,State Representative,24,Will D Mortenson,REP,22
+Sully,Bill Floyd Shop,State Representative,24,Mike Weisgram,REP,19
+Sully,Bill Floyd Shop,State Representative,24,Bob Lowery,REP,1
+Sully,Phoenix Center,State Representative,24,Jeff Monroe,REP,65
+Sully,Phoenix Center,State Representative,24,Noel D Chicoine,REP,60
+Sully,Phoenix Center,State Representative,24,Will D Mortenson,REP,84
+Sully,Phoenix Center,State Representative,24,Mike Weisgram,REP,45
+Sully,Phoenix Center,State Representative,24,Bob Lowery,REP,8

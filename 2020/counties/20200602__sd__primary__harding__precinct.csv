@@ -1,0 +1,49 @@
+county,precinct,office,district,candidate,party,votes
+Harding,1,President,,Bernie Sanders,DEM,3
+Harding,1,President,,Joseph R. Biden,DEM,6
+Harding,2,President,,Bernie Sanders,DEM,5
+Harding,2,President,,Joseph R. Biden,DEM,2
+Harding,3,President,,Bernie Sanders,DEM,0
+Harding,3,President,,Joseph R. Biden,DEM,2
+Harding,5,President,,Bernie Sanders,DEM,1
+Harding,5,President,,Joseph R. Biden,DEM,1
+Harding,6,President,,Bernie Sanders,DEM,1
+Harding,6,President,,Joseph R. Biden,DEM,0
+Harding,7,President,,Bernie Sanders,DEM,1
+Harding,7,President,,Joseph R. Biden,DEM,5
+Harding,8,President,,Bernie Sanders,DEM,0
+Harding,8,President,,Joseph R. Biden,DEM,0
+Harding,9,President,,Bernie Sanders,DEM,1
+Harding,9,President,,Joseph R. Biden,DEM,1
+Harding,1,U.S. Senate,,Mike Rounds,REP,39
+Harding,1,U.S. Senate,,Scyller J. Borglum,REP,39
+Harding,2,U.S. Senate,,Mike Rounds,REP,11
+Harding,2,U.S. Senate,,Scyller J. Borglum,REP,27
+Harding,3,U.S. Senate,,Mike Rounds,REP,4
+Harding,3,U.S. Senate,,Scyller J. Borglum,REP,13
+Harding,5,U.S. Senate,,Mike Rounds,REP,32
+Harding,5,U.S. Senate,,Scyller J. Borglum,REP,33
+Harding,6,U.S. Senate,,Mike Rounds,REP,17
+Harding,6,U.S. Senate,,Scyller J. Borglum,REP,7
+Harding,7,U.S. Senate,,Mike Rounds,REP,8
+Harding,7,U.S. Senate,,Scyller J. Borglum,REP,18
+Harding,8,U.S. Senate,,Mike Rounds,REP,20
+Harding,8,U.S. Senate,,Scyller J. Borglum,REP,29
+Harding,9,U.S. Senate,,Mike Rounds,REP,17
+Harding,9,U.S. Senate,,Scyller J. Borglum,REP,45
+Harding,1,U.S. Representative,1,Liz Marty May,REP,42
+Harding,1,U.S. Representative,1,Dusty Johnson,REP,36
+Harding,2,U.S. Representative,1,Liz Marty May,REP,31
+Harding,2,U.S. Representative,1,Dusty Johnson,REP,7
+Harding,3,U.S. Representative,1,Liz Marty May,REP,12
+Harding,3,U.S. Representative,1,Dusty Johnson,REP,5
+Harding,5,U.S. Representative,1,Liz Marty May,REP,47
+Harding,5,U.S. Representative,1,Dusty Johnson,REP,18
+Harding,6,U.S. Representative,1,Liz Marty May,REP,21
+Harding,6,U.S. Representative,1,Dusty Johnson,REP,4
+Harding,7,U.S. Representative,1,Liz Marty May,REP,22
+Harding,7,U.S. Representative,1,Dusty Johnson,REP,4
+Harding,8,U.S. Representative,1,Liz Marty May,REP,33
+Harding,8,U.S. Representative,1,Dusty Johnson,REP,17
+Harding,9,U.S. Representative,1,Liz Marty May,REP,57
+Harding,9,U.S. Representative,1,Dusty Johnson,REP,6

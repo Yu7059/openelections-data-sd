@@ -1,0 +1,53 @@
+county,precinct,office,district,candidate,party,votes
+Lawrence,Absentee,President,,Bernie Sanders,DEM,264
+Lawrence,Absentee,President,,Joseph R. Biden,DEM,1095
+Lawrence,"07 (04, 05, 06)",President,,Bernie Sanders,DEM,44
+Lawrence,"07 (04, 05, 06)",President,,Joseph R. Biden,DEM,67
+Lawrence,"10 (01, 02, 03, 08, 09)",President,,Bernie Sanders,DEM,107
+Lawrence,"10 (01, 02, 03, 08, 09)",President,,Joseph R. Biden,DEM,143
+Lawrence,Absentee,U.S. Senate,,Mike Rounds,REP,1666
+Lawrence,Absentee,U.S. Senate,,Scyller J. Borglum,REP,481
+Lawrence,"07 (04, 05, 06)",U.S. Senate,,Mike Rounds,REP,291
+Lawrence,"07 (04, 05, 06)",U.S. Senate,,Scyller J. Borglum,REP,91
+Lawrence,"10 (01, 02, 03, 08, 09)",U.S. Senate,,Mike Rounds,REP,826
+Lawrence,"10 (01, 02, 03, 08, 09)",U.S. Senate,,Scyller J. Borglum,REP,299
+Lawrence,Absentee,U.S. Representative,1,Liz Marty May,REP,421
+Lawrence,Absentee,U.S. Representative,1,Dusty Johnson,REP,1733
+Lawrence,"07 (04, 05, 06)",U.S. Representative,1,Liz Marty May,REP,117
+Lawrence,"07 (04, 05, 06)",U.S. Representative,1,Dusty Johnson,REP,261
+Lawrence,"10 (01, 02, 03, 08, 09)",U.S. Representative,1,Liz Marty May,REP,385
+Lawrence,"10 (01, 02, 03, 08, 09)",U.S. Representative,1,Dusty Johnson,REP,738
+Lawrence,Absentee,State Senate,31,John E Teupel,REP,773
+Lawrence,Absentee,State Senate,31,Timothy R Johns,REP,1250
+Lawrence,"07 (04, 05, 06)",State Senate,31,John E Teupel,REP,140
+Lawrence,"07 (04, 05, 06)",State Senate,31,Timothy R Johns,REP,229
+Lawrence,"10 (01, 02, 03, 08, 09)",State Senate,31,John E Teupel,REP,510
+Lawrence,"10 (01, 02, 03, 08, 09)",State Senate,31,Timothy R Johns,REP,541
+Lawrence,Absentee,State Representative,31,Dayle D Hammock,REP,530
+Lawrence,Absentee,State Representative,31,Brandon D Flanagan,REP,731
+Lawrence,Absentee,State Representative,31,Scott Odenbach,REP,1067
+Lawrence,Absentee,State Representative,31,Mary Fitzgerald,REP,834
+Lawrence,Absentee,State Representative,31,Julie Ann Olson,REP,489
+Lawrence,"07 (04, 05, 06)",State Representative,31,Dayle D Hammock,REP,104
+Lawrence,"07 (04, 05, 06)",State Representative,31,Brandon D Flanagan,REP,131
+Lawrence,"07 (04, 05, 06)",State Representative,31,Scott Odenbach,REP,166
+Lawrence,"07 (04, 05, 06)",State Representative,31,Mary Fitzgerald,REP,116
+Lawrence,"07 (04, 05, 06)",State Representative,31,Julie Ann Olson,REP,106
+Lawrence,"10 (01, 02, 03, 08, 09)",State Representative,31,Dayle D Hammock,REP,301
+Lawrence,"10 (01, 02, 03, 08, 09)",State Representative,31,Brandon D Flanagan,REP,364
+Lawrence,"10 (01, 02, 03, 08, 09)",State Representative,31,Scott Odenbach,REP,638
+Lawrence,"10 (01, 02, 03, 08, 09)",State Representative,31,Mary Fitzgerald,REP,412
+Lawrence,"10 (01, 02, 03, 08, 09)",State Representative,31,Julie Ann Olson,REP,210
+Lawrence,Absentee,County Commissioner At Large,,Bob Ewing,REP,1431
+Lawrence,Absentee,County Commissioner At Large,,Oz Enderby,REP,778
+Lawrence,Absentee,County Commissioner At Large,,Randy Deibert,REP,1151
+Lawrence,"07 (04, 05, 06)",County Commissioner At Large,,Bob Ewing,REP,197
+Lawrence,"07 (04, 05, 06)",County Commissioner At Large,,Oz Enderby,REP,233
+Lawrence,"07 (04, 05, 06)",County Commissioner At Large,,Randy Deibert,REP,131
+Lawrence,"10 (01, 02, 03, 08, 09)",County Commissioner At Large,,Bob Ewing,REP,858
+Lawrence,"10 (01, 02, 03, 08, 09)",County Commissioner At Large,,Oz Enderby,REP,282
+Lawrence,"10 (01, 02, 03, 08, 09)",County Commissioner At Large,,Randy Deibert,REP,633
+Lawrence,Absentee,Precinct Committeeman Precinct-03,,Tom Nelson,REP,235
+Lawrence,Absentee,Precinct Committeeman Precinct-03,,Samuel R. Kephart,REP,93
+Lawrence,"10 (01, 02, 03, 08, 09)",Precinct Committeeman Precinct-03,,Tom Nelson,REP,148
+Lawrence,"10 (01, 02, 03, 08, 09)",Precinct Committeeman Precinct-03,,Samuel R. Kephart,REP,58

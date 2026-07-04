@@ -1,0 +1,61 @@
+county,precinct,office,district,candidate,party,votes
+Campbell,1,President,,Bernie Sanders,DEM,3
+Campbell,1,President,,Joseph R. Biden,DEM,9
+Campbell,2,President,,Bernie Sanders,DEM,0
+Campbell,2,President,,Joseph R. Biden,DEM,6
+Campbell,3,President,,Bernie Sanders,DEM,4
+Campbell,3,President,,Joseph R. Biden,DEM,4
+Campbell,4,President,,Bernie Sanders,DEM,3
+Campbell,4,President,,Joseph R. Biden,DEM,3
+Campbell,5,President,,Bernie Sanders,DEM,1
+Campbell,5,President,,Joseph R. Biden,DEM,4
+Campbell,1,U.S. Senate,,Mike Rounds,REP,59
+Campbell,1,U.S. Senate,,Scyller J. Borglum,REP,13
+Campbell,2,U.S. Senate,,Mike Rounds,REP,68
+Campbell,2,U.S. Senate,,Scyller J. Borglum,REP,13
+Campbell,3,U.S. Senate,,Mike Rounds,REP,58
+Campbell,3,U.S. Senate,,Scyller J. Borglum,REP,19
+Campbell,4,U.S. Senate,,Mike Rounds,REP,62
+Campbell,4,U.S. Senate,,Scyller J. Borglum,REP,26
+Campbell,5,U.S. Senate,,Mike Rounds,REP,52
+Campbell,5,U.S. Senate,,Scyller J. Borglum,REP,30
+Campbell,1,U.S. Representative,1,Liz Marty May,REP,18
+Campbell,1,U.S. Representative,1,Dusty Johnson,REP,51
+Campbell,2,U.S. Representative,1,Liz Marty May,REP,20
+Campbell,2,U.S. Representative,1,Dusty Johnson,REP,62
+Campbell,3,U.S. Representative,1,Liz Marty May,REP,26
+Campbell,3,U.S. Representative,1,Dusty Johnson,REP,51
+Campbell,4,U.S. Representative,1,Liz Marty May,REP,30
+Campbell,4,U.S. Representative,1,Dusty Johnson,REP,58
+Campbell,5,U.S. Representative,1,Liz Marty May,REP,40
+Campbell,5,U.S. Representative,1,Dusty Johnson,REP,42
+Campbell,1,State Senate,23,Bryan J Breitling,REP,26
+Campbell,1,State Senate,23,Larry Nielson,REP,35
+Campbell,2,State Senate,23,Bryan J Breitling,REP,32
+Campbell,2,State Senate,23,Larry Nielson,REP,41
+Campbell,3,State Senate,23,Bryan J Breitling,REP,29
+Campbell,3,State Senate,23,Larry Nielson,REP,40
+Campbell,4,State Senate,23,Bryan J Breitling,REP,43
+Campbell,4,State Senate,23,Larry Nielson,REP,34
+Campbell,5,State Senate,23,Bryan J Breitling,REP,36
+Campbell,5,State Senate,23,Larry Nielson,REP,35
+Campbell,1,State Representative,23,Kevin E Watts,REP,6
+Campbell,1,State Representative,23,Spencer Gosch,REP,67
+Campbell,1,State Representative,23,Charlie Hoffman,REP,54
+Campbell,1,State Representative,23,James D Wangsness,REP,4
+Campbell,2,State Representative,23,Kevin E Watts,REP,6
+Campbell,2,State Representative,23,Spencer Gosch,REP,66
+Campbell,2,State Representative,23,Charlie Hoffman,REP,67
+Campbell,2,State Representative,23,James D Wangsness,REP,9
+Campbell,3,State Representative,23,Kevin E Watts,REP,6
+Campbell,3,State Representative,23,Spencer Gosch,REP,71
+Campbell,3,State Representative,23,Charlie Hoffman,REP,61
+Campbell,3,State Representative,23,James D Wangsness,REP,5
+Campbell,4,State Representative,23,Kevin E Watts,REP,7
+Campbell,4,State Representative,23,Spencer Gosch,REP,71
+Campbell,4,State Representative,23,Charlie Hoffman,REP,69
+Campbell,4,State Representative,23,James D Wangsness,REP,11
+Campbell,5,State Representative,23,Kevin E Watts,REP,6
+Campbell,5,State Representative,23,Spencer Gosch,REP,71
+Campbell,5,State Representative,23,Charlie Hoffman,REP,56
+Campbell,5,State Representative,23,James D Wangsness,REP,14

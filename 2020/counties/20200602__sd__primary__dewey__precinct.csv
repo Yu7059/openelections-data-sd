@@ -1,0 +1,89 @@
+county,precinct,office,district,candidate,party,votes
+Dewey,02 Trail City,President,,Bernie Sanders,DEM,1
+Dewey,02 Trail City,President,,Joseph R. Biden,DEM,0
+Dewey,04 Timber Lake,President,,Bernie Sanders,DEM,20
+Dewey,04 Timber Lake,President,,Joseph R. Biden,DEM,46
+Dewey,05 Firesteel,President,,Bernie Sanders,DEM,0
+Dewey,05 Firesteel,President,,Joseph R. Biden,DEM,13
+Dewey,06 Isabel,President,,Bernie Sanders,DEM,6
+Dewey,06 Isabel,President,,Joseph R. Biden,DEM,5
+Dewey,07 Eagle Butte East,President,,Bernie Sanders,DEM,37
+Dewey,07 Eagle Butte East,President,,Joseph R. Biden,DEM,48
+Dewey,08 White Horse,President,,Bernie Sanders,DEM,4
+Dewey,08 White Horse,President,,Joseph R. Biden,DEM,22
+Dewey,09 Promise,President,,Bernie Sanders,DEM,6
+Dewey,09 Promise,President,,Joseph R. Biden,DEM,10
+Dewey,11 Swiftbird/LaPlant,President,,Bernie Sanders,DEM,16
+Dewey,11 Swiftbird/LaPlant,President,,Joseph R. Biden,DEM,20
+Dewey,12 Eagle Butte North (13 Eagle Butte North),President,,Bernie Sanders,DEM,32
+Dewey,12 Eagle Butte North (13 Eagle Butte North),President,,Joseph R. Biden,DEM,35
+Dewey,14 Eagle Butte South,President,,Bernie Sanders,DEM,46
+Dewey,14 Eagle Butte South,President,,Joseph R. Biden,DEM,78
+Dewey,15 Eagle Butte West,President,,Bernie Sanders,DEM,25
+Dewey,15 Eagle Butte West,President,,Joseph R. Biden,DEM,24
+Dewey,02 Trail City,U.S. Senate,,Mike Rounds,REP,14
+Dewey,02 Trail City,U.S. Senate,,Scyller J. Borglum,REP,9
+Dewey,04 Timber Lake,U.S. Senate,,Mike Rounds,REP,71
+Dewey,04 Timber Lake,U.S. Senate,,Scyller J. Borglum,REP,27
+Dewey,05 Firesteel,U.S. Senate,,Mike Rounds,REP,4
+Dewey,05 Firesteel,U.S. Senate,,Scyller J. Borglum,REP,7
+Dewey,06 Isabel,U.S. Senate,,Mike Rounds,REP,32
+Dewey,06 Isabel,U.S. Senate,,Scyller J. Borglum,REP,15
+Dewey,07 Eagle Butte East,U.S. Senate,,Mike Rounds,REP,9
+Dewey,07 Eagle Butte East,U.S. Senate,,Scyller J. Borglum,REP,1
+Dewey,08 White Horse,U.S. Senate,,Mike Rounds,REP,2
+Dewey,08 White Horse,U.S. Senate,,Scyller J. Borglum,REP,0
+Dewey,09 Promise,U.S. Senate,,Mike Rounds,REP,5
+Dewey,09 Promise,U.S. Senate,,Scyller J. Borglum,REP,6
+Dewey,11 Swiftbird/LaPlant,U.S. Senate,,Mike Rounds,REP,3
+Dewey,11 Swiftbird/LaPlant,U.S. Senate,,Scyller J. Borglum,REP,1
+Dewey,12 Eagle Butte North (13 Eagle Butte North),U.S. Senate,,Mike Rounds,REP,11
+Dewey,12 Eagle Butte North (13 Eagle Butte North),U.S. Senate,,Scyller J. Borglum,REP,7
+Dewey,14 Eagle Butte South,U.S. Senate,,Mike Rounds,REP,19
+Dewey,14 Eagle Butte South,U.S. Senate,,Scyller J. Borglum,REP,2
+Dewey,15 Eagle Butte West,U.S. Senate,,Mike Rounds,REP,16
+Dewey,15 Eagle Butte West,U.S. Senate,,Scyller J. Borglum,REP,2
+Dewey,02 Trail City,U.S. Representative,1,Liz Marty May,REP,10
+Dewey,02 Trail City,U.S. Representative,1,Dusty Johnson,REP,13
+Dewey,04 Timber Lake,U.S. Representative,1,Liz Marty May,REP,30
+Dewey,04 Timber Lake,U.S. Representative,1,Dusty Johnson,REP,67
+Dewey,05 Firesteel,U.S. Representative,1,Liz Marty May,REP,7
+Dewey,05 Firesteel,U.S. Representative,1,Dusty Johnson,REP,4
+Dewey,06 Isabel,U.S. Representative,1,Liz Marty May,REP,17
+Dewey,06 Isabel,U.S. Representative,1,Dusty Johnson,REP,29
+Dewey,07 Eagle Butte East,U.S. Representative,1,Liz Marty May,REP,2
+Dewey,07 Eagle Butte East,U.S. Representative,1,Dusty Johnson,REP,8
+Dewey,08 White Horse,U.S. Representative,1,Liz Marty May,REP,0
+Dewey,08 White Horse,U.S. Representative,1,Dusty Johnson,REP,2
+Dewey,09 Promise,U.S. Representative,1,Liz Marty May,REP,8
+Dewey,09 Promise,U.S. Representative,1,Dusty Johnson,REP,3
+Dewey,11 Swiftbird/LaPlant,U.S. Representative,1,Liz Marty May,REP,1
+Dewey,11 Swiftbird/LaPlant,U.S. Representative,1,Dusty Johnson,REP,3
+Dewey,12 Eagle Butte North (13 Eagle Butte North),U.S. Representative,1,Liz Marty May,REP,10
+Dewey,12 Eagle Butte North (13 Eagle Butte North),U.S. Representative,1,Dusty Johnson,REP,8
+Dewey,14 Eagle Butte South,U.S. Representative,1,Liz Marty May,REP,5
+Dewey,14 Eagle Butte South,U.S. Representative,1,Dusty Johnson,REP,16
+Dewey,15 Eagle Butte West,U.S. Representative,1,Liz Marty May,REP,4
+Dewey,15 Eagle Butte West,U.S. Representative,1,Dusty Johnson,REP,14
+Dewey,02 Trail City,State Representative,28A,Oren Lee Lesmeister,DEM,1
+Dewey,02 Trail City,State Representative,28A,Dean Schrempp,DEM,0
+Dewey,04 Timber Lake,State Representative,28A,Oren Lee Lesmeister,DEM,46
+Dewey,04 Timber Lake,State Representative,28A,Dean Schrempp,DEM,27
+Dewey,05 Firesteel,State Representative,28A,Oren Lee Lesmeister,DEM,10
+Dewey,05 Firesteel,State Representative,28A,Dean Schrempp,DEM,5
+Dewey,06 Isabel,State Representative,28A,Oren Lee Lesmeister,DEM,7
+Dewey,06 Isabel,State Representative,28A,Dean Schrempp,DEM,8
+Dewey,07 Eagle Butte East,State Representative,28A,Oren Lee Lesmeister,DEM,79
+Dewey,07 Eagle Butte East,State Representative,28A,Dean Schrempp,DEM,11
+Dewey,08 White Horse,State Representative,28A,Oren Lee Lesmeister,DEM,23
+Dewey,08 White Horse,State Representative,28A,Dean Schrempp,DEM,3
+Dewey,09 Promise,State Representative,28A,Oren Lee Lesmeister,DEM,15
+Dewey,09 Promise,State Representative,28A,Dean Schrempp,DEM,2
+Dewey,11 Swiftbird/LaPlant,State Representative,28A,Oren Lee Lesmeister,DEM,33
+Dewey,11 Swiftbird/LaPlant,State Representative,28A,Dean Schrempp,DEM,3
+Dewey,12 Eagle Butte North (13 Eagle Butte North),State Representative,28A,Oren Lee Lesmeister,DEM,60
+Dewey,12 Eagle Butte North (13 Eagle Butte North),State Representative,28A,Dean Schrempp,DEM,16
+Dewey,14 Eagle Butte South,State Representative,28A,Oren Lee Lesmeister,DEM,104
+Dewey,14 Eagle Butte South,State Representative,28A,Dean Schrempp,DEM,19
+Dewey,15 Eagle Butte West,State Representative,28A,Oren Lee Lesmeister,DEM,48
+Dewey,15 Eagle Butte West,State Representative,28A,Dean Schrempp,DEM,5

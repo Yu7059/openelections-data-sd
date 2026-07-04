@@ -1,0 +1,130 @@
+county,precinct,office,district,candidate,party,votes
+Codington,DEXTER,President,,Bernie Sanders,DEM,3
+Codington,DEXTER,President,,Joseph R. Biden,DEM,8
+Codington,"EDEN, PHIPPS, WALLACE",President,,Bernie Sanders,DEM,2
+Codington,"EDEN, PHIPPS, WALLACE",President,,Joseph R. Biden,DEM,9
+Codington,ELMIRA,President,,Bernie Sanders,DEM,0
+Codington,ELMIRA,President,,Joseph R. Biden,DEM,27
+Codington,"FULLER, FLORENCE",President,,Bernie Sanders,DEM,11
+Codington,"FULLER, FLORENCE",President,,Joseph R. Biden,DEM,33
+Codington,GERMANTOWN (RAUVILLE),President,,Bernie Sanders,DEM,1
+Codington,GERMANTOWN (RAUVILLE),President,,Joseph R. Biden,DEM,20
+Codington,"GRACELAND, HENRY, HENRY",President,,Bernie Sanders,DEM,2
+Codington,"GRACELAND, HENRY, HENRY",President,,Joseph R. Biden,DEM,14
+Codington,KAMPESKA (RICHLAND),President,,Bernie Sanders,DEM,4
+Codington,KAMPESKA (RICHLAND),President,,Joseph R. Biden,DEM,13
+Codington,"KRANZBURG, KRANZBURG",President,,Bernie Sanders,DEM,1
+Codington,"KRANZBURG, KRANZBURG",President,,Joseph R. Biden,DEM,13
+Codington,"LEOLA, SOUTH SHORE",President,,Bernie Sanders,DEM,3
+Codington,"LEOLA, SOUTH SHORE",President,,Joseph R. Biden,DEM,20
+Codington,"A1 (A2, A3, A4, D1)",President,,Bernie Sanders,DEM,41
+Codington,"A1 (A2, A3, A4, D1)",President,,Joseph R. Biden,DEM,256
+Codington,"B1 (B2, B3, B4, C1, E5)",President,,Bernie Sanders,DEM,46
+Codington,"B1 (B2, B3, B4, C1, E5)",President,,Joseph R. Biden,DEM,230
+Codington,"C2 (D2, D3, D4)",President,,Bernie Sanders,DEM,30
+Codington,"C2 (D2, D3, D4)",President,,Joseph R. Biden,DEM,144
+Codington,"C3 (PELICAN, C4)",President,,Bernie Sanders,DEM,20
+Codington,"C3 (PELICAN, C4)",President,,Joseph R. Biden,DEM,99
+Codington,"E1 (LAKE, E2, E3, E4)",President,,Bernie Sanders,DEM,37
+Codington,"E1 (LAKE, E2, E3, E4)",President,,Joseph R. Biden,DEM,186
+Codington,SHERIDAN,President,,Bernie Sanders,DEM,4
+Codington,SHERIDAN,President,,Joseph R. Biden,DEM,17
+Codington,WAVERLY,President,,Bernie Sanders,DEM,2
+Codington,WAVERLY,President,,Joseph R. Biden,DEM,8
+Codington,DEXTER,U.S. Senate,,Mike Rounds,REP,7
+Codington,DEXTER,U.S. Senate,,Scyller J. Borglum,REP,3
+Codington,"EDEN, PHIPPS, WALLACE",U.S. Senate,,Mike Rounds,REP,14
+Codington,"EDEN, PHIPPS, WALLACE",U.S. Senate,,Scyller J. Borglum,REP,11
+Codington,ELMIRA,U.S. Senate,,Mike Rounds,REP,38
+Codington,ELMIRA,U.S. Senate,,Scyller J. Borglum,REP,16
+Codington,"FULLER, FLORENCE",U.S. Senate,,Mike Rounds,REP,34
+Codington,"FULLER, FLORENCE",U.S. Senate,,Scyller J. Borglum,REP,18
+Codington,GERMANTOWN (RAUVILLE),U.S. Senate,,Mike Rounds,REP,28
+Codington,GERMANTOWN (RAUVILLE),U.S. Senate,,Scyller J. Borglum,REP,5
+Codington,"GRACELAND, HENRY, HENRY",U.S. Senate,,Mike Rounds,REP,48
+Codington,"GRACELAND, HENRY, HENRY",U.S. Senate,,Scyller J. Borglum,REP,10
+Codington,KAMPESKA (RICHLAND),U.S. Senate,,Mike Rounds,REP,36
+Codington,KAMPESKA (RICHLAND),U.S. Senate,,Scyller J. Borglum,REP,25
+Codington,"KRANZBURG, KRANZBURG",U.S. Senate,,Mike Rounds,REP,41
+Codington,"KRANZBURG, KRANZBURG",U.S. Senate,,Scyller J. Borglum,REP,6
+Codington,"LEOLA, SOUTH SHORE",U.S. Senate,,Mike Rounds,REP,24
+Codington,"LEOLA, SOUTH SHORE",U.S. Senate,,Scyller J. Borglum,REP,6
+Codington,"A1 (A2, A3, A4, D1)",U.S. Senate,,Mike Rounds,REP,640
+Codington,"A1 (A2, A3, A4, D1)",U.S. Senate,,Scyller J. Borglum,REP,146
+Codington,"B1 (B2, B3, B4, C1, E5)",U.S. Senate,,Mike Rounds,REP,387
+Codington,"B1 (B2, B3, B4, C1, E5)",U.S. Senate,,Scyller J. Borglum,REP,87
+Codington,"C2 (D2, D3, D4)",U.S. Senate,,Mike Rounds,REP,182
+Codington,"C2 (D2, D3, D4)",U.S. Senate,,Scyller J. Borglum,REP,46
+Codington,"C3 (PELICAN, C4)",U.S. Senate,,Mike Rounds,REP,186
+Codington,"C3 (PELICAN, C4)",U.S. Senate,,Scyller J. Borglum,REP,67
+Codington,"E1 (LAKE, E2, E3, E4)",U.S. Senate,,Mike Rounds,REP,485
+Codington,"E1 (LAKE, E2, E3, E4)",U.S. Senate,,Scyller J. Borglum,REP,135
+Codington,SHERIDAN,U.S. Senate,,Mike Rounds,REP,47
+Codington,SHERIDAN,U.S. Senate,,Scyller J. Borglum,REP,10
+Codington,WAVERLY,U.S. Senate,,Mike Rounds,REP,12
+Codington,WAVERLY,U.S. Senate,,Scyller J. Borglum,REP,5
+Codington,DEXTER,U.S. Representative,1,Liz Marty May,REP,3
+Codington,DEXTER,U.S. Representative,1,Dusty Johnson,REP,7
+Codington,"EDEN, PHIPPS, WALLACE",U.S. Representative,1,Liz Marty May,REP,9
+Codington,"EDEN, PHIPPS, WALLACE",U.S. Representative,1,Dusty Johnson,REP,16
+Codington,ELMIRA,U.S. Representative,1,Liz Marty May,REP,11
+Codington,ELMIRA,U.S. Representative,1,Dusty Johnson,REP,43
+Codington,"FULLER, FLORENCE",U.S. Representative,1,Liz Marty May,REP,11
+Codington,"FULLER, FLORENCE",U.S. Representative,1,Dusty Johnson,REP,41
+Codington,GERMANTOWN (RAUVILLE),U.S. Representative,1,Liz Marty May,REP,4
+Codington,GERMANTOWN (RAUVILLE),U.S. Representative,1,Dusty Johnson,REP,29
+Codington,"GRACELAND, HENRY, HENRY",U.S. Representative,1,Liz Marty May,REP,8
+Codington,"GRACELAND, HENRY, HENRY",U.S. Representative,1,Dusty Johnson,REP,49
+Codington,KAMPESKA (RICHLAND),U.S. Representative,1,Liz Marty May,REP,23
+Codington,KAMPESKA (RICHLAND),U.S. Representative,1,Dusty Johnson,REP,38
+Codington,"KRANZBURG, KRANZBURG",U.S. Representative,1,Liz Marty May,REP,7
+Codington,"KRANZBURG, KRANZBURG",U.S. Representative,1,Dusty Johnson,REP,40
+Codington,"LEOLA, SOUTH SHORE",U.S. Representative,1,Liz Marty May,REP,4
+Codington,"LEOLA, SOUTH SHORE",U.S. Representative,1,Dusty Johnson,REP,27
+Codington,"A1 (A2, A3, A4, D1)",U.S. Representative,1,Liz Marty May,REP,134
+Codington,"A1 (A2, A3, A4, D1)",U.S. Representative,1,Dusty Johnson,REP,652
+Codington,"B1 (B2, B3, B4, C1, E5)",U.S. Representative,1,Liz Marty May,REP,76
+Codington,"B1 (B2, B3, B4, C1, E5)",U.S. Representative,1,Dusty Johnson,REP,402
+Codington,"C2 (D2, D3, D4)",U.S. Representative,1,Liz Marty May,REP,46
+Codington,"C2 (D2, D3, D4)",U.S. Representative,1,Dusty Johnson,REP,182
+Codington,"C3 (PELICAN, C4)",U.S. Representative,1,Liz Marty May,REP,49
+Codington,"C3 (PELICAN, C4)",U.S. Representative,1,Dusty Johnson,REP,199
+Codington,"E1 (LAKE, E2, E3, E4)",U.S. Representative,1,Liz Marty May,REP,120
+Codington,"E1 (LAKE, E2, E3, E4)",U.S. Representative,1,Dusty Johnson,REP,493
+Codington,SHERIDAN,U.S. Representative,1,Liz Marty May,REP,13
+Codington,SHERIDAN,U.S. Representative,1,Dusty Johnson,REP,44
+Codington,WAVERLY,U.S. Representative,1,Liz Marty May,REP,7
+Codington,WAVERLY,U.S. Representative,1,Dusty Johnson,REP,10
+Codington,ELMIRA,State Representative,5,Nancy York,REP,39
+Codington,ELMIRA,State Representative,5,Jacob Sigurdson,REP,19
+Codington,ELMIRA,State Representative,5,Hugh M. Bartels,REP,41
+Codington,"A1 (A2, A3, A4, D1)",State Representative,5,Nancy York,REP,545
+Codington,"A1 (A2, A3, A4, D1)",State Representative,5,Jacob Sigurdson,REP,235
+Codington,"A1 (A2, A3, A4, D1)",State Representative,5,Hugh M. Bartels,REP,590
+Codington,"B1 (B2, B3, B4, C1, E5)",State Representative,5,Nancy York,REP,331
+Codington,"B1 (B2, B3, B4, C1, E5)",State Representative,5,Jacob Sigurdson,REP,144
+Codington,"B1 (B2, B3, B4, C1, E5)",State Representative,5,Hugh M. Bartels,REP,350
+Codington,"C2 (D2, D3, D4)",State Representative,5,Nancy York,REP,155
+Codington,"C2 (D2, D3, D4)",State Representative,5,Jacob Sigurdson,REP,73
+Codington,"C2 (D2, D3, D4)",State Representative,5,Hugh M. Bartels,REP,139
+Codington,"C3 (PELICAN, C4)",State Representative,5,Nancy York,REP,169
+Codington,"C3 (PELICAN, C4)",State Representative,5,Jacob Sigurdson,REP,88
+Codington,"C3 (PELICAN, C4)",State Representative,5,Hugh M. Bartels,REP,163
+Codington,"E1 (LAKE, E2, E3, E4)",State Representative,5,Nancy York,REP,416
+Codington,"E1 (LAKE, E2, E3, E4)",State Representative,5,Jacob Sigurdson,REP,192
+Codington,"E1 (LAKE, E2, E3, E4)",State Representative,5,Hugh M. Bartels,REP,476
+Codington,SHERIDAN,State Representative,5,Nancy York,REP,33
+Codington,SHERIDAN,State Representative,5,Jacob Sigurdson,REP,22
+Codington,SHERIDAN,State Representative,5,Hugh M. Bartels,REP,43
+Codington,"EDEN, PHIPPS, WALLACE",County Commissioner Codington-2,,Jim Didier,REP,8
+Codington,"EDEN, PHIPPS, WALLACE",County Commissioner Codington-2,,Charlie Waterman,REP,15
+Codington,"FULLER, FLORENCE",County Commissioner Codington-2,,Jim Didier,REP,15
+Codington,"FULLER, FLORENCE",County Commissioner Codington-2,,Charlie Waterman,REP,34
+Codington,"GRACELAND, HENRY, HENRY",County Commissioner Codington-2,,Jim Didier,REP,12
+Codington,"GRACELAND, HENRY, HENRY",County Commissioner Codington-2,,Charlie Waterman,REP,42
+Codington,KAMPESKA (RICHLAND),County Commissioner Codington-2,,Jim Didier,REP,15
+Codington,KAMPESKA (RICHLAND),County Commissioner Codington-2,,Charlie Waterman,REP,37
+Codington,"C3 (PELICAN, C4)",County Commissioner Codington-2,,Jim Didier,REP,87
+Codington,"C3 (PELICAN, C4)",County Commissioner Codington-2,,Charlie Waterman,REP,134
+Codington,"A1 (A2, A3, A4, D1)",County Commissioner Codington-4,,Toby Wishard,REP,345
+Codington,"A1 (A2, A3, A4, D1)",County Commissioner Codington-4,,Troy VanDusen,REP,430

@@ -1,0 +1,157 @@
+county,precinct,office,district,candidate,party,votes
+Brown,Aberdeen Mall,President,,Bernie Sanders,DEM,38
+Brown,Aberdeen Mall,President,,Joseph R. Biden,DEM,77
+Brown,Absentee,President,,Bernie Sanders,DEM,237
+Brown,Absentee,President,,Joseph R. Biden,DEM,1618
+Brown,Best Western Ramkota Hotel and Convention Center,President,,Bernie Sanders,DEM,35
+Brown,Best Western Ramkota Hotel and Convention Center,President,,Joseph R. Biden,DEM,72
+Brown,Claremont City Hall,President,,Bernie Sanders,DEM,0
+Brown,Claremont City Hall,President,,Joseph R. Biden,DEM,11
+Brown,Columbia Legion,President,,Bernie Sanders,DEM,3
+Brown,Columbia Legion,President,,Joseph R. Biden,DEM,7
+Brown,Courthouse Community Room,President,,Bernie Sanders,DEM,79
+Brown,Courthouse Community Room,President,,Joseph R. Biden,DEM,157
+Brown,Frederick Community Center,President,,Bernie Sanders,DEM,3
+Brown,Frederick Community Center,President,,Joseph R. Biden,DEM,7
+Brown,Groton Community Center,President,,Bernie Sanders,DEM,13
+Brown,Groton Community Center,President,,Joseph R. Biden,DEM,42
+Brown,Hecla Community Center,President,,Bernie Sanders,DEM,6
+Brown,Hecla Community Center,President,,Joseph R. Biden,DEM,6
+Brown,Stratford Communty Center,President,,Bernie Sanders,DEM,5
+Brown,Stratford Communty Center,President,,Joseph R. Biden,DEM,10
+Brown,Warner Community Center,President,,Bernie Sanders,DEM,2
+Brown,Warner Community Center,President,,Joseph R. Biden,DEM,9
+Brown,Westport Town Hall,President,,Bernie Sanders,DEM,1
+Brown,Westport Town Hall,President,,Joseph R. Biden,DEM,8
+Brown,Aberdeen Mall,U.S. Senate,,Mike Rounds,REP,225
+Brown,Aberdeen Mall,U.S. Senate,,Scyller J. Borglum,REP,78
+Brown,Absentee,U.S. Senate,,Mike Rounds,REP,1528
+Brown,Absentee,U.S. Senate,,Scyller J. Borglum,REP,350
+Brown,Best Western Ramkota Hotel and Convention Center,U.S. Senate,,Mike Rounds,REP,228
+Brown,Best Western Ramkota Hotel and Convention Center,U.S. Senate,,Scyller J. Borglum,REP,62
+Brown,Claremont City Hall,U.S. Senate,,Mike Rounds,REP,16
+Brown,Claremont City Hall,U.S. Senate,,Scyller J. Borglum,REP,2
+Brown,Columbia Legion,U.S. Senate,,Mike Rounds,REP,28
+Brown,Columbia Legion,U.S. Senate,,Scyller J. Borglum,REP,10
+Brown,Courthouse Community Room,U.S. Senate,,Mike Rounds,REP,310
+Brown,Courthouse Community Room,U.S. Senate,,Scyller J. Borglum,REP,113
+Brown,Frederick Community Center,U.S. Senate,,Mike Rounds,REP,19
+Brown,Frederick Community Center,U.S. Senate,,Scyller J. Borglum,REP,6
+Brown,Groton Community Center,U.S. Senate,,Mike Rounds,REP,69
+Brown,Groton Community Center,U.S. Senate,,Scyller J. Borglum,REP,20
+Brown,Hecla Community Center,U.S. Senate,,Mike Rounds,REP,22
+Brown,Hecla Community Center,U.S. Senate,,Scyller J. Borglum,REP,5
+Brown,Stratford Communty Center,U.S. Senate,,Mike Rounds,REP,11
+Brown,Stratford Communty Center,U.S. Senate,,Scyller J. Borglum,REP,12
+Brown,Warner Community Center,U.S. Senate,,Mike Rounds,REP,36
+Brown,Warner Community Center,U.S. Senate,,Scyller J. Borglum,REP,8
+Brown,Westport Town Hall,U.S. Senate,,Mike Rounds,REP,31
+Brown,Westport Town Hall,U.S. Senate,,Scyller J. Borglum,REP,2
+Brown,Aberdeen Mall,U.S. Representative,1,Liz Marty May,REP,69
+Brown,Aberdeen Mall,U.S. Representative,1,Dusty Johnson,REP,233
+Brown,Absentee,U.S. Representative,1,Liz Marty May,REP,315
+Brown,Absentee,U.S. Representative,1,Dusty Johnson,REP,1558
+Brown,Best Western Ramkota Hotel and Convention Center,U.S. Representative,1,Liz Marty May,REP,70
+Brown,Best Western Ramkota Hotel and Convention Center,U.S. Representative,1,Dusty Johnson,REP,222
+Brown,Claremont City Hall,U.S. Representative,1,Liz Marty May,REP,4
+Brown,Claremont City Hall,U.S. Representative,1,Dusty Johnson,REP,14
+Brown,Columbia Legion,U.S. Representative,1,Liz Marty May,REP,11
+Brown,Columbia Legion,U.S. Representative,1,Dusty Johnson,REP,27
+Brown,Courthouse Community Room,U.S. Representative,1,Liz Marty May,REP,123
+Brown,Courthouse Community Room,U.S. Representative,1,Dusty Johnson,REP,296
+Brown,Frederick Community Center,U.S. Representative,1,Liz Marty May,REP,4
+Brown,Frederick Community Center,U.S. Representative,1,Dusty Johnson,REP,21
+Brown,Groton Community Center,U.S. Representative,1,Liz Marty May,REP,18
+Brown,Groton Community Center,U.S. Representative,1,Dusty Johnson,REP,73
+Brown,Hecla Community Center,U.S. Representative,1,Liz Marty May,REP,5
+Brown,Hecla Community Center,U.S. Representative,1,Dusty Johnson,REP,22
+Brown,Stratford Communty Center,U.S. Representative,1,Liz Marty May,REP,8
+Brown,Stratford Communty Center,U.S. Representative,1,Dusty Johnson,REP,15
+Brown,Warner Community Center,U.S. Representative,1,Liz Marty May,REP,4
+Brown,Warner Community Center,U.S. Representative,1,Dusty Johnson,REP,40
+Brown,Westport Town Hall,U.S. Representative,1,Liz Marty May,REP,17
+Brown,Westport Town Hall,U.S. Representative,1,Dusty Johnson,REP,17
+Brown,Aberdeen Mall,School Board Member Aberdeen School District 6-1,,Kevin J. Burckhard,,284
+Brown,Aberdeen Mall,School Board Member Aberdeen School District 6-1,,Aaron L. Schultz,,234
+Brown,Aberdeen Mall,School Board Member Aberdeen School District 6-1,,Brian R. Sharp,,247
+Brown,Aberdeen Mall,School Board Member Aberdeen School District 6-1,,Randy Evans,,136
+Brown,Absentee,School Board Member Aberdeen School District 6-1,,Kevin J. Burckhard,,2248
+Brown,Absentee,School Board Member Aberdeen School District 6-1,,Aaron L. Schultz,,2001
+Brown,Absentee,School Board Member Aberdeen School District 6-1,,Brian R. Sharp,,2122
+Brown,Absentee,School Board Member Aberdeen School District 6-1,,Randy Evans,,981
+Brown,Best Western Ramkota Hotel and Convention Center,School Board Member Aberdeen School District 6-1,,Kevin J. Burckhard,,261
+Brown,Best Western Ramkota Hotel and Convention Center,School Board Member Aberdeen School District 6-1,,Aaron L. Schultz,,232
+Brown,Best Western Ramkota Hotel and Convention Center,School Board Member Aberdeen School District 6-1,,Brian R. Sharp,,232
+Brown,Best Western Ramkota Hotel and Convention Center,School Board Member Aberdeen School District 6-1,,Randy Evans,,131
+Brown,Claremont City Hall,School Board Member Aberdeen School District 6-1,,Kevin J. Burckhard,,0
+Brown,Claremont City Hall,School Board Member Aberdeen School District 6-1,,Aaron L. Schultz,,0
+Brown,Claremont City Hall,School Board Member Aberdeen School District 6-1,,Brian R. Sharp,,0
+Brown,Claremont City Hall,School Board Member Aberdeen School District 6-1,,Randy Evans,,0
+Brown,Columbia Legion,School Board Member Aberdeen School District 6-1,,Kevin J. Burckhard,,6
+Brown,Columbia Legion,School Board Member Aberdeen School District 6-1,,Aaron L. Schultz,,7
+Brown,Columbia Legion,School Board Member Aberdeen School District 6-1,,Brian R. Sharp,,9
+Brown,Columbia Legion,School Board Member Aberdeen School District 6-1,,Randy Evans,,5
+Brown,Courthouse Community Room,School Board Member Aberdeen School District 6-1,,Kevin J. Burckhard,,422
+Brown,Courthouse Community Room,School Board Member Aberdeen School District 6-1,,Aaron L. Schultz,,364
+Brown,Courthouse Community Room,School Board Member Aberdeen School District 6-1,,Brian R. Sharp,,358
+Brown,Courthouse Community Room,School Board Member Aberdeen School District 6-1,,Randy Evans,,246
+Brown,Frederick Community Center,School Board Member Aberdeen School District 6-1,,Kevin J. Burckhard,,0
+Brown,Frederick Community Center,School Board Member Aberdeen School District 6-1,,Aaron L. Schultz,,1
+Brown,Frederick Community Center,School Board Member Aberdeen School District 6-1,,Brian R. Sharp,,1
+Brown,Frederick Community Center,School Board Member Aberdeen School District 6-1,,Randy Evans,,1
+Brown,Groton Community Center,School Board Member Aberdeen School District 6-1,,Kevin J. Burckhard,,2
+Brown,Groton Community Center,School Board Member Aberdeen School District 6-1,,Aaron L. Schultz,,2
+Brown,Groton Community Center,School Board Member Aberdeen School District 6-1,,Brian R. Sharp,,1
+Brown,Groton Community Center,School Board Member Aberdeen School District 6-1,,Randy Evans,,1
+Brown,Hecla Community Center,School Board Member Aberdeen School District 6-1,,Kevin J. Burckhard,,0
+Brown,Hecla Community Center,School Board Member Aberdeen School District 6-1,,Aaron L. Schultz,,0
+Brown,Hecla Community Center,School Board Member Aberdeen School District 6-1,,Brian R. Sharp,,0
+Brown,Hecla Community Center,School Board Member Aberdeen School District 6-1,,Randy Evans,,0
+Brown,Stratford Communty Center,School Board Member Aberdeen School District 6-1,,Kevin J. Burckhard,,6
+Brown,Stratford Communty Center,School Board Member Aberdeen School District 6-1,,Aaron L. Schultz,,6
+Brown,Stratford Communty Center,School Board Member Aberdeen School District 6-1,,Brian R. Sharp,,4
+Brown,Stratford Communty Center,School Board Member Aberdeen School District 6-1,,Randy Evans,,2
+Brown,Warner Community Center,School Board Member Aberdeen School District 6-1,,Kevin J. Burckhard,,5
+Brown,Warner Community Center,School Board Member Aberdeen School District 6-1,,Aaron L. Schultz,,4
+Brown,Warner Community Center,School Board Member Aberdeen School District 6-1,,Brian R. Sharp,,7
+Brown,Warner Community Center,School Board Member Aberdeen School District 6-1,,Randy Evans,,5
+Brown,Westport Town Hall,School Board Member Aberdeen School District 6-1,,Kevin J. Burckhard,,3
+Brown,Westport Town Hall,School Board Member Aberdeen School District 6-1,,Aaron L. Schultz,,0
+Brown,Westport Town Hall,School Board Member Aberdeen School District 6-1,,Brian R. Sharp,,17
+Brown,Westport Town Hall,School Board Member Aberdeen School District 6-1,,Randy Evans,,3
+Brown,Aberdeen Mall,City Council Member Aberdeen Ward- SE,,David Welling,,83
+Brown,Aberdeen Mall,City Council Member Aberdeen Ward- SE,,Tiffany Langer,,70
+Brown,Aberdeen Mall,City Council Member Aberdeen Ward- SE,,"Dennis ""Mike"" Olson",,45
+Brown,Absentee,City Council Member Aberdeen Ward- SE,,David Welling,,177
+Brown,Absentee,City Council Member Aberdeen Ward- SE,,Tiffany Langer,,282
+Brown,Absentee,City Council Member Aberdeen Ward- SE,,"Dennis ""Mike"" Olson",,302
+Brown,Best Western Ramkota Hotel and Convention Center,City Council Member Aberdeen Ward- SE,,David Welling,,11
+Brown,Best Western Ramkota Hotel and Convention Center,City Council Member Aberdeen Ward- SE,,Tiffany Langer,,17
+Brown,Best Western Ramkota Hotel and Convention Center,City Council Member Aberdeen Ward- SE,,"Dennis ""Mike"" Olson",,5
+Brown,Claremont City Hall,City Council Member Aberdeen Ward- SE,,David Welling,,0
+Brown,Claremont City Hall,City Council Member Aberdeen Ward- SE,,Tiffany Langer,,0
+Brown,Claremont City Hall,City Council Member Aberdeen Ward- SE,,"Dennis ""Mike"" Olson",,0
+Brown,Columbia Legion,City Council Member Aberdeen Ward- SE,,David Welling,,0
+Brown,Columbia Legion,City Council Member Aberdeen Ward- SE,,Tiffany Langer,,0
+Brown,Columbia Legion,City Council Member Aberdeen Ward- SE,,"Dennis ""Mike"" Olson",,0
+Brown,Courthouse Community Room,City Council Member Aberdeen Ward- SE,,David Welling,,71
+Brown,Courthouse Community Room,City Council Member Aberdeen Ward- SE,,Tiffany Langer,,53
+Brown,Courthouse Community Room,City Council Member Aberdeen Ward- SE,,"Dennis ""Mike"" Olson",,32
+Brown,Frederick Community Center,City Council Member Aberdeen Ward- SE,,David Welling,,0
+Brown,Frederick Community Center,City Council Member Aberdeen Ward- SE,,Tiffany Langer,,0
+Brown,Frederick Community Center,City Council Member Aberdeen Ward- SE,,"Dennis ""Mike"" Olson",,0
+Brown,Groton Community Center,City Council Member Aberdeen Ward- SE,,David Welling,,0
+Brown,Groton Community Center,City Council Member Aberdeen Ward- SE,,Tiffany Langer,,0
+Brown,Groton Community Center,City Council Member Aberdeen Ward- SE,,"Dennis ""Mike"" Olson",,0
+Brown,Hecla Community Center,City Council Member Aberdeen Ward- SE,,David Welling,,0
+Brown,Hecla Community Center,City Council Member Aberdeen Ward- SE,,Tiffany Langer,,0
+Brown,Hecla Community Center,City Council Member Aberdeen Ward- SE,,"Dennis ""Mike"" Olson",,0
+Brown,Stratford Communty Center,City Council Member Aberdeen Ward- SE,,David Welling,,0
+Brown,Stratford Communty Center,City Council Member Aberdeen Ward- SE,,Tiffany Langer,,0
+Brown,Stratford Communty Center,City Council Member Aberdeen Ward- SE,,"Dennis ""Mike"" Olson",,0
+Brown,Warner Community Center,City Council Member Aberdeen Ward- SE,,David Welling,,1
+Brown,Warner Community Center,City Council Member Aberdeen Ward- SE,,Tiffany Langer,,0
+Brown,Warner Community Center,City Council Member Aberdeen Ward- SE,,"Dennis ""Mike"" Olson",,0
+Brown,Westport Town Hall,City Council Member Aberdeen Ward- SE,,David Welling,,2
+Brown,Westport Town Hall,City Council Member Aberdeen Ward- SE,,Tiffany Langer,,0
+Brown,Westport Town Hall,City Council Member Aberdeen Ward- SE,,"Dennis ""Mike"" Olson",,0

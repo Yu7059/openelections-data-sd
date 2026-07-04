@@ -1,0 +1,25 @@
+county,precinct,office,district,candidate,party,votes
+Gregory,1,President,,Bernie Sanders,DEM,42
+Gregory,1,President,,Joseph R. Biden,DEM,95
+Gregory,2,President,,Bernie Sanders,DEM,15
+Gregory,2,President,,Joseph R. Biden,DEM,83
+Gregory,3,President,,Bernie Sanders,DEM,7
+Gregory,3,President,,Joseph R. Biden,DEM,37
+Gregory,1,U.S. Senate,,Mike Rounds,REP,294
+Gregory,1,U.S. Senate,,Scyller J. Borglum,REP,133
+Gregory,2,U.S. Senate,,Mike Rounds,REP,206
+Gregory,2,U.S. Senate,,Scyller J. Borglum,REP,103
+Gregory,3,U.S. Senate,,Mike Rounds,REP,90
+Gregory,3,U.S. Senate,,Scyller J. Borglum,REP,38
+Gregory,1,U.S. Representative,1,Liz Marty May,REP,152
+Gregory,1,U.S. Representative,1,Dusty Johnson,REP,270
+Gregory,2,U.S. Representative,1,Liz Marty May,REP,72
+Gregory,2,U.S. Representative,1,Dusty Johnson,REP,234
+Gregory,3,U.S. Representative,1,Liz Marty May,REP,18
+Gregory,3,U.S. Representative,1,Dusty Johnson,REP,108
+Gregory,1,State Senate,21,Erin Tobin,REP,254
+Gregory,1,State Senate,21,Lee Qualm,REP,172
+Gregory,2,State Senate,21,Erin Tobin,REP,187
+Gregory,2,State Senate,21,Lee Qualm,REP,121
+Gregory,3,State Senate,21,Erin Tobin,REP,68
+Gregory,3,State Senate,21,Lee Qualm,REP,61

@@ -1,0 +1,121 @@
+county,precinct,office,district,candidate,party,votes
+Union,1,President,,Bernie Sanders,DEM,6
+Union,1,President,,Joseph R. Biden,DEM,23
+Union,2,President,,Bernie Sanders,DEM,7
+Union,2,President,,Joseph R. Biden,DEM,51
+Union,3,President,,Bernie Sanders,DEM,24
+Union,3,President,,Joseph R. Biden,DEM,77
+Union,4,President,,Bernie Sanders,DEM,11
+Union,4,President,,Joseph R. Biden,DEM,33
+Union,5,President,,Bernie Sanders,DEM,10
+Union,5,President,,Joseph R. Biden,DEM,44
+Union,6,President,,Bernie Sanders,DEM,14
+Union,6,President,,Joseph R. Biden,DEM,72
+Union,7,President,,Bernie Sanders,DEM,9
+Union,7,President,,Joseph R. Biden,DEM,31
+Union,8,President,,Bernie Sanders,DEM,4
+Union,8,President,,Joseph R. Biden,DEM,43
+Union,9,President,,Bernie Sanders,DEM,11
+Union,9,President,,Joseph R. Biden,DEM,51
+Union,10,President,,Bernie Sanders,DEM,18
+Union,10,President,,Joseph R. Biden,DEM,69
+Union,11,President,,Bernie Sanders,DEM,9
+Union,11,President,,Joseph R. Biden,DEM,48
+Union,12,President,,Bernie Sanders,DEM,12
+Union,12,President,,Joseph R. Biden,DEM,57
+Union,13,President,,Bernie Sanders,DEM,12
+Union,13,President,,Joseph R. Biden,DEM,78
+Union,1,U.S. Senate,,Mike Rounds,REP,30
+Union,1,U.S. Senate,,Scyller J. Borglum,REP,12
+Union,2,U.S. Senate,,Mike Rounds,REP,55
+Union,2,U.S. Senate,,Scyller J. Borglum,REP,22
+Union,3,U.S. Senate,,Mike Rounds,REP,91
+Union,3,U.S. Senate,,Scyller J. Borglum,REP,25
+Union,4,U.S. Senate,,Mike Rounds,REP,46
+Union,4,U.S. Senate,,Scyller J. Borglum,REP,25
+Union,5,U.S. Senate,,Mike Rounds,REP,74
+Union,5,U.S. Senate,,Scyller J. Borglum,REP,25
+Union,6,U.S. Senate,,Mike Rounds,REP,115
+Union,6,U.S. Senate,,Scyller J. Borglum,REP,22
+Union,7,U.S. Senate,,Mike Rounds,REP,90
+Union,7,U.S. Senate,,Scyller J. Borglum,REP,8
+Union,8,U.S. Senate,,Mike Rounds,REP,77
+Union,8,U.S. Senate,,Scyller J. Borglum,REP,10
+Union,9,U.S. Senate,,Mike Rounds,REP,46
+Union,9,U.S. Senate,,Scyller J. Borglum,REP,8
+Union,10,U.S. Senate,,Mike Rounds,REP,83
+Union,10,U.S. Senate,,Scyller J. Borglum,REP,9
+Union,11,U.S. Senate,,Mike Rounds,REP,77
+Union,11,U.S. Senate,,Scyller J. Borglum,REP,9
+Union,12,U.S. Senate,,Mike Rounds,REP,182
+Union,12,U.S. Senate,,Scyller J. Borglum,REP,10
+Union,13,U.S. Senate,,Mike Rounds,REP,240
+Union,13,U.S. Senate,,Scyller J. Borglum,REP,17
+Union,1,U.S. Representative,1,Liz Marty May,REP,7
+Union,1,U.S. Representative,1,Dusty Johnson,REP,37
+Union,2,U.S. Representative,1,Liz Marty May,REP,20
+Union,2,U.S. Representative,1,Dusty Johnson,REP,57
+Union,3,U.S. Representative,1,Liz Marty May,REP,18
+Union,3,U.S. Representative,1,Dusty Johnson,REP,98
+Union,4,U.S. Representative,1,Liz Marty May,REP,23
+Union,4,U.S. Representative,1,Dusty Johnson,REP,49
+Union,5,U.S. Representative,1,Liz Marty May,REP,23
+Union,5,U.S. Representative,1,Dusty Johnson,REP,76
+Union,6,U.S. Representative,1,Liz Marty May,REP,18
+Union,6,U.S. Representative,1,Dusty Johnson,REP,122
+Union,7,U.S. Representative,1,Liz Marty May,REP,10
+Union,7,U.S. Representative,1,Dusty Johnson,REP,87
+Union,8,U.S. Representative,1,Liz Marty May,REP,11
+Union,8,U.S. Representative,1,Dusty Johnson,REP,74
+Union,9,U.S. Representative,1,Liz Marty May,REP,9
+Union,9,U.S. Representative,1,Dusty Johnson,REP,45
+Union,10,U.S. Representative,1,Liz Marty May,REP,18
+Union,10,U.S. Representative,1,Dusty Johnson,REP,72
+Union,11,U.S. Representative,1,Liz Marty May,REP,14
+Union,11,U.S. Representative,1,Dusty Johnson,REP,71
+Union,12,U.S. Representative,1,Liz Marty May,REP,31
+Union,12,U.S. Representative,1,Dusty Johnson,REP,154
+Union,13,U.S. Representative,1,Liz Marty May,REP,50
+Union,13,U.S. Representative,1,Dusty Johnson,REP,200
+Union,1,State Representative,16,Kevin D Jensen,REP,32
+Union,1,State Representative,16,William (Bill) Shorma,REP,17
+Union,1,State Representative,16,David L Anderson,REP,30
+Union,2,State Representative,16,Kevin D Jensen,REP,51
+Union,2,State Representative,16,William (Bill) Shorma,REP,28
+Union,2,State Representative,16,David L Anderson,REP,44
+Union,3,State Representative,16,Kevin D Jensen,REP,61
+Union,3,State Representative,16,William (Bill) Shorma,REP,75
+Union,3,State Representative,16,David L Anderson,REP,49
+Union,4,State Representative,16,Kevin D Jensen,REP,51
+Union,4,State Representative,16,William (Bill) Shorma,REP,33
+Union,4,State Representative,16,David L Anderson,REP,33
+Union,5,State Representative,16,Kevin D Jensen,REP,67
+Union,5,State Representative,16,William (Bill) Shorma,REP,42
+Union,5,State Representative,16,David L Anderson,REP,54
+Union,6,State Representative,16,Kevin D Jensen,REP,77
+Union,6,State Representative,16,William (Bill) Shorma,REP,73
+Union,6,State Representative,16,David L Anderson,REP,82
+Union,7,State Representative,16,Kevin D Jensen,REP,59
+Union,7,State Representative,16,William (Bill) Shorma,REP,61
+Union,7,State Representative,16,David L Anderson,REP,37
+Union,8,State Representative,16,Kevin D Jensen,REP,49
+Union,8,State Representative,16,William (Bill) Shorma,REP,46
+Union,8,State Representative,16,David L Anderson,REP,36
+Union,9,State Representative,16,Kevin D Jensen,REP,30
+Union,9,State Representative,16,William (Bill) Shorma,REP,33
+Union,9,State Representative,16,David L Anderson,REP,23
+Union,10,State Representative,16,Kevin D Jensen,REP,57
+Union,10,State Representative,16,William (Bill) Shorma,REP,50
+Union,10,State Representative,16,David L Anderson,REP,32
+Union,11,State Representative,16,Kevin D Jensen,REP,56
+Union,11,State Representative,16,William (Bill) Shorma,REP,49
+Union,11,State Representative,16,David L Anderson,REP,31
+Union,12,State Representative,16,Kevin D Jensen,REP,90
+Union,12,State Representative,16,William (Bill) Shorma,REP,138
+Union,12,State Representative,16,David L Anderson,REP,61
+Union,13,State Representative,16,Kevin D Jensen,REP,106
+Union,13,State Representative,16,William (Bill) Shorma,REP,189
+Union,13,State Representative,16,David L Anderson,REP,69
+Union,4,School Board Member Vermillion School District 13-1,,Shane Nordyke,,3
+Union,4,School Board Member Vermillion School District 13-1,,Curt Kevin Cameron,,6
+Union,4,School Board Member Vermillion School District 13-1,,Carol Voss-Ward,,5

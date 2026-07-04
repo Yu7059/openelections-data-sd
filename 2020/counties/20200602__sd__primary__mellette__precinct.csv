@@ -1,0 +1,37 @@
+county,precinct,office,district,candidate,party,votes
+Mellette,2,President,,Bernie Sanders,DEM,13
+Mellette,2,President,,Joseph R. Biden,DEM,21
+Mellette,3,President,,Bernie Sanders,DEM,5
+Mellette,3,President,,Joseph R. Biden,DEM,11
+Mellette,5,President,,Bernie Sanders,DEM,24
+Mellette,5,President,,Joseph R. Biden,DEM,41
+Mellette,6,President,,Bernie Sanders,DEM,14
+Mellette,6,President,,Joseph R. Biden,DEM,20
+Mellette,2,U.S. Senate,,Mike Rounds,REP,35
+Mellette,2,U.S. Senate,,Scyller J. Borglum,REP,30
+Mellette,3,U.S. Senate,,Mike Rounds,REP,37
+Mellette,3,U.S. Senate,,Scyller J. Borglum,REP,20
+Mellette,5,U.S. Senate,,Mike Rounds,REP,22
+Mellette,5,U.S. Senate,,Scyller J. Borglum,REP,34
+Mellette,6,U.S. Senate,,Mike Rounds,REP,26
+Mellette,6,U.S. Senate,,Scyller J. Borglum,REP,39
+Mellette,2,U.S. Representative,1,Liz Marty May,REP,38
+Mellette,2,U.S. Representative,1,Dusty Johnson,REP,27
+Mellette,3,U.S. Representative,1,Liz Marty May,REP,18
+Mellette,3,U.S. Representative,1,Dusty Johnson,REP,39
+Mellette,5,U.S. Representative,1,Liz Marty May,REP,27
+Mellette,5,U.S. Representative,1,Dusty Johnson,REP,29
+Mellette,6,U.S. Representative,1,Liz Marty May,REP,42
+Mellette,6,U.S. Representative,1,Dusty Johnson,REP,22
+Mellette,2,State Representative,26A,Shawn Bordeaux,DEM,25
+Mellette,2,State Representative,26A,Alexandra Frederick,DEM,15
+Mellette,3,State Representative,26A,Shawn Bordeaux,DEM,12
+Mellette,3,State Representative,26A,Alexandra Frederick,DEM,6
+Mellette,5,State Representative,26A,Shawn Bordeaux,DEM,50
+Mellette,5,State Representative,26A,Alexandra Frederick,DEM,17
+Mellette,6,State Representative,26A,Shawn Bordeaux,DEM,25
+Mellette,6,State Representative,26A,Alexandra Frederick,DEM,14
+Mellette,2,County Commissioner Mellette-2,,Leon V Huber,REP,4
+Mellette,2,County Commissioner Mellette-2,,Joyce M Glynn,REP,23
+Mellette,6,County Commissioner Mellette-2,,Leon V Huber,REP,37
+Mellette,6,County Commissioner Mellette-2,,Joyce M Glynn,REP,25

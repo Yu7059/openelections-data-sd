@@ -1,0 +1,75 @@
+county,precinct,office,district,candidate,party,votes
+McPherson,1,President,,Bernie Sanders,DEM,5
+McPherson,1,President,,Joseph R. Biden,DEM,18
+McPherson,2,President,,Bernie Sanders,DEM,7
+McPherson,2,President,,Joseph R. Biden,DEM,20
+McPherson,3,President,,Bernie Sanders,DEM,0
+McPherson,3,President,,Joseph R. Biden,DEM,2
+McPherson,4,President,,Bernie Sanders,DEM,5
+McPherson,4,President,,Joseph R. Biden,DEM,10
+McPherson,5,President,,Bernie Sanders,DEM,5
+McPherson,5,President,,Joseph R. Biden,DEM,11
+McPherson,6,President,,Bernie Sanders,DEM,6
+McPherson,6,President,,Joseph R. Biden,DEM,17
+McPherson,1,U.S. Senate,,Mike Rounds,REP,118
+McPherson,1,U.S. Senate,,Scyller J. Borglum,REP,10
+McPherson,2,U.S. Senate,,Mike Rounds,REP,129
+McPherson,2,U.S. Senate,,Scyller J. Borglum,REP,16
+McPherson,3,U.S. Senate,,Mike Rounds,REP,17
+McPherson,3,U.S. Senate,,Scyller J. Borglum,REP,8
+McPherson,4,U.S. Senate,,Mike Rounds,REP,108
+McPherson,4,U.S. Senate,,Scyller J. Borglum,REP,29
+McPherson,5,U.S. Senate,,Mike Rounds,REP,103
+McPherson,5,U.S. Senate,,Scyller J. Borglum,REP,13
+McPherson,6,U.S. Senate,,Mike Rounds,REP,76
+McPherson,6,U.S. Senate,,Scyller J. Borglum,REP,13
+McPherson,1,U.S. Representative,1,Liz Marty May,REP,8
+McPherson,1,U.S. Representative,1,Dusty Johnson,REP,120
+McPherson,2,U.S. Representative,1,Liz Marty May,REP,10
+McPherson,2,U.S. Representative,1,Dusty Johnson,REP,135
+McPherson,3,U.S. Representative,1,Liz Marty May,REP,10
+McPherson,3,U.S. Representative,1,Dusty Johnson,REP,18
+McPherson,4,U.S. Representative,1,Liz Marty May,REP,29
+McPherson,4,U.S. Representative,1,Dusty Johnson,REP,108
+McPherson,5,U.S. Representative,1,Liz Marty May,REP,22
+McPherson,5,U.S. Representative,1,Dusty Johnson,REP,93
+McPherson,6,U.S. Representative,1,Liz Marty May,REP,15
+McPherson,6,U.S. Representative,1,Dusty Johnson,REP,75
+McPherson,1,State Senate,23,Bryan J Breitling,REP,98
+McPherson,1,State Senate,23,Larry Nielson,REP,27
+McPherson,2,State Senate,23,Bryan J Breitling,REP,103
+McPherson,2,State Senate,23,Larry Nielson,REP,30
+McPherson,3,State Senate,23,Bryan J Breitling,REP,10
+McPherson,3,State Senate,23,Larry Nielson,REP,13
+McPherson,4,State Senate,23,Bryan J Breitling,REP,64
+McPherson,4,State Senate,23,Larry Nielson,REP,54
+McPherson,5,State Senate,23,Bryan J Breitling,REP,70
+McPherson,5,State Senate,23,Larry Nielson,REP,34
+McPherson,6,State Senate,23,Bryan J Breitling,REP,55
+McPherson,6,State Senate,23,Larry Nielson,REP,31
+McPherson,1,State Representative,23,Kevin E Watts,REP,7
+McPherson,1,State Representative,23,Spencer Gosch,REP,109
+McPherson,1,State Representative,23,Charlie Hoffman,REP,114
+McPherson,1,State Representative,23,James D Wangsness,REP,13
+McPherson,2,State Representative,23,Kevin E Watts,REP,8
+McPherson,2,State Representative,23,Spencer Gosch,REP,118
+McPherson,2,State Representative,23,Charlie Hoffman,REP,129
+McPherson,2,State Representative,23,James D Wangsness,REP,13
+McPherson,3,State Representative,23,Kevin E Watts,REP,0
+McPherson,3,State Representative,23,Spencer Gosch,REP,17
+McPherson,3,State Representative,23,Charlie Hoffman,REP,26
+McPherson,3,State Representative,23,James D Wangsness,REP,4
+McPherson,4,State Representative,23,Kevin E Watts,REP,18
+McPherson,4,State Representative,23,Spencer Gosch,REP,95
+McPherson,4,State Representative,23,Charlie Hoffman,REP,104
+McPherson,4,State Representative,23,James D Wangsness,REP,30
+McPherson,5,State Representative,23,Kevin E Watts,REP,13
+McPherson,5,State Representative,23,Spencer Gosch,REP,95
+McPherson,5,State Representative,23,Charlie Hoffman,REP,97
+McPherson,5,State Representative,23,James D Wangsness,REP,19
+McPherson,6,State Representative,23,Kevin E Watts,REP,2
+McPherson,6,State Representative,23,Spencer Gosch,REP,72
+McPherson,6,State Representative,23,Charlie Hoffman,REP,80
+McPherson,6,State Representative,23,James D Wangsness,REP,9
+McPherson,2,County Commissioner McPherson-2,,Rick Beilke,REP,52
+McPherson,2,County Commissioner McPherson-2,,Derek Merkel,REP,45

@@ -1,0 +1,59 @@
+county,precinct,office,district,candidate,party,votes
+Davison,"01 (02, 03, 04, 05)",President,,Bernie Sanders,DEM,42
+Davison,"01 (02, 03, 04, 05)",President,,Joseph R. Biden,DEM,154
+Davison,"06 (07, 08)",President,,Bernie Sanders,DEM,33
+Davison,"06 (07, 08)",President,,Joseph R. Biden,DEM,153
+Davison,9,President,,Bernie Sanders,DEM,16
+Davison,9,President,,Joseph R. Biden,DEM,41
+Davison,"10 (11, 12, 13)",President,,Bernie Sanders,DEM,30
+Davison,"10 (11, 12, 13)",President,,Joseph R. Biden,DEM,176
+Davison,"14 (15, 16, 17)",President,,Bernie Sanders,DEM,34
+Davison,"14 (15, 16, 17)",President,,Joseph R. Biden,DEM,152
+Davison,"18 (19, 20)",President,,Bernie Sanders,DEM,40
+Davison,"18 (19, 20)",President,,Joseph R. Biden,DEM,163
+Davison,"01 (02, 03, 04, 05)",U.S. Senate,,Mike Rounds,REP,397
+Davison,"01 (02, 03, 04, 05)",U.S. Senate,,Scyller J. Borglum,REP,122
+Davison,"06 (07, 08)",U.S. Senate,,Mike Rounds,REP,285
+Davison,"06 (07, 08)",U.S. Senate,,Scyller J. Borglum,REP,71
+Davison,9,U.S. Senate,,Mike Rounds,REP,62
+Davison,9,U.S. Senate,,Scyller J. Borglum,REP,15
+Davison,"10 (11, 12, 13)",U.S. Senate,,Mike Rounds,REP,320
+Davison,"10 (11, 12, 13)",U.S. Senate,,Scyller J. Borglum,REP,80
+Davison,"14 (15, 16, 17)",U.S. Senate,,Mike Rounds,REP,195
+Davison,"14 (15, 16, 17)",U.S. Senate,,Scyller J. Borglum,REP,59
+Davison,"18 (19, 20)",U.S. Senate,,Mike Rounds,REP,310
+Davison,"18 (19, 20)",U.S. Senate,,Scyller J. Borglum,REP,56
+Davison,"01 (02, 03, 04, 05)",U.S. Representative,1,Liz Marty May,REP,97
+Davison,"01 (02, 03, 04, 05)",U.S. Representative,1,Dusty Johnson,REP,422
+Davison,"06 (07, 08)",U.S. Representative,1,Liz Marty May,REP,46
+Davison,"06 (07, 08)",U.S. Representative,1,Dusty Johnson,REP,308
+Davison,9,U.S. Representative,1,Liz Marty May,REP,21
+Davison,9,U.S. Representative,1,Dusty Johnson,REP,56
+Davison,"10 (11, 12, 13)",U.S. Representative,1,Liz Marty May,REP,79
+Davison,"10 (11, 12, 13)",U.S. Representative,1,Dusty Johnson,REP,319
+Davison,"14 (15, 16, 17)",U.S. Representative,1,Liz Marty May,REP,39
+Davison,"14 (15, 16, 17)",U.S. Representative,1,Dusty Johnson,REP,215
+Davison,"18 (19, 20)",U.S. Representative,1,Liz Marty May,REP,51
+Davison,"18 (19, 20)",U.S. Representative,1,Dusty Johnson,REP,314
+Davison,"01 (02, 03, 04, 05)",State Representative,20,Lance Koth,REP,362
+Davison,"01 (02, 03, 04, 05)",State Representative,20,Barry Volk,REP,233
+Davison,"01 (02, 03, 04, 05)",State Representative,20,Paul R Miskimins,REP,328
+Davison,"06 (07, 08)",State Representative,20,Lance Koth,REP,258
+Davison,"06 (07, 08)",State Representative,20,Barry Volk,REP,148
+Davison,"06 (07, 08)",State Representative,20,Paul R Miskimins,REP,228
+Davison,9,State Representative,20,Lance Koth,REP,46
+Davison,9,State Representative,20,Barry Volk,REP,48
+Davison,9,State Representative,20,Paul R Miskimins,REP,35
+Davison,"10 (11, 12, 13)",State Representative,20,Lance Koth,REP,268
+Davison,"10 (11, 12, 13)",State Representative,20,Barry Volk,REP,175
+Davison,"10 (11, 12, 13)",State Representative,20,Paul R Miskimins,REP,255
+Davison,"14 (15, 16, 17)",State Representative,20,Lance Koth,REP,183
+Davison,"14 (15, 16, 17)",State Representative,20,Barry Volk,REP,115
+Davison,"14 (15, 16, 17)",State Representative,20,Paul R Miskimins,REP,149
+Davison,"18 (19, 20)",State Representative,20,Lance Koth,REP,274
+Davison,"18 (19, 20)",State Representative,20,Barry Volk,REP,152
+Davison,"18 (19, 20)",State Representative,20,Paul R Miskimins,REP,227
+Davison,9,Precinct Committeeman Precinct-09,,Dwight D. Stadler,REP,28
+Davison,9,Precinct Committeeman Precinct-09,,Eric Gene Krietlow,REP,26
+Davison,"10 (11, 12, 13)",Alderman Mitchell Ward- 001,,Tim Goldammer,,286
+Davison,"10 (11, 12, 13)",Alderman Mitchell Ward- 001,,Steve Rice,,348
