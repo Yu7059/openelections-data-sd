@@ -239,6 +239,81 @@ Roberts,12 (Precinct-14),Public Utilities Commissioner,,Jeffrey Barth,DEM,123
 Roberts,12 (Precinct-14),Public Utilities Commissioner,,Chris Nelson,REP,126
 Roberts,13,Public Utilities Commissioner,,Jeffrey Barth,DEM,96
 Roberts,13,Public Utilities Commissioner,,Chris Nelson,REP,111
+Roberts,01,State Senate,01,Michael H. Rohl,REP,96
+Roberts,01,State Senate,01,Susan Wismer,IND,42
+Roberts,03,State Senate,01,Michael H. Rohl,REP,100
+Roberts,03,State Senate,01,Susan Wismer,IND,76
+Roberts,04,State Senate,01,Michael H. Rohl,REP,41
+Roberts,04,State Senate,01,Susan Wismer,IND,27
+Roberts,05,State Senate,01,Michael H. Rohl,REP,109
+Roberts,05,State Senate,01,Susan Wismer,IND,154
+Roberts,06 (Precinct-07),State Senate,01,Michael H. Rohl,REP,289
+Roberts,06 (Precinct-07),State Senate,01,Susan Wismer,IND,170
+Roberts,08,State Senate,01,Michael H. Rohl,REP,58
+Roberts,08,State Senate,01,Susan Wismer,IND,45
+Roberts,09,State Senate,01,Michael H. Rohl,REP,2
+Roberts,09,State Senate,01,Susan Wismer,IND,4
+Roberts,10,State Senate,01,Michael H. Rohl,REP,67
+Roberts,10,State Senate,01,Susan Wismer,IND,100
+Roberts,11,State Senate,01,Michael H. Rohl,REP,305
+Roberts,11,State Senate,01,Susan Wismer,IND,343
+Roberts,12 (Precinct-14),State Senate,01,Michael H. Rohl,REP,101
+Roberts,12 (Precinct-14),State Senate,01,Susan Wismer,IND,150
+Roberts,13,State Senate,01,Michael H. Rohl,REP,90
+Roberts,13,State Senate,01,Susan Wismer,IND,112
+Roberts,02,State Senate,04,John Wiik,REP,339
+Roberts,05,State Senate,04,John Wiik,REP,28
+Roberts,09,State Senate,04,John Wiik,REP,304
+Roberts,01,State House,01,Steven D. McCleerey,DEM,52
+Roberts,01,State House,01,Kay F. Nikolas,DEM,42
+Roberts,01,State House,01,Joe Donnell,REP,73
+Roberts,01,State House,01,Tamara St John,REP,70
+Roberts,03,State House,01,Steven D. McCleerey,DEM,86
+Roberts,03,State House,01,Kay F. Nikolas,DEM,59
+Roberts,03,State House,01,Joe Donnell,REP,83
+Roberts,03,State House,01,Tamara St John,REP,90
+Roberts,04,State House,01,Steven D. McCleerey,DEM,25
+Roberts,04,State House,01,Kay F. Nikolas,DEM,19
+Roberts,04,State House,01,Joe Donnell,REP,21
+Roberts,04,State House,01,Tamara St John,REP,30
+Roberts,05,State House,01,Steven D. McCleerey,DEM,138
+Roberts,05,State House,01,Kay F. Nikolas,DEM,78
+Roberts,05,State House,01,Joe Donnell,REP,104
+Roberts,05,State House,01,Tamara St John,REP,134
+Roberts,06 (Precinct-07),State House,01,Steven D. McCleerey,DEM,154
+Roberts,06 (Precinct-07),State House,01,Kay F. Nikolas,DEM,133
+Roberts,06 (Precinct-07),State House,01,Joe Donnell,REP,234
+Roberts,06 (Precinct-07),State House,01,Tamara St John,REP,280
+Roberts,08,State House,01,Steven D. McCleerey,DEM,40
+Roberts,08,State House,01,Kay F. Nikolas,DEM,31
+Roberts,08,State House,01,Joe Donnell,REP,54
+Roberts,08,State House,01,Tamara St John,REP,56
+Roberts,09,State House,01,Steven D. McCleerey,DEM,3
+Roberts,09,State House,01,Kay F. Nikolas,DEM,1
+Roberts,09,State House,01,Joe Donnell,REP,2
+Roberts,09,State House,01,Tamara St John,REP,1
+Roberts,10,State House,01,Steven D. McCleerey,DEM,81
+Roberts,10,State House,01,Kay F. Nikolas,DEM,42
+Roberts,10,State House,01,Joe Donnell,REP,72
+Roberts,10,State House,01,Tamara St John,REP,96
+Roberts,11,State House,01,Steven D. McCleerey,DEM,303
+Roberts,11,State House,01,Kay F. Nikolas,DEM,234
+Roberts,11,State House,01,Joe Donnell,REP,289
+Roberts,11,State House,01,Tamara St John,REP,332
+Roberts,12 (Precinct-14),State House,01,Steven D. McCleerey,DEM,136
+Roberts,12 (Precinct-14),State House,01,Kay F. Nikolas,DEM,112
+Roberts,12 (Precinct-14),State House,01,Joe Donnell,REP,96
+Roberts,12 (Precinct-14),State House,01,Tamara St John,REP,118
+Roberts,13,State House,01,Steven D. McCleerey,DEM,105
+Roberts,13,State House,01,Kay F. Nikolas,DEM,90
+Roberts,13,State House,01,Joe Donnell,REP,93
+Roberts,13,State House,01,Tamara St John,REP,97
+Roberts,02,State House,04,Stephanie Sauder,REP,219
+Roberts,02,State House,04,Fred Deutsch,REP,297
+Roberts,05,State House,04,Stephanie Sauder,REP,19
+Roberts,05,State House,04,Fred Deutsch,REP,21
+Roberts,09,State House,04,Stephanie Sauder,REP,177
+Roberts,09,State House,04,Fred Deutsch,REP,238
 Roberts,01,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,62
 Roberts,02,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,206
 Roberts,03,Judge of the Circuit Court,Position A Fifth Circuit,Marshall C. Lovrien,NON,76
@@ -383,78 +458,3 @@ Roberts,12 (Precinct-14),Initiated Measure 27,,Yes,,136
 Roberts,12 (Precinct-14),Initiated Measure 27,,No,,127
 Roberts,13,Initiated Measure 27,,Yes,,109
 Roberts,13,Initiated Measure 27,,No,,106
-Roberts,01,State Senate,01,Michael H. Rohl,REP,96
-Roberts,01,State Senate,01,Susan Wismer,IND,42
-Roberts,02,State Senate,04,John Wiik,REP,339
-Roberts,03,State Senate,01,Michael H. Rohl,REP,100
-Roberts,03,State Senate,01,Susan Wismer,IND,76
-Roberts,04,State Senate,01,Michael H. Rohl,REP,41
-Roberts,04,State Senate,01,Susan Wismer,IND,27
-Roberts,05,State Senate,01,Michael H. Rohl,REP,109
-Roberts,05,State Senate,01,Susan Wismer,IND,154
-Roberts,05,State Senate,04,John Wiik,REP,28
-Roberts,06 (Precinct-07),State Senate,01,Michael H. Rohl,REP,289
-Roberts,06 (Precinct-07),State Senate,01,Susan Wismer,IND,170
-Roberts,08,State Senate,01,Michael H. Rohl,REP,58
-Roberts,08,State Senate,01,Susan Wismer,IND,45
-Roberts,09,State Senate,01,Michael H. Rohl,REP,2
-Roberts,09,State Senate,01,Susan Wismer,IND,4
-Roberts,09,State Senate,04,John Wiik,REP,304
-Roberts,10,State Senate,01,Michael H. Rohl,REP,67
-Roberts,10,State Senate,01,Susan Wismer,IND,100
-Roberts,11,State Senate,01,Michael H. Rohl,REP,305
-Roberts,11,State Senate,01,Susan Wismer,IND,343
-Roberts,12 (Precinct-14),State Senate,01,Michael H. Rohl,REP,101
-Roberts,12 (Precinct-14),State Senate,01,Susan Wismer,IND,150
-Roberts,13 10 of 19,State Senate,01,Michael H. Rohl,REP,90
-Roberts,13 10 of 19,State Senate,01,Susan Wismer,IND,112
-Roberts,01,State House,01,Steven D. McCleerey,DEM,52
-Roberts,01,State House,01,Kay F. Nikolas,DEM,42
-Roberts,01,State House,01,Joe Donnell,REP,73
-Roberts,01,State House,01,Tamara St John,REP,70
-Roberts,02,State House,04,Stephanie Sauder,REP,219
-Roberts,02,State House,04,Fred Deutsch,REP,297
-Roberts,03,State House,01,Steven D. McCleerey,DEM,86
-Roberts,03,State House,01,Kay F. Nikolas,DEM,59
-Roberts,03,State House,01,Joe Donnell,REP,83
-Roberts,03,State House,01,Tamara St John,REP,90
-Roberts,04,State House,01,Steven D. McCleerey,DEM,25
-Roberts,04,State House,01,Kay F. Nikolas,DEM,19
-Roberts,04,State House,01,Joe Donnell,REP,21
-Roberts,04,State House,01,Tamara St John,REP,30
-Roberts,05,State House,01,Steven D. McCleerey,DEM,138
-Roberts,05,State House,01,Kay F. Nikolas,DEM,78
-Roberts,05,State House,01,Joe Donnell,REP,104
-Roberts,05,State House,01,Tamara St John,REP,134
-Roberts,05,State House,04,Stephanie Sauder,REP,19
-Roberts,05,State House,04,Fred Deutsch,REP,21
-Roberts,06 (Precinct-07),State House,01,Steven D. McCleerey,DEM,154
-Roberts,06 (Precinct-07),State House,01,Kay F. Nikolas,DEM,133
-Roberts,06 (Precinct-07),State House,01,Joe Donnell,REP,234
-Roberts,06 (Precinct-07),State House,01,Tamara St John,REP,280
-Roberts,08,State House,01,Steven D. McCleerey,DEM,40
-Roberts,08,State House,01,Kay F. Nikolas,DEM,31
-Roberts,08,State House,01,Joe Donnell,REP,54
-Roberts,08,State House,01,Tamara St John,REP,56
-Roberts,09,State House,01,Steven D. McCleerey,DEM,3
-Roberts,09,State House,01,Kay F. Nikolas,DEM,1
-Roberts,09,State House,01,Joe Donnell,REP,2
-Roberts,09,State House,01,Tamara St John,REP,1
-Roberts,09,State House,04,Stephanie Sauder,REP,177
-Roberts,09,State House,04,Fred Deutsch,REP,238
-Roberts,10,State House,01,Steven D. McCleerey,DEM,81
-Roberts,10,State House,01,Kay F. Nikolas,DEM,42
-Roberts,10,State House,01,Joe Donnell,REP,72
-Roberts,10,State House,01,Tamara St John,REP,96
-Roberts,11,State House,01,Steven D. McCleerey,DEM,303
-Roberts,11,State House,01,Kay F. Nikolas,DEM,234
-Roberts,11,State House,01,Joe Donnell,REP,289
-Roberts,11,State House,01,Tamara St John,REP,332
-Roberts,12 (Precinct-14),State House,01,Steven D. McCleerey,DEM,136
-Roberts,12 (Precinct-14),State House,01,Kay F. Nikolas,DEM,112
-Roberts,12 (Precinct-14),State House,01,Joe Donnell,REP,96
-Roberts,12 (Precinct-14),State House,01,Tamara St John,REP,118
-Roberts,13 11 of 19,State House,01,Steven D. McCleerey,DEM,105
-Roberts,13 11 of 19,State House,01,Kay F. Nikolas,DEM,90
-Roberts,13 11 of 19,State House,01,Joe Donnell,REP,93
-Roberts,13 11 of 19,State House,01,Tamara St John,REP,97

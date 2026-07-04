@@ -159,6 +159,62 @@ Miner,7,Public Utilities Commissioner,,Jeffrey Barth,DEM,32
 Miner,7,Public Utilities Commissioner,,Chris Nelson,REP,119
 Miner,8,Public Utilities Commissioner,,Jeffrey Barth,DEM,27
 Miner,8,Public Utilities Commissioner,,Chris Nelson,REP,78
+Miner,1,State Senate,08,Casey Crabtree,REP,92
+Miner,2,State Senate,08,Casey Crabtree,REP,77
+Miner,3,State Senate,08,Casey Crabtree,REP,86
+Miner,4,State Senate,08,Casey Crabtree,REP,89
+Miner,6,State Senate,08,Casey Crabtree,REP,155
+Miner,7,State Senate,08,Casey Crabtree,REP,118
+Miner,8,State Senate,08,Casey Crabtree,REP,81
+Miner,5,State Senate,20,Joshua Klumb,REP,48
+Miner,1,State House,08,Tim Reisch,REP,103
+Miner,1,State House,08,John Mills,REP,35
+Miner,2,State House,08,Tim Reisch,REP,77
+Miner,2,State House,08,John Mills,REP,37
+Miner,3,State House,08,Tim Reisch,REP,97
+Miner,3,State House,08,John Mills,REP,31
+Miner,4,State House,08,Tim Reisch,REP,102
+Miner,4,State House,08,John Mills,REP,37
+Miner,6,State House,08,Tim Reisch,REP,165
+Miner,6,State House,08,John Mills,REP,82
+Miner,7,State House,08,Tim Reisch,REP,144
+Miner,7,State House,08,John Mills,REP,45
+Miner,8,State House,08,Tim Reisch,REP,89
+Miner,8,State House,08,John Mills,REP,49
+Miner,5,State House,20,Ben Krohmer,REP,32
+Miner,5,State House,20,Lance Koth,REP,45
+Miner,1,County Commissioner At Large,,Kari Jo Carlson,DEM,43
+Miner,1,County Commissioner At Large,,Joe Bechen,REP,67
+Miner,1,County Commissioner At Large,,Tom Reisch,IND,75
+Miner,1,County Commissioner At Large,,Mike Clary,IND,70
+Miner,2,County Commissioner At Large,,Kari Jo Carlson,DEM,36
+Miner,2,County Commissioner At Large,,Joe Bechen,REP,52
+Miner,2,County Commissioner At Large,,Tom Reisch,IND,50
+Miner,2,County Commissioner At Large,,Mike Clary,IND,52
+Miner,3,County Commissioner At Large,,Kari Jo Carlson,DEM,48
+Miner,3,County Commissioner At Large,,Joe Bechen,REP,62
+Miner,3,County Commissioner At Large,,Tom Reisch,IND,71
+Miner,3,County Commissioner At Large,,Mike Clary,IND,60
+Miner,4,County Commissioner At Large,,Kari Jo Carlson,DEM,83
+Miner,4,County Commissioner At Large,,Joe Bechen,REP,80
+Miner,4,County Commissioner At Large,,Tom Reisch,IND,73
+Miner,4,County Commissioner At Large,,Mike Clary,IND,39
+Miner,5,County Commissioner At Large,,Kari Jo Carlson,DEM,21
+Miner,5,County Commissioner At Large,,Joe Bechen,REP,44
+Miner,5,County Commissioner At Large,,Tom Reisch,IND,36
+Miner,5,County Commissioner At Large,,Mike Clary,IND,36
+Miner,6,County Commissioner At Large,,Kari Jo Carlson,DEM,82
+Miner,6,County Commissioner At Large,,Joe Bechen,REP,140
+Miner,6,County Commissioner At Large,,Tom Reisch,IND,126
+Miner,6,County Commissioner At Large,,Mike Clary,IND,114
+Miner,7,County Commissioner At Large,,Kari Jo Carlson,DEM,80
+Miner,7,County Commissioner At Large,,Joe Bechen,REP,117
+Miner,7,County Commissioner At Large,,Tom Reisch,IND,108
+Miner,7,County Commissioner At Large,,Mike Clary,IND,70
+Miner,8,County Commissioner At Large,,Kari Jo Carlson,DEM,40
+Miner,8,County Commissioner At Large,,Joe Bechen,REP,75
+Miner,8,County Commissioner At Large,,Tom Reisch,IND,59
+Miner,8,County Commissioner At Large,,Mike Clary,IND,40
 Miner,1,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,56
 Miner,2,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,42
 Miner,3,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,51
@@ -279,27 +335,3 @@ Miner,7,Initiated Measure 27,,Yes,,52
 Miner,7,Initiated Measure 27,,No,,110
 Miner,8,Initiated Measure 27,,Yes,,48
 Miner,8,Initiated Measure 27,,No,,62
-Miner,1,State Senate,08,Casey Crabtree,REP,92
-Miner,2,State Senate,08,Casey Crabtree,REP,77
-Miner,3,State Senate,08,Casey Crabtree,REP,86
-Miner,4,State Senate,08,Casey Crabtree,REP,89
-Miner,5,State Senate,20,Joshua Klumb,REP,48
-Miner,6,State Senate,08,Casey Crabtree,REP,155
-Miner,7,State Senate,08,Casey Crabtree,REP,118
-Miner,8 10 of 22,State Senate,08,Casey Crabtree,REP,81
-Miner,1,State House,08,Tim Reisch,REP,103
-Miner,1,State House,08,John Mills,REP,35
-Miner,2,State House,08,Tim Reisch,REP,77
-Miner,2,State House,08,John Mills,REP,37
-Miner,3,State House,08,Tim Reisch,REP,97
-Miner,3,State House,08,John Mills,REP,31
-Miner,4,State House,08,Tim Reisch,REP,102
-Miner,4,State House,08,John Mills,REP,37
-Miner,5,State House,20,Ben Krohmer,REP,32
-Miner,5,State House,20,Lance Koth,REP,45
-Miner,6,State House,08,Tim Reisch,REP,165
-Miner,6,State House,08,John Mills,REP,82
-Miner,7,State House,08,Tim Reisch,REP,144
-Miner,7,State House,08,John Mills,REP,45
-Miner,8 11 of 22,State House,08,Tim Reisch,REP,89
-Miner,8 11 of 22,State House,08,John Mills,REP,49

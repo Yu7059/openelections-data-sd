@@ -239,6 +239,68 @@ Union,11,Public Utilities Commissioner,,Jeffrey Barth,DEM,121
 Union,11,Public Utilities Commissioner,,Chris Nelson,REP,529
 Union,12,Public Utilities Commissioner,,Jeffrey Barth,DEM,235
 Union,12,Public Utilities Commissioner,,Chris Nelson,REP,760
+Union,01,State Senate,16,Donn Larson,DEM,93
+Union,01,State Senate,16,Jim Bolin,REP,248
+Union,01,State Senate,16,Brian J. Burge,IND,20
+Union,02,State Senate,16,Donn Larson,DEM,126
+Union,02,State Senate,16,Jim Bolin,REP,193
+Union,02,State Senate,16,Brian J. Burge,IND,18
+Union,04,State Senate,16,Donn Larson,DEM,115
+Union,04,State Senate,16,Jim Bolin,REP,298
+Union,04,State Senate,16,Brian J. Burge,IND,29
+Union,05,State Senate,16,Donn Larson,DEM,158
+Union,05,State Senate,16,Jim Bolin,REP,378
+Union,05,State Senate,16,Brian J. Burge,IND,33
+Union,07,State Senate,16,Donn Larson,DEM,65
+Union,07,State Senate,16,Jim Bolin,REP,134
+Union,07,State Senate,16,Brian J. Burge,IND,13
+Union,03,State Senate,17,Sydney Davis,REP,643
+Union,06,State Senate,17,Sydney Davis,REP,494
+Union,07,State Senate,17,Sydney Davis,REP,47
+Union,08,State Senate,17,Sydney Davis,REP,241
+Union,09,State Senate,17,Sydney Davis,REP,394
+Union,10,State Senate,17,Sydney Davis,REP,375
+Union,11,State Senate,17,Sydney Davis,REP,536
+Union,12,State Senate,17,Sydney Davis,REP,769
+Union,01,State House,16,Matt Ness,DEM,82
+Union,01,State House,16,Kevin D. Jensen,REP,218
+Union,01,State House,16,Karla J. Lems,REP,206
+Union,02,State House,16,Matt Ness,DEM,105
+Union,02,State House,16,Kevin D. Jensen,REP,178
+Union,02,State House,16,Karla J. Lems,REP,173
+Union,04,State House,16,Matt Ness,DEM,114
+Union,04,State House,16,Kevin D. Jensen,REP,280
+Union,04,State House,16,Karla J. Lems,REP,231
+Union,05,State House,16,Matt Ness,DEM,180
+Union,05,State House,16,Kevin D. Jensen,REP,329
+Union,05,State House,16,Karla J. Lems,REP,301
+Union,07,State House,16,Matt Ness,DEM,73
+Union,07,State House,16,Kevin D. Jensen,REP,125
+Union,07,State House,16,Karla J. Lems,REP,96
+Union,03,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,253
+Union,03,State House,17,"William ""Bill"" Shorma",REP,418
+Union,03,State House,17,Chris Kassin,REP,553
+Union,06,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,139
+Union,06,State House,17,"William ""Bill"" Shorma",REP,411
+Union,06,State House,17,Chris Kassin,REP,360
+Union,07,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,23
+Union,07,State House,17,"William ""Bill"" Shorma",REP,29
+Union,07,State House,17,Chris Kassin,REP,35
+Union,08,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,120
+Union,08,State House,17,"William ""Bill"" Shorma",REP,186
+Union,08,State House,17,Chris Kassin,REP,203
+Union,09,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,167
+Union,09,State House,17,"William ""Bill"" Shorma",REP,274
+Union,09,State House,17,Chris Kassin,REP,328
+Union,10,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,156
+Union,10,State House,17,"William ""Bill"" Shorma",REP,241
+Union,10,State House,17,Chris Kassin,REP,307
+Union,11,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,132
+Union,11,State House,17,"William ""Bill"" Shorma",REP,423
+Union,11,State House,17,Chris Kassin,REP,438
+Union,12,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,229
+Union,12,State House,17,"William ""Bill"" Shorma",REP,640
+Union,12,State House,17,Chris Kassin,REP,540
 Union,01,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,162
 Union,02,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,162
 Union,03,Judge of the Circuit Court,Position A First Circuit,Chris S. Giles,NON,423
@@ -407,65 +469,3 @@ Union,11,Initiated Measure 27,,Yes,,289
 Union,11,Initiated Measure 27,,No,,377
 Union,12,Initiated Measure 27,,Yes,,523
 Union,12,Initiated Measure 27,,No,,494
-Union,01,State Senate,16,Donn Larson,DEM,93
-Union,01,State Senate,16,Jim Bolin,REP,248
-Union,01,State Senate,16,Brian J. Burge,IND,20
-Union,02,State Senate,16,Donn Larson,DEM,126
-Union,02,State Senate,16,Jim Bolin,REP,193
-Union,02,State Senate,16,Brian J. Burge,IND,18
-Union,03,State Senate,17,Sydney Davis,REP,643
-Union,04,State Senate,16,Donn Larson,DEM,115
-Union,04,State Senate,16,Jim Bolin,REP,298
-Union,04,State Senate,16,Brian J. Burge,IND,29
-Union,05,State Senate,16,Donn Larson,DEM,158
-Union,05,State Senate,16,Jim Bolin,REP,378
-Union,05,State Senate,16,Brian J. Burge,IND,33
-Union,06,State Senate,17,Sydney Davis,REP,494
-Union,07,State Senate,16,Donn Larson,DEM,65
-Union,07,State Senate,16,Jim Bolin,REP,134
-Union,07,State Senate,16,Brian J. Burge,IND,13
-Union,07,State Senate,17,Sydney Davis,REP,47
-Union,08,State Senate,17,Sydney Davis,REP,241
-Union,09,State Senate,17,Sydney Davis,REP,394
-Union,10,State Senate,17,Sydney Davis,REP,375
-Union,11,State Senate,17,Sydney Davis,REP,536
-Union,12 10 of 21,State Senate,17,Sydney Davis,REP,769
-Union,DEM Precinct-01,State House,16,Matt Ness,DEM,82
-Union,DEM Precinct-01,State House,16,Kevin D. Jensen,REP,218
-Union,DEM Precinct-01,State House,16,Karla J. Lems,REP,206
-Union,02,State House,16,Matt Ness,DEM,105
-Union,02,State House,16,Kevin D. Jensen,REP,178
-Union,02,State House,16,Karla J. Lems,REP,173
-Union,03,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,253
-Union,03,State House,17,"William ""Bill"" Shorma",REP,418
-Union,03,State House,17,Chris Kassin,REP,553
-Union,04,State House,16,Matt Ness,DEM,114
-Union,04,State House,16,Kevin D. Jensen,REP,280
-Union,04,State House,16,Karla J. Lems,REP,231
-Union,05,State House,16,Matt Ness,DEM,180
-Union,05,State House,16,Kevin D. Jensen,REP,329
-Union,05,State House,16,Karla J. Lems,REP,301
-Union,06,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,139
-Union,06,State House,17,"William ""Bill"" Shorma",REP,411
-Union,06,State House,17,Chris Kassin,REP,360
-Union,07,State House,16,Matt Ness,DEM,73
-Union,07,State House,16,Kevin D. Jensen,REP,125
-Union,07,State House,16,Karla J. Lems,REP,96
-Union,07,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,23
-Union,07,State House,17,"William ""Bill"" Shorma",REP,29
-Union,07,State House,17,Chris Kassin,REP,35
-Union,08,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,120
-Union,08,State House,17,"William ""Bill"" Shorma",REP,186
-Union,08,State House,17,Chris Kassin,REP,203
-Union,09,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,167
-Union,09,State House,17,"William ""Bill"" Shorma",REP,274
-Union,09,State House,17,Chris Kassin,REP,328
-Union,10,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,156
-Union,10,State House,17,"William ""Bill"" Shorma",REP,241
-Union,10,State House,17,Chris Kassin,REP,307
-Union,11,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,132
-Union,11,State House,17,"William ""Bill"" Shorma",REP,423
-Union,11,State House,17,Chris Kassin,REP,438
-Union,12 11 of 21,State House,17,"Rebecca ""Bekki"" Engquist-Schroeder",DEM,229
-Union,12 11 of 21,State House,17,"William ""Bill"" Shorma",REP,640
-Union,12 11 of 21,State House,17,Chris Kassin,REP,540

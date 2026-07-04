@@ -43,6 +43,15 @@ Jones,1,State Senate,26,Shawn Bordeaux,DEM,24
 Jones,1,State Senate,26,Joel Koskan,REP,77
 Jones,2,State Senate,26,Shawn Bordeaux,DEM,95
 Jones,2,State Senate,26,Joel Koskan,REP,173
+Jones,1,State House,26A,Eric Emery,DEM,15
+Jones,1,State House,26A,Joyce Glynn,REP,114
+Jones,2,State House,26B,Rebecca Reimer,REP,278
+Jones,1,County Auditor,,Jacob T. Lolley,REP,37
+Jones,1,County Auditor,,Kerri Venard,IND,92
+Jones,1,County Auditor,,Rick Stotts,IND,1
+Jones,2,County Auditor,,Jacob T. Lolley,REP,91
+Jones,2,County Auditor,,Kerri Venard,IND,232
+Jones,2,County Auditor,,Rick Stotts,IND,18
 Jones,1,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,69
 Jones,2,Judge of the Circuit Court,Position A Sixth Circuit,Christina Klinger,NON,156
 Jones,1,Judge of the Circuit Court,Position B Sixth Circuit,Margo Northrup,NON,70
@@ -67,6 +76,3 @@ Jones,1,Initiated Measure 27,,Yes,,30
 Jones,1,Initiated Measure 27,,No,,103
 Jones,2,Initiated Measure 27,,Yes,,114
 Jones,2,Initiated Measure 27,,No,,225
-Jones,1,State House,26A,Eric Emery,DEM,15
-Jones,1,State House,26A,Joyce Glynn,REP,114
-Jones,2 11 of 20,State House,26B,Rebecca Reimer,REP,278

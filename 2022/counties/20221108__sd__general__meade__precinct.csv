@@ -56,9 +56,9 @@ Meade,MARCUS #41,U.S. Senate,,John R. Thune,REP,32
 Meade,NORTHEAST PIEDMONT #12,U.S. Senate,,Brian L. Bengs,DEM,103
 Meade,NORTHEAST PIEDMONT #12,U.S. Senate,,Tamara J Lesnar,LIB,36
 Meade,NORTHEAST PIEDMONT #12,U.S. Senate,,John R. Thune,REP,536
-Meade,NORTHEAST STURGIS #1A,U.S. Senate,,Brian L. Bengs,DEM,41
-Meade,NORTHEAST STURGIS #1A,U.S. Senate,,Tamara J Lesnar,LIB,13
-Meade,NORTHEAST STURGIS #1A,U.S. Senate,,John R. Thune,REP,79
+Meade,NORTHEAST STURGIS #1-A,U.S. Senate,,Brian L. Bengs,DEM,41
+Meade,NORTHEAST STURGIS #1-A,U.S. Senate,,Tamara J Lesnar,LIB,13
+Meade,NORTHEAST STURGIS #1-A,U.S. Senate,,John R. Thune,REP,79
 Meade,NORTHWEST STURGIS #5,U.S. Senate,,Brian L. Bengs,DEM,86
 Meade,NORTHWEST STURGIS #5,U.S. Senate,,Tamara J Lesnar,LIB,41
 Meade,NORTHWEST STURGIS #5,U.S. Senate,,John R. Thune,REP,286
@@ -160,8 +160,8 @@ Meade,MARCUS #41,U.S. House,1,Collin Duprel,LIB,19
 Meade,MARCUS #41,U.S. House,1,Dusty Johnson,REP,24
 Meade,NORTHEAST PIEDMONT #12,U.S. House,1,Collin Duprel,LIB,125
 Meade,NORTHEAST PIEDMONT #12,U.S. House,1,Dusty Johnson,REP,525
-Meade,NORTHEAST STURGIS #1A,U.S. House,1,Collin Duprel,LIB,60
-Meade,NORTHEAST STURGIS #1A,U.S. House,1,Dusty Johnson,REP,66
+Meade,NORTHEAST STURGIS #1-A,U.S. House,1,Collin Duprel,LIB,60
+Meade,NORTHEAST STURGIS #1-A,U.S. House,1,Dusty Johnson,REP,66
 Meade,NORTHWEST STURGIS #5,U.S. House,1,Collin Duprel,LIB,181
 Meade,NORTHWEST STURGIS #5,U.S. House,1,Dusty Johnson,REP,224
 Meade,PIEDMONT CENTRAL #11A,U.S. House,1,Collin Duprel,LIB,126
@@ -261,9 +261,9 @@ Meade,MARCUS #41,Governor,,Kristi Noem and Larry Rhoden,REP,38
 Meade,NORTHEAST PIEDMONT #12,Governor,,Jamie Smith and Jennifer Keintz,DEM,125
 Meade,NORTHEAST PIEDMONT #12,Governor,,Tracey Quint and Ashley Strand,LIB,22
 Meade,NORTHEAST PIEDMONT #12,Governor,,Kristi Noem and Larry Rhoden,REP,529
-Meade,NORTHEAST STURGIS #1A,Governor,,Jamie Smith and Jennifer Keintz,DEM,45
-Meade,NORTHEAST STURGIS #1A,Governor,,Tracey Quint and Ashley Strand,LIB,15
-Meade,NORTHEAST STURGIS #1A,Governor,,Kristi Noem and Larry Rhoden,REP,74
+Meade,NORTHEAST STURGIS #1-A,Governor,,Jamie Smith and Jennifer Keintz,DEM,45
+Meade,NORTHEAST STURGIS #1-A,Governor,,Tracey Quint and Ashley Strand,LIB,15
+Meade,NORTHEAST STURGIS #1-A,Governor,,Kristi Noem and Larry Rhoden,REP,74
 Meade,NORTHWEST STURGIS #5,Governor,,Jamie Smith and Jennifer Keintz,DEM,109
 Meade,NORTHWEST STURGIS #5,Governor,,Tracey Quint and Ashley Strand,LIB,40
 Meade,NORTHWEST STURGIS #5,Governor,,Kristi Noem and Larry Rhoden,REP,266
@@ -365,8 +365,8 @@ Meade,MARCUS #41,Secretary of State,,Thomas A Cool,DEM,2
 Meade,MARCUS #41,Secretary of State,,Monae Johnson,REP,31
 Meade,NORTHEAST PIEDMONT #12,Secretary of State,,Thomas A Cool,DEM,118
 Meade,NORTHEAST PIEDMONT #12,Secretary of State,,Monae Johnson,REP,537
-Meade,NORTHEAST STURGIS #1A,Secretary of State,,Thomas A Cool,DEM,46
-Meade,NORTHEAST STURGIS #1A,Secretary of State,,Monae Johnson,REP,81
+Meade,NORTHEAST STURGIS #1-A,Secretary of State,,Thomas A Cool,DEM,46
+Meade,NORTHEAST STURGIS #1-A,Secretary of State,,Monae Johnson,REP,81
 Meade,NORTHWEST STURGIS #5,Secretary of State,,Thomas A Cool,DEM,108
 Meade,NORTHWEST STURGIS #5,Secretary of State,,Monae Johnson,REP,282
 Meade,PIEDMONT CENTRAL #11A,Secretary of State,,Thomas A Cool,DEM,136
@@ -428,7 +428,7 @@ Meade,HARMONY #8,Attorney General,,Marty J. Jackley,REP,276
 Meade,HEREFORD #20,Attorney General,,Marty J. Jackley,REP,41
 Meade,MARCUS #41,Attorney General,,Marty J. Jackley,REP,28
 Meade,NORTHEAST PIEDMONT #12,Attorney General,,Marty J. Jackley,REP,561
-Meade,NORTHEAST STURGIS #1A,Attorney General,,Marty J. Jackley,REP,93
+Meade,NORTHEAST STURGIS #1-A,Attorney General,,Marty J. Jackley,REP,93
 Meade,NORTHWEST STURGIS #5,Attorney General,,Marty J. Jackley,REP,323
 Meade,PIEDMONT CENTRAL #11A,Attorney General,,Marty J. Jackley,REP,523
 Meade,PIEDMONT WEST #11,Attorney General,,Marty J. Jackley,REP,383
@@ -507,9 +507,9 @@ Meade,MARCUS #41,State Auditor,,Richard Sattgast,REP,27
 Meade,NORTHEAST PIEDMONT #12,State Auditor,,Stephanie Marty,DEM,107
 Meade,NORTHEAST PIEDMONT #12,State Auditor,,Rene Meyer,LIB,43
 Meade,NORTHEAST PIEDMONT #12,State Auditor,,Richard Sattgast,REP,504
-Meade,NORTHEAST STURGIS #1A,State Auditor,,Stephanie Marty,DEM,36
-Meade,NORTHEAST STURGIS #1A,State Auditor,,Rene Meyer,LIB,18
-Meade,NORTHEAST STURGIS #1A,State Auditor,,Richard Sattgast,REP,68
+Meade,NORTHEAST STURGIS #1-A,State Auditor,,Stephanie Marty,DEM,36
+Meade,NORTHEAST STURGIS #1-A,State Auditor,,Rene Meyer,LIB,18
+Meade,NORTHEAST STURGIS #1-A,State Auditor,,Richard Sattgast,REP,68
 Meade,NORTHWEST STURGIS #5,State Auditor,,Stephanie Marty,DEM,97
 Meade,NORTHWEST STURGIS #5,State Auditor,,Rene Meyer,LIB,52
 Meade,NORTHWEST STURGIS #5,State Auditor,,Richard Sattgast,REP,239
@@ -611,8 +611,8 @@ Meade,MARCUS #41,State Treasurer,,John Cunningham,DEM,2
 Meade,MARCUS #41,State Treasurer,,Josh Haeder,REP,29
 Meade,NORTHEAST PIEDMONT #12,State Treasurer,,John Cunningham,DEM,106
 Meade,NORTHEAST PIEDMONT #12,State Treasurer,,Josh Haeder,REP,547
-Meade,NORTHEAST STURGIS #1A,State Treasurer,,John Cunningham,DEM,44
-Meade,NORTHEAST STURGIS #1A,State Treasurer,,Josh Haeder,REP,77
+Meade,NORTHEAST STURGIS #1-A,State Treasurer,,John Cunningham,DEM,44
+Meade,NORTHEAST STURGIS #1-A,State Treasurer,,Josh Haeder,REP,77
 Meade,NORTHWEST STURGIS #5,State Treasurer,,John Cunningham,DEM,106
 Meade,NORTHWEST STURGIS #5,State Treasurer,,Josh Haeder,REP,276
 Meade,PIEDMONT CENTRAL #11A,State Treasurer,,John Cunningham,DEM,124
@@ -693,8 +693,8 @@ Meade,MARCUS #41,Commissioner of School and Public Lands,,Timothy Azure,DEM,3
 Meade,MARCUS #41,Commissioner of School and Public Lands,,Brock Greenfield,REP,29
 Meade,NORTHEAST PIEDMONT #12,Commissioner of School and Public Lands,,Timothy Azure,DEM,109
 Meade,NORTHEAST PIEDMONT #12,Commissioner of School and Public Lands,,Brock Greenfield,REP,542
-Meade,NORTHEAST STURGIS #1A,Commissioner of School and Public Lands,,Timothy Azure,DEM,40
-Meade,NORTHEAST STURGIS #1A,Commissioner of School and Public Lands,,Brock Greenfield,REP,82
+Meade,NORTHEAST STURGIS #1-A,Commissioner of School and Public Lands,,Timothy Azure,DEM,40
+Meade,NORTHEAST STURGIS #1-A,Commissioner of School and Public Lands,,Brock Greenfield,REP,82
 Meade,NORTHWEST STURGIS #5,Commissioner of School and Public Lands,,Timothy Azure,DEM,103
 Meade,NORTHWEST STURGIS #5,Commissioner of School and Public Lands,,Brock Greenfield,REP,274
 Meade,PIEDMONT CENTRAL #11A,Commissioner of School and Public Lands,,Timothy Azure,DEM,135
@@ -775,8 +775,8 @@ Meade,MARCUS #41,Public Utilities Commissioner,,Jeffrey Barth,DEM,6
 Meade,MARCUS #41,Public Utilities Commissioner,,Chris Nelson,REP,29
 Meade,NORTHEAST PIEDMONT #12,Public Utilities Commissioner,,Jeffrey Barth,DEM,104
 Meade,NORTHEAST PIEDMONT #12,Public Utilities Commissioner,,Chris Nelson,REP,551
-Meade,NORTHEAST STURGIS #1A,Public Utilities Commissioner,,Jeffrey Barth,DEM,39
-Meade,NORTHEAST STURGIS #1A,Public Utilities Commissioner,,Chris Nelson,REP,84
+Meade,NORTHEAST STURGIS #1-A,Public Utilities Commissioner,,Jeffrey Barth,DEM,39
+Meade,NORTHEAST STURGIS #1-A,Public Utilities Commissioner,,Chris Nelson,REP,84
 Meade,NORTHWEST STURGIS #5,Public Utilities Commissioner,,Jeffrey Barth,DEM,105
 Meade,NORTHWEST STURGIS #5,Public Utilities Commissioner,,Chris Nelson,REP,277
 Meade,PIEDMONT CENTRAL #11A,Public Utilities Commissioner,,Jeffrey Barth,DEM,124
@@ -819,6 +819,173 @@ Meade,WEST STURGIS #4,Public Utilities Commissioner,,Jeffrey Barth,DEM,58
 Meade,WEST STURGIS #4,Public Utilities Commissioner,,Chris Nelson,REP,121
 Meade,WHITE OWL #25,Public Utilities Commissioner,,Jeffrey Barth,DEM,3
 Meade,WHITE OWL #25,Public Utilities Commissioner,,Chris Nelson,REP,33
+Meade,ALKALI #6A,State Senate,29,Dean Wink,REP,115
+Meade,BASE #23,State Senate,29,Dean Wink,REP,198
+Meade,BEAR BUTTE #9,State Senate,29,Dean Wink,REP,105
+Meade,BLACK HAWK #14,State Senate,29,Dean Wink,REP,221
+Meade,CENTRAL STURGIS #3,State Senate,29,Dean Wink,REP,152
+Meade,CHALK BUTTE #27,State Senate,29,Dean Wink,REP,77
+Meade,EAST ELK VALE #21A,State Senate,29,Dean Wink,REP,366
+Meade,EAST PIEDMONT #12A,State Senate,29,Dean Wink,REP,231
+Meade,EAST STURGIS #1,State Senate,29,Dean Wink,REP,150
+Meade,ELK VALE #21,State Senate,29,Dean Wink,REP,45
+Meade,ELM SPRINGS #18,State Senate,29,Dean Wink,REP,63
+Meade,FAIRPOINT #29,State Senate,29,Dean Wink,REP,27
+Meade,FAITH #31,State Senate,29,Dean Wink,REP,178
+Meade,FORT MEADE #1A,State Senate,29,Dean Wink,REP,21
+Meade,HARMONY #8,State Senate,29,Dean Wink,REP,241
+Meade,HEREFORD #20,State Senate,29,Dean Wink,REP,38
+Meade,MARCUS #41,State Senate,29,Dean Wink,REP,21
+Meade,NORTHEAST PIEDMONT #12,State Senate,29,Dean Wink,REP,528
+Meade,NORTHEAST STURGIS #1-A,State Senate,29,Dean Wink,REP,86
+Meade,NORTHWEST STURGIS #5,State Senate,29,Dean Wink,REP,293
+Meade,PIEDMONT CENTRAL #11A,State Senate,29,Dean Wink,REP,489
+Meade,PIEDMONT WEST #11,State Senate,29,Dean Wink,REP,343
+Meade,PINE #33,State Senate,29,Dean Wink,REP,48
+Meade,RED OWL #30,State Senate,29,Dean Wink,REP,60
+Meade,RURAL BLACK HAWK #15,State Senate,29,Dean Wink,REP,313
+Meade,RURAL STURGIS #7,State Senate,29,Dean Wink,REP,330
+Meade,SOUTH STURGIS #2A,State Senate,29,Dean Wink,REP,258
+Meade,SOUTHEAST PIEDMONT #13,State Senate,29,Dean Wink,REP,594
+Meade,SOUTHEAST STURGIS #2,State Senate,29,Dean Wink,REP,345
+Meade,SOUTHWEST STURGIS #4A,State Senate,29,Dean Wink,REP,199
+Meade,STURGIS #5A,State Senate,29,Dean Wink,REP,168
+Meade,SULPHUR #35,State Senate,29,Dean Wink,REP,31
+Meade,TILFORD #6,State Senate,29,Dean Wink,REP,536
+Meade,UNION #40,State Senate,29,Dean Wink,REP,22
+Meade,VIEWFIELD #17,State Senate,29,Dean Wink,REP,71
+Meade,WEST ELK VALE #24,State Senate,29,Dean Wink,REP,143
+Meade,WEST STURGIS #4,State Senate,29,Dean Wink,REP,130
+Meade,WHITE OWL #25,State Senate,29,Dean Wink,REP,36
+Meade,CENTRAL BLACK HAWK #19,State Senate,33,Darren Freidel,LIB,174
+Meade,CENTRAL BLACK HAWK #19,State Senate,33,David Johnson,REP,507
+Meade,SUMMERSET #10,State Senate,33,Darren Freidel,LIB,208
+Meade,SUMMERSET #10,State Senate,33,David Johnson,REP,688
+Meade,WEST BLACK HAWK #16,State Senate,33,Darren Freidel,LIB,81
+Meade,WEST BLACK HAWK #16,State Senate,33,David Johnson,REP,213
+Meade,ALKALI #6A,State House,29,Sean Natchke,LIB,37
+Meade,ALKALI #6A,State House,29,Gary L Cammack,REP,87
+Meade,ALKALI #6A,State House,29,Kirk Chaffee,REP,97
+Meade,BASE #23,State House,29,Sean Natchke,LIB,94
+Meade,BASE #23,State House,29,Gary L Cammack,REP,93
+Meade,BASE #23,State House,29,Kirk Chaffee,REP,132
+Meade,BEAR BUTTE #9,State House,29,Sean Natchke,LIB,38
+Meade,BEAR BUTTE #9,State House,29,Gary L Cammack,REP,95
+Meade,BEAR BUTTE #9,State House,29,Kirk Chaffee,REP,96
+Meade,BLACK HAWK #14,State House,29,Sean Natchke,LIB,89
+Meade,BLACK HAWK #14,State House,29,Gary L Cammack,REP,121
+Meade,BLACK HAWK #14,State House,29,Kirk Chaffee,REP,171
+Meade,CENTRAL STURGIS #3,State House,29,Sean Natchke,LIB,65
+Meade,CENTRAL STURGIS #3,State House,29,Gary L Cammack,REP,104
+Meade,CENTRAL STURGIS #3,State House,29,Kirk Chaffee,REP,138
+Meade,CHALK BUTTE #27,State House,29,Sean Natchke,LIB,23
+Meade,CHALK BUTTE #27,State House,29,Gary L Cammack,REP,53
+Meade,CHALK BUTTE #27,State House,29,Kirk Chaffee,REP,76
+Meade,EAST ELK VALE #21A,State House,29,Sean Natchke,LIB,103
+Meade,EAST ELK VALE #21A,State House,29,Gary L Cammack,REP,233
+Meade,EAST ELK VALE #21A,State House,29,Kirk Chaffee,REP,284
+Meade,EAST PIEDMONT #12A,State House,29,Sean Natchke,LIB,42
+Meade,EAST PIEDMONT #12A,State House,29,Gary L Cammack,REP,178
+Meade,EAST PIEDMONT #12A,State House,29,Kirk Chaffee,REP,191
+Meade,EAST STURGIS #1,State House,29,Sean Natchke,LIB,51
+Meade,EAST STURGIS #1,State House,29,Gary L Cammack,REP,103
+Meade,EAST STURGIS #1,State House,29,Kirk Chaffee,REP,133
+Meade,ELK VALE #21,State House,29,Sean Natchke,LIB,14
+Meade,ELK VALE #21,State House,29,Gary L Cammack,REP,33
+Meade,ELK VALE #21,State House,29,Kirk Chaffee,REP,41
+Meade,ELM SPRINGS #18,State House,29,Sean Natchke,LIB,20
+Meade,ELM SPRINGS #18,State House,29,Gary L Cammack,REP,39
+Meade,ELM SPRINGS #18,State House,29,Kirk Chaffee,REP,54
+Meade,FAIRPOINT #29,State House,29,Sean Natchke,LIB,8
+Meade,FAIRPOINT #29,State House,29,Gary L Cammack,REP,24
+Meade,FAIRPOINT #29,State House,29,Kirk Chaffee,REP,24
+Meade,FAITH #31,State House,29,Sean Natchke,LIB,40
+Meade,FAITH #31,State House,29,Gary L Cammack,REP,115
+Meade,FAITH #31,State House,29,Kirk Chaffee,REP,143
+Meade,FORT MEADE #1A,State House,29,Sean Natchke,LIB,16
+Meade,FORT MEADE #1A,State House,29,Gary L Cammack,REP,16
+Meade,FORT MEADE #1A,State House,29,Kirk Chaffee,REP,15
+Meade,HARMONY #8,State House,29,Sean Natchke,LIB,84
+Meade,HARMONY #8,State House,29,Gary L Cammack,REP,190
+Meade,HARMONY #8,State House,29,Kirk Chaffee,REP,196
+Meade,HEREFORD #20,State House,29,Sean Natchke,LIB,12
+Meade,HEREFORD #20,State House,29,Gary L Cammack,REP,31
+Meade,HEREFORD #20,State House,29,Kirk Chaffee,REP,38
+Meade,MARCUS #41,State House,29,Sean Natchke,LIB,14
+Meade,MARCUS #41,State House,29,Gary L Cammack,REP,13
+Meade,MARCUS #41,State House,29,Kirk Chaffee,REP,22
+Meade,NORTHEAST PIEDMONT #12,State House,29,Sean Natchke,LIB,113
+Meade,NORTHEAST PIEDMONT #12,State House,29,Gary L Cammack,REP,385
+Meade,NORTHEAST PIEDMONT #12,State House,29,Kirk Chaffee,REP,443
+Meade,NORTHEAST STURGIS #1-A,State House,29,Sean Natchke,LIB,38
+Meade,NORTHEAST STURGIS #1-A,State House,29,Gary L Cammack,REP,63
+Meade,NORTHEAST STURGIS #1-A,State House,29,Kirk Chaffee,REP,70
+Meade,NORTHWEST STURGIS #5,State House,29,Sean Natchke,LIB,131
+Meade,NORTHWEST STURGIS #5,State House,29,Gary L Cammack,REP,200
+Meade,NORTHWEST STURGIS #5,State House,29,Kirk Chaffee,REP,220
+Meade,PIEDMONT CENTRAL #11A,State House,29,Sean Natchke,LIB,110
+Meade,PIEDMONT CENTRAL #11A,State House,29,Gary L Cammack,REP,338
+Meade,PIEDMONT CENTRAL #11A,State House,29,Kirk Chaffee,REP,395
+Meade,PIEDMONT WEST #11,State House,29,Sean Natchke,LIB,104
+Meade,PIEDMONT WEST #11,State House,29,Gary L Cammack,REP,258
+Meade,PIEDMONT WEST #11,State House,29,Kirk Chaffee,REP,290
+Meade,PINE #33,State House,29,Sean Natchke,LIB,23
+Meade,PINE #33,State House,29,Gary L Cammack,REP,31
+Meade,PINE #33,State House,29,Kirk Chaffee,REP,52
+Meade,RED OWL #30,State House,29,Sean Natchke,LIB,18
+Meade,RED OWL #30,State House,29,Gary L Cammack,REP,52
+Meade,RED OWL #30,State House,29,Kirk Chaffee,REP,46
+Meade,RURAL BLACK HAWK #15,State House,29,Sean Natchke,LIB,73
+Meade,RURAL BLACK HAWK #15,State House,29,Gary L Cammack,REP,206
+Meade,RURAL BLACK HAWK #15,State House,29,Kirk Chaffee,REP,261
+Meade,RURAL STURGIS #7,State House,29,Sean Natchke,LIB,107
+Meade,RURAL STURGIS #7,State House,29,Gary L Cammack,REP,241
+Meade,RURAL STURGIS #7,State House,29,Kirk Chaffee,REP,281
+Meade,SOUTH STURGIS #2A,State House,29,Sean Natchke,LIB,95
+Meade,SOUTH STURGIS #2A,State House,29,Gary L Cammack,REP,190
+Meade,SOUTH STURGIS #2A,State House,29,Kirk Chaffee,REP,194
+Meade,SOUTHEAST PIEDMONT #13,State House,29,Sean Natchke,LIB,167
+Meade,SOUTHEAST PIEDMONT #13,State House,29,Gary L Cammack,REP,418
+Meade,SOUTHEAST PIEDMONT #13,State House,29,Kirk Chaffee,REP,472
+Meade,SOUTHEAST STURGIS #2,State House,29,Sean Natchke,LIB,107
+Meade,SOUTHEAST STURGIS #2,State House,29,Gary L Cammack,REP,272
+Meade,SOUTHEAST STURGIS #2,State House,29,Kirk Chaffee,REP,302
+Meade,SOUTHWEST STURGIS #4A,State House,29,Sean Natchke,LIB,66
+Meade,SOUTHWEST STURGIS #4A,State House,29,Gary L Cammack,REP,136
+Meade,SOUTHWEST STURGIS #4A,State House,29,Kirk Chaffee,REP,162
+Meade,STURGIS #5A,State House,29,Sean Natchke,LIB,52
+Meade,STURGIS #5A,State House,29,Gary L Cammack,REP,116
+Meade,STURGIS #5A,State House,29,Kirk Chaffee,REP,132
+Meade,SULPHUR #35,State House,29,Sean Natchke,LIB,9
+Meade,SULPHUR #35,State House,29,Gary L Cammack,REP,23
+Meade,SULPHUR #35,State House,29,Kirk Chaffee,REP,29
+Meade,TILFORD #6,State House,29,Sean Natchke,LIB,145
+Meade,TILFORD #6,State House,29,Gary L Cammack,REP,394
+Meade,TILFORD #6,State House,29,Kirk Chaffee,REP,460
+Meade,UNION #40,State House,29,Sean Natchke,LIB,1
+Meade,UNION #40,State House,29,Gary L Cammack,REP,17
+Meade,UNION #40,State House,29,Kirk Chaffee,REP,24
+Meade,VIEWFIELD #17,State House,29,Sean Natchke,LIB,23
+Meade,VIEWFIELD #17,State House,29,Gary L Cammack,REP,49
+Meade,VIEWFIELD #17,State House,29,Kirk Chaffee,REP,66
+Meade,WEST ELK VALE #24,State House,29,Sean Natchke,LIB,33
+Meade,WEST ELK VALE #24,State House,29,Gary L Cammack,REP,99
+Meade,WEST ELK VALE #24,State House,29,Kirk Chaffee,REP,115
+Meade,WEST STURGIS #4,State House,29,Sean Natchke,LIB,58
+Meade,WEST STURGIS #4,State House,29,Gary L Cammack,REP,90
+Meade,WEST STURGIS #4,State House,29,Kirk Chaffee,REP,101
+Meade,WHITE OWL #25,State House,29,Sean Natchke,LIB,4
+Meade,WHITE OWL #25,State House,29,Gary L Cammack,REP,26
+Meade,WHITE OWL #25,State House,29,Kirk Chaffee,REP,30
+Meade,CENTRAL BLACK HAWK #19,State House,33,Vince Vidal,DEM,199
+Meade,CENTRAL BLACK HAWK #19,State House,33,Curt Massie,REP,361
+Meade,CENTRAL BLACK HAWK #19,State House,33,Phil Jensen,REP,450
+Meade,SUMMERSET #10,State House,33,Vince Vidal,DEM,266
+Meade,SUMMERSET #10,State House,33,Curt Massie,REP,471
+Meade,SUMMERSET #10,State House,33,Phil Jensen,REP,586
+Meade,WEST BLACK HAWK #16,State House,33,Vince Vidal,DEM,102
+Meade,WEST BLACK HAWK #16,State House,33,Curt Massie,REP,157
+Meade,WEST BLACK HAWK #16,State House,33,Phil Jensen,REP,193
 Meade,ALKALI #6A,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,77
 Meade,BASE #23,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,131
 Meade,BEAR BUTTE #9,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,63
@@ -838,7 +1005,7 @@ Meade,HARMONY #8,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. St
 Meade,HEREFORD #20,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,13
 Meade,MARCUS #41,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,8
 Meade,NORTHEAST PIEDMONT #12,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,302
-Meade,NORTHEAST STURGIS #1A,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,63
+Meade,NORTHEAST STURGIS #1-A,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,63
 Meade,NORTHWEST STURGIS #5,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,193
 Meade,PIEDMONT CENTRAL #11A,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,275
 Meade,PIEDMONT WEST #11,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,219
@@ -879,7 +1046,7 @@ Meade,HARMONY #8,Judge of the Circuit Court,Position B Fourth Circuit,Michael W.
 Meade,HEREFORD #20,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,14
 Meade,MARCUS #41,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,8
 Meade,NORTHEAST PIEDMONT #12,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,301
-Meade,NORTHEAST STURGIS #1A,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,65
+Meade,NORTHEAST STURGIS #1-A,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,65
 Meade,NORTHWEST STURGIS #5,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,193
 Meade,PIEDMONT CENTRAL #11A,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,269
 Meade,PIEDMONT WEST #11,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,219
@@ -920,7 +1087,7 @@ Meade,HARMONY #8,Judge of the Circuit Court,Position C Fourth Circuit,Michelle P
 Meade,HEREFORD #20,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,15
 Meade,MARCUS #41,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,7
 Meade,NORTHEAST PIEDMONT #12,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,306
-Meade,NORTHEAST STURGIS #1A,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,63
+Meade,NORTHEAST STURGIS #1-A,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,63
 Meade,NORTHWEST STURGIS #5,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,191
 Meade,PIEDMONT CENTRAL #11A,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,269
 Meade,PIEDMONT WEST #11,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,220
@@ -1037,11 +1204,11 @@ Meade,NORTHEAST PIEDMONT #12,Judge of the Circuit Court,Position D Fourth Circui
 Meade,NORTHEAST PIEDMONT #12,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,77
 Meade,NORTHEAST PIEDMONT #12,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,139
 Meade,NORTHEAST PIEDMONT #12,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,77
-Meade,NORTHEAST STURGIS #1A,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,28
-Meade,NORTHEAST STURGIS #1A,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,21
-Meade,NORTHEAST STURGIS #1A,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,6
-Meade,NORTHEAST STURGIS #1A,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,20
-Meade,NORTHEAST STURGIS #1A,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,11
+Meade,NORTHEAST STURGIS #1-A,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,28
+Meade,NORTHEAST STURGIS #1-A,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,21
+Meade,NORTHEAST STURGIS #1-A,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,6
+Meade,NORTHEAST STURGIS #1-A,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,20
+Meade,NORTHEAST STURGIS #1-A,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,11
 Meade,NORTHWEST STURGIS #5,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,60
 Meade,NORTHWEST STURGIS #5,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,61
 Meade,NORTHWEST STURGIS #5,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,27
@@ -1185,8 +1352,8 @@ Meade,MARCUS #41,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,22
 Meade,MARCUS #41,Supreme Court Retention,3,Patricia J. DeVaney - No,,4
 Meade,NORTHEAST PIEDMONT #12,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,449
 Meade,NORTHEAST PIEDMONT #12,Supreme Court Retention,3,Patricia J. DeVaney - No,,112
-Meade,NORTHEAST STURGIS #1A,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,75
-Meade,NORTHEAST STURGIS #1A,Supreme Court Retention,3,Patricia J. DeVaney - No,,39
+Meade,NORTHEAST STURGIS #1-A,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,75
+Meade,NORTHEAST STURGIS #1-A,Supreme Court Retention,3,Patricia J. DeVaney - No,,39
 Meade,NORTHWEST STURGIS #5,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,278
 Meade,NORTHWEST STURGIS #5,Supreme Court Retention,3,Patricia J. DeVaney - No,,79
 Meade,PIEDMONT CENTRAL #11A,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,438
@@ -1267,8 +1434,8 @@ Meade,MARCUS #41,Supreme Court Retention,2,Mark E. Salter - Yes,,21
 Meade,MARCUS #41,Supreme Court Retention,2,Mark E. Salter - No,,3
 Meade,NORTHEAST PIEDMONT #12,Supreme Court Retention,2,Mark E. Salter - Yes,,429
 Meade,NORTHEAST PIEDMONT #12,Supreme Court Retention,2,Mark E. Salter - No,,127
-Meade,NORTHEAST STURGIS #1A,Supreme Court Retention,2,Mark E. Salter - Yes,,74
-Meade,NORTHEAST STURGIS #1A,Supreme Court Retention,2,Mark E. Salter - No,,40
+Meade,NORTHEAST STURGIS #1-A,Supreme Court Retention,2,Mark E. Salter - Yes,,74
+Meade,NORTHEAST STURGIS #1-A,Supreme Court Retention,2,Mark E. Salter - No,,40
 Meade,NORTHWEST STURGIS #5,Supreme Court Retention,2,Mark E. Salter - Yes,,269
 Meade,NORTHWEST STURGIS #5,Supreme Court Retention,2,Mark E. Salter - No,,84
 Meade,PIEDMONT CENTRAL #11A,Supreme Court Retention,2,Mark E. Salter - Yes,,424
@@ -1349,8 +1516,8 @@ Meade,MARCUS #41,Constitutional Amendment D,,Yes,,9
 Meade,MARCUS #41,Constitutional Amendment D,,No,,37
 Meade,NORTHEAST PIEDMONT #12,Constitutional Amendment D,,Yes,,271
 Meade,NORTHEAST PIEDMONT #12,Constitutional Amendment D,,No,,394
-Meade,NORTHEAST STURGIS #1A,Constitutional Amendment D,,Yes,,77
-Meade,NORTHEAST STURGIS #1A,Constitutional Amendment D,,No,,55
+Meade,NORTHEAST STURGIS #1-A,Constitutional Amendment D,,Yes,,77
+Meade,NORTHEAST STURGIS #1-A,Constitutional Amendment D,,No,,55
 Meade,NORTHWEST STURGIS #5,Constitutional Amendment D,,Yes,,259
 Meade,NORTHWEST STURGIS #5,Constitutional Amendment D,,No,,150
 Meade,PIEDMONT CENTRAL #11A,Constitutional Amendment D,,Yes,,344
@@ -1431,8 +1598,8 @@ Meade,MARCUS #41,Initiated Measure 27,,Yes,,14
 Meade,MARCUS #41,Initiated Measure 27,,No,,32
 Meade,NORTHEAST PIEDMONT #12,Initiated Measure 27,,Yes,,262
 Meade,NORTHEAST PIEDMONT #12,Initiated Measure 27,,No,,412
-Meade,NORTHEAST STURGIS #1A,Initiated Measure 27,,Yes,,89
-Meade,NORTHEAST STURGIS #1A,Initiated Measure 27,,No,,44
+Meade,NORTHEAST STURGIS #1-A,Initiated Measure 27,,Yes,,89
+Meade,NORTHEAST STURGIS #1-A,Initiated Measure 27,,No,,44
 Meade,NORTHWEST STURGIS #5,Initiated Measure 27,,Yes,,267
 Meade,NORTHWEST STURGIS #5,Initiated Measure 27,,No,,152
 Meade,PIEDMONT CENTRAL #11A,Initiated Measure 27,,Yes,,324
@@ -1475,170 +1642,3 @@ Meade,WEST STURGIS #4,Initiated Measure 27,,Yes,,115
 Meade,WEST STURGIS #4,Initiated Measure 27,,No,,72
 Meade,WHITE OWL #25,Initiated Measure 27,,Yes,,6
 Meade,WHITE OWL #25,Initiated Measure 27,,No,,30
-Meade,ALKALI #6A,State Senate,29,Dean Wink,REP,115
-Meade,BASE #23,State Senate,29,Dean Wink,REP,198
-Meade,BEAR BUTTE #9,State Senate,29,Dean Wink,REP,105
-Meade,BLACK HAWK #14,State Senate,29,Dean Wink,REP,221
-Meade,CENTRAL BLACK HAWK #19,State Senate,33,Darren Freidel,LIB,174
-Meade,CENTRAL BLACK HAWK #19,State Senate,33,David Johnson,REP,507
-Meade,CENTRAL STURGIS #3,State Senate,29,Dean Wink,REP,152
-Meade,CHALK BUTTE #27,State Senate,29,Dean Wink,REP,77
-Meade,EAST ELK VALE #21A,State Senate,29,Dean Wink,REP,366
-Meade,EAST PIEDMONT #12A,State Senate,29,Dean Wink,REP,231
-Meade,EAST STURGIS #1,State Senate,29,Dean Wink,REP,150
-Meade,ELK VALE #21,State Senate,29,Dean Wink,REP,45
-Meade,ELM SPRINGS #18,State Senate,29,Dean Wink,REP,63
-Meade,FAIRPOINT #29,State Senate,29,Dean Wink,REP,27
-Meade,FAITH #31,State Senate,29,Dean Wink,REP,178
-Meade,FORT MEADE #1A,State Senate,29,Dean Wink,REP,21
-Meade,HARMONY #8,State Senate,29,Dean Wink,REP,241
-Meade,HEREFORD #20,State Senate,29,Dean Wink,REP,38
-Meade,MARCUS #41,State Senate,29,Dean Wink,REP,21
-Meade,NORTHEAST PIEDMONT #12,State Senate,29,Dean Wink,REP,528
-Meade,NORTHEAST STURGIS #1- A,State Senate,29,Dean Wink,REP,86
-Meade,NORTHWEST STURGIS #5,State Senate,29,Dean Wink,REP,293
-Meade,PIEDMONT CENTRAL #11A,State Senate,29,Dean Wink,REP,489
-Meade,PIEDMONT WEST #11,State Senate,29,Dean Wink,REP,343
-Meade,PINE #33,State Senate,29,Dean Wink,REP,48
-Meade,RED OWL #30,State Senate,29,Dean Wink,REP,60
-Meade,RURAL BLACK HAWK #15,State Senate,29,Dean Wink,REP,313
-Meade,RURAL STURGIS #7,State Senate,29,Dean Wink,REP,330
-Meade,SOUTH STURGIS #2A,State Senate,29,Dean Wink,REP,258
-Meade,SOUTHEAST PIEDMONT #13,State Senate,29,Dean Wink,REP,594
-Meade,SOUTHEAST STURGIS #2,State Senate,29,Dean Wink,REP,345
-Meade,SOUTHWEST STURGIS #4A,State Senate,29,Dean Wink,REP,199
-Meade,STURGIS #5A,State Senate,29,Dean Wink,REP,168
-Meade,SULPHUR #35,State Senate,29,Dean Wink,REP,31
-Meade,SUMMERSET #10,State Senate,33,Darren Freidel,LIB,208
-Meade,SUMMERSET #10,State Senate,33,David Johnson,REP,688
-Meade,TILFORD #6,State Senate,29,Dean Wink,REP,536
-Meade,UNION #40,State Senate,29,Dean Wink,REP,22
-Meade,VIEWFIELD #17,State Senate,29,Dean Wink,REP,71
-Meade,WEST BLACK HAWK #16,State Senate,33,Darren Freidel,LIB,81
-Meade,WEST BLACK HAWK #16,State Senate,33,David Johnson,REP,213
-Meade,WEST ELK VALE #24,State Senate,29,Dean Wink,REP,143
-Meade,WEST STURGIS #4,State Senate,29,Dean Wink,REP,130
-Meade,WHITE OWL #25 10 of 19,State Senate,29,Dean Wink,REP,36
-Meade,ALKALI #6A,State House,29,Sean Natchke,LIB,37
-Meade,ALKALI #6A,State House,29,Gary L Cammack,REP,87
-Meade,ALKALI #6A,State House,29,Kirk Chaffee,REP,97
-Meade,BASE #23,State House,29,Sean Natchke,LIB,94
-Meade,BASE #23,State House,29,Gary L Cammack,REP,93
-Meade,BASE #23,State House,29,Kirk Chaffee,REP,132
-Meade,BEAR BUTTE #9,State House,29,Sean Natchke,LIB,38
-Meade,BEAR BUTTE #9,State House,29,Gary L Cammack,REP,95
-Meade,BEAR BUTTE #9,State House,29,Kirk Chaffee,REP,96
-Meade,BLACK HAWK #14,State House,29,Sean Natchke,LIB,89
-Meade,BLACK HAWK #14,State House,29,Gary L Cammack,REP,121
-Meade,BLACK HAWK #14,State House,29,Kirk Chaffee,REP,171
-Meade,CENTRAL BLACK HAWK #19,State House,33,Vince Vidal,DEM,199
-Meade,CENTRAL BLACK HAWK #19,State House,33,Curt Massie,REP,361
-Meade,CENTRAL BLACK HAWK #19,State House,33,Phil Jensen,REP,450
-Meade,CENTRAL STURGIS #3,State House,29,Sean Natchke,LIB,65
-Meade,CENTRAL STURGIS #3,State House,29,Gary L Cammack,REP,104
-Meade,CENTRAL STURGIS #3,State House,29,Kirk Chaffee,REP,138
-Meade,CHALK BUTTE #27,State House,29,Sean Natchke,LIB,23
-Meade,CHALK BUTTE #27,State House,29,Gary L Cammack,REP,53
-Meade,CHALK BUTTE #27,State House,29,Kirk Chaffee,REP,76
-Meade,EAST ELK VALE #21A,State House,29,Sean Natchke,LIB,103
-Meade,EAST ELK VALE #21A,State House,29,Gary L Cammack,REP,233
-Meade,EAST ELK VALE #21A,State House,29,Kirk Chaffee,REP,284
-Meade,EAST PIEDMONT #12A,State House,29,Sean Natchke,LIB,42
-Meade,EAST PIEDMONT #12A,State House,29,Gary L Cammack,REP,178
-Meade,EAST PIEDMONT #12A,State House,29,Kirk Chaffee,REP,191
-Meade,EAST STURGIS #1,State House,29,Sean Natchke,LIB,51
-Meade,EAST STURGIS #1,State House,29,Gary L Cammack,REP,103
-Meade,EAST STURGIS #1,State House,29,Kirk Chaffee,REP,133
-Meade,ELK VALE #21,State House,29,Sean Natchke,LIB,14
-Meade,ELK VALE #21,State House,29,Gary L Cammack,REP,33
-Meade,ELK VALE #21,State House,29,Kirk Chaffee,REP,41
-Meade,ELM SPRINGS #18,State House,29,Sean Natchke,LIB,20
-Meade,ELM SPRINGS #18,State House,29,Gary L Cammack,REP,39
-Meade,ELM SPRINGS #18,State House,29,Kirk Chaffee,REP,54
-Meade,FAIRPOINT #29,State House,29,Sean Natchke,LIB,8
-Meade,FAIRPOINT #29,State House,29,Gary L Cammack,REP,24
-Meade,FAIRPOINT #29,State House,29,Kirk Chaffee,REP,24
-Meade,FAITH #31,State House,29,Sean Natchke,LIB,40
-Meade,FAITH #31,State House,29,Gary L Cammack,REP,115
-Meade,FAITH #31,State House,29,Kirk Chaffee,REP,143
-Meade,FORT MEADE #1A,State House,29,Sean Natchke,LIB,16
-Meade,FORT MEADE #1A,State House,29,Gary L Cammack,REP,16
-Meade,FORT MEADE #1A,State House,29,Kirk Chaffee,REP,15
-Meade,HARMONY #8,State House,29,Sean Natchke,LIB,84
-Meade,HARMONY #8,State House,29,Gary L Cammack,REP,190
-Meade,HARMONY #8,State House,29,Kirk Chaffee,REP,196
-Meade,HEREFORD #20,State House,29,Sean Natchke,LIB,12
-Meade,HEREFORD #20,State House,29,Gary L Cammack,REP,31
-Meade,HEREFORD #20,State House,29,Kirk Chaffee,REP,38
-Meade,MARCUS #41,State House,29,Sean Natchke,LIB,14
-Meade,MARCUS #41,State House,29,Gary L Cammack,REP,13
-Meade,MARCUS #41,State House,29,Kirk Chaffee,REP,22
-Meade,NORTHEAST PIEDMONT #12,State House,29,Sean Natchke,LIB,113
-Meade,NORTHEAST PIEDMONT #12,State House,29,Gary L Cammack,REP,385
-Meade,NORTHEAST PIEDMONT #12,State House,29,Kirk Chaffee,REP,443
-Meade,NORTHEAST STURGIS #1- A,State House,29,Sean Natchke,LIB,38
-Meade,NORTHEAST STURGIS #1- A,State House,29,Gary L Cammack,REP,63
-Meade,NORTHEAST STURGIS #1- A,State House,29,Kirk Chaffee,REP,70
-Meade,NORTHWEST STURGIS #5,State House,29,Sean Natchke,LIB,131
-Meade,NORTHWEST STURGIS #5,State House,29,Gary L Cammack,REP,200
-Meade,NORTHWEST STURGIS #5,State House,29,Kirk Chaffee,REP,220
-Meade,PIEDMONT CENTRAL #11A,State House,29,Sean Natchke,LIB,110
-Meade,PIEDMONT CENTRAL #11A,State House,29,Gary L Cammack,REP,338
-Meade,PIEDMONT CENTRAL #11A,State House,29,Kirk Chaffee,REP,395
-Meade,PIEDMONT WEST #11,State House,29,Sean Natchke,LIB,104
-Meade,PIEDMONT WEST #11,State House,29,Gary L Cammack,REP,258
-Meade,PIEDMONT WEST #11,State House,29,Kirk Chaffee,REP,290
-Meade,PINE #33,State House,29,Sean Natchke,LIB,23
-Meade,PINE #33,State House,29,Gary L Cammack,REP,31
-Meade,PINE #33,State House,29,Kirk Chaffee,REP,52
-Meade,RED OWL #30,State House,29,Sean Natchke,LIB,18
-Meade,RED OWL #30,State House,29,Gary L Cammack,REP,52
-Meade,RED OWL #30,State House,29,Kirk Chaffee,REP,46
-Meade,RURAL BLACK HAWK #15,State House,29,Sean Natchke,LIB,73
-Meade,RURAL BLACK HAWK #15,State House,29,Gary L Cammack,REP,206
-Meade,RURAL BLACK HAWK #15,State House,29,Kirk Chaffee,REP,261
-Meade,RURAL STURGIS #7,State House,29,Sean Natchke,LIB,107
-Meade,RURAL STURGIS #7,State House,29,Gary L Cammack,REP,241
-Meade,RURAL STURGIS #7,State House,29,Kirk Chaffee,REP,281
-Meade,SOUTH STURGIS #2A,State House,29,Sean Natchke,LIB,95
-Meade,SOUTH STURGIS #2A,State House,29,Gary L Cammack,REP,190
-Meade,SOUTH STURGIS #2A,State House,29,Kirk Chaffee,REP,194
-Meade,SOUTHEAST PIEDMONT #13,State House,29,Sean Natchke,LIB,167
-Meade,SOUTHEAST PIEDMONT #13,State House,29,Gary L Cammack,REP,418
-Meade,SOUTHEAST PIEDMONT #13,State House,29,Kirk Chaffee,REP,472
-Meade,SOUTHEAST STURGIS #2,State House,29,Sean Natchke,LIB,107
-Meade,SOUTHEAST STURGIS #2,State House,29,Gary L Cammack,REP,272
-Meade,SOUTHEAST STURGIS #2,State House,29,Kirk Chaffee,REP,302
-Meade,SOUTHWEST STURGIS #4A,State House,29,Sean Natchke,LIB,66
-Meade,SOUTHWEST STURGIS #4A,State House,29,Gary L Cammack,REP,136
-Meade,SOUTHWEST STURGIS #4A,State House,29,Kirk Chaffee,REP,162
-Meade,STURGIS #5A,State House,29,Sean Natchke,LIB,52
-Meade,STURGIS #5A,State House,29,Gary L Cammack,REP,116
-Meade,STURGIS #5A,State House,29,Kirk Chaffee,REP,132
-Meade,SULPHUR #35,State House,29,Sean Natchke,LIB,9
-Meade,SULPHUR #35,State House,29,Gary L Cammack,REP,23
-Meade,SULPHUR #35,State House,29,Kirk Chaffee,REP,29
-Meade,SUMMERSET #10,State House,33,Vince Vidal,DEM,266
-Meade,SUMMERSET #10,State House,33,Curt Massie,REP,471
-Meade,SUMMERSET #10,State House,33,Phil Jensen,REP,586
-Meade,TILFORD #6,State House,29,Sean Natchke,LIB,145
-Meade,TILFORD #6,State House,29,Gary L Cammack,REP,394
-Meade,TILFORD #6,State House,29,Kirk Chaffee,REP,460
-Meade,UNION #40,State House,29,Sean Natchke,LIB,1
-Meade,UNION #40,State House,29,Gary L Cammack,REP,17
-Meade,UNION #40,State House,29,Kirk Chaffee,REP,24
-Meade,VIEWFIELD #17,State House,29,Sean Natchke,LIB,23
-Meade,VIEWFIELD #17,State House,29,Gary L Cammack,REP,49
-Meade,VIEWFIELD #17,State House,29,Kirk Chaffee,REP,66
-Meade,WEST BLACK HAWK #16,State House,33,Vince Vidal,DEM,102
-Meade,WEST BLACK HAWK #16,State House,33,Curt Massie,REP,157
-Meade,WEST BLACK HAWK #16,State House,33,Phil Jensen,REP,193
-Meade,WEST ELK VALE #24,State House,29,Sean Natchke,LIB,33
-Meade,WEST ELK VALE #24,State House,29,Gary L Cammack,REP,99
-Meade,WEST ELK VALE #24,State House,29,Kirk Chaffee,REP,115
-Meade,WEST STURGIS #4,State House,29,Sean Natchke,LIB,58
-Meade,WEST STURGIS #4,State House,29,Gary L Cammack,REP,90
-Meade,WEST STURGIS #4,State House,29,Kirk Chaffee,REP,101
-Meade,WHITE OWL #25 11 of 19,State House,29,Sean Natchke,LIB,4
-Meade,WHITE OWL #25 11 of 19,State House,29,Gary L Cammack,REP,26
-Meade,WHITE OWL #25 11 of 19,State House,29,Kirk Chaffee,REP,30

@@ -1,7 +1,7 @@
 county,precinct,office,district,candidate,party,votes
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",U.S. Senate,,Brian L. Bengs,DEM,46
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",U.S. Senate,,Tamara J Lesnar,LIB,9
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",U.S. Senate,,John R. Thune,REP,184
+Lincoln,"02-Norway & Fairview, Fairview, Inc",U.S. Senate,,Brian L. Bengs,DEM,46
+Lincoln,"02-Norway & Fairview, Fairview, Inc",U.S. Senate,,Tamara J Lesnar,LIB,9
+Lincoln,"02-Norway & Fairview, Fairview, Inc",U.S. Senate,,John R. Thune,REP,184
 Lincoln,06-Highland & Canton,U.S. Senate,,Brian L. Bengs,DEM,83
 Lincoln,06-Highland & Canton,U.S. Senate,,Tamara J Lesnar,LIB,18
 Lincoln,06-Highland & Canton,U.S. Senate,,John R. Thune,REP,321
@@ -92,8 +92,8 @@ Lincoln,Sioux Falls 2-15,U.S. Senate,,John R. Thune,REP,844
 Lincoln,Sioux Falls 2-16,U.S. Senate,,Brian L. Bengs,DEM,591
 Lincoln,Sioux Falls 2-16,U.S. Senate,,Tamara J Lesnar,LIB,49
 Lincoln,Sioux Falls 2-16,U.S. Senate,,John R. Thune,REP,1103
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",U.S. House,1,Collin Duprel,LIB,33
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",U.S. House,1,Dusty Johnson,REP,200
+Lincoln,"02-Norway & Fairview, Fairview, Inc",U.S. House,1,Collin Duprel,LIB,33
+Lincoln,"02-Norway & Fairview, Fairview, Inc",U.S. House,1,Dusty Johnson,REP,200
 Lincoln,06-Highland & Canton,U.S. House,1,Collin Duprel,LIB,72
 Lincoln,06-Highland & Canton,U.S. House,1,Dusty Johnson,REP,337
 Lincoln,08-Lincoln & Delaware,U.S. House,1,Collin Duprel,LIB,34
@@ -154,9 +154,9 @@ Lincoln,Sioux Falls 2-15,U.S. House,1,Collin Duprel,LIB,191
 Lincoln,Sioux Falls 2-15,U.S. House,1,Dusty Johnson,REP,898
 Lincoln,Sioux Falls 2-16,U.S. House,1,Collin Duprel,LIB,400
 Lincoln,Sioux Falls 2-16,U.S. House,1,Dusty Johnson,REP,1200
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Governor,,Jamie Smith and Jennifer Keintz,DEM,60
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Governor,,Tracey Quint and Ashley Strand,LIB,4
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Governor,,Kristi Noem and Larry Rhoden,REP,177
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Governor,,Jamie Smith and Jennifer Keintz,DEM,60
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Governor,,Tracey Quint and Ashley Strand,LIB,4
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Governor,,Kristi Noem and Larry Rhoden,REP,177
 Lincoln,06-Highland & Canton,Governor,,Jamie Smith and Jennifer Keintz,DEM,128
 Lincoln,06-Highland & Canton,Governor,,Tracey Quint and Ashley Strand,LIB,14
 Lincoln,06-Highland & Canton,Governor,,Kristi Noem and Larry Rhoden,REP,281
@@ -247,8 +247,8 @@ Lincoln,Sioux Falls 2-15,Governor,,Kristi Noem and Larry Rhoden,REP,681
 Lincoln,Sioux Falls 2-16,Governor,,Jamie Smith and Jennifer Keintz,DEM,788
 Lincoln,Sioux Falls 2-16,Governor,,Tracey Quint and Ashley Strand,LIB,33
 Lincoln,Sioux Falls 2-16,Governor,,Kristi Noem and Larry Rhoden,REP,937
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Secretary of State,,Thomas A Cool,DEM,56
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Secretary of State,,Monae Johnson,REP,177
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Secretary of State,,Thomas A Cool,DEM,56
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Secretary of State,,Monae Johnson,REP,177
 Lincoln,06-Highland & Canton,Secretary of State,,Thomas A Cool,DEM,122
 Lincoln,06-Highland & Canton,Secretary of State,,Monae Johnson,REP,283
 Lincoln,08-Lincoln & Delaware,Secretary of State,,Thomas A Cool,DEM,60
@@ -309,7 +309,7 @@ Lincoln,Sioux Falls 2-15,Secretary of State,,Thomas A Cool,DEM,417
 Lincoln,Sioux Falls 2-15,Secretary of State,,Monae Johnson,REP,675
 Lincoln,Sioux Falls 2-16,Secretary of State,,Thomas A Cool,DEM,719
 Lincoln,Sioux Falls 2-16,Secretary of State,,Monae Johnson,REP,941
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Attorney General,,Marty J. Jackley,REP,186
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Attorney General,,Marty J. Jackley,REP,186
 Lincoln,06-Highland & Canton,Attorney General,,Marty J. Jackley,REP,340
 Lincoln,08-Lincoln & Delaware,Attorney General,,Marty J. Jackley,REP,168
 Lincoln,11-Grant,Attorney General,,Marty J. Jackley,REP,167
@@ -340,9 +340,9 @@ Lincoln,Sioux Falls 2-12,Attorney General,,Marty J. Jackley,REP,511
 Lincoln,Sioux Falls 2-13,Attorney General,,Marty J. Jackley,REP,1292
 Lincoln,Sioux Falls 2-15,Attorney General,,Marty J. Jackley,REP,885
 Lincoln,Sioux Falls 2-16,Attorney General,,Marty J. Jackley,REP,1224
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",State Auditor,,Stephanie Marty,DEM,53
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",State Auditor,,Rene Meyer,LIB,9
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",State Auditor,,Richard Sattgast,REP,167
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State Auditor,,Stephanie Marty,DEM,53
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State Auditor,,Rene Meyer,LIB,9
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State Auditor,,Richard Sattgast,REP,167
 Lincoln,06-Highland & Canton,State Auditor,,Stephanie Marty,DEM,94
 Lincoln,06-Highland & Canton,State Auditor,,Rene Meyer,LIB,18
 Lincoln,06-Highland & Canton,State Auditor,,Richard Sattgast,REP,293
@@ -433,8 +433,8 @@ Lincoln,Sioux Falls 2-15,State Auditor,,Richard Sattgast,REP,719
 Lincoln,Sioux Falls 2-16,State Auditor,,Stephanie Marty,DEM,643
 Lincoln,Sioux Falls 2-16,State Auditor,,Rene Meyer,LIB,57
 Lincoln,Sioux Falls 2-16,State Auditor,,Richard Sattgast,REP,936
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",State Treasurer,,John Cunningham,DEM,57
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",State Treasurer,,Josh Haeder,REP,177
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State Treasurer,,John Cunningham,DEM,57
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State Treasurer,,Josh Haeder,REP,177
 Lincoln,06-Highland & Canton,State Treasurer,,John Cunningham,DEM,110
 Lincoln,06-Highland & Canton,State Treasurer,,Josh Haeder,REP,290
 Lincoln,08-Lincoln & Delaware,State Treasurer,,John Cunningham,DEM,53
@@ -495,8 +495,8 @@ Lincoln,Sioux Falls 2-15,State Treasurer,,John Cunningham,DEM,329
 Lincoln,Sioux Falls 2-15,State Treasurer,,Josh Haeder,REP,745
 Lincoln,Sioux Falls 2-16,State Treasurer,,John Cunningham,DEM,623
 Lincoln,Sioux Falls 2-16,State Treasurer,,Josh Haeder,REP,998
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Commissioner of School and Public Lands,,Timothy Azure,DEM,58
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Commissioner of School and Public Lands,,Brock Greenfield,REP,175
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Commissioner of School and Public Lands,,Timothy Azure,DEM,58
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Commissioner of School and Public Lands,,Brock Greenfield,REP,175
 Lincoln,06-Highland & Canton,Commissioner of School and Public Lands,,Timothy Azure,DEM,93
 Lincoln,06-Highland & Canton,Commissioner of School and Public Lands,,Brock Greenfield,REP,297
 Lincoln,08-Lincoln & Delaware,Commissioner of School and Public Lands,,Timothy Azure,DEM,53
@@ -557,8 +557,8 @@ Lincoln,Sioux Falls 2-15,Commissioner of School and Public Lands,,Timothy Azure,
 Lincoln,Sioux Falls 2-15,Commissioner of School and Public Lands,,Brock Greenfield,REP,729
 Lincoln,Sioux Falls 2-16,Commissioner of School and Public Lands,,Timothy Azure,DEM,626
 Lincoln,Sioux Falls 2-16,Commissioner of School and Public Lands,,Brock Greenfield,REP,975
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Public Utilities Commissioner,,Jeffrey Barth,DEM,59
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Public Utilities Commissioner,,Chris Nelson,REP,175
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Public Utilities Commissioner,,Jeffrey Barth,DEM,59
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Public Utilities Commissioner,,Chris Nelson,REP,175
 Lincoln,06-Highland & Canton,Public Utilities Commissioner,,Jeffrey Barth,DEM,112
 Lincoln,06-Highland & Canton,Public Utilities Commissioner,,Chris Nelson,REP,294
 Lincoln,08-Lincoln & Delaware,Public Utilities Commissioner,,Jeffrey Barth,DEM,53
@@ -619,9 +619,141 @@ Lincoln,Sioux Falls 2-15,Public Utilities Commissioner,,Jeffrey Barth,DEM,337
 Lincoln,Sioux Falls 2-15,Public Utilities Commissioner,,Chris Nelson,REP,754
 Lincoln,Sioux Falls 2-16,Public Utilities Commissioner,,Jeffrey Barth,DEM,611
 Lincoln,Sioux Falls 2-16,Public Utilities Commissioner,,Chris Nelson,REP,1034
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",State House,16,Matt Ness,DEM,55
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",State House,16,Kevin D. Jensen,REP,151
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",State House,16,Karla J. Lems,REP,146
+Lincoln,13-LaValley,State Senate,06,Herman Otten,REP,168
+Lincoln,14-Perry,State Senate,06,Herman Otten,REP,194
+Lincoln,15-Springdale,State Senate,06,Herman Otten,REP,786
+Lincoln,16-Delapre,State Senate,06,Herman Otten,REP,672
+Lincoln,24-Tea,State Senate,06,Herman Otten,REP,1498
+Lincoln,27-Harrisburg 1,State Senate,06,Herman Otten,REP,769
+Lincoln,29-Harrisburg 2,State Senate,06,Herman Otten,REP,777
+Lincoln,Sioux Falls 1-12,State Senate,06,Herman Otten,REP,337
+Lincoln,Sioux Falls 1-13,State Senate,06,Herman Otten,REP,360
+Lincoln,Sioux Falls 1-14,State Senate,06,Herman Otten,REP,568
+Lincoln,Sioux Falls 1-16,State Senate,06,Herman Otten,REP,383
+Lincoln,Sioux Falls 2-11,State Senate,06,Herman Otten,REP,1
+Lincoln,16-Delapre,State Senate,12,Jessica Meyers,DEM,0
+Lincoln,16-Delapre,State Senate,12,Arch Beal,REP,2
+Lincoln,Sioux Falls 1-11,State Senate,12,Jessica Meyers,DEM,494
+Lincoln,Sioux Falls 1-11,State Senate,12,Arch Beal,REP,955
+Lincoln,Sioux Falls 1-12,State Senate,12,Jessica Meyers,DEM,392
+Lincoln,Sioux Falls 1-12,State Senate,12,Arch Beal,REP,536
+Lincoln,Sioux Falls 1-15,State Senate,12,Jessica Meyers,DEM,360
+Lincoln,Sioux Falls 1-15,State Senate,12,Arch Beal,REP,376
+Lincoln,Sioux Falls 1-18,State Senate,12,Jessica Meyers,DEM,447
+Lincoln,Sioux Falls 1-18,State Senate,12,Arch Beal,REP,817
+Lincoln,Sioux Falls 2-10,State Senate,13,Jack Kolbeck,REP,1065
+Lincoln,Sioux Falls 2-10,State Senate,13,Lora Hubbel,IND,295
+Lincoln,Sioux Falls 2-11,State Senate,13,Jack Kolbeck,REP,1288
+Lincoln,Sioux Falls 2-11,State Senate,13,Lora Hubbel,IND,438
+Lincoln,Sioux Falls 2-12,State Senate,13,Jack Kolbeck,REP,445
+Lincoln,Sioux Falls 2-12,State Senate,13,Lora Hubbel,IND,202
+Lincoln,Sioux Falls 2-13,State Senate,13,Jack Kolbeck,REP,1095
+Lincoln,Sioux Falls 2-13,State Senate,13,Lora Hubbel,IND,504
+Lincoln,Sioux Falls 2-15,State Senate,13,Jack Kolbeck,REP,772
+Lincoln,Sioux Falls 2-15,State Senate,13,Lora Hubbel,IND,249
+Lincoln,Sioux Falls 2-16,State Senate,13,Jack Kolbeck,REP,1045
+Lincoln,Sioux Falls 2-16,State Senate,13,Lora Hubbel,IND,474
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State Senate,16,Donn Larson,DEM,70
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State Senate,16,Jim Bolin,REP,162
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State Senate,16,Brian J. Burge,IND,8
+Lincoln,06-Highland & Canton,State Senate,16,Donn Larson,DEM,104
+Lincoln,06-Highland & Canton,State Senate,16,Jim Bolin,REP,293
+Lincoln,06-Highland & Canton,State Senate,16,Brian J. Burge,IND,17
+Lincoln,08-Lincoln & Delaware,State Senate,16,Donn Larson,DEM,56
+Lincoln,08-Lincoln & Delaware,State Senate,16,Jim Bolin,REP,142
+Lincoln,08-Lincoln & Delaware,State Senate,16,Brian J. Burge,IND,13
+Lincoln,11-Grant,State Senate,16,Donn Larson,DEM,52
+Lincoln,11-Grant,State Senate,16,Jim Bolin,REP,126
+Lincoln,11-Grant,State Senate,16,Brian J. Burge,IND,18
+Lincoln,12-Dayton,State Senate,16,Donn Larson,DEM,56
+Lincoln,12-Dayton,State Senate,16,Jim Bolin,REP,278
+Lincoln,12-Dayton,State Senate,16,Brian J. Burge,IND,21
+Lincoln,13-LaValley,State Senate,16,Donn Larson,DEM,23
+Lincoln,13-LaValley,State Senate,16,Jim Bolin,REP,82
+Lincoln,13-LaValley,State Senate,16,Brian J. Burge,IND,2
+Lincoln,14-Perry,State Senate,16,Donn Larson,DEM,48
+Lincoln,14-Perry,State Senate,16,Jim Bolin,REP,111
+Lincoln,14-Perry,State Senate,16,Brian J. Burge,IND,10
+Lincoln,"20-Canton 1, 2, 3",State Senate,16,Donn Larson,DEM,231
+Lincoln,"20-Canton 1, 2, 3",State Senate,16,Jim Bolin,REP,541
+Lincoln,"20-Canton 1, 2, 3",State Senate,16,Brian J. Burge,IND,52
+Lincoln,21-Hudson & Eden,State Senate,16,Donn Larson,DEM,81
+Lincoln,21-Hudson & Eden,State Senate,16,Jim Bolin,REP,116
+Lincoln,21-Hudson & Eden,State Senate,16,Brian J. Burge,IND,9
+Lincoln,23-Worthing & Lynn,State Senate,16,Donn Larson,DEM,92
+Lincoln,23-Worthing & Lynn,State Senate,16,Jim Bolin,REP,337
+Lincoln,23-Worthing & Lynn,State Senate,16,Brian J. Burge,IND,47
+Lincoln,25-Lennox,State Senate,16,Donn Larson,DEM,198
+Lincoln,25-Lennox,State Senate,16,Jim Bolin,REP,578
+Lincoln,25-Lennox,State Senate,16,Brian J. Burge,IND,76
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State Senate,16,Donn Larson,DEM,123
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State Senate,16,Jim Bolin,REP,261
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State Senate,16,Brian J. Burge,IND,22
+Lincoln,29-Harrisburg 2,State Senate,16,Donn Larson,DEM,0
+Lincoln,29-Harrisburg 2,State Senate,16,Jim Bolin,REP,0
+Lincoln,29-Harrisburg 2,State Senate,16,Brian J. Burge,IND,0
+Lincoln,30-Canton 4 & 5,State Senate,16,Donn Larson,DEM,136
+Lincoln,30-Canton 4 & 5,State Senate,16,Jim Bolin,REP,262
+Lincoln,30-Canton 4 & 5,State Senate,16,Brian J. Burge,IND,22
+Lincoln,13-LaValley,State House,06,Aaron Aylward,REP,94
+Lincoln,13-LaValley,State House,06,Ernie Otten,REP,155
+Lincoln,14-Perry,State House,06,Aaron Aylward,REP,73
+Lincoln,14-Perry,State House,06,Ernie Otten,REP,171
+Lincoln,15-Springdale,State House,06,Aaron Aylward,REP,494
+Lincoln,15-Springdale,State House,06,Ernie Otten,REP,711
+Lincoln,16-Delapre,State House,06,Aaron Aylward,REP,362
+Lincoln,16-Delapre,State House,06,Ernie Otten,REP,589
+Lincoln,24-Tea,State House,06,Aaron Aylward,REP,786
+Lincoln,24-Tea,State House,06,Ernie Otten,REP,1289
+Lincoln,27-Harrisburg 1,State House,06,Aaron Aylward,REP,476
+Lincoln,27-Harrisburg 1,State House,06,Ernie Otten,REP,613
+Lincoln,29-Harrisburg 2,State House,06,Aaron Aylward,REP,472
+Lincoln,29-Harrisburg 2,State House,06,Ernie Otten,REP,642
+Lincoln,Sioux Falls 1-12,State House,06,Aaron Aylward,REP,210
+Lincoln,Sioux Falls 1-12,State House,06,Ernie Otten,REP,283
+Lincoln,Sioux Falls 1-13,State House,06,Aaron Aylward,REP,211
+Lincoln,Sioux Falls 1-13,State House,06,Ernie Otten,REP,295
+Lincoln,Sioux Falls 1-14,State House,06,Aaron Aylward,REP,316
+Lincoln,Sioux Falls 1-14,State House,06,Ernie Otten,REP,490
+Lincoln,Sioux Falls 1-16,State House,06,Aaron Aylward,REP,221
+Lincoln,Sioux Falls 1-16,State House,06,Ernie Otten,REP,319
+Lincoln,Sioux Falls 2-11,State House,06,Aaron Aylward,REP,0
+Lincoln,Sioux Falls 2-11,State House,06,Ernie Otten,REP,2
+Lincoln,16-Delapre,State House,12,Kristin Hayward,DEM,0
+Lincoln,16-Delapre,State House,12,Erin Royer,DEM,0
+Lincoln,16-Delapre,State House,12,Greg Jamison,REP,2
+Lincoln,16-Delapre,State House,12,Amber Arlint,REP,2
+Lincoln,Sioux Falls 1-11,State House,12,Kristin Hayward,DEM,366
+Lincoln,Sioux Falls 1-11,State House,12,Erin Royer,DEM,420
+Lincoln,Sioux Falls 1-11,State House,12,Greg Jamison,REP,915
+Lincoln,Sioux Falls 1-11,State House,12,Amber Arlint,REP,928
+Lincoln,Sioux Falls 1-12,State House,12,Kristin Hayward,DEM,334
+Lincoln,Sioux Falls 1-12,State House,12,Erin Royer,DEM,341
+Lincoln,Sioux Falls 1-12,State House,12,Greg Jamison,REP,458
+Lincoln,Sioux Falls 1-12,State House,12,Amber Arlint,REP,486
+Lincoln,Sioux Falls 1-15,State House,12,Kristin Hayward,DEM,284
+Lincoln,Sioux Falls 1-15,State House,12,Erin Royer,DEM,310
+Lincoln,Sioux Falls 1-15,State House,12,Greg Jamison,REP,339
+Lincoln,Sioux Falls 1-15,State House,12,Amber Arlint,REP,362
+Lincoln,Sioux Falls 1-18,State House,12,Kristin Hayward,DEM,339
+Lincoln,Sioux Falls 1-18,State House,12,Erin Royer,DEM,376
+Lincoln,Sioux Falls 1-18,State House,12,Greg Jamison,REP,736
+Lincoln,Sioux Falls 1-18,State House,12,Amber Arlint,REP,786
+Lincoln,Sioux Falls 2-10,State House,13,Tony Venhuizen,REP,849
+Lincoln,Sioux Falls 2-10,State House,13,Sue Peterson,REP,824
+Lincoln,Sioux Falls 2-11,State House,13,Tony Venhuizen,REP,1046
+Lincoln,Sioux Falls 2-11,State House,13,Sue Peterson,REP,977
+Lincoln,Sioux Falls 2-12,State House,13,Tony Venhuizen,REP,359
+Lincoln,Sioux Falls 2-12,State House,13,Sue Peterson,REP,348
+Lincoln,Sioux Falls 2-13,State House,13,Tony Venhuizen,REP,915
+Lincoln,Sioux Falls 2-13,State House,13,Sue Peterson,REP,884
+Lincoln,Sioux Falls 2-15,State House,13,Tony Venhuizen,REP,589
+Lincoln,Sioux Falls 2-15,State House,13,Sue Peterson,REP,596
+Lincoln,Sioux Falls 2-16,State House,13,Tony Venhuizen,REP,858
+Lincoln,Sioux Falls 2-16,State House,13,Sue Peterson,REP,827
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State House,16,Matt Ness,DEM,55
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State House,16,Kevin D. Jensen,REP,151
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State House,16,Karla J. Lems,REP,146
 Lincoln,06-Highland & Canton,State House,16,Matt Ness,DEM,119
 Lincoln,06-Highland & Canton,State House,16,Kevin D. Jensen,REP,253
 Lincoln,06-Highland & Canton,State House,16,Karla J. Lems,REP,267
@@ -661,7 +793,7 @@ Lincoln,29-Harrisburg 2,State House,16,Karla J. Lems,REP,0
 Lincoln,30-Canton 4 & 5,State House,16,Matt Ness,DEM,148
 Lincoln,30-Canton 4 & 5,State House,16,Kevin D. Jensen,REP,191
 Lincoln,30-Canton 4 & 5,State House,16,Karla J. Lems,REP,243
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,121
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,121
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,204
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,87
 Lincoln,11-Grant,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,113
@@ -692,7 +824,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position A Second Circuit,Ro
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,890
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,576
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position A Second Circuit,Robin Houwman,NON,846
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,122
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,122
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,208
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,83
 Lincoln,11-Grant,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,111
@@ -723,8 +855,8 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position B Second Circuit,Sa
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,862
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,557
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position B Second Circuit,Sandra H Hanson,NON,824
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,75
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,62
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,75
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,62
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,168
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,83
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,74
@@ -785,7 +917,7 @@ Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position C Second Circuit,Do
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,218
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position C Second Circuit,Doug Barnett,NON,602
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position C Second Circuit,Eric C. Johnson,NON,347
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,115
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,115
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,196
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,86
 Lincoln,11-Grant,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,108
@@ -816,7 +948,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position D Second Circuit,Na
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,841
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,553
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position D Second Circuit,Natalie Damgaard,NON,814
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,104
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,104
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,172
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,73
 Lincoln,11-Grant,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,87
@@ -847,7 +979,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position E Second Circuit,Jo
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,799
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,503
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position E Second Circuit,John Pekas,NON,738
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,103
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,103
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,164
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,68
 Lincoln,11-Grant,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,90
@@ -878,7 +1010,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position F Second Circuit,Ca
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,735
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,472
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position F Second Circuit,Camela Theeler,NON,685
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,103
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,103
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,171
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,71
 Lincoln,11-Grant,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,90
@@ -909,7 +1041,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position G Second Circuit,Je
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,736
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,461
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position G Second Circuit,Jennifer D. Mammenga,NON,688
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,103
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,103
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,180
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,66
 Lincoln,11-Grant,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,92
@@ -940,7 +1072,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position H Second Circuit,Su
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,751
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,478
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position H Second Circuit,Susan M. Sabers,NON,706
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,106
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,106
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,173
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,73
 Lincoln,11-Grant,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,92
@@ -971,7 +1103,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position I Second Circuit,Do
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,751
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,466
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position I Second Circuit,Doug Hoffman,NON,703
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position J Second Circuit,James Power,NON,100
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Judge of the Circuit Court,Position J Second Circuit,James Power,NON,100
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,167
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,67
 Lincoln,11-Grant,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,88
@@ -1002,7 +1134,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position J Second Circuit,Ja
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,723
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,459
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position J Second Circuit,James Power,NON,679
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,121
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,121
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,226
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,74
 Lincoln,11-Grant,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,92
@@ -1033,7 +1165,7 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position K Second Circuit,Jo
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,763
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,483
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position K Second Circuit,Jon C. Sogn,NON,699
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,122
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,122
 Lincoln,06-Highland & Canton,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,211
 Lincoln,08-Lincoln & Delaware,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,80
 Lincoln,11-Grant,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,97
@@ -1064,8 +1196,8 @@ Lincoln,Sioux Falls 2-12,Judge of the Circuit Court,Position L Second Circuit,Ra
 Lincoln,Sioux Falls 2-13,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,731
 Lincoln,Sioux Falls 2-15,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,465
 Lincoln,Sioux Falls 2-16,Judge of the Circuit Court,Position L Second Circuit,Rachel R. Rasmussen,NON,687
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Supreme Court Retention,3,Patricia J. DeVaney - Yes,,166
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Supreme Court Retention,3,Patricia J. DeVaney - No,,35
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Supreme Court Retention,3,Patricia J. DeVaney - Yes,,166
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Supreme Court Retention,3,Patricia J. DeVaney - No,,35
 Lincoln,06-Highland & Canton,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,304
 Lincoln,06-Highland & Canton,Supreme Court Retention,3,Patricia J. DeVaney - No,,55
 Lincoln,08-Lincoln & Delaware,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,147
@@ -1126,8 +1258,8 @@ Lincoln,Sioux Falls 2-15,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,77
 Lincoln,Sioux Falls 2-15,Supreme Court Retention,3,Patricia J. DeVaney - No,,150
 Lincoln,Sioux Falls 2-16,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,1133
 Lincoln,Sioux Falls 2-16,Supreme Court Retention,3,Patricia J. DeVaney - No,,258
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Supreme Court Retention,2,Mark E. Salter - Yes,,165
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Supreme Court Retention,2,Mark E. Salter - No,,33
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Supreme Court Retention,2,Mark E. Salter - Yes,,165
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Supreme Court Retention,2,Mark E. Salter - No,,33
 Lincoln,06-Highland & Canton,Supreme Court Retention,2,Mark E. Salter - Yes,,303
 Lincoln,06-Highland & Canton,Supreme Court Retention,2,Mark E. Salter - No,,56
 Lincoln,08-Lincoln & Delaware,Supreme Court Retention,2,Mark E. Salter - Yes,,147
@@ -1188,8 +1320,8 @@ Lincoln,Sioux Falls 2-15,Supreme Court Retention,2,Mark E. Salter - Yes,,785
 Lincoln,Sioux Falls 2-15,Supreme Court Retention,2,Mark E. Salter - No,,145
 Lincoln,Sioux Falls 2-16,Supreme Court Retention,2,Mark E. Salter - Yes,,1135
 Lincoln,Sioux Falls 2-16,Supreme Court Retention,2,Mark E. Salter - No,,259
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Constitutional Amendment D,,Yes,,115
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Constitutional Amendment D,,No,,115
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Constitutional Amendment D,,Yes,,115
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Constitutional Amendment D,,No,,115
 Lincoln,06-Highland & Canton,Constitutional Amendment D,,Yes,,179
 Lincoln,06-Highland & Canton,Constitutional Amendment D,,No,,233
 Lincoln,08-Lincoln & Delaware,Constitutional Amendment D,,Yes,,103
@@ -1250,8 +1382,8 @@ Lincoln,Sioux Falls 2-15,Constitutional Amendment D,,Yes,,693
 Lincoln,Sioux Falls 2-15,Constitutional Amendment D,,No,,439
 Lincoln,Sioux Falls 2-16,Constitutional Amendment D,,Yes,,1102
 Lincoln,Sioux Falls 2-16,Constitutional Amendment D,,No,,604
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Initiated Measure 27,,Yes,,86
-Lincoln,"02-Norway & Fairview, Fairview, Inc.",Initiated Measure 27,,No,,152
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Initiated Measure 27,,Yes,,86
+Lincoln,"02-Norway & Fairview, Fairview, Inc",Initiated Measure 27,,No,,152
 Lincoln,06-Highland & Canton,Initiated Measure 27,,Yes,,179
 Lincoln,06-Highland & Canton,Initiated Measure 27,,No,,244
 Lincoln,08-Lincoln & Delaware,Initiated Measure 27,,Yes,,86
@@ -1312,135 +1444,29 @@ Lincoln,Sioux Falls 2-15,Initiated Measure 27,,Yes,,531
 Lincoln,Sioux Falls 2-15,Initiated Measure 27,,No,,640
 Lincoln,Sioux Falls 2-16,Initiated Measure 27,,Yes,,938
 Lincoln,Sioux Falls 2-16,Initiated Measure 27,,No,,811
-Lincoln,"02-Norway & Fairview, Fairview, Inc",State Senate,16,Donn Larson,DEM,70
-Lincoln,"02-Norway & Fairview, Fairview, Inc",State Senate,16,Jim Bolin,REP,162
-Lincoln,"02-Norway & Fairview, Fairview, Inc",State Senate,16,Brian J. Burge,IND,8
-Lincoln,06-Highland & Canton,State Senate,16,Donn Larson,DEM,104
-Lincoln,06-Highland & Canton,State Senate,16,Jim Bolin,REP,293
-Lincoln,06-Highland & Canton,State Senate,16,Brian J. Burge,IND,17
-Lincoln,08-Lincoln & Delaware,State Senate,16,Donn Larson,DEM,56
-Lincoln,08-Lincoln & Delaware,State Senate,16,Jim Bolin,REP,142
-Lincoln,08-Lincoln & Delaware,State Senate,16,Brian J. Burge,IND,13
-Lincoln,11-Grant,State Senate,16,Donn Larson,DEM,52
-Lincoln,11-Grant,State Senate,16,Jim Bolin,REP,126
-Lincoln,11-Grant,State Senate,16,Brian J. Burge,IND,18
-Lincoln,12-Dayton,State Senate,16,Donn Larson,DEM,56
-Lincoln,12-Dayton,State Senate,16,Jim Bolin,REP,278
-Lincoln,12-Dayton,State Senate,16,Brian J. Burge,IND,21
-Lincoln,13-LaValley,State Senate,06,Herman Otten,REP,168
-Lincoln,13-LaValley,State Senate,16,Donn Larson,DEM,23
-Lincoln,13-LaValley,State Senate,16,Jim Bolin,REP,82
-Lincoln,13-LaValley,State Senate,16,Brian J. Burge,IND,2
-Lincoln,14-Perry,State Senate,06,Herman Otten,REP,194
-Lincoln,14-Perry,State Senate,16,Donn Larson,DEM,48
-Lincoln,14-Perry,State Senate,16,Jim Bolin,REP,111
-Lincoln,14-Perry,State Senate,16,Brian J. Burge,IND,10
-Lincoln,15-Springdale,State Senate,06,Herman Otten,REP,786
-Lincoln,16-Delapre,State Senate,06,Herman Otten,REP,672
-Lincoln,16-Delapre,State Senate,12,Jessica Meyers,DEM,0
-Lincoln,16-Delapre,State Senate,12,Arch Beal,REP,2
-Lincoln,"20-Canton 1, 2, 3",State Senate,16,Donn Larson,DEM,231
-Lincoln,"20-Canton 1, 2, 3",State Senate,16,Jim Bolin,REP,541
-Lincoln,"20-Canton 1, 2, 3",State Senate,16,Brian J. Burge,IND,52
-Lincoln,21-Hudson & Eden,State Senate,16,Donn Larson,DEM,81
-Lincoln,21-Hudson & Eden,State Senate,16,Jim Bolin,REP,116
-Lincoln,21-Hudson & Eden,State Senate,16,Brian J. Burge,IND,9
-Lincoln,23-Worthing & Lynn,State Senate,16,Donn Larson,DEM,92
-Lincoln,23-Worthing & Lynn,State Senate,16,Jim Bolin,REP,337
-Lincoln,23-Worthing & Lynn,State Senate,16,Brian J. Burge,IND,47
-Lincoln,24-Tea,State Senate,06,Herman Otten,REP,1498
-Lincoln,25-Lennox,State Senate,16,Donn Larson,DEM,198
-Lincoln,25-Lennox,State Senate,16,Jim Bolin,REP,578
-Lincoln,25-Lennox,State Senate,16,Brian J. Burge,IND,76
-Lincoln,"26-Brooklyn & Pleasant, Beresford",State Senate,16,Donn Larson,DEM,123
-Lincoln,"26-Brooklyn & Pleasant, Beresford",State Senate,16,Jim Bolin,REP,261
-Lincoln,"26-Brooklyn & Pleasant, Beresford",State Senate,16,Brian J. Burge,IND,22
-Lincoln,27-Harrisburg 1,State Senate,06,Herman Otten,REP,769
-Lincoln,29-Harrisburg 2,State Senate,06,Herman Otten,REP,777
-Lincoln,29-Harrisburg 2,State Senate,16,Donn Larson,DEM,0
-Lincoln,29-Harrisburg 2,State Senate,16,Jim Bolin,REP,0
-Lincoln,29-Harrisburg 2,State Senate,16,Brian J. Burge,IND,0
-Lincoln,30-Canton 4 & 5,State Senate,16,Donn Larson,DEM,136
-Lincoln,30-Canton 4 & 5,State Senate,16,Jim Bolin,REP,262
-Lincoln,30-Canton 4 & 5,State Senate,16,Brian J. Burge,IND,22
-Lincoln,Sioux Falls 1-11,State Senate,12,Jessica Meyers,DEM,494
-Lincoln,Sioux Falls 1-11,State Senate,12,Arch Beal,REP,955
-Lincoln,Sioux Falls 1-12,State Senate,06,Herman Otten,REP,337
-Lincoln,Sioux Falls 1-12,State Senate,12,Jessica Meyers,DEM,392
-Lincoln,Sioux Falls 1-12,State Senate,12,Arch Beal,REP,536
-Lincoln,Sioux Falls 1-13,State Senate,06,Herman Otten,REP,360
-Lincoln,Sioux Falls 1-14,State Senate,06,Herman Otten,REP,568
-Lincoln,Sioux Falls 1-15,State Senate,12,Jessica Meyers,DEM,360
-Lincoln,Sioux Falls 1-15,State Senate,12,Arch Beal,REP,376
-Lincoln,Sioux Falls 1-16,State Senate,06,Herman Otten,REP,383
-Lincoln,Sioux Falls 1-18,State Senate,12,Jessica Meyers,DEM,447
-Lincoln,Sioux Falls 1-18,State Senate,12,Arch Beal,REP,817
-Lincoln,Sioux Falls 2-10,State Senate,13,Jack Kolbeck,REP,1065
-Lincoln,Sioux Falls 2-10,State Senate,13,Lora Hubbel,IND,295
-Lincoln,Sioux Falls 2-11,State Senate,06,Herman Otten,REP,1
-Lincoln,Sioux Falls 2-11,State Senate,13,Jack Kolbeck,REP,1288
-Lincoln,Sioux Falls 2-11,State Senate,13,Lora Hubbel,IND,438
-Lincoln,Sioux Falls 2-12,State Senate,13,Jack Kolbeck,REP,445
-Lincoln,Sioux Falls 2-12,State Senate,13,Lora Hubbel,IND,202
-Lincoln,Sioux Falls 2-13,State Senate,13,Jack Kolbeck,REP,1095
-Lincoln,Sioux Falls 2-13,State Senate,13,Lora Hubbel,IND,504
-Lincoln,Sioux Falls 2-15,State Senate,13,Jack Kolbeck,REP,772
-Lincoln,Sioux Falls 2-15,State Senate,13,Lora Hubbel,IND,249
-Lincoln,Sioux Falls 2-16 10 of 29,State Senate,13,Jack Kolbeck,REP,1045
-Lincoln,Sioux Falls 2-16 10 of 29,State Senate,13,Lora Hubbel,IND,474
-Lincoln,"02-Norway & Fairview, Fairview, Inc 06-Highland & Canton 08-Lincoln & Delaware 11-Grant 12-Dayton 13-LaValley",State House,06,Aaron Aylward,REP,94
-Lincoln,"02-Norway & Fairview, Fairview, Inc 06-Highland & Canton 08-Lincoln & Delaware 11-Grant 12-Dayton 13-LaValley",State House,06,Ernie Otten,REP,155
-Lincoln,14-Perry,State House,06,Aaron Aylward,REP,73
-Lincoln,14-Perry,State House,06,Ernie Otten,REP,171
-Lincoln,15-Springdale,State House,06,Aaron Aylward,REP,494
-Lincoln,15-Springdale,State House,06,Ernie Otten,REP,711
-Lincoln,"16-Delapre 20-Canton 1, 2, 3 21-Hudson & Eden",State House,06,Aaron Aylward,REP,362
-Lincoln,"16-Delapre 20-Canton 1, 2, 3 21-Hudson & Eden",State House,06,Ernie Otten,REP,589
-Lincoln,"16-Delapre 20-Canton 1, 2, 3 21-Hudson & Eden",State House,12,Kristin Hayward,DEM,0
-Lincoln,"16-Delapre 20-Canton 1, 2, 3 21-Hudson & Eden",State House,12,Erin Royer,DEM,0
-Lincoln,"16-Delapre 20-Canton 1, 2, 3 21-Hudson & Eden",State House,12,Greg Jamison,REP,2
-Lincoln,"16-Delapre 20-Canton 1, 2, 3 21-Hudson & Eden",State House,12,Amber Arlint,REP,2
-Lincoln,"23-Worthing & Lynn 24-Tea 25-Lennox 26-Brooklyn & Pleasant,",State House,06,Aaron Aylward,REP,786
-Lincoln,"23-Worthing & Lynn 24-Tea 25-Lennox 26-Brooklyn & Pleasant,",State House,06,Ernie Otten,REP,1289
-Lincoln,Beresford 27-Harrisburg 1,State House,06,Aaron Aylward,REP,476
-Lincoln,Beresford 27-Harrisburg 1,State House,06,Ernie Otten,REP,613
-Lincoln,29-Harrisburg 2,State House,06,Aaron Aylward,REP,472
-Lincoln,29-Harrisburg 2,State House,06,Ernie Otten,REP,642
-Lincoln,30-Canton 4 & 5 Sioux Falls 1-11,State House,12,Kristin Hayward,DEM,366
-Lincoln,30-Canton 4 & 5 Sioux Falls 1-11,State House,12,Erin Royer,DEM,420
-Lincoln,30-Canton 4 & 5 Sioux Falls 1-11,State House,12,Greg Jamison,REP,915
-Lincoln,30-Canton 4 & 5 Sioux Falls 1-11,State House,12,Amber Arlint,REP,928
-Lincoln,Sioux Falls 1-12,State House,06,Aaron Aylward,REP,210
-Lincoln,Sioux Falls 1-12,State House,06,Ernie Otten,REP,283
-Lincoln,Sioux Falls 1-12,State House,12,Kristin Hayward,DEM,334
-Lincoln,Sioux Falls 1-12,State House,12,Erin Royer,DEM,341
-Lincoln,Sioux Falls 1-12,State House,12,Greg Jamison,REP,458
-Lincoln,Sioux Falls 1-12,State House,12,Amber Arlint,REP,486
-Lincoln,Sioux Falls 1-13,State House,06,Aaron Aylward,REP,211
-Lincoln,Sioux Falls 1-13,State House,06,Ernie Otten,REP,295
-Lincoln,Sioux Falls 1-14,State House,06,Aaron Aylward,REP,316
-Lincoln,Sioux Falls 1-14,State House,06,Ernie Otten,REP,490
-Lincoln,Sioux Falls 1-15,State House,12,Kristin Hayward,DEM,284
-Lincoln,Sioux Falls 1-15,State House,12,Erin Royer,DEM,310
-Lincoln,Sioux Falls 1-15,State House,12,Greg Jamison,REP,339
-Lincoln,Sioux Falls 1-15,State House,12,Amber Arlint,REP,362
-Lincoln,Sioux Falls 1-16,State House,06,Aaron Aylward,REP,221
-Lincoln,Sioux Falls 1-16,State House,06,Ernie Otten,REP,319
-Lincoln,Sioux Falls 1-18,State House,12,Kristin Hayward,DEM,339
-Lincoln,Sioux Falls 1-18,State House,12,Erin Royer,DEM,376
-Lincoln,Sioux Falls 1-18,State House,12,Greg Jamison,REP,736
-Lincoln,Sioux Falls 1-18,State House,12,Amber Arlint,REP,786
-Lincoln,Sioux Falls 2-10,State House,13,Tony Venhuizen,REP,849
-Lincoln,Sioux Falls 2-10,State House,13,Sue Peterson,REP,824
-Lincoln,Sioux Falls 2-11,State House,06,Aaron Aylward,REP,0
-Lincoln,Sioux Falls 2-11,State House,06,Ernie Otten,REP,2
-Lincoln,Sioux Falls 2-11,State House,13,Tony Venhuizen,REP,1046
-Lincoln,Sioux Falls 2-11,State House,13,Sue Peterson,REP,977
-Lincoln,Sioux Falls 2-12,State House,13,Tony Venhuizen,REP,359
-Lincoln,Sioux Falls 2-12,State House,13,Sue Peterson,REP,348
-Lincoln,Sioux Falls 2-13,State House,13,Tony Venhuizen,REP,915
-Lincoln,Sioux Falls 2-13,State House,13,Sue Peterson,REP,884
-Lincoln,Sioux Falls 2-15,State House,13,Tony Venhuizen,REP,589
-Lincoln,Sioux Falls 2-15,State House,13,Sue Peterson,REP,596
-Lincoln,Sioux Falls 2-16 11 of 29,State House,13,Tony Venhuizen,REP,858
-Lincoln,Sioux Falls 2-16 11 of 29,State House,13,Sue Peterson,REP,827
+Lincoln,Sioux Falls 1-11,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,Yes,,652
+Lincoln,Sioux Falls 1-11,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,No,,813
+Lincoln,Sioux Falls 1-12,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,Yes,,732
+Lincoln,Sioux Falls 1-12,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,No,,771
+Lincoln,Sioux Falls 1-13,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,Yes,,294
+Lincoln,Sioux Falls 1-13,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,No,,309
+Lincoln,Sioux Falls 1-14,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,Yes,,410
+Lincoln,Sioux Falls 1-14,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,No,,472
+Lincoln,Sioux Falls 1-15,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,Yes,,421
+Lincoln,Sioux Falls 1-15,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,No,,359
+Lincoln,Sioux Falls 1-16,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,Yes,,284
+Lincoln,Sioux Falls 1-16,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,No,,328
+Lincoln,Sioux Falls 1-18,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,Yes,,654
+Lincoln,Sioux Falls 1-18,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,No,,672
+Lincoln,Sioux Falls 2-10,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,Yes,,698
+Lincoln,Sioux Falls 2-10,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,No,,835
+Lincoln,Sioux Falls 2-11,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,Yes,,866
+Lincoln,Sioux Falls 2-11,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,No,,1050
+Lincoln,Sioux Falls 2-12,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,Yes,,329
+Lincoln,Sioux Falls 2-12,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,No,,414
+Lincoln,Sioux Falls 2-13,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,Yes,,851
+Lincoln,Sioux Falls 2-13,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,No,,1030
+Lincoln,Sioux Falls 2-15,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,Yes,,513
+Lincoln,Sioux Falls 2-15,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,No,,649
+Lincoln,Sioux Falls 2-16,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,Yes,,820
+Lincoln,Sioux Falls 2-16,"Initiated Measure : An ordinance of the City of Sioux Falls, SD, to prohibit the construction or permitting of new slaughterhouses within the city limits. Sioux Falls",,No,,917

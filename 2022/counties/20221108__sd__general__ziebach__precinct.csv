@@ -11,9 +11,9 @@ Ziebach,3 Davis,U.S. Senate,,John R. Thune,REP,79
 Ziebach,4 Glad Valley,U.S. Senate,,Brian L. Bengs,DEM,4
 Ziebach,4 Glad Valley,U.S. Senate,,Tamara J Lesnar,LIB,0
 Ziebach,4 Glad Valley,U.S. Senate,,John R. Thune,REP,52
-Ziebach,"-5 North Dupree, Precinct-8",U.S. Senate,,Brian L. Bengs,DEM,100
-Ziebach,"-5 North Dupree, Precinct-8",U.S. Senate,,Tamara J Lesnar,LIB,17
-Ziebach,"-5 North Dupree, Precinct-8",U.S. Senate,,John R. Thune,REP,211
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",U.S. Senate,,Brian L. Bengs,DEM,100
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",U.S. Senate,,Tamara J Lesnar,LIB,17
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",U.S. Senate,,John R. Thune,REP,211
 Ziebach,7 Red Scaffold,U.S. Senate,,Brian L. Bengs,DEM,20
 Ziebach,7 Red Scaffold,U.S. Senate,,Tamara J Lesnar,LIB,3
 Ziebach,7 Red Scaffold,U.S. Senate,,John R. Thune,REP,16
@@ -25,8 +25,8 @@ Ziebach,3 Davis,U.S. House,1,Collin Duprel,LIB,68
 Ziebach,3 Davis,U.S. House,1,Dusty Johnson,REP,83
 Ziebach,4 Glad Valley,U.S. House,1,Collin Duprel,LIB,12
 Ziebach,4 Glad Valley,U.S. House,1,Dusty Johnson,REP,43
-Ziebach,"-5 North Dupree, Precinct-8",U.S. House,1,Collin Duprel,LIB,89
-Ziebach,"-5 North Dupree, Precinct-8",U.S. House,1,Dusty Johnson,REP,215
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",U.S. House,1,Collin Duprel,LIB,89
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",U.S. House,1,Dusty Johnson,REP,215
 Ziebach,7 Red Scaffold,U.S. House,1,Collin Duprel,LIB,15
 Ziebach,7 Red Scaffold,U.S. House,1,Dusty Johnson,REP,19
 Ziebach,1 Bridger,Governor,,Jamie Smith and Jennifer Keintz,DEM,15
@@ -41,9 +41,9 @@ Ziebach,3 Davis,Governor,,Kristi Noem and Larry Rhoden,REP,67
 Ziebach,4 Glad Valley,Governor,,Jamie Smith and Jennifer Keintz,DEM,10
 Ziebach,4 Glad Valley,Governor,,Tracey Quint and Ashley Strand,LIB,2
 Ziebach,4 Glad Valley,Governor,,Kristi Noem and Larry Rhoden,REP,45
-Ziebach,"-5 North Dupree, Precinct-8",Governor,,Jamie Smith and Jennifer Keintz,DEM,115
-Ziebach,"-5 North Dupree, Precinct-8",Governor,,Tracey Quint and Ashley Strand,LIB,17
-Ziebach,"-5 North Dupree, Precinct-8",Governor,,Kristi Noem and Larry Rhoden,REP,197
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Governor,,Jamie Smith and Jennifer Keintz,DEM,115
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Governor,,Tracey Quint and Ashley Strand,LIB,17
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Governor,,Kristi Noem and Larry Rhoden,REP,197
 Ziebach,7 Red Scaffold,Governor,,Jamie Smith and Jennifer Keintz,DEM,27
 Ziebach,7 Red Scaffold,Governor,,Tracey Quint and Ashley Strand,LIB,1
 Ziebach,7 Red Scaffold,Governor,,Kristi Noem and Larry Rhoden,REP,10
@@ -55,15 +55,15 @@ Ziebach,3 Davis,Secretary of State,,Thomas A Cool,DEM,92
 Ziebach,3 Davis,Secretary of State,,Monae Johnson,REP,58
 Ziebach,4 Glad Valley,Secretary of State,,Thomas A Cool,DEM,11
 Ziebach,4 Glad Valley,Secretary of State,,Monae Johnson,REP,41
-Ziebach,"-5 North Dupree, Precinct-8",Secretary of State,,Thomas A Cool,DEM,127
-Ziebach,"-5 North Dupree, Precinct-8",Secretary of State,,Monae Johnson,REP,185
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Secretary of State,,Thomas A Cool,DEM,127
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Secretary of State,,Monae Johnson,REP,185
 Ziebach,7 Red Scaffold,Secretary of State,,Thomas A Cool,DEM,24
 Ziebach,7 Red Scaffold,Secretary of State,,Monae Johnson,REP,11
 Ziebach,1 Bridger,Attorney General,,Marty J. Jackley,REP,14
 Ziebach,2 Cherry Creek,Attorney General,,Marty J. Jackley,REP,22
 Ziebach,3 Davis,Attorney General,,Marty J. Jackley,REP,77
 Ziebach,4 Glad Valley,Attorney General,,Marty J. Jackley,REP,45
-Ziebach,"-5 North Dupree, Precinct-8",Attorney General,,Marty J. Jackley,REP,226
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Attorney General,,Marty J. Jackley,REP,226
 Ziebach,7 Red Scaffold,Attorney General,,Marty J. Jackley,REP,16
 Ziebach,1 Bridger,State Auditor,,Stephanie Marty,DEM,14
 Ziebach,1 Bridger,State Auditor,,Rene Meyer,LIB,4
@@ -77,9 +77,9 @@ Ziebach,3 Davis,State Auditor,,Richard Sattgast,REP,54
 Ziebach,4 Glad Valley,State Auditor,,Stephanie Marty,DEM,12
 Ziebach,4 Glad Valley,State Auditor,,Rene Meyer,LIB,5
 Ziebach,4 Glad Valley,State Auditor,,Richard Sattgast,REP,34
-Ziebach,"-5 North Dupree, Precinct-8",State Auditor,,Stephanie Marty,DEM,117
-Ziebach,"-5 North Dupree, Precinct-8",State Auditor,,Rene Meyer,LIB,23
-Ziebach,"-5 North Dupree, Precinct-8",State Auditor,,Richard Sattgast,REP,176
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",State Auditor,,Stephanie Marty,DEM,117
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",State Auditor,,Rene Meyer,LIB,23
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",State Auditor,,Richard Sattgast,REP,176
 Ziebach,7 Red Scaffold,State Auditor,,Stephanie Marty,DEM,25
 Ziebach,7 Red Scaffold,State Auditor,,Rene Meyer,LIB,3
 Ziebach,7 Red Scaffold,State Auditor,,Richard Sattgast,REP,9
@@ -91,8 +91,8 @@ Ziebach,3 Davis,State Treasurer,,John Cunningham,DEM,84
 Ziebach,3 Davis,State Treasurer,,Josh Haeder,REP,58
 Ziebach,4 Glad Valley,State Treasurer,,John Cunningham,DEM,13
 Ziebach,4 Glad Valley,State Treasurer,,Josh Haeder,REP,38
-Ziebach,"-5 North Dupree, Precinct-8",State Treasurer,,John Cunningham,DEM,127
-Ziebach,"-5 North Dupree, Precinct-8",State Treasurer,,Josh Haeder,REP,185
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",State Treasurer,,John Cunningham,DEM,127
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",State Treasurer,,Josh Haeder,REP,185
 Ziebach,7 Red Scaffold,State Treasurer,,John Cunningham,DEM,24
 Ziebach,7 Red Scaffold,State Treasurer,,Josh Haeder,REP,10
 Ziebach,1 Bridger,Commissioner of School and Public Lands,,Timothy Azure,DEM,16
@@ -103,8 +103,8 @@ Ziebach,3 Davis,Commissioner of School and Public Lands,,Timothy Azure,DEM,92
 Ziebach,3 Davis,Commissioner of School and Public Lands,,Brock Greenfield,REP,52
 Ziebach,4 Glad Valley,Commissioner of School and Public Lands,,Timothy Azure,DEM,10
 Ziebach,4 Glad Valley,Commissioner of School and Public Lands,,Brock Greenfield,REP,39
-Ziebach,"-5 North Dupree, Precinct-8",Commissioner of School and Public Lands,,Timothy Azure,DEM,128
-Ziebach,"-5 North Dupree, Precinct-8",Commissioner of School and Public Lands,,Brock Greenfield,REP,182
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Commissioner of School and Public Lands,,Timothy Azure,DEM,128
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Commissioner of School and Public Lands,,Brock Greenfield,REP,182
 Ziebach,7 Red Scaffold,Commissioner of School and Public Lands,,Timothy Azure,DEM,23
 Ziebach,7 Red Scaffold,Commissioner of School and Public Lands,,Brock Greenfield,REP,10
 Ziebach,1 Bridger,Public Utilities Commissioner,,Jeffrey Barth,DEM,14
@@ -115,15 +115,15 @@ Ziebach,3 Davis,Public Utilities Commissioner,,Jeffrey Barth,DEM,88
 Ziebach,3 Davis,Public Utilities Commissioner,,Chris Nelson,REP,57
 Ziebach,4 Glad Valley,Public Utilities Commissioner,,Jeffrey Barth,DEM,7
 Ziebach,4 Glad Valley,Public Utilities Commissioner,,Chris Nelson,REP,45
-Ziebach,"-5 North Dupree, Precinct-8",Public Utilities Commissioner,,Jeffrey Barth,DEM,117
-Ziebach,"-5 North Dupree, Precinct-8",Public Utilities Commissioner,,Chris Nelson,REP,203
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Public Utilities Commissioner,,Jeffrey Barth,DEM,117
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Public Utilities Commissioner,,Chris Nelson,REP,203
 Ziebach,7 Red Scaffold,Public Utilities Commissioner,,Jeffrey Barth,DEM,20
 Ziebach,7 Red Scaffold,Public Utilities Commissioner,,Chris Nelson,REP,13
 Ziebach,1 Bridger,State Senate,28,Ryan M. Maher,REP,16
 Ziebach,2 Cherry Creek,State Senate,28,Ryan M. Maher,REP,33
 Ziebach,3 Davis,State Senate,28,Ryan M. Maher,REP,88
 Ziebach,4 Glad Valley,State Senate,28,Ryan M. Maher,REP,47
-Ziebach,"-5 North Dupree, Precinct-8",State Senate,28,Ryan M. Maher,REP,240
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",State Senate,28,Ryan M. Maher,REP,240
 Ziebach,7 Red Scaffold,State Senate,28,Ryan M. Maher,REP,20
 Ziebach,1 Bridger,State House,28A,Oren L Lesmeister,DEM,17
 Ziebach,1 Bridger,State House,28A,Ralph Lyon,REP,11
@@ -133,27 +133,57 @@ Ziebach,3 Davis,State House,28A,Oren L Lesmeister,DEM,112
 Ziebach,3 Davis,State House,28A,Ralph Lyon,REP,47
 Ziebach,4 Glad Valley,State House,28A,Oren L Lesmeister,DEM,18
 Ziebach,4 Glad Valley,State House,28A,Ralph Lyon,REP,39
-Ziebach,"-5 North Dupree, Precinct-8",State House,28A,Oren L Lesmeister,DEM,150
-Ziebach,"-5 North Dupree, Precinct-8",State House,28A,Ralph Lyon,REP,175
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",State House,28A,Oren L Lesmeister,DEM,150
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",State House,28A,Ralph Lyon,REP,175
 Ziebach,7 Red Scaffold,State House,28A,Oren L Lesmeister,DEM,23
 Ziebach,7 Red Scaffold,State House,28A,Ralph Lyon,REP,14
+Ziebach,1 Bridger,County Commissioner At Large,,Jim Veit,DEM,14
+Ziebach,1 Bridger,County Commissioner At Large,,Shane Farlee,DEM,13
+Ziebach,1 Bridger,County Commissioner At Large,,Tucker Stocklin,REP,10
+Ziebach,1 Bridger,County Commissioner At Large,,Brian Alley,REP,4
+Ziebach,1 Bridger,County Commissioner At Large,,Rick Farlee,REP,8
+Ziebach,2 Cherry Creek,County Commissioner At Large,,Jim Veit,DEM,37
+Ziebach,2 Cherry Creek,County Commissioner At Large,,Shane Farlee,DEM,32
+Ziebach,2 Cherry Creek,County Commissioner At Large,,Tucker Stocklin,REP,13
+Ziebach,2 Cherry Creek,County Commissioner At Large,,Brian Alley,REP,8
+Ziebach,2 Cherry Creek,County Commissioner At Large,,Rick Farlee,REP,17
+Ziebach,3 Davis,County Commissioner At Large,,Jim Veit,DEM,59
+Ziebach,3 Davis,County Commissioner At Large,,Shane Farlee,DEM,75
+Ziebach,3 Davis,County Commissioner At Large,,Tucker Stocklin,REP,60
+Ziebach,3 Davis,County Commissioner At Large,,Brian Alley,REP,33
+Ziebach,3 Davis,County Commissioner At Large,,Rick Farlee,REP,68
+Ziebach,4 Glad Valley,County Commissioner At Large,,Jim Veit,DEM,11
+Ziebach,4 Glad Valley,County Commissioner At Large,,Shane Farlee,DEM,4
+Ziebach,4 Glad Valley,County Commissioner At Large,,Tucker Stocklin,REP,35
+Ziebach,4 Glad Valley,County Commissioner At Large,,Brian Alley,REP,51
+Ziebach,4 Glad Valley,County Commissioner At Large,,Rick Farlee,REP,24
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",County Commissioner At Large,,Jim Veit,DEM,89
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",County Commissioner At Large,,Shane Farlee,DEM,136
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",County Commissioner At Large,,Tucker Stocklin,REP,159
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",County Commissioner At Large,,Brian Alley,REP,142
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",County Commissioner At Large,,Rick Farlee,REP,191
+Ziebach,7 Red Scaffold,County Commissioner At Large,,Jim Veit,DEM,21
+Ziebach,7 Red Scaffold,County Commissioner At Large,,Shane Farlee,DEM,19
+Ziebach,7 Red Scaffold,County Commissioner At Large,,Tucker Stocklin,REP,12
+Ziebach,7 Red Scaffold,County Commissioner At Large,,Brian Alley,REP,7
+Ziebach,7 Red Scaffold,County Commissioner At Large,,Rick Farlee,REP,11
 Ziebach,1 Bridger,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,9
 Ziebach,2 Cherry Creek,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,18
 Ziebach,3 Davis,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,46
 Ziebach,4 Glad Valley,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,23
-Ziebach,"-5 North Dupree, Precinct-8",Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,122
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,122
 Ziebach,7 Red Scaffold,Judge of the Circuit Court,Position A Fourth Circuit,Eric J. Strawn,NON,10
 Ziebach,1 Bridger,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,11
 Ziebach,2 Cherry Creek,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,18
 Ziebach,3 Davis,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,47
 Ziebach,4 Glad Valley,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,19
-Ziebach,"-5 North Dupree, Precinct-8",Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,131
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,131
 Ziebach,7 Red Scaffold,Judge of the Circuit Court,Position B Fourth Circuit,Michael W. Day,NON,11
 Ziebach,1 Bridger,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,8
 Ziebach,2 Cherry Creek,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,19
 Ziebach,3 Davis,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,45
 Ziebach,4 Glad Valley,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,21
-Ziebach,"-5 North Dupree, Precinct-8",Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,119
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,119
 Ziebach,7 Red Scaffold,Judge of the Circuit Court,Position C Fourth Circuit,Michelle Palmer Comer,NON,11
 Ziebach,1 Bridger,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,4
 Ziebach,1 Bridger,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,0
@@ -175,11 +205,11 @@ Ziebach,4 Glad Valley,Judge of the Circuit Court,Position D Fourth Circuit,Chad 
 Ziebach,4 Glad Valley,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,10
 Ziebach,4 Glad Valley,Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,5
 Ziebach,4 Glad Valley,Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,11
-Ziebach,"-5 North Dupree, Precinct-8",Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,19
-Ziebach,"-5 North Dupree, Precinct-8",Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,38
-Ziebach,"-5 North Dupree, Precinct-8",Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,69
-Ziebach,"-5 North Dupree, Precinct-8",Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,29
-Ziebach,"-5 North Dupree, Precinct-8",Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,22
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,19
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,38
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,69
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Judge of the Circuit Court,Position D Fourth Circuit,John H. Fitzgerald,NON,29
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Judge of the Circuit Court,Position D Fourth Circuit,David V. Natvig,NON,22
 Ziebach,7 Red Scaffold,Judge of the Circuit Court,Position D Fourth Circuit,Tina M. Hogue,NON,4
 Ziebach,7 Red Scaffold,Judge of the Circuit Court,Position D Fourth Circuit,Chad R. Callahan,NON,4
 Ziebach,7 Red Scaffold,Judge of the Circuit Court,Position D Fourth Circuit,Jennifer Tomac,NON,3
@@ -193,8 +223,8 @@ Ziebach,3 Davis,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,93
 Ziebach,3 Davis,Supreme Court Retention,3,Patricia J. DeVaney - No,,45
 Ziebach,4 Glad Valley,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,32
 Ziebach,4 Glad Valley,Supreme Court Retention,3,Patricia J. DeVaney - No,,13
-Ziebach,"-5 North Dupree, Precinct-8",Supreme Court Retention,3,Patricia J. DeVaney - Yes,,200
-Ziebach,"-5 North Dupree, Precinct-8",Supreme Court Retention,3,Patricia J. DeVaney - No,,83
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Supreme Court Retention,3,Patricia J. DeVaney - Yes,,200
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Supreme Court Retention,3,Patricia J. DeVaney - No,,83
 Ziebach,7 Red Scaffold,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,19
 Ziebach,7 Red Scaffold,Supreme Court Retention,3,Patricia J. DeVaney - No,,16
 Ziebach,1 Bridger,Supreme Court Retention,2,Mark E. Salter - Yes,,17
@@ -205,8 +235,8 @@ Ziebach,3 Davis,Supreme Court Retention,2,Mark E. Salter - Yes,,89
 Ziebach,3 Davis,Supreme Court Retention,2,Mark E. Salter - No,,47
 Ziebach,4 Glad Valley,Supreme Court Retention,2,Mark E. Salter - Yes,,30
 Ziebach,4 Glad Valley,Supreme Court Retention,2,Mark E. Salter - No,,14
-Ziebach,"-5 North Dupree, Precinct-8",Supreme Court Retention,2,Mark E. Salter - Yes,,190
-Ziebach,"-5 North Dupree, Precinct-8",Supreme Court Retention,2,Mark E. Salter - No,,87
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Supreme Court Retention,2,Mark E. Salter - Yes,,190
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Supreme Court Retention,2,Mark E. Salter - No,,87
 Ziebach,7 Red Scaffold,Supreme Court Retention,2,Mark E. Salter - Yes,,20
 Ziebach,7 Red Scaffold,Supreme Court Retention,2,Mark E. Salter - No,,14
 Ziebach,1 Bridger,Constitutional Amendment D,,Yes,,24
@@ -217,8 +247,8 @@ Ziebach,3 Davis,Constitutional Amendment D,,Yes,,131
 Ziebach,3 Davis,Constitutional Amendment D,,No,,29
 Ziebach,4 Glad Valley,Constitutional Amendment D,,Yes,,25
 Ziebach,4 Glad Valley,Constitutional Amendment D,,No,,32
-Ziebach,"-5 North Dupree, Precinct-8",Constitutional Amendment D,,Yes,,188
-Ziebach,"-5 North Dupree, Precinct-8",Constitutional Amendment D,,No,,134
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Constitutional Amendment D,,Yes,,188
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Constitutional Amendment D,,No,,134
 Ziebach,7 Red Scaffold,Constitutional Amendment D,,Yes,,31
 Ziebach,7 Red Scaffold,Constitutional Amendment D,,No,,6
 Ziebach,1 Bridger,Initiated Measure 27,,Yes,,15
@@ -229,7 +259,7 @@ Ziebach,3 Davis,Initiated Measure 27,,Yes,,115
 Ziebach,3 Davis,Initiated Measure 27,,No,,47
 Ziebach,4 Glad Valley,Initiated Measure 27,,Yes,,6
 Ziebach,4 Glad Valley,Initiated Measure 27,,No,,51
-Ziebach,"-5 North Dupree, Precinct-8",Initiated Measure 27,,Yes,,142
-Ziebach,"-5 North Dupree, Precinct-8",Initiated Measure 27,,No,,185
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Initiated Measure 27,,Yes,,142
+Ziebach,"6 Redelm (Precinct-5 North Dupree, Precinct-8 South Dupree)",Initiated Measure 27,,No,,185
 Ziebach,7 Red Scaffold,Initiated Measure 27,,Yes,,23
 Ziebach,7 Red Scaffold,Initiated Measure 27,,No,,16

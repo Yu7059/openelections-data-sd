@@ -32,9 +32,9 @@ Codington,A2,U.S. Senate,,John R. Thune,REP,347
 Codington,A3 (Precinct-A4),U.S. Senate,,Brian L. Bengs,DEM,88
 Codington,A3 (Precinct-A4),U.S. Senate,,Tamara J Lesnar,LIB,16
 Codington,A3 (Precinct-A4),U.S. Senate,,John R. Thune,REP,368
-Codington,B1 (Precinct-B4),U.S. Senate,,Brian L. Bengs,DEM,123
-Codington,B1 (Precinct-B4),U.S. Senate,,Tamara J Lesnar,LIB,25
-Codington,B1 (Precinct-B4),U.S. Senate,,John R. Thune,REP,557
+Codington,"B1 (Precinct-B4, Precinct-E5)",U.S. Senate,,Brian L. Bengs,DEM,123
+Codington,"B1 (Precinct-B4, Precinct-E5)",U.S. Senate,,Tamara J Lesnar,LIB,25
+Codington,"B1 (Precinct-B4, Precinct-E5)",U.S. Senate,,John R. Thune,REP,557
 Codington,B2,U.S. Senate,,Brian L. Bengs,DEM,221
 Codington,B2,U.S. Senate,,Tamara J Lesnar,LIB,51
 Codington,B2,U.S. Senate,,John R. Thune,REP,461
@@ -90,8 +90,8 @@ Codington,A2,U.S. House,1,Collin Duprel,LIB,79
 Codington,A2,U.S. House,1,Dusty Johnson,REP,363
 Codington,A3 (Precinct-A4),U.S. House,1,Collin Duprel,LIB,63
 Codington,A3 (Precinct-A4),U.S. House,1,Dusty Johnson,REP,385
-Codington,B1 (Precinct-B4),U.S. House,1,Collin Duprel,LIB,90
-Codington,B1 (Precinct-B4),U.S. House,1,Dusty Johnson,REP,589
+Codington,"B1 (Precinct-B4, Precinct-E5)",U.S. House,1,Collin Duprel,LIB,90
+Codington,"B1 (Precinct-B4, Precinct-E5)",U.S. House,1,Dusty Johnson,REP,589
 Codington,B2,U.S. House,1,Collin Duprel,LIB,197
 Codington,B2,U.S. House,1,Dusty Johnson,REP,501
 Codington,B3 (Precinct-C1),U.S. House,1,Collin Duprel,LIB,124
@@ -147,9 +147,9 @@ Codington,A2,Governor,,Kristi Noem and Larry Rhoden,REP,309
 Codington,A3 (Precinct-A4),Governor,,Jamie Smith and Jennifer Keintz,DEM,136
 Codington,A3 (Precinct-A4),Governor,,Tracey Quint and Ashley Strand,LIB,10
 Codington,A3 (Precinct-A4),Governor,,Kristi Noem and Larry Rhoden,REP,330
-Codington,B1 (Precinct-B4),Governor,,Jamie Smith and Jennifer Keintz,DEM,191
-Codington,B1 (Precinct-B4),Governor,,Tracey Quint and Ashley Strand,LIB,20
-Codington,B1 (Precinct-B4),Governor,,Kristi Noem and Larry Rhoden,REP,495
+Codington,"B1 (Precinct-B4, Precinct-E5)",Governor,,Jamie Smith and Jennifer Keintz,DEM,191
+Codington,"B1 (Precinct-B4, Precinct-E5)",Governor,,Tracey Quint and Ashley Strand,LIB,20
+Codington,"B1 (Precinct-B4, Precinct-E5)",Governor,,Kristi Noem and Larry Rhoden,REP,495
 Codington,B2,Governor,,Jamie Smith and Jennifer Keintz,DEM,310
 Codington,B2,Governor,,Tracey Quint and Ashley Strand,LIB,42
 Codington,B2,Governor,,Kristi Noem and Larry Rhoden,REP,384
@@ -205,8 +205,8 @@ Codington,A2,Secretary of State,,Thomas A Cool,DEM,153
 Codington,A2,Secretary of State,,Monae Johnson,REP,301
 Codington,A3 (Precinct-A4),Secretary of State,,Thomas A Cool,DEM,126
 Codington,A3 (Precinct-A4),Secretary of State,,Monae Johnson,REP,317
-Codington,B1 (Precinct-B4),Secretary of State,,Thomas A Cool,DEM,185
-Codington,B1 (Precinct-B4),Secretary of State,,Monae Johnson,REP,480
+Codington,"B1 (Precinct-B4, Precinct-E5)",Secretary of State,,Thomas A Cool,DEM,185
+Codington,"B1 (Precinct-B4, Precinct-E5)",Secretary of State,,Monae Johnson,REP,480
 Codington,B2,Secretary of State,,Thomas A Cool,DEM,294
 Codington,B2,Secretary of State,,Monae Johnson,REP,394
 Codington,B3 (Precinct-C1),Secretary of State,,Thomas A Cool,DEM,222
@@ -240,7 +240,7 @@ Codington,"LEOLA, SOUTH SHORE",Attorney General,,Marty J. Jackley,REP,102
 Codington,A1,Attorney General,,Marty J. Jackley,REP,814
 Codington,A2,Attorney General,,Marty J. Jackley,REP,361
 Codington,A3 (Precinct-A4),Attorney General,,Marty J. Jackley,REP,383
-Codington,B1 (Precinct-B4),Attorney General,,Marty J. Jackley,REP,578
+Codington,"B1 (Precinct-B4, Precinct-E5)",Attorney General,,Marty J. Jackley,REP,578
 Codington,B2,Attorney General,,Marty J. Jackley,REP,528
 Codington,B3 (Precinct-C1),Attorney General,,Marty J. Jackley,REP,588
 Codington,"C2 (ELMIRA, Precinct-D4)",Attorney General,,Marty J. Jackley,REP,401
@@ -285,9 +285,9 @@ Codington,A2,State Auditor,,Richard Sattgast,REP,289
 Codington,A3 (Precinct-A4),State Auditor,,Stephanie Marty,DEM,112
 Codington,A3 (Precinct-A4),State Auditor,,Rene Meyer,LIB,22
 Codington,A3 (Precinct-A4),State Auditor,,Richard Sattgast,REP,299
-Codington,B1 (Precinct-B4),State Auditor,,Stephanie Marty,DEM,167
-Codington,B1 (Precinct-B4),State Auditor,,Rene Meyer,LIB,20
-Codington,B1 (Precinct-B4),State Auditor,,Richard Sattgast,REP,474
+Codington,"B1 (Precinct-B4, Precinct-E5)",State Auditor,,Stephanie Marty,DEM,167
+Codington,"B1 (Precinct-B4, Precinct-E5)",State Auditor,,Rene Meyer,LIB,20
+Codington,"B1 (Precinct-B4, Precinct-E5)",State Auditor,,Richard Sattgast,REP,474
 Codington,B2,State Auditor,,Stephanie Marty,DEM,267
 Codington,B2,State Auditor,,Rene Meyer,LIB,54
 Codington,B2,State Auditor,,Richard Sattgast,REP,353
@@ -343,8 +343,8 @@ Codington,A2,State Treasurer,,John Cunningham,DEM,140
 Codington,A2,State Treasurer,,Josh Haeder,REP,303
 Codington,A3 (Precinct-A4),State Treasurer,,John Cunningham,DEM,118
 Codington,A3 (Precinct-A4),State Treasurer,,Josh Haeder,REP,324
-Codington,B1 (Precinct-B4),State Treasurer,,John Cunningham,DEM,163
-Codington,B1 (Precinct-B4),State Treasurer,,Josh Haeder,REP,490
+Codington,"B1 (Precinct-B4, Precinct-E5)",State Treasurer,,John Cunningham,DEM,163
+Codington,"B1 (Precinct-B4, Precinct-E5)",State Treasurer,,Josh Haeder,REP,490
 Codington,B2,State Treasurer,,John Cunningham,DEM,276
 Codington,B2,State Treasurer,,Josh Haeder,REP,401
 Codington,B3 (Precinct-C1),State Treasurer,,John Cunningham,DEM,220
@@ -389,8 +389,8 @@ Codington,A2,Commissioner of School and Public Lands,,Timothy Azure,DEM,143
 Codington,A2,Commissioner of School and Public Lands,,Brock Greenfield,REP,315
 Codington,A3 (Precinct-A4),Commissioner of School and Public Lands,,Timothy Azure,DEM,101
 Codington,A3 (Precinct-A4),Commissioner of School and Public Lands,,Brock Greenfield,REP,332
-Codington,B1 (Precinct-B4),Commissioner of School and Public Lands,,Timothy Azure,DEM,161
-Codington,B1 (Precinct-B4),Commissioner of School and Public Lands,,Brock Greenfield,REP,496
+Codington,"B1 (Precinct-B4, Precinct-E5)",Commissioner of School and Public Lands,,Timothy Azure,DEM,161
+Codington,"B1 (Precinct-B4, Precinct-E5)",Commissioner of School and Public Lands,,Brock Greenfield,REP,496
 Codington,B2,Commissioner of School and Public Lands,,Timothy Azure,DEM,252
 Codington,B2,Commissioner of School and Public Lands,,Brock Greenfield,REP,421
 Codington,B3 (Precinct-C1),Commissioner of School and Public Lands,,Timothy Azure,DEM,195
@@ -435,8 +435,8 @@ Codington,A2,Public Utilities Commissioner,,Jeffrey Barth,DEM,128
 Codington,A2,Public Utilities Commissioner,,Chris Nelson,REP,327
 Codington,A3 (Precinct-A4),Public Utilities Commissioner,,Jeffrey Barth,DEM,100
 Codington,A3 (Precinct-A4),Public Utilities Commissioner,,Chris Nelson,REP,340
-Codington,B1 (Precinct-B4),Public Utilities Commissioner,,Jeffrey Barth,DEM,141
-Codington,B1 (Precinct-B4),Public Utilities Commissioner,,Chris Nelson,REP,520
+Codington,"B1 (Precinct-B4, Precinct-E5)",Public Utilities Commissioner,,Jeffrey Barth,DEM,141
+Codington,"B1 (Precinct-B4, Precinct-E5)",Public Utilities Commissioner,,Chris Nelson,REP,520
 Codington,B2,Public Utilities Commissioner,,Jeffrey Barth,DEM,241
 Codington,B2,Public Utilities Commissioner,,Chris Nelson,REP,432
 Codington,B3 (Precinct-C1),Public Utilities Commissioner,,Jeffrey Barth,DEM,180
@@ -459,6 +459,103 @@ Codington,SHERIDAN,Public Utilities Commissioner,,Jeffrey Barth,DEM,39
 Codington,SHERIDAN,Public Utilities Commissioner,,Chris Nelson,REP,152
 Codington,WAVERLY,Public Utilities Commissioner,,Jeffrey Barth,DEM,18
 Codington,WAVERLY,Public Utilities Commissioner,,Chris Nelson,REP,74
+Codington,DEXTER,State Senate,04,John Wiik,REP,69
+Codington,"EDEN, PHIPPS, WALLACE",State Senate,04,John Wiik,REP,75
+Codington,"FULLER, FLORENCE",State Senate,04,John Wiik,REP,186
+Codington,GERMANTOWN (RAUVILLE),State Senate,04,John Wiik,REP,144
+Codington,"GRACELAND, HENRY, HENRY",State Senate,04,John Wiik,REP,172
+Codington,KAMPESKA (RICHLAND),State Senate,04,John Wiik,REP,176
+Codington,"KRANZBURG, KRANZBURG",State Senate,04,John Wiik,REP,180
+Codington,"LEOLA, SOUTH SHORE",State Senate,04,John Wiik,REP,95
+Codington,WAVERLY,State Senate,04,John Wiik,REP,62
+Codington,A1,State Senate,05,Lee Schoenbeck,REP,751
+Codington,A2,State Senate,05,Lee Schoenbeck,REP,338
+Codington,A3 (Precinct-A4),State Senate,05,Lee Schoenbeck,REP,350
+Codington,"B1 (Precinct-B4, Precinct-E5)",State Senate,05,Lee Schoenbeck,REP,534
+Codington,B2,State Senate,05,Lee Schoenbeck,REP,473
+Codington,B3 (Precinct-C1),State Senate,05,Lee Schoenbeck,REP,531
+Codington,"C2 (ELMIRA, Precinct-D4)",State Senate,05,Lee Schoenbeck,REP,358
+Codington,"C3 (PELICAN, Precinct-C4)",State Senate,05,Lee Schoenbeck,REP,787
+Codington,D1,State Senate,05,Lee Schoenbeck,REP,336
+Codington,D2,State Senate,05,Lee Schoenbeck,REP,266
+Codington,D3,State Senate,05,Lee Schoenbeck,REP,258
+Codington,"E1 (LAKE, Precinct-E4)",State Senate,05,Lee Schoenbeck,REP,806
+Codington,E2 (Precinct-E3),State Senate,05,Lee Schoenbeck,REP,800
+Codington,SHERIDAN,State Senate,05,Lee Schoenbeck,REP,155
+Codington,DEXTER,State House,04,Stephanie Sauder,REP,41
+Codington,DEXTER,State House,04,Fred Deutsch,REP,55
+Codington,"EDEN, PHIPPS, WALLACE",State House,04,Stephanie Sauder,REP,41
+Codington,"EDEN, PHIPPS, WALLACE",State House,04,Fred Deutsch,REP,65
+Codington,"FULLER, FLORENCE",State House,04,Stephanie Sauder,REP,120
+Codington,"FULLER, FLORENCE",State House,04,Fred Deutsch,REP,156
+Codington,GERMANTOWN (RAUVILLE),State House,04,Stephanie Sauder,REP,95
+Codington,GERMANTOWN (RAUVILLE),State House,04,Fred Deutsch,REP,118
+Codington,"GRACELAND, HENRY, HENRY",State House,04,Stephanie Sauder,REP,123
+Codington,"GRACELAND, HENRY, HENRY",State House,04,Fred Deutsch,REP,129
+Codington,KAMPESKA (RICHLAND),State House,04,Stephanie Sauder,REP,120
+Codington,KAMPESKA (RICHLAND),State House,04,Fred Deutsch,REP,138
+Codington,"KRANZBURG, KRANZBURG",State House,04,Stephanie Sauder,REP,106
+Codington,"KRANZBURG, KRANZBURG",State House,04,Fred Deutsch,REP,147
+Codington,"LEOLA, SOUTH SHORE",State House,04,Stephanie Sauder,REP,63
+Codington,"LEOLA, SOUTH SHORE",State House,04,Fred Deutsch,REP,76
+Codington,WAVERLY,State House,04,Stephanie Sauder,REP,40
+Codington,WAVERLY,State House,04,Fred Deutsch,REP,63
+Codington,A1,State House,05,Kahden Mooney,DEM,266
+Codington,A1,State House,05,Byron I. Callies,REP,515
+Codington,A1,State House,05,Hugh M. Bartels,REP,658
+Codington,A2,State House,05,Kahden Mooney,DEM,166
+Codington,A2,State House,05,Byron I. Callies,REP,235
+Codington,A2,State House,05,Hugh M. Bartels,REP,304
+Codington,A3 (Precinct-A4),State House,05,Kahden Mooney,DEM,147
+Codington,A3 (Precinct-A4),State House,05,Byron I. Callies,REP,224
+Codington,A3 (Precinct-A4),State House,05,Hugh M. Bartels,REP,303
+Codington,"B1 (Precinct-B4, Precinct-E5)",State House,05,Kahden Mooney,DEM,186
+Codington,"B1 (Precinct-B4, Precinct-E5)",State House,05,Byron I. Callies,REP,374
+Codington,"B1 (Precinct-B4, Precinct-E5)",State House,05,Hugh M. Bartels,REP,475
+Codington,B2,State House,05,Kahden Mooney,DEM,320
+Codington,B2,State House,05,Byron I. Callies,REP,276
+Codington,B2,State House,05,Hugh M. Bartels,REP,398
+Codington,B3 (Precinct-C1),State House,05,Kahden Mooney,DEM,235
+Codington,B3 (Precinct-C1),State House,05,Byron I. Callies,REP,323
+Codington,B3 (Precinct-C1),State House,05,Hugh M. Bartels,REP,492
+Codington,"C2 (ELMIRA, Precinct-D4)",State House,05,Kahden Mooney,DEM,206
+Codington,"C2 (ELMIRA, Precinct-D4)",State House,05,Byron I. Callies,REP,242
+Codington,"C2 (ELMIRA, Precinct-D4)",State House,05,Hugh M. Bartels,REP,329
+Codington,"C3 (PELICAN, Precinct-C4)",State House,05,Kahden Mooney,DEM,364
+Codington,"C3 (PELICAN, Precinct-C4)",State House,05,Byron I. Callies,REP,468
+Codington,"C3 (PELICAN, Precinct-C4)",State House,05,Hugh M. Bartels,REP,671
+Codington,D1,State House,05,Kahden Mooney,DEM,141
+Codington,D1,State House,05,Byron I. Callies,REP,207
+Codington,D1,State House,05,Hugh M. Bartels,REP,308
+Codington,D2,State House,05,Kahden Mooney,DEM,136
+Codington,D2,State House,05,Byron I. Callies,REP,165
+Codington,D2,State House,05,Hugh M. Bartels,REP,238
+Codington,D3,State House,05,Kahden Mooney,DEM,123
+Codington,D3,State House,05,Byron I. Callies,REP,160
+Codington,D3,State House,05,Hugh M. Bartels,REP,220
+Codington,"E1 (LAKE, Precinct-E4)",State House,05,Kahden Mooney,DEM,337
+Codington,"E1 (LAKE, Precinct-E4)",State House,05,Byron I. Callies,REP,525
+Codington,"E1 (LAKE, Precinct-E4)",State House,05,Hugh M. Bartels,REP,739
+Codington,E2 (Precinct-E3),State House,05,Kahden Mooney,DEM,240
+Codington,E2 (Precinct-E3),State House,05,Byron I. Callies,REP,550
+Codington,E2 (Precinct-E3),State House,05,Hugh M. Bartels,REP,770
+Codington,SHERIDAN,State House,05,Kahden Mooney,DEM,50
+Codington,SHERIDAN,State House,05,Byron I. Callies,REP,87
+Codington,SHERIDAN,State House,05,Hugh M. Bartels,REP,153
+Codington,"B1 (Precinct-B4, Precinct-E5)",County Commissioner Codington-1,,Raymond Johnson,DEM,146
+Codington,"B1 (Precinct-B4, Precinct-E5)",County Commissioner Codington-1,,D. Lee Gabel,REP,521
+Codington,B2,County Commissioner Codington-1,,Raymond Johnson,DEM,260
+Codington,B2,County Commissioner Codington-1,,D. Lee Gabel,REP,419
+Codington,B3 (Precinct-C1),County Commissioner Codington-1,,Raymond Johnson,DEM,194
+Codington,B3 (Precinct-C1),County Commissioner Codington-1,,D. Lee Gabel,REP,506
+Codington,DEXTER,County Commissioner Codington-3,,L. Myron Johnson,REP,59
+Codington,DEXTER,County Commissioner Codington-3,,Justin Pietz,IND,24
+Codington,GERMANTOWN (RAUVILLE),County Commissioner Codington-3,,L. Myron Johnson,REP,131
+Codington,GERMANTOWN (RAUVILLE),County Commissioner Codington-3,,Justin Pietz,IND,64
+Codington,"E1 (LAKE, Precinct-E4)",County Commissioner Codington-3,,L. Myron Johnson,REP,617
+Codington,"E1 (LAKE, Precinct-E4)",County Commissioner Codington-3,,Justin Pietz,IND,453
+Codington,E2 (Precinct-E3),County Commissioner Codington-3,,L. Myron Johnson,REP,587
+Codington,E2 (Precinct-E3),County Commissioner Codington-3,,Justin Pietz,IND,408
 Codington,DEXTER,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,50
 Codington,"EDEN, PHIPPS, WALLACE",Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,44
 Codington,"FULLER, FLORENCE",Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,120
@@ -470,7 +567,7 @@ Codington,"LEOLA, SOUTH SHORE",Judge of the Circuit Court,Position A Third Circu
 Codington,A1,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,536
 Codington,A2,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,246
 Codington,A3 (Precinct-A4),Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,227
-Codington,B1 (Precinct-B4),Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,372
+Codington,"B1 (Precinct-B4, Precinct-E5)",Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,372
 Codington,B2,Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,391
 Codington,B3 (Precinct-C1),Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,354
 Codington,"C2 (ELMIRA, Precinct-D4)",Judge of the Circuit Court,Position A Third Circuit,Carmen Means,NON,264
@@ -493,7 +590,7 @@ Codington,"LEOLA, SOUTH SHORE",Judge of the Circuit Court,Position B Third Circu
 Codington,A1,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,543
 Codington,A2,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,254
 Codington,A3 (Precinct-A4),Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,235
-Codington,B1 (Precinct-B4),Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,386
+Codington,"B1 (Precinct-B4, Precinct-E5)",Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,386
 Codington,B2,Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,380
 Codington,B3 (Precinct-C1),Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,370
 Codington,"C2 (ELMIRA, Precinct-D4)",Judge of the Circuit Court,Position B Third Circuit,Dawn M. Elshere,NON,270
@@ -516,7 +613,7 @@ Codington,"LEOLA, SOUTH SHORE",Judge of the Circuit Court,Position C Third Circu
 Codington,A1,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,488
 Codington,A2,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,222
 Codington,A3 (Precinct-A4),Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,200
-Codington,B1 (Precinct-B4),Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,333
+Codington,"B1 (Precinct-B4, Precinct-E5)",Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,333
 Codington,B2,Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,330
 Codington,B3 (Precinct-C1),Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,305
 Codington,"C2 (ELMIRA, Precinct-D4)",Judge of the Circuit Court,Position C Third Circuit,Kent A Shelton,NON,230
@@ -539,7 +636,7 @@ Codington,"LEOLA, SOUTH SHORE",Judge of the Circuit Court,Position D Third Circu
 Codington,A1,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,515
 Codington,A2,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,232
 Codington,A3 (Precinct-A4),Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,215
-Codington,B1 (Precinct-B4),Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,341
+Codington,"B1 (Precinct-B4, Precinct-E5)",Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,341
 Codington,B2,Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,343
 Codington,B3 (Precinct-C1),Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,325
 Codington,"C2 (ELMIRA, Precinct-D4)",Judge of the Circuit Court,Position D Third Circuit,Gregory J. Stoltenburg,NON,250
@@ -573,8 +670,8 @@ Codington,A2,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spear
 Codington,A2,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,108
 Codington,A3 (Precinct-A4),Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,193
 Codington,A3 (Precinct-A4),Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,94
-Codington,B1 (Precinct-B4),Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,314
-Codington,B1 (Precinct-B4),Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,160
+Codington,"B1 (Precinct-B4, Precinct-E5)",Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,314
+Codington,"B1 (Precinct-B4, Precinct-E5)",Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,160
 Codington,B2,Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,304
 Codington,B2,Judge of the Circuit Court,Position E Third Circuit,Michael R. Moore,NON,176
 Codington,B3 (Precinct-C1),Judge of the Circuit Court,Position E Third Circuit,Robert L. Spears,NON,300
@@ -608,7 +705,7 @@ Codington,"LEOLA, SOUTH SHORE",Judge of the Circuit Court,Position F Third Circu
 Codington,A1,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,477
 Codington,A2,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,224
 Codington,A3 (Precinct-A4),Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,200
-Codington,B1 (Precinct-B4),Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,323
+Codington,"B1 (Precinct-B4, Precinct-E5)",Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,323
 Codington,B2,Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,332
 Codington,B3 (Precinct-C1),Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,298
 Codington,"C2 (ELMIRA, Precinct-D4)",Judge of the Circuit Court,Position F Third Circuit,Patrick Pardy,NON,220
@@ -642,8 +739,8 @@ Codington,A2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,334
 Codington,A2,Supreme Court Retention,3,Patricia J. DeVaney - No,,62
 Codington,A3 (Precinct-A4),Supreme Court Retention,3,Patricia J. DeVaney - Yes,,324
 Codington,A3 (Precinct-A4),Supreme Court Retention,3,Patricia J. DeVaney - No,,47
-Codington,B1 (Precinct-B4),Supreme Court Retention,3,Patricia J. DeVaney - Yes,,486
-Codington,B1 (Precinct-B4),Supreme Court Retention,3,Patricia J. DeVaney - No,,83
+Codington,"B1 (Precinct-B4, Precinct-E5)",Supreme Court Retention,3,Patricia J. DeVaney - Yes,,486
+Codington,"B1 (Precinct-B4, Precinct-E5)",Supreme Court Retention,3,Patricia J. DeVaney - No,,83
 Codington,B2,Supreme Court Retention,3,Patricia J. DeVaney - Yes,,458
 Codington,B2,Supreme Court Retention,3,Patricia J. DeVaney - No,,126
 Codington,B3 (Precinct-C1),Supreme Court Retention,3,Patricia J. DeVaney - Yes,,468
@@ -688,8 +785,8 @@ Codington,A2,Supreme Court Retention,2,Mark E. Salter - Yes,,334
 Codington,A2,Supreme Court Retention,2,Mark E. Salter - No,,56
 Codington,A3 (Precinct-A4),Supreme Court Retention,2,Mark E. Salter - Yes,,315
 Codington,A3 (Precinct-A4),Supreme Court Retention,2,Mark E. Salter - No,,54
-Codington,B1 (Precinct-B4),Supreme Court Retention,2,Mark E. Salter - Yes,,493
-Codington,B1 (Precinct-B4),Supreme Court Retention,2,Mark E. Salter - No,,75
+Codington,"B1 (Precinct-B4, Precinct-E5)",Supreme Court Retention,2,Mark E. Salter - Yes,,493
+Codington,"B1 (Precinct-B4, Precinct-E5)",Supreme Court Retention,2,Mark E. Salter - No,,75
 Codington,B2,Supreme Court Retention,2,Mark E. Salter - Yes,,456
 Codington,B2,Supreme Court Retention,2,Mark E. Salter - No,,122
 Codington,B3 (Precinct-C1),Supreme Court Retention,2,Mark E. Salter - Yes,,468
@@ -734,8 +831,8 @@ Codington,A2,Constitutional Amendment D,,Yes,,237
 Codington,A2,Constitutional Amendment D,,No,,233
 Codington,A3 (Precinct-A4),Constitutional Amendment D,,Yes,,218
 Codington,A3 (Precinct-A4),Constitutional Amendment D,,No,,240
-Codington,B1 (Precinct-B4),Constitutional Amendment D,,Yes,,334
-Codington,B1 (Precinct-B4),Constitutional Amendment D,,No,,364
+Codington,"B1 (Precinct-B4, Precinct-E5)",Constitutional Amendment D,,Yes,,334
+Codington,"B1 (Precinct-B4, Precinct-E5)",Constitutional Amendment D,,No,,364
 Codington,B2,Constitutional Amendment D,,Yes,,453
 Codington,B2,Constitutional Amendment D,,No,,273
 Codington,B3 (Precinct-C1),Constitutional Amendment D,,Yes,,388
@@ -780,8 +877,8 @@ Codington,A2,Initiated Measure 27,,Yes,,195
 Codington,A2,Initiated Measure 27,,No,,281
 Codington,A3 (Precinct-A4),Initiated Measure 27,,Yes,,207
 Codington,A3 (Precinct-A4),Initiated Measure 27,,No,,261
-Codington,B1 (Precinct-B4),Initiated Measure 27,,Yes,,296
-Codington,B1 (Precinct-B4),Initiated Measure 27,,No,,413
+Codington,"B1 (Precinct-B4, Precinct-E5)",Initiated Measure 27,,Yes,,296
+Codington,"B1 (Precinct-B4, Precinct-E5)",Initiated Measure 27,,No,,413
 Codington,B2,Initiated Measure 27,,Yes,,440
 Codington,B2,Initiated Measure 27,,No,,302
 Codington,B3 (Precinct-C1),Initiated Measure 27,,Yes,,330
@@ -804,86 +901,3 @@ Codington,SHERIDAN,Initiated Measure 27,,Yes,,64
 Codington,SHERIDAN,Initiated Measure 27,,No,,140
 Codington,WAVERLY,Initiated Measure 27,,Yes,,31
 Codington,WAVERLY,Initiated Measure 27,,No,,67
-Codington,DEXTER,State Senate,04,John Wiik,REP,69
-Codington,"EDEN, PHIPPS, WALLACE",State Senate,04,John Wiik,REP,75
-Codington,"FULLER, FLORENCE",State Senate,04,John Wiik,REP,186
-Codington,GERMANTOWN (RAUVILLE),State Senate,04,John Wiik,REP,144
-Codington,"GRACELAND, HENRY, HENRY",State Senate,04,John Wiik,REP,172
-Codington,KAMPESKA (RICHLAND),State Senate,04,John Wiik,REP,176
-Codington,"KRANZBURG, KRANZBURG",State Senate,04,John Wiik,REP,180
-Codington,"LEOLA, SOUTH SHORE",State Senate,04,John Wiik,REP,95
-Codington,A1,State Senate,05,Lee Schoenbeck,REP,751
-Codington,A2,State Senate,05,Lee Schoenbeck,REP,338
-Codington,A3 (Precinct-A4),State Senate,05,Lee Schoenbeck,REP,350
-Codington,"B1 (Precinct-B4, Precinct-E5)",State Senate,05,Lee Schoenbeck,REP,534
-Codington,B2,State Senate,05,Lee Schoenbeck,REP,473
-Codington,B3 (Precinct-C1),State Senate,05,Lee Schoenbeck,REP,531
-Codington,"C2 (ELMIRA, Precinct-D4)",State Senate,05,Lee Schoenbeck,REP,358
-Codington,"C3 (PELICAN, Precinct-C4)",State Senate,05,Lee Schoenbeck,REP,787
-Codington,D1,State Senate,05,Lee Schoenbeck,REP,336
-Codington,D2,State Senate,05,Lee Schoenbeck,REP,266
-Codington,D3,State Senate,05,Lee Schoenbeck,REP,258
-Codington,"E1 (LAKE, Precinct -E4)",State Senate,05,Lee Schoenbeck,REP,806
-Codington,E2 (Precinct-E3),State Senate,05,Lee Schoenbeck,REP,800
-Codington,SHERIDAN,State Senate,05,Lee Schoenbeck,REP,155
-Codington,WAVERLY,State Senate,04,John Wiik,REP,62
-Codington,DEXTER,State House,04,Stephanie Sauder,REP,41
-Codington,DEXTER,State House,04,Fred Deutsch,REP,55
-Codington,"EDEN, PHIPPS, WALLACE",State House,04,Stephanie Sauder,REP,41
-Codington,"EDEN, PHIPPS, WALLACE",State House,04,Fred Deutsch,REP,65
-Codington,"FULLER, FLORENCE",State House,04,Stephanie Sauder,REP,120
-Codington,"FULLER, FLORENCE",State House,04,Fred Deutsch,REP,156
-Codington,GERMANTOWN (RAUVILLE),State House,04,Stephanie Sauder,REP,95
-Codington,GERMANTOWN (RAUVILLE),State House,04,Fred Deutsch,REP,118
-Codington,"GRACELAND, HENRY, HENRY",State House,04,Stephanie Sauder,REP,123
-Codington,"GRACELAND, HENRY, HENRY",State House,04,Fred Deutsch,REP,129
-Codington,KAMPESKA (RICHLAND),State House,04,Stephanie Sauder,REP,120
-Codington,KAMPESKA (RICHLAND),State House,04,Fred Deutsch,REP,138
-Codington,"KRANZBURG, KRANZBURG",State House,04,Stephanie Sauder,REP,106
-Codington,"KRANZBURG, KRANZBURG",State House,04,Fred Deutsch,REP,147
-Codington,"LEOLA, SOUTH SHORE",State House,04,Stephanie Sauder,REP,63
-Codington,"LEOLA, SOUTH SHORE",State House,04,Fred Deutsch,REP,76
-Codington,A1,State House,05,Kahden Mooney,DEM,266
-Codington,A1,State House,05,Byron I. Callies,REP,515
-Codington,A1,State House,05,Hugh M. Bartels,REP,658
-Codington,A2,State House,05,Kahden Mooney,DEM,166
-Codington,A2,State House,05,Byron I. Callies,REP,235
-Codington,A2,State House,05,Hugh M. Bartels,REP,304
-Codington,A3 (Precinct-A4),State House,05,Kahden Mooney,DEM,147
-Codington,A3 (Precinct-A4),State House,05,Byron I. Callies,REP,224
-Codington,A3 (Precinct-A4),State House,05,Hugh M. Bartels,REP,303
-Codington,"B1 (Precinct-B4, Precinct-E5)",State House,05,Kahden Mooney,DEM,186
-Codington,"B1 (Precinct-B4, Precinct-E5)",State House,05,Byron I. Callies,REP,374
-Codington,"B1 (Precinct-B4, Precinct-E5)",State House,05,Hugh M. Bartels,REP,475
-Codington,B2,State House,05,Kahden Mooney,DEM,320
-Codington,B2,State House,05,Byron I. Callies,REP,276
-Codington,B2,State House,05,Hugh M. Bartels,REP,398
-Codington,B3 (Precinct-C1),State House,05,Kahden Mooney,DEM,235
-Codington,B3 (Precinct-C1),State House,05,Byron I. Callies,REP,323
-Codington,B3 (Precinct-C1),State House,05,Hugh M. Bartels,REP,492
-Codington,"C2 (ELMIRA, Precinct-D4)",State House,05,Kahden Mooney,DEM,206
-Codington,"C2 (ELMIRA, Precinct-D4)",State House,05,Byron I. Callies,REP,242
-Codington,"C2 (ELMIRA, Precinct-D4)",State House,05,Hugh M. Bartels,REP,329
-Codington,"C3 (PELICAN, Precinct-C4)",State House,05,Kahden Mooney,DEM,364
-Codington,"C3 (PELICAN, Precinct-C4)",State House,05,Byron I. Callies,REP,468
-Codington,"C3 (PELICAN, Precinct-C4)",State House,05,Hugh M. Bartels,REP,671
-Codington,D1,State House,05,Kahden Mooney,DEM,141
-Codington,D1,State House,05,Byron I. Callies,REP,207
-Codington,D1,State House,05,Hugh M. Bartels,REP,308
-Codington,D2,State House,05,Kahden Mooney,DEM,136
-Codington,D2,State House,05,Byron I. Callies,REP,165
-Codington,D2,State House,05,Hugh M. Bartels,REP,238
-Codington,D3,State House,05,Kahden Mooney,DEM,123
-Codington,D3,State House,05,Byron I. Callies,REP,160
-Codington,D3,State House,05,Hugh M. Bartels,REP,220
-Codington,"E1 (LAKE, Precinct -E4)",State House,05,Kahden Mooney,DEM,337
-Codington,"E1 (LAKE, Precinct -E4)",State House,05,Byron I. Callies,REP,525
-Codington,"E1 (LAKE, Precinct -E4)",State House,05,Hugh M. Bartels,REP,739
-Codington,E2 (Precinct-E3),State House,05,Kahden Mooney,DEM,240
-Codington,E2 (Precinct-E3),State House,05,Byron I. Callies,REP,550
-Codington,E2 (Precinct-E3),State House,05,Hugh M. Bartels,REP,770
-Codington,SHERIDAN,State House,05,Kahden Mooney,DEM,50
-Codington,SHERIDAN,State House,05,Byron I. Callies,REP,87
-Codington,SHERIDAN,State House,05,Hugh M. Bartels,REP,153
-Codington,WAVERLY,State House,04,Stephanie Sauder,REP,40
-Codington,WAVERLY,State House,04,Fred Deutsch,REP,63
