@@ -1,0 +1,611 @@
+county,office,district,party,candidate,votes
+Aurora,President,,DEM,Bernie Sanders,27
+Aurora,President,,DEM,Joseph R. Biden,115
+Beadle,President,,DEM,Bernie Sanders,119
+Beadle,President,,DEM,Joseph R. Biden,770
+Bennett,President,,DEM,Bernie Sanders,55
+Bennett,President,,DEM,Joseph R. Biden,121
+Bon Homme,President,,DEM,Bernie Sanders,80
+Bon Homme,President,,DEM,Joseph R. Biden,272
+Brookings,President,,DEM,Bernie Sanders,456
+Brookings,President,,DEM,Joseph R. Biden,1395
+Brown,President,,DEM,Bernie Sanders,422
+Brown,President,,DEM,Joseph R. Biden,2024
+Brule,President,,DEM,Bernie Sanders,57
+Brule,President,,DEM,Joseph R. Biden,237
+Buffalo,President,,DEM,Bernie Sanders,39
+Buffalo,President,,DEM,Joseph R. Biden,59
+Butte,President,,DEM,Bernie Sanders,89
+Butte,President,,DEM,Joseph R. Biden,265
+Campbell,President,,DEM,Bernie Sanders,11
+Campbell,President,,DEM,Joseph R. Biden,26
+Charles Mix,President,,DEM,Bernie Sanders,136
+Charles Mix,President,,DEM,Joseph R. Biden,352
+Clark,President,,DEM,Bernie Sanders,19
+Clark,President,,DEM,Joseph R. Biden,111
+Clay,President,,DEM,Bernie Sanders,331
+Clay,President,,DEM,Joseph R. Biden,1091
+Codington,President,,DEM,Bernie Sanders,207
+Codington,President,,DEM,Joseph R. Biden,1097
+Corson,President,,DEM,Bernie Sanders,97
+Corson,President,,DEM,Joseph R. Biden,126
+Custer,President,,DEM,Bernie Sanders,92
+Custer,President,,DEM,Joseph R. Biden,461
+Davison,President,,DEM,Bernie Sanders,195
+Davison,President,,DEM,Joseph R. Biden,839
+Day,President,,DEM,Bernie Sanders,61
+Day,President,,DEM,Joseph R. Biden,416
+Deuel,President,,DEM,Bernie Sanders,38
+Deuel,President,,DEM,Joseph R. Biden,145
+Dewey,President,,DEM,Bernie Sanders,193
+Dewey,President,,DEM,Joseph R. Biden,301
+Douglas,President,,DEM,Bernie Sanders,10
+Douglas,President,,DEM,Joseph R. Biden,64
+Edmunds,President,,DEM,Bernie Sanders,35
+Edmunds,President,,DEM,Joseph R. Biden,170
+Fall River,President,,DEM,Bernie Sanders,88
+Fall River,President,,DEM,Joseph R. Biden,333
+Faulk,President,,DEM,Bernie Sanders,18
+Faulk,President,,DEM,Joseph R. Biden,62
+Grant,President,,DEM,Bernie Sanders,63
+Grant,President,,DEM,Joseph R. Biden,307
+Gregory,President,,DEM,Bernie Sanders,64
+Gregory,President,,DEM,Joseph R. Biden,215
+Haakon,President,,DEM,Bernie Sanders,13
+Haakon,President,,DEM,Joseph R. Biden,39
+Hamlin,President,,DEM,Bernie Sanders,35
+Hamlin,President,,DEM,Joseph R. Biden,178
+Hand,President,,DEM,Bernie Sanders,28
+Hand,President,,DEM,Joseph R. Biden,151
+Hanson,President,,DEM,Bernie Sanders,39
+Hanson,President,,DEM,Joseph R. Biden,157
+Harding,President,,DEM,Bernie Sanders,12
+Harding,President,,DEM,Joseph R. Biden,17
+Hughes,President,,DEM,Bernie Sanders,205
+Hughes,President,,DEM,Joseph R. Biden,702
+Hutchinson,President,,DEM,Bernie Sanders,43
+Hutchinson,President,,DEM,Joseph R. Biden,210
+Hyde,President,,DEM,Bernie Sanders,10
+Hyde,President,,DEM,Joseph R. Biden,43
+Jackson,President,,DEM,Bernie Sanders,36
+Jackson,President,,DEM,Joseph R. Biden,76
+Jerauld,President,,DEM,Bernie Sanders,27
+Jerauld,President,,DEM,Joseph R. Biden,162
+Jones,President,,DEM,Bernie Sanders,13
+Jones,President,,DEM,Joseph R. Biden,40
+Kingsbury,President,,DEM,Bernie Sanders,55
+Kingsbury,President,,DEM,Joseph R. Biden,210
+Lake,President,,DEM,Bernie Sanders,217
+Lake,President,,DEM,Joseph R. Biden,806
+Lawrence,President,,DEM,Bernie Sanders,415
+Lawrence,President,,DEM,Joseph R. Biden,1305
+Lincoln,President,,DEM,Bernie Sanders,661
+Lincoln,President,,DEM,Joseph R. Biden,2883
+Lyman,President,,DEM,Bernie Sanders,73
+Lyman,President,,DEM,Joseph R. Biden,113
+Marshall,President,,DEM,Bernie Sanders,89
+Marshall,President,,DEM,Joseph R. Biden,447
+McCook,President,,DEM,Bernie Sanders,43
+McCook,President,,DEM,Joseph R. Biden,177
+McPherson,President,,DEM,Bernie Sanders,28
+McPherson,President,,DEM,Joseph R. Biden,78
+Meade,President,,DEM,Bernie Sanders,208
+Meade,President,,DEM,Joseph R. Biden,916
+Mellette,President,,DEM,Bernie Sanders,56
+Mellette,President,,DEM,Joseph R. Biden,93
+Miner,President,,DEM,Bernie Sanders,30
+Miner,President,,DEM,Joseph R. Biden,121
+Minnehaha,President,,DEM,Bernie Sanders,3167
+Minnehaha,President,,DEM,Joseph R. Biden,10024
+Moody,President,,DEM,Bernie Sanders,85
+Moody,President,,DEM,Joseph R. Biden,297
+Oglala Lakota,President,,DEM,Bernie Sanders,297
+Oglala Lakota,President,,DEM,Joseph R. Biden,416
+Pennington,President,,DEM,Bernie Sanders,1696
+Pennington,President,,DEM,Joseph R. Biden,5279
+Perkins,President,,DEM,Bernie Sanders,26
+Perkins,President,,DEM,Joseph R. Biden,83
+Potter,President,,DEM,Bernie Sanders,15
+Potter,President,,DEM,Joseph R. Biden,54
+Roberts,President,,DEM,Bernie Sanders,210
+Roberts,President,,DEM,Joseph R. Biden,691
+Sanborn,President,,DEM,Bernie Sanders,15
+Sanborn,President,,DEM,Joseph R. Biden,73
+Spink,President,,DEM,Bernie Sanders,33
+Spink,President,,DEM,Joseph R. Biden,305
+Stanley,President,,DEM,Bernie Sanders,22
+Stanley,President,,DEM,Joseph R. Biden,116
+Sully,President,,DEM,Bernie Sanders,17
+Sully,President,,DEM,Joseph R. Biden,67
+Todd,President,,DEM,Bernie Sanders,337
+Todd,President,,DEM,Joseph R. Biden,453
+Tripp,President,,DEM,Bernie Sanders,32
+Tripp,President,,DEM,Joseph R. Biden,170
+Turner,President,,DEM,Bernie Sanders,71
+Turner,President,,DEM,Joseph R. Biden,283
+Union,President,,DEM,Bernie Sanders,147
+Union,President,,DEM,Joseph R. Biden,677
+Walworth,President,,DEM,Bernie Sanders,41
+Walworth,President,,DEM,Joseph R. Biden,145
+Yankton,President,,DEM,Bernie Sanders,229
+Yankton,President,,DEM,Joseph R. Biden,1246
+Ziebach,President,,DEM,Bernie Sanders,83
+Ziebach,President,,DEM,Joseph R. Biden,123
+Aurora,U.S. Senate,,REP,Mike Rounds,215
+Aurora,U.S. Senate,,REP,Scyller J. Borglum,98
+Beadle,U.S. Senate,,REP,Mike Rounds,1127
+Beadle,U.S. Senate,,REP,Scyller J. Borglum,162
+Bennett,U.S. Senate,,REP,Mike Rounds,206
+Bennett,U.S. Senate,,REP,Scyller J. Borglum,202
+Bon Homme,U.S. Senate,,REP,Mike Rounds,614
+Bon Homme,U.S. Senate,,REP,Scyller J. Borglum,311
+Brookings,U.S. Senate,,REP,Mike Rounds,1957
+Brookings,U.S. Senate,,REP,Scyller J. Borglum,536
+Brown,U.S. Senate,,REP,Mike Rounds,2523
+Brown,U.S. Senate,,REP,Scyller J. Borglum,668
+Brule,U.S. Senate,,REP,Mike Rounds,320
+Brule,U.S. Senate,,REP,Scyller J. Borglum,144
+Buffalo,U.S. Senate,,REP,Mike Rounds,31
+Buffalo,U.S. Senate,,REP,Scyller J. Borglum,14
+Butte,U.S. Senate,,REP,Mike Rounds,1063
+Butte,U.S. Senate,,REP,Scyller J. Borglum,504
+Campbell,U.S. Senate,,REP,Mike Rounds,299
+Campbell,U.S. Senate,,REP,Scyller J. Borglum,101
+Charles Mix,U.S. Senate,,REP,Mike Rounds,886
+Charles Mix,U.S. Senate,,REP,Scyller J. Borglum,274
+Clark,U.S. Senate,,REP,Mike Rounds,246
+Clark,U.S. Senate,,REP,Scyller J. Borglum,83
+Clay,U.S. Senate,,REP,Mike Rounds,744
+Clay,U.S. Senate,,REP,Scyller J. Borglum,157
+Codington,U.S. Senate,,REP,Mike Rounds,2209
+Codington,U.S. Senate,,REP,Scyller J. Borglum,596
+Corson,U.S. Senate,,REP,Mike Rounds,184
+Corson,U.S. Senate,,REP,Scyller J. Borglum,94
+Custer,U.S. Senate,,REP,Mike Rounds,1267
+Custer,U.S. Senate,,REP,Scyller J. Borglum,568
+Davison,U.S. Senate,,REP,Mike Rounds,1569
+Davison,U.S. Senate,,REP,Scyller J. Borglum,403
+Day,U.S. Senate,,REP,Mike Rounds,373
+Day,U.S. Senate,,REP,Scyller J. Borglum,136
+Deuel,U.S. Senate,,REP,Mike Rounds,301
+Deuel,U.S. Senate,,REP,Scyller J. Borglum,95
+Dewey,U.S. Senate,,REP,Mike Rounds,186
+Dewey,U.S. Senate,,REP,Scyller J. Borglum,77
+Douglas,U.S. Senate,,REP,Mike Rounds,454
+Douglas,U.S. Senate,,REP,Scyller J. Borglum,237
+Edmunds,U.S. Senate,,REP,Mike Rounds,393
+Edmunds,U.S. Senate,,REP,Scyller J. Borglum,125
+Fall River,U.S. Senate,,REP,Mike Rounds,1118
+Fall River,U.S. Senate,,REP,Scyller J. Borglum,372
+Faulk,U.S. Senate,,REP,Mike Rounds,351
+Faulk,U.S. Senate,,REP,Scyller J. Borglum,88
+Grant,U.S. Senate,,REP,Mike Rounds,537
+Grant,U.S. Senate,,REP,Scyller J. Borglum,184
+Gregory,U.S. Senate,,REP,Mike Rounds,590
+Gregory,U.S. Senate,,REP,Scyller J. Borglum,274
+Haakon,U.S. Senate,,REP,Mike Rounds,306
+Haakon,U.S. Senate,,REP,Scyller J. Borglum,214
+Hamlin,U.S. Senate,,REP,Mike Rounds,560
+Hamlin,U.S. Senate,,REP,Scyller J. Borglum,176
+Hand,U.S. Senate,,REP,Mike Rounds,560
+Hand,U.S. Senate,,REP,Scyller J. Borglum,192
+Hanson,U.S. Senate,,REP,Mike Rounds,404
+Hanson,U.S. Senate,,REP,Scyller J. Borglum,137
+Harding,U.S. Senate,,REP,Mike Rounds,148
+Harding,U.S. Senate,,REP,Scyller J. Borglum,211
+Hughes,U.S. Senate,,REP,Mike Rounds,2723
+Hughes,U.S. Senate,,REP,Scyller J. Borglum,680
+Hutchinson,U.S. Senate,,REP,Mike Rounds,821
+Hutchinson,U.S. Senate,,REP,Scyller J. Borglum,217
+Hyde,U.S. Senate,,REP,Mike Rounds,220
+Hyde,U.S. Senate,,REP,Scyller J. Borglum,47
+Jackson,U.S. Senate,,REP,Mike Rounds,185
+Jackson,U.S. Senate,,REP,Scyller J. Borglum,214
+Jerauld,U.S. Senate,,REP,Mike Rounds,214
+Jerauld,U.S. Senate,,REP,Scyller J. Borglum,42
+Jones,U.S. Senate,,REP,Mike Rounds,211
+Jones,U.S. Senate,,REP,Scyller J. Borglum,111
+Kingsbury,U.S. Senate,,REP,Mike Rounds,569
+Kingsbury,U.S. Senate,,REP,Scyller J. Borglum,173
+Lake,U.S. Senate,,REP,Mike Rounds,1211
+Lake,U.S. Senate,,REP,Scyller J. Borglum,311
+Lawrence,U.S. Senate,,REP,Mike Rounds,2783
+Lawrence,U.S. Senate,,REP,Scyller J. Borglum,871
+Lincoln,U.S. Senate,,REP,Mike Rounds,4966
+Lincoln,U.S. Senate,,REP,Scyller J. Borglum,1135
+Lyman,U.S. Senate,,REP,Mike Rounds,431
+Lyman,U.S. Senate,,REP,Scyller J. Borglum,144
+Marshall,U.S. Senate,,REP,Mike Rounds,381
+Marshall,U.S. Senate,,REP,Scyller J. Borglum,107
+McCook,U.S. Senate,,REP,Mike Rounds,424
+McCook,U.S. Senate,,REP,Scyller J. Borglum,135
+McPherson,U.S. Senate,,REP,Mike Rounds,551
+McPherson,U.S. Senate,,REP,Scyller J. Borglum,89
+Meade,U.S. Senate,,REP,Mike Rounds,2875
+Meade,U.S. Senate,,REP,Scyller J. Borglum,1233
+Mellette,U.S. Senate,,REP,Mike Rounds,120
+Mellette,U.S. Senate,,REP,Scyller J. Borglum,123
+Miner,U.S. Senate,,REP,Mike Rounds,131
+Miner,U.S. Senate,,REP,Scyller J. Borglum,43
+Minnehaha,U.S. Senate,,REP,Mike Rounds,11346
+Minnehaha,U.S. Senate,,REP,Scyller J. Borglum,3196
+Moody,U.S. Senate,,REP,Mike Rounds,360
+Moody,U.S. Senate,,REP,Scyller J. Borglum,89
+Oglala Lakota,U.S. Senate,,REP,Mike Rounds,43
+Oglala Lakota,U.S. Senate,,REP,Scyller J. Borglum,42
+Pennington,U.S. Senate,,REP,Mike Rounds,9966
+Pennington,U.S. Senate,,REP,Scyller J. Borglum,3882
+Perkins,U.S. Senate,,REP,Mike Rounds,308
+Perkins,U.S. Senate,,REP,Scyller J. Borglum,292
+Potter,U.S. Senate,,REP,Mike Rounds,387
+Potter,U.S. Senate,,REP,Scyller J. Borglum,89
+Roberts,U.S. Senate,,REP,Mike Rounds,536
+Roberts,U.S. Senate,,REP,Scyller J. Borglum,128
+Sanborn,U.S. Senate,,REP,Mike Rounds,218
+Sanborn,U.S. Senate,,REP,Scyller J. Borglum,46
+Spink,U.S. Senate,,REP,Mike Rounds,463
+Spink,U.S. Senate,,REP,Scyller J. Borglum,164
+Stanley,U.S. Senate,,REP,Mike Rounds,578
+Stanley,U.S. Senate,,REP,Scyller J. Borglum,125
+Sully,U.S. Senate,,REP,Mike Rounds,288
+Sully,U.S. Senate,,REP,Scyller J. Borglum,69
+Todd,U.S. Senate,,REP,Mike Rounds,131
+Todd,U.S. Senate,,REP,Scyller J. Borglum,86
+Tripp,U.S. Senate,,REP,Mike Rounds,647
+Tripp,U.S. Senate,,REP,Scyller J. Borglum,428
+Turner,U.S. Senate,,REP,Mike Rounds,840
+Turner,U.S. Senate,,REP,Scyller J. Borglum,294
+Union,U.S. Senate,,REP,Mike Rounds,1206
+Union,U.S. Senate,,REP,Scyller J. Borglum,202
+Walworth,U.S. Senate,,REP,Mike Rounds,752
+Walworth,U.S. Senate,,REP,Scyller J. Borglum,253
+Yankton,U.S. Senate,,REP,Mike Rounds,1656
+Yankton,U.S. Senate,,REP,Scyller J. Borglum,603
+Ziebach,U.S. Senate,,REP,Mike Rounds,83
+Ziebach,U.S. Senate,,REP,Scyller J. Borglum,68
+Aurora,U.S. Representative,1,REP,Liz Marty May,90
+Aurora,U.S. Representative,1,REP,Dusty Johnson,220
+Beadle,U.S. Representative,1,REP,Liz Marty May,204
+Beadle,U.S. Representative,1,REP,Dusty Johnson,1080
+Bennett,U.S. Representative,1,REP,Liz Marty May,317
+Bennett,U.S. Representative,1,REP,Dusty Johnson,96
+Bon Homme,U.S. Representative,1,REP,Liz Marty May,221
+Bon Homme,U.S. Representative,1,REP,Dusty Johnson,706
+Brookings,U.S. Representative,1,REP,Liz Marty May,412
+Brookings,U.S. Representative,1,REP,Dusty Johnson,2066
+Brown,U.S. Representative,1,REP,Liz Marty May,648
+Brown,U.S. Representative,1,REP,Dusty Johnson,2538
+Brule,U.S. Representative,1,REP,Liz Marty May,132
+Brule,U.S. Representative,1,REP,Dusty Johnson,334
+Buffalo,U.S. Representative,1,REP,Liz Marty May,15
+Buffalo,U.S. Representative,1,REP,Dusty Johnson,30
+Butte,U.S. Representative,1,REP,Liz Marty May,624
+Butte,U.S. Representative,1,REP,Dusty Johnson,946
+Campbell,U.S. Representative,1,REP,Liz Marty May,134
+Campbell,U.S. Representative,1,REP,Dusty Johnson,264
+Charles Mix,U.S. Representative,1,REP,Liz Marty May,224
+Charles Mix,U.S. Representative,1,REP,Dusty Johnson,938
+Clark,U.S. Representative,1,REP,Liz Marty May,81
+Clark,U.S. Representative,1,REP,Dusty Johnson,246
+Clay,U.S. Representative,1,REP,Liz Marty May,129
+Clay,U.S. Representative,1,REP,Dusty Johnson,775
+Codington,U.S. Representative,1,REP,Liz Marty May,525
+Codington,U.S. Representative,1,REP,Dusty Johnson,2272
+Corson,U.S. Representative,1,REP,Liz Marty May,90
+Corson,U.S. Representative,1,REP,Dusty Johnson,190
+Custer,U.S. Representative,1,REP,Liz Marty May,567
+Custer,U.S. Representative,1,REP,Dusty Johnson,1261
+Davison,U.S. Representative,1,REP,Liz Marty May,333
+Davison,U.S. Representative,1,REP,Dusty Johnson,1634
+Day,U.S. Representative,1,REP,Liz Marty May,103
+Day,U.S. Representative,1,REP,Dusty Johnson,400
+Deuel,U.S. Representative,1,REP,Liz Marty May,69
+Deuel,U.S. Representative,1,REP,Dusty Johnson,328
+Dewey,U.S. Representative,1,REP,Liz Marty May,94
+Dewey,U.S. Representative,1,REP,Dusty Johnson,167
+Douglas,U.S. Representative,1,REP,Liz Marty May,238
+Douglas,U.S. Representative,1,REP,Dusty Johnson,474
+Edmunds,U.S. Representative,1,REP,Liz Marty May,104
+Edmunds,U.S. Representative,1,REP,Dusty Johnson,413
+Fall River,U.S. Representative,1,REP,Liz Marty May,397
+Fall River,U.S. Representative,1,REP,Dusty Johnson,1092
+Faulk,U.S. Representative,1,REP,Liz Marty May,92
+Faulk,U.S. Representative,1,REP,Dusty Johnson,344
+Grant,U.S. Representative,1,REP,Liz Marty May,144
+Grant,U.S. Representative,1,REP,Dusty Johnson,576
+Gregory,U.S. Representative,1,REP,Liz Marty May,242
+Gregory,U.S. Representative,1,REP,Dusty Johnson,612
+Haakon,U.S. Representative,1,REP,Liz Marty May,220
+Haakon,U.S. Representative,1,REP,Dusty Johnson,300
+Hamlin,U.S. Representative,1,REP,Liz Marty May,154
+Hamlin,U.S. Representative,1,REP,Dusty Johnson,580
+Hand,U.S. Representative,1,REP,Liz Marty May,146
+Hand,U.S. Representative,1,REP,Dusty Johnson,600
+Hanson,U.S. Representative,1,REP,Liz Marty May,138
+Hanson,U.S. Representative,1,REP,Dusty Johnson,405
+Harding,U.S. Representative,1,REP,Liz Marty May,265
+Harding,U.S. Representative,1,REP,Dusty Johnson,97
+Hughes,U.S. Representative,1,REP,Liz Marty May,643
+Hughes,U.S. Representative,1,REP,Dusty Johnson,2744
+Hutchinson,U.S. Representative,1,REP,Liz Marty May,142
+Hutchinson,U.S. Representative,1,REP,Dusty Johnson,893
+Hyde,U.S. Representative,1,REP,Liz Marty May,52
+Hyde,U.S. Representative,1,REP,Dusty Johnson,212
+Jackson,U.S. Representative,1,REP,Liz Marty May,276
+Jackson,U.S. Representative,1,REP,Dusty Johnson,125
+Jerauld,U.S. Representative,1,REP,Liz Marty May,52
+Jerauld,U.S. Representative,1,REP,Dusty Johnson,201
+Jones,U.S. Representative,1,REP,Liz Marty May,111
+Jones,U.S. Representative,1,REP,Dusty Johnson,209
+Kingsbury,U.S. Representative,1,REP,Liz Marty May,145
+Kingsbury,U.S. Representative,1,REP,Dusty Johnson,594
+Lake,U.S. Representative,1,REP,Liz Marty May,240
+Lake,U.S. Representative,1,REP,Dusty Johnson,1282
+Lawrence,U.S. Representative,1,REP,Liz Marty May,923
+Lawrence,U.S. Representative,1,REP,Dusty Johnson,2732
+Lincoln,U.S. Representative,1,REP,Liz Marty May,1016
+Lincoln,U.S. Representative,1,REP,Dusty Johnson,5079
+Lyman,U.S. Representative,1,REP,Liz Marty May,145
+Lyman,U.S. Representative,1,REP,Dusty Johnson,425
+Marshall,U.S. Representative,1,REP,Liz Marty May,92
+Marshall,U.S. Representative,1,REP,Dusty Johnson,392
+McCook,U.S. Representative,1,REP,Liz Marty May,95
+McCook,U.S. Representative,1,REP,Dusty Johnson,465
+McPherson,U.S. Representative,1,REP,Liz Marty May,94
+McPherson,U.S. Representative,1,REP,Dusty Johnson,549
+Meade,U.S. Representative,1,REP,Liz Marty May,1263
+Meade,U.S. Representative,1,REP,Dusty Johnson,2831
+Mellette,U.S. Representative,1,REP,Liz Marty May,125
+Mellette,U.S. Representative,1,REP,Dusty Johnson,117
+Miner,U.S. Representative,1,REP,Liz Marty May,36
+Miner,U.S. Representative,1,REP,Dusty Johnson,139
+Minnehaha,U.S. Representative,1,REP,Liz Marty May,2733
+Minnehaha,U.S. Representative,1,REP,Dusty Johnson,11777
+Moody,U.S. Representative,1,REP,Liz Marty May,101
+Moody,U.S. Representative,1,REP,Dusty Johnson,347
+Oglala Lakota,U.S. Representative,1,REP,Liz Marty May,55
+Oglala Lakota,U.S. Representative,1,REP,Dusty Johnson,27
+Pennington,U.S. Representative,1,REP,Liz Marty May,3506
+Pennington,U.S. Representative,1,REP,Dusty Johnson,10263
+Perkins,U.S. Representative,1,REP,Liz Marty May,314
+Perkins,U.S. Representative,1,REP,Dusty Johnson,287
+Potter,U.S. Representative,1,REP,Liz Marty May,101
+Potter,U.S. Representative,1,REP,Dusty Johnson,372
+Roberts,U.S. Representative,1,REP,Liz Marty May,132
+Roberts,U.S. Representative,1,REP,Dusty Johnson,526
+Sanborn,U.S. Representative,1,REP,Liz Marty May,41
+Sanborn,U.S. Representative,1,REP,Dusty Johnson,225
+Spink,U.S. Representative,1,REP,Liz Marty May,97
+Spink,U.S. Representative,1,REP,Dusty Johnson,532
+Stanley,U.S. Representative,1,REP,Liz Marty May,163
+Stanley,U.S. Representative,1,REP,Dusty Johnson,538
+Sully,U.S. Representative,1,REP,Liz Marty May,82
+Sully,U.S. Representative,1,REP,Dusty Johnson,273
+Todd,U.S. Representative,1,REP,Liz Marty May,104
+Todd,U.S. Representative,1,REP,Dusty Johnson,112
+Tripp,U.S. Representative,1,REP,Liz Marty May,486
+Tripp,U.S. Representative,1,REP,Dusty Johnson,588
+Turner,U.S. Representative,1,REP,Liz Marty May,222
+Turner,U.S. Representative,1,REP,Dusty Johnson,906
+Union,U.S. Representative,1,REP,Liz Marty May,252
+Union,U.S. Representative,1,REP,Dusty Johnson,1142
+Walworth,U.S. Representative,1,REP,Liz Marty May,264
+Walworth,U.S. Representative,1,REP,Dusty Johnson,738
+Yankton,U.S. Representative,1,REP,Liz Marty May,451
+Yankton,U.S. Representative,1,REP,Dusty Johnson,1791
+Ziebach,U.S. Representative,1,REP,Liz Marty May,73
+Ziebach,U.S. Representative,1,REP,Dusty Johnson,79
+Lincoln,State Senate,6,REP,Herman Otten,1491
+Lincoln,State Senate,6,REP,Isaac Latterell,941
+Minnehaha,State Senate,14,REP,David B Zellmer,1046
+Minnehaha,State Senate,14,REP,Larry P Zikmund,1519
+Clay,State Senate,17,REP,Arthur Rusch,600
+Clay,State Senate,17,REP,Nancy Rasmussen,291
+Turner,State Senate,17,REP,Arthur Rusch,402
+Turner,State Senate,17,REP,Nancy Rasmussen,705
+Bon Homme,State Senate,21,REP,Erin Tobin,226
+Bon Homme,State Senate,21,REP,Lee Qualm,193
+Charles Mix,State Senate,21,REP,Erin Tobin,580
+Charles Mix,State Senate,21,REP,Lee Qualm,582
+Gregory,State Senate,21,REP,Erin Tobin,509
+Gregory,State Senate,21,REP,Lee Qualm,354
+Tripp,State Senate,21,REP,Erin Tobin,840
+Tripp,State Senate,21,REP,Lee Qualm,237
+Campbell,State Senate,23,REP,Bryan J Breitling,166
+Campbell,State Senate,23,REP,Larry Nielson,185
+Edmunds,State Senate,23,REP,Bryan J Breitling,340
+Edmunds,State Senate,23,REP,Larry Nielson,147
+Faulk,State Senate,23,REP,Bryan J Breitling,145
+Faulk,State Senate,23,REP,Larry Nielson,245
+Hand,State Senate,23,REP,Bryan J Breitling,502
+Hand,State Senate,23,REP,Larry Nielson,237
+McPherson,State Senate,23,REP,Bryan J Breitling,400
+McPherson,State Senate,23,REP,Larry Nielson,189
+Potter,State Senate,23,REP,Bryan J Breitling,206
+Potter,State Senate,23,REP,Larry Nielson,229
+Spink,State Senate,23,REP,Bryan J Breitling,32
+Spink,State Senate,23,REP,Larry Nielson,76
+Walworth,State Senate,23,REP,Bryan J Breitling,424
+Walworth,State Senate,23,REP,Larry Nielson,461
+Butte,State Senate,29,REP,Terri Jorgenson,156
+Butte,State Senate,29,REP,Gary L Cammack,234
+Meade,State Senate,29,REP,Terri Jorgenson,1283
+Meade,State Senate,29,REP,Gary L Cammack,1886
+Pennington,State Senate,29,REP,Terri Jorgenson,57
+Pennington,State Senate,29,REP,Gary L Cammack,37
+Custer,State Senate,30,REP,Julie Frye-Mueller,962
+Custer,State Senate,30,REP,George H Kotti,775
+Fall River,State Senate,30,REP,Julie Frye-Mueller,690
+Fall River,State Senate,30,REP,George H Kotti,755
+Pennington,State Senate,30,REP,Julie Frye-Mueller,825
+Pennington,State Senate,30,REP,George H Kotti,767
+Lawrence,State Senate,31,REP,John E Teupel,1423
+Lawrence,State Senate,31,REP,Timothy R Johns,2020
+Meade,State Senate,33,REP,David Johnson,431
+Meade,State Senate,33,REP,Janet Jensen,326
+Pennington,State Senate,33,REP,David Johnson,1833
+Pennington,State Senate,33,REP,Janet Jensen,1481
+Pennington,State Senate,35,REP,Kevin Quick,551
+Pennington,State Senate,35,REP,Jessica Castleberry,1442
+Codington,State Representative,5,REP,Nancy York,1688
+Codington,State Representative,5,REP,Jacob Sigurdson,773
+Codington,State Representative,5,REP,Hugh M. Bartels,1802
+Lincoln,State Representative,6,REP,Aaron Aylward,1100
+Lincoln,State Representative,6,REP,Ernie Otten,1551
+Lincoln,State Representative,6,REP,Thomas Werner,384
+Lincoln,State Representative,6,REP,Nathan Block,1065
+Brookings,State Representative,7,REP,Larry Tidemann,977
+Brookings,State Representative,7,REP,Doug Post,764
+Brookings,State Representative,7,REP,Tim Reed,1205
+Minnehaha,State Representative,9,REP,Rhonda Milstead,1137
+Minnehaha,State Representative,9,REP,Michael Clark,581
+Minnehaha,State Representative,9,REP,Bethany Soye,589
+Lincoln,State Representative,12,REP,Greg Jamison,754
+Lincoln,State Representative,12,REP,Amy B Miller,296
+Lincoln,State Representative,12,REP,George Hendrickson,132
+Lincoln,State Representative,12,REP,Arch Beal,659
+Minnehaha,State Representative,12,REP,Greg Jamison,855
+Minnehaha,State Representative,12,REP,Amy B Miller,326
+Minnehaha,State Representative,12,REP,George Hendrickson,191
+Minnehaha,State Representative,12,REP,Arch Beal,739
+Minnehaha,State Representative,14,REP,Brad Lindwurm,848
+Minnehaha,State Representative,14,REP,Tom Holmes,1552
+Minnehaha,State Representative,14,REP,Taylor Rae Rehfeldt,1621
+Lincoln,State Representative,16,REP,Kevin D Jensen,658
+Lincoln,State Representative,16,REP,William (Bill) Shorma,238
+Lincoln,State Representative,16,REP,David L Anderson,676
+Union,State Representative,16,REP,Kevin D Jensen,786
+Union,State Representative,16,REP,William (Bill) Shorma,834
+Union,State Representative,16,REP,David L Anderson,581
+Clay,State Representative,17,REP,Richard Vasgaard,330
+Clay,State Representative,17,REP,Dan Werner,181
+Clay,State Representative,17,REP,Sydney Davis,649
+Clay,State Representative,17,REP,Charles Kludt,100
+Turner,State Representative,17,REP,Richard Vasgaard,514
+Turner,State Representative,17,REP,Dan Werner,320
+Turner,State Representative,17,REP,Sydney Davis,623
+Turner,State Representative,17,REP,Charles Kludt,382
+Bon Homme,State Representative,19,REP,Marty Overweg,247
+Bon Homme,State Representative,19,REP,Kent Peterson,297
+Bon Homme,State Representative,19,REP,Jessica Bahmuller,255
+Douglas,State Representative,19,REP,Marty Overweg,599
+Douglas,State Representative,19,REP,Kent Peterson,282
+Douglas,State Representative,19,REP,Jessica Bahmuller,229
+Hanson,State Representative,19,REP,Marty Overweg,217
+Hanson,State Representative,19,REP,Kent Peterson,280
+Hanson,State Representative,19,REP,Jessica Bahmuller,362
+Hutchinson,State Representative,19,REP,Marty Overweg,416
+Hutchinson,State Representative,19,REP,Kent Peterson,635
+Hutchinson,State Representative,19,REP,Jessica Bahmuller,606
+McCook,State Representative,19,REP,Marty Overweg,241
+McCook,State Representative,19,REP,Kent Peterson,387
+McCook,State Representative,19,REP,Jessica Bahmuller,289
+Aurora,State Representative,20,REP,Lance Koth,194
+Aurora,State Representative,20,REP,Barry Volk,157
+Aurora,State Representative,20,REP,Paul R Miskimins,188
+Davison,State Representative,20,REP,Lance Koth,1391
+Davison,State Representative,20,REP,Barry Volk,871
+Davison,State Representative,20,REP,Paul R Miskimins,1222
+Jerauld,State Representative,20,REP,Lance Koth,173
+Jerauld,State Representative,20,REP,Barry Volk,102
+Jerauld,State Representative,20,REP,Paul R Miskimins,127
+Campbell,State Representative,23,REP,Kevin E Watts,31
+Campbell,State Representative,23,REP,Spencer Gosch,346
+Campbell,State Representative,23,REP,Charlie Hoffman,307
+Campbell,State Representative,23,REP,James D Wangsness,43
+Edmunds,State Representative,23,REP,Kevin E Watts,64
+Edmunds,State Representative,23,REP,Spencer Gosch,393
+Edmunds,State Representative,23,REP,Charlie Hoffman,354
+Edmunds,State Representative,23,REP,James D Wangsness,95
+Faulk,State Representative,23,REP,Kevin E Watts,84
+Faulk,State Representative,23,REP,Spencer Gosch,258
+Faulk,State Representative,23,REP,Charlie Hoffman,265
+Faulk,State Representative,23,REP,James D Wangsness,124
+Hand,State Representative,23,REP,Kevin E Watts,367
+Hand,State Representative,23,REP,Spencer Gosch,301
+Hand,State Representative,23,REP,Charlie Hoffman,272
+Hand,State Representative,23,REP,James D Wangsness,407
+McPherson,State Representative,23,REP,Kevin E Watts,48
+McPherson,State Representative,23,REP,Spencer Gosch,506
+McPherson,State Representative,23,REP,Charlie Hoffman,550
+McPherson,State Representative,23,REP,James D Wangsness,88
+Potter,State Representative,23,REP,Kevin E Watts,51
+Potter,State Representative,23,REP,Spencer Gosch,346
+Potter,State Representative,23,REP,Charlie Hoffman,304
+Potter,State Representative,23,REP,James D Wangsness,104
+Spink,State Representative,23,REP,Kevin E Watts,28
+Spink,State Representative,23,REP,Spencer Gosch,45
+Spink,State Representative,23,REP,Charlie Hoffman,60
+Spink,State Representative,23,REP,James D Wangsness,43
+Walworth,State Representative,23,REP,Kevin E Watts,82
+Walworth,State Representative,23,REP,Spencer Gosch,912
+Walworth,State Representative,23,REP,Charlie Hoffman,597
+Walworth,State Representative,23,REP,James D Wangsness,168
+Hughes,State Representative,24,REP,Jeff Monroe,1040
+Hughes,State Representative,24,REP,Noel D Chicoine,873
+Hughes,State Representative,24,REP,Will D Mortenson,1989
+Hughes,State Representative,24,REP,Mike Weisgram,1916
+Hughes,State Representative,24,REP,Bob Lowery,527
+Hyde,State Representative,24,REP,Jeff Monroe,114
+Hyde,State Representative,24,REP,Noel D Chicoine,59
+Hyde,State Representative,24,REP,Will D Mortenson,150
+Hyde,State Representative,24,REP,Mike Weisgram,86
+Hyde,State Representative,24,REP,Bob Lowery,30
+Stanley,State Representative,24,REP,Jeff Monroe,184
+Stanley,State Representative,24,REP,Noel D Chicoine,102
+Stanley,State Representative,24,REP,Will D Mortenson,492
+Stanley,State Representative,24,REP,Mike Weisgram,427
+Stanley,State Representative,24,REP,Bob Lowery,51
+Sully,State Representative,24,REP,Jeff Monroe,178
+Sully,State Representative,24,REP,Noel D Chicoine,124
+Sully,State Representative,24,REP,Will D Mortenson,193
+Sully,State Representative,24,REP,Mike Weisgram,120
+Sully,State Representative,24,REP,Bob Lowery,25
+Mellette,State Representative,26A,DEM,Shawn Bordeaux,112
+Mellette,State Representative,26A,DEM,Alexandra Frederick,52
+Todd,State Representative,26A,DEM,Shawn Bordeaux,458
+Todd,State Representative,26A,DEM,Alexandra Frederick,351
+Corson,State Representative,28A,DEM,Oren Lee Lesmeister,141
+Corson,State Representative,28A,DEM,Dean Schrempp,95
+Dewey,State Representative,28A,DEM,Oren Lee Lesmeister,426
+Dewey,State Representative,28A,DEM,Dean Schrempp,99
+Ziebach,State Representative,28A,DEM,Oren Lee Lesmeister,170
+Ziebach,State Representative,28A,DEM,Dean Schrempp,61
+Butte,State Representative,29,REP,Kirk J Chaffee,155
+Butte,State Representative,29,REP,Lincoln I Shuck,102
+Butte,State Representative,29,REP,Thomas J Brunner,258
+Butte,State Representative,29,REP,Dean Wink,184
+Meade,State Representative,29,REP,Kirk J Chaffee,1550
+Meade,State Representative,29,REP,Lincoln I Shuck,869
+Meade,State Representative,29,REP,Thomas J Brunner,1342
+Meade,State Representative,29,REP,Dean Wink,1800
+Pennington,State Representative,29,REP,Kirk J Chaffee,46
+Pennington,State Representative,29,REP,Lincoln I Shuck,20
+Pennington,State Representative,29,REP,Thomas J Brunner,55
+Pennington,State Representative,29,REP,Dean Wink,32
+Custer,State Representative,30,REP,Tim R Goodwin,1326
+Custer,State Representative,30,REP,Kwinn Neff,484
+Custer,State Representative,30,REP,Trish Ladner,468
+Custer,State Representative,30,REP,Florence Thompson,519
+Fall River,State Representative,30,REP,Tim R Goodwin,1021
+Fall River,State Representative,30,REP,Kwinn Neff,292
+Fall River,State Representative,30,REP,Trish Ladner,502
+Fall River,State Representative,30,REP,Florence Thompson,445
+Pennington,State Representative,30,REP,Tim R Goodwin,1101
+Pennington,State Representative,30,REP,Kwinn Neff,582
+Pennington,State Representative,30,REP,Trish Ladner,468
+Pennington,State Representative,30,REP,Florence Thompson,411
+Lawrence,State Representative,31,REP,Dayle D Hammock,935
+Lawrence,State Representative,31,REP,Brandon D Flanagan,1226
+Lawrence,State Representative,31,REP,Scott Odenbach,1871
+Lawrence,State Representative,31,REP,Mary Fitzgerald,1362
+Lawrence,State Representative,31,REP,Julie Ann Olson,805
+Meade,State Representative,33,REP,Phil Jensen,445
+Meade,State Representative,33,REP,Taffy Howard,536
+Meade,State Representative,33,REP,Melanie Torno,316
+Pennington,State Representative,33,REP,Phil Jensen,1852
+Pennington,State Representative,33,REP,Taffy Howard,2295
+Pennington,State Representative,33,REP,Melanie Torno,1304
+Pennington,State Representative,34,REP,Mike Derby,2194
+Pennington,State Representative,34,REP,Jodie Frye,1421
+Pennington,State Representative,34,REP,Jess Olson,1899
