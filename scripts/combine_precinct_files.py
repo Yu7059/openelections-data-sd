@@ -35,7 +35,10 @@ def main():
     if not county_files:
         sys.exit(f"ERROR: no county precinct files found matching '{pattern}'")
 
-    frames = [pd.read_csv(f) for f in county_files]
+    # Read every column as a plain string -- otherwise pandas infers a
+    # numeric dtype for columns like "district" (mixing blank cells with
+    # values like "1"), which silently rewrites "1" as "1.0" on output.
+    frames = [pd.read_csv(f, dtype=str, keep_default_na=False) for f in county_files]
     combined = pd.concat(frames, ignore_index=True)
 
     out_path = year_dir / f"{args.election}__precinct.csv"
