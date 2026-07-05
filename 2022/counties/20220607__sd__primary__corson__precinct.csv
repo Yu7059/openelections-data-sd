@@ -1,0 +1,82 @@
+county,precinct,office,district,candidate,party,votes
+Corson,Bullhead Precinct,U.S. Senate,,John R. Thune,REP,0
+Corson,Bullhead Precinct,U.S. Senate,,Bruce Whalen,REP,1
+Corson,Bullhead Precinct,U.S. Senate,,Mark Mowry,REP,0
+Corson,Kenel Precinct,U.S. Senate,,John R. Thune,REP,0
+Corson,Kenel Precinct,U.S. Senate,,Bruce Whalen,REP,1
+Corson,Kenel Precinct,U.S. Senate,,Mark Mowry,REP,1
+Corson,Lincoln Precinct,U.S. Senate,,John R. Thune,REP,30
+Corson,Lincoln Precinct,U.S. Senate,,Bruce Whalen,REP,2
+Corson,Lincoln Precinct,U.S. Senate,,Mark Mowry,REP,3
+Corson,Little Eagle Precinct,U.S. Senate,,John R. Thune,REP,1
+Corson,Little Eagle Precinct,U.S. Senate,,Bruce Whalen,REP,3
+Corson,Little Eagle Precinct,U.S. Senate,,Mark Mowry,REP,3
+Corson,McIntosh Precinct,U.S. Senate,,John R. Thune,REP,73
+Corson,McIntosh Precinct,U.S. Senate,,Bruce Whalen,REP,19
+Corson,McIntosh Precinct,U.S. Senate,,Mark Mowry,REP,10
+Corson,McLaughlin Precinct,U.S. Senate,,John R. Thune,REP,19
+Corson,McLaughlin Precinct,U.S. Senate,,Bruce Whalen,REP,5
+Corson,McLaughlin Precinct,U.S. Senate,,Mark Mowry,REP,3
+Corson,Morristown Precinct,U.S. Senate,,John R. Thune,REP,27
+Corson,Morristown Precinct,U.S. Senate,,Bruce Whalen,REP,27
+Corson,Morristown Precinct,U.S. Senate,,Mark Mowry,REP,15
+Corson,Ridgeland Precinct,U.S. Senate,,John R. Thune,REP,9
+Corson,Ridgeland Precinct,U.S. Senate,,Bruce Whalen,REP,18
+Corson,Ridgeland Precinct,U.S. Senate,,Mark Mowry,REP,1
+Corson,Wakpala Precinct,U.S. Senate,,John R. Thune,REP,2
+Corson,Wakpala Precinct,U.S. Senate,,Bruce Whalen,REP,1
+Corson,Wakpala Precinct,U.S. Senate,,Mark Mowry,REP,2
+Corson,Bullhead Precinct,U.S. House,1,Dusty Johnson,REP,0
+Corson,Bullhead Precinct,U.S. House,1,Taffy Howard,REP,1
+Corson,Kenel Precinct,U.S. House,1,Dusty Johnson,REP,2
+Corson,Kenel Precinct,U.S. House,1,Taffy Howard,REP,0
+Corson,Lincoln Precinct,U.S. House,1,Dusty Johnson,REP,24
+Corson,Lincoln Precinct,U.S. House,1,Taffy Howard,REP,11
+Corson,Little Eagle Precinct,U.S. House,1,Dusty Johnson,REP,2
+Corson,Little Eagle Precinct,U.S. House,1,Taffy Howard,REP,5
+Corson,McIntosh Precinct,U.S. House,1,Dusty Johnson,REP,50
+Corson,McIntosh Precinct,U.S. House,1,Taffy Howard,REP,51
+Corson,McLaughlin Precinct,U.S. House,1,Dusty Johnson,REP,13
+Corson,McLaughlin Precinct,U.S. House,1,Taffy Howard,REP,15
+Corson,Morristown Precinct,U.S. House,1,Dusty Johnson,REP,20
+Corson,Morristown Precinct,U.S. House,1,Taffy Howard,REP,48
+Corson,Ridgeland Precinct,U.S. House,1,Dusty Johnson,REP,7
+Corson,Ridgeland Precinct,U.S. House,1,Taffy Howard,REP,21
+Corson,Wakpala Precinct,U.S. House,1,Dusty Johnson,REP,4
+Corson,Wakpala Precinct,U.S. House,1,Taffy Howard,REP,1
+Corson,Bullhead Precinct,Governor,,Steven Haugaard,REP,0
+Corson,Bullhead Precinct,Governor,,Kristi Noem,REP,1
+Corson,Kenel Precinct,Governor,,Steven Haugaard,REP,1
+Corson,Kenel Precinct,Governor,,Kristi Noem,REP,1
+Corson,Lincoln Precinct,Governor,,Steven Haugaard,REP,5
+Corson,Lincoln Precinct,Governor,,Kristi Noem,REP,30
+Corson,Little Eagle Precinct,Governor,,Steven Haugaard,REP,0
+Corson,Little Eagle Precinct,Governor,,Kristi Noem,REP,7
+Corson,McIntosh Precinct,Governor,,Steven Haugaard,REP,9
+Corson,McIntosh Precinct,Governor,,Kristi Noem,REP,95
+Corson,McLaughlin Precinct,Governor,,Steven Haugaard,REP,2
+Corson,McLaughlin Precinct,Governor,,Kristi Noem,REP,26
+Corson,Morristown Precinct,Governor,,Steven Haugaard,REP,9
+Corson,Morristown Precinct,Governor,,Kristi Noem,REP,57
+Corson,Ridgeland Precinct,Governor,,Steven Haugaard,REP,5
+Corson,Ridgeland Precinct,Governor,,Kristi Noem,REP,24
+Corson,Wakpala Precinct,Governor,,Steven Haugaard,REP,2
+Corson,Wakpala Precinct,Governor,,Kristi Noem,REP,3
+Corson,Bullhead Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,6
+Corson,Bullhead Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,4
+Corson,Kenel Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,4
+Corson,Kenel Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,15
+Corson,Lincoln Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,28
+Corson,Lincoln Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,34
+Corson,Little Eagle Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,8
+Corson,Little Eagle Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,19
+Corson,McIntosh Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,49
+Corson,McIntosh Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,79
+Corson,McLaughlin Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,11
+Corson,McLaughlin Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,43
+Corson,Morristown Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,35
+Corson,Morristown Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,49
+Corson,Ridgeland Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,16
+Corson,Ridgeland Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,22
+Corson,Wakpala Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,12
+Corson,Wakpala Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,27

@@ -1,0 +1,81 @@
+county,precinct,office,district,candidate,party,votes
+Stanley,Absentee Precinct,Precinct Committeewoman Precinct-17,,Marie Radway,REP,17
+Stanley,Absentee Precinct,Precinct Committeewoman Precinct-17,,Chelsea A Michael,REP,4
+Stanley,Courthouse Community Room,Precinct Committeewoman Precinct-17,,Marie Radway,REP,85
+Stanley,Courthouse Community Room,Precinct Committeewoman Precinct-17,,Chelsea A Michael,REP,24
+Stanley,Deep Creek Church,Precinct Committeewoman Precinct-17,,Marie Radway,REP,0
+Stanley,Deep Creek Church,Precinct Committeewoman Precinct-17,,Chelsea A Michael,REP,0
+Stanley,Midland Fire Hall,Precinct Committeewoman Precinct-17,,Marie Radway,REP,1
+Stanley,Midland Fire Hall,Precinct Committeewoman Precinct-17,,Chelsea A Michael,REP,0
+Stanley,Milesville Hall,Precinct Committeewoman Precinct-17,,Marie Radway,REP,0
+Stanley,Milesville Hall,Precinct Committeewoman Precinct-17,,Chelsea A Michael,REP,0
+Stanley,Absentee Precinct,Precinct Committeewoman Precinct-19,,Stephanie M Trask,REP,5
+Stanley,Absentee Precinct,Precinct Committeewoman Precinct-19,,Carla Smith,REP,9
+Stanley,Courthouse Community Room,Precinct Committeewoman Precinct-19,,Stephanie M Trask,REP,64
+Stanley,Courthouse Community Room,Precinct Committeewoman Precinct-19,,Carla Smith,REP,56
+Stanley,Deep Creek Church,Precinct Committeewoman Precinct-19,,Stephanie M Trask,REP,0
+Stanley,Deep Creek Church,Precinct Committeewoman Precinct-19,,Carla Smith,REP,0
+Stanley,Midland Fire Hall,Precinct Committeewoman Precinct-19,,Stephanie M Trask,REP,0
+Stanley,Midland Fire Hall,Precinct Committeewoman Precinct-19,,Carla Smith,REP,0
+Stanley,Milesville Hall,Precinct Committeewoman Precinct-19,,Stephanie M Trask,REP,0
+Stanley,Milesville Hall,Precinct Committeewoman Precinct-19,,Carla Smith,REP,0
+Stanley,01,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,18
+Stanley,01,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,31
+Stanley,02,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,13
+Stanley,02,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,56
+Stanley,03,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,13
+Stanley,03,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,56
+Stanley,01,U.S. Senate,,John R. Thune,REP,666
+Stanley,01,U.S. Senate,,Bruce Whalen,REP,100
+Stanley,01,U.S. Senate,,Mark Mowry,REP,74
+Stanley,02,U.S. Senate,,John R. Thune,REP,29
+Stanley,02,U.S. Senate,,Bruce Whalen,REP,6
+Stanley,02,U.S. Senate,,Mark Mowry,REP,5
+Stanley,03,U.S. Senate,,John R. Thune,REP,50
+Stanley,03,U.S. Senate,,Bruce Whalen,REP,5
+Stanley,03,U.S. Senate,,Mark Mowry,REP,2
+Stanley,01,U.S. House,1,Dusty Johnson,REP,547
+Stanley,01,U.S. House,1,Taffy Howard,REP,297
+Stanley,02,U.S. House,1,Dusty Johnson,REP,18
+Stanley,02,U.S. House,1,Taffy Howard,REP,23
+Stanley,03,U.S. House,1,Dusty Johnson,REP,47
+Stanley,03,U.S. House,1,Taffy Howard,REP,10
+Stanley,01,Governor,,Steven Haugaard,REP,190
+Stanley,01,Governor,,Kristi Noem,REP,648
+Stanley,02,Governor,,Steven Haugaard,REP,9
+Stanley,02,Governor,,Kristi Noem,REP,32
+Stanley,03,Governor,,Steven Haugaard,REP,1
+Stanley,03,Governor,,Kristi Noem,REP,56
+Stanley,01,State Senate,24,Mary Duvall,REP,421
+Stanley,01,State Senate,24,Jim Mehlhaff,REP,419
+Stanley,02,State Senate,24,Mary Duvall,REP,17
+Stanley,02,State Senate,24,Jim Mehlhaff,REP,20
+Stanley,03,State Senate,24,Mary Duvall,REP,37
+Stanley,03,State Senate,24,Jim Mehlhaff,REP,18
+Stanley,01,State House,24,Mike Weisgram,REP,491
+Stanley,01,State House,24,Jim Sheehan,REP,139
+Stanley,01,State House,24,Will D. Mortenson,REP,523
+Stanley,01,State House,24,Mary Weinheimer,REP,357
+Stanley,02,State House,24,Mike Weisgram,REP,18
+Stanley,02,State House,24,Jim Sheehan,REP,13
+Stanley,02,State House,24,Will D. Mortenson,REP,22
+Stanley,02,State House,24,Mary Weinheimer,REP,18
+Stanley,03,State House,24,Mike Weisgram,REP,27
+Stanley,03,State House,24,Jim Sheehan,REP,8
+Stanley,03,State House,24,Will D. Mortenson,REP,45
+Stanley,03,State House,24,Mary Weinheimer,REP,19
+Stanley,01,Sheriff,,Gary Nickerson,REP,269
+Stanley,01,Sheriff,,Brandon Roegle,REP,99
+Stanley,01,Sheriff,,Bradley J Rathbun,REP,460
+Stanley,02,Sheriff,,Gary Nickerson,REP,12
+Stanley,02,Sheriff,,Brandon Roegle,REP,3
+Stanley,02,Sheriff,,Bradley J Rathbun,REP,23
+Stanley,03,Sheriff,,Gary Nickerson,REP,20
+Stanley,03,Sheriff,,Brandon Roegle,REP,4
+Stanley,03,Sheriff,,Bradley J Rathbun,REP,32
+Stanley,01,County Commissioner Stanley-1,,Bill Shrader,REP,29
+Stanley,01,County Commissioner Stanley-1,,Craig Heller,REP,87
+Stanley,02,County Commissioner Stanley-1,,Bill Shrader,REP,12
+Stanley,02,County Commissioner Stanley-1,,Craig Heller,REP,25
+Stanley,03,County Commissioner Stanley-1,,Bill Shrader,REP,12
+Stanley,03,County Commissioner Stanley-1,,Craig Heller,REP,19

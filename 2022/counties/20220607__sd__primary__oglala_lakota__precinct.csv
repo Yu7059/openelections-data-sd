@@ -1,0 +1,82 @@
+county,precinct,office,district,candidate,party,votes
+Oglala Lakota,Batesland,U.S. Senate,,John R. Thune,REP,11
+Oglala Lakota,Batesland,U.S. Senate,,Bruce Whalen,REP,7
+Oglala Lakota,Batesland,U.S. Senate,,Mark Mowry,REP,0
+Oglala Lakota,Cuny Table,U.S. Senate,,John R. Thune,REP,6
+Oglala Lakota,Cuny Table,U.S. Senate,,Bruce Whalen,REP,6
+Oglala Lakota,Cuny Table,U.S. Senate,,Mark Mowry,REP,2
+Oglala Lakota,Kyle,U.S. Senate,,John R. Thune,REP,2
+Oglala Lakota,Kyle,U.S. Senate,,Bruce Whalen,REP,0
+Oglala Lakota,Kyle,U.S. Senate,,Mark Mowry,REP,0
+Oglala Lakota,Manderson,U.S. Senate,,John R. Thune,REP,0
+Oglala Lakota,Manderson,U.S. Senate,,Bruce Whalen,REP,0
+Oglala Lakota,Manderson,U.S. Senate,,Mark Mowry,REP,0
+Oglala Lakota,Oglala,U.S. Senate,,John R. Thune,REP,10
+Oglala Lakota,Oglala,U.S. Senate,,Bruce Whalen,REP,1
+Oglala Lakota,Oglala,U.S. Senate,,Mark Mowry,REP,2
+Oglala Lakota,Pine Ridge 1,U.S. Senate,,John R. Thune,REP,0
+Oglala Lakota,Pine Ridge 1,U.S. Senate,,Bruce Whalen,REP,1
+Oglala Lakota,Pine Ridge 1,U.S. Senate,,Mark Mowry,REP,0
+Oglala Lakota,Pine Ridge 3,U.S. Senate,,John R. Thune,REP,7
+Oglala Lakota,Pine Ridge 3,U.S. Senate,,Bruce Whalen,REP,11
+Oglala Lakota,Pine Ridge 3,U.S. Senate,,Mark Mowry,REP,0
+Oglala Lakota,Porcupine,U.S. Senate,,John R. Thune,REP,11
+Oglala Lakota,Porcupine,U.S. Senate,,Bruce Whalen,REP,6
+Oglala Lakota,Porcupine,U.S. Senate,,Mark Mowry,REP,0
+Oglala Lakota,Rockyford,U.S. Senate,,John R. Thune,REP,2
+Oglala Lakota,Rockyford,U.S. Senate,,Bruce Whalen,REP,4
+Oglala Lakota,Rockyford,U.S. Senate,,Mark Mowry,REP,1
+Oglala Lakota,Batesland,U.S. House,1,Dusty Johnson,REP,6
+Oglala Lakota,Batesland,U.S. House,1,Taffy Howard,REP,12
+Oglala Lakota,Cuny Table,U.S. House,1,Dusty Johnson,REP,2
+Oglala Lakota,Cuny Table,U.S. House,1,Taffy Howard,REP,11
+Oglala Lakota,Kyle,U.S. House,1,Dusty Johnson,REP,0
+Oglala Lakota,Kyle,U.S. House,1,Taffy Howard,REP,2
+Oglala Lakota,Manderson,U.S. House,1,Dusty Johnson,REP,0
+Oglala Lakota,Manderson,U.S. House,1,Taffy Howard,REP,0
+Oglala Lakota,Oglala,U.S. House,1,Dusty Johnson,REP,10
+Oglala Lakota,Oglala,U.S. House,1,Taffy Howard,REP,3
+Oglala Lakota,Pine Ridge 1,U.S. House,1,Dusty Johnson,REP,0
+Oglala Lakota,Pine Ridge 1,U.S. House,1,Taffy Howard,REP,1
+Oglala Lakota,Pine Ridge 3,U.S. House,1,Dusty Johnson,REP,13
+Oglala Lakota,Pine Ridge 3,U.S. House,1,Taffy Howard,REP,6
+Oglala Lakota,Porcupine,U.S. House,1,Dusty Johnson,REP,9
+Oglala Lakota,Porcupine,U.S. House,1,Taffy Howard,REP,8
+Oglala Lakota,Rockyford,U.S. House,1,Dusty Johnson,REP,3
+Oglala Lakota,Rockyford,U.S. House,1,Taffy Howard,REP,3
+Oglala Lakota,Batesland,Governor,,Steven Haugaard,REP,1
+Oglala Lakota,Batesland,Governor,,Kristi Noem,REP,17
+Oglala Lakota,Cuny Table,Governor,,Steven Haugaard,REP,1
+Oglala Lakota,Cuny Table,Governor,,Kristi Noem,REP,13
+Oglala Lakota,Kyle,Governor,,Steven Haugaard,REP,0
+Oglala Lakota,Kyle,Governor,,Kristi Noem,REP,2
+Oglala Lakota,Manderson,Governor,,Steven Haugaard,REP,0
+Oglala Lakota,Manderson,Governor,,Kristi Noem,REP,0
+Oglala Lakota,Oglala,Governor,,Steven Haugaard,REP,8
+Oglala Lakota,Oglala,Governor,,Kristi Noem,REP,5
+Oglala Lakota,Pine Ridge 1,Governor,,Steven Haugaard,REP,1
+Oglala Lakota,Pine Ridge 1,Governor,,Kristi Noem,REP,0
+Oglala Lakota,Pine Ridge 3,Governor,,Steven Haugaard,REP,11
+Oglala Lakota,Pine Ridge 3,Governor,,Kristi Noem,REP,8
+Oglala Lakota,Porcupine,Governor,,Steven Haugaard,REP,13
+Oglala Lakota,Porcupine,Governor,,Kristi Noem,REP,5
+Oglala Lakota,Rockyford,Governor,,Steven Haugaard,REP,4
+Oglala Lakota,Rockyford,Governor,,Kristi Noem,REP,3
+Oglala Lakota,Batesland,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,17
+Oglala Lakota,Batesland,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,54
+Oglala Lakota,Cuny Table,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,4
+Oglala Lakota,Cuny Table,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,26
+Oglala Lakota,Kyle,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,13
+Oglala Lakota,Kyle,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,40
+Oglala Lakota,Manderson,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,0
+Oglala Lakota,Manderson,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,2
+Oglala Lakota,Oglala,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,24
+Oglala Lakota,Oglala,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,71
+Oglala Lakota,Pine Ridge 1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,30
+Oglala Lakota,Pine Ridge 1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,73
+Oglala Lakota,Pine Ridge 3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,42
+Oglala Lakota,Pine Ridge 3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,93
+Oglala Lakota,Porcupine,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,34
+Oglala Lakota,Porcupine,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,72
+Oglala Lakota,Rockyford,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,3
+Oglala Lakota,Rockyford,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,20

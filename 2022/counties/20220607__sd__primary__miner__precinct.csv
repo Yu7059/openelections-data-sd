@@ -1,0 +1,111 @@
+county,precinct,office,district,candidate,party,votes
+Miner,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,17
+Miner,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,53
+Miner,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,9
+Miner,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,44
+Miner,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,11
+Miner,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,46
+Miner,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,16
+Miner,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,37
+Miner,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,7
+Miner,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,34
+Miner,6,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,36
+Miner,6,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,65
+Miner,7,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,19
+Miner,7,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,68
+Miner,8,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,16
+Miner,8,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,41
+Miner,1,State House,8,Lecia Summerer,REP,5
+Miner,1,State House,8,John Mills,REP,8
+Miner,1,State House,8,Tim Reisch,REP,38
+Miner,2,State House,8,Lecia Summerer,REP,1
+Miner,2,State House,8,John Mills,REP,8
+Miner,2,State House,8,Tim Reisch,REP,29
+Miner,3,State House,8,Lecia Summerer,REP,1
+Miner,3,State House,8,John Mills,REP,5
+Miner,3,State House,8,Tim Reisch,REP,30
+Miner,4,State House,8,Lecia Summerer,REP,6
+Miner,4,State House,8,John Mills,REP,11
+Miner,4,State House,8,Tim Reisch,REP,33
+Miner,6,State House,8,Lecia Summerer,REP,10
+Miner,6,State House,8,John Mills,REP,17
+Miner,6,State House,8,Tim Reisch,REP,64
+Miner,7,State House,8,Lecia Summerer,REP,8
+Miner,7,State House,8,John Mills,REP,13
+Miner,7,State House,8,Tim Reisch,REP,43
+Miner,8,State House,8,Lecia Summerer,REP,2
+Miner,8,State House,8,John Mills,REP,12
+Miner,8,State House,8,Tim Reisch,REP,37
+Miner,5,State House,20,Ben Krohmer,REP,14
+Miner,5,State House,20,Jeff Bathke,REP,10
+Miner,5,State House,20,Lance Koth,REP,6
+Miner,1,State Senate,8,Heather DeVries,REP,5
+Miner,1,State Senate,8,Casey Crabtree,REP,32
+Miner,2,State Senate,8,Heather DeVries,REP,2
+Miner,2,State Senate,8,Casey Crabtree,REP,27
+Miner,3,State Senate,8,Heather DeVries,REP,0
+Miner,3,State Senate,8,Casey Crabtree,REP,29
+Miner,4,State Senate,8,Heather DeVries,REP,5
+Miner,4,State Senate,8,Casey Crabtree,REP,26
+Miner,6,State Senate,8,Heather DeVries,REP,8
+Miner,6,State Senate,8,Casey Crabtree,REP,58
+Miner,7,State Senate,8,Heather DeVries,REP,5
+Miner,7,State Senate,8,Casey Crabtree,REP,35
+Miner,8,State Senate,8,Heather DeVries,REP,8
+Miner,8,State Senate,8,Casey Crabtree,REP,28
+Miner,1,Governor,,Steven Haugaard,REP,9
+Miner,1,Governor,,Kristi Noem,REP,31
+Miner,2,Governor,,Steven Haugaard,REP,4
+Miner,2,Governor,,Kristi Noem,REP,25
+Miner,3,Governor,,Steven Haugaard,REP,5
+Miner,3,Governor,,Kristi Noem,REP,25
+Miner,4,Governor,,Steven Haugaard,REP,5
+Miner,4,Governor,,Kristi Noem,REP,30
+Miner,5,Governor,,Steven Haugaard,REP,5
+Miner,5,Governor,,Kristi Noem,REP,21
+Miner,6,Governor,,Steven Haugaard,REP,10
+Miner,6,Governor,,Kristi Noem,REP,60
+Miner,7,Governor,,Steven Haugaard,REP,12
+Miner,7,Governor,,Kristi Noem,REP,33
+Miner,8,Governor,,Steven Haugaard,REP,5
+Miner,8,Governor,,Kristi Noem,REP,35
+Miner,1,U.S. House,1,Dusty Johnson,REP,23
+Miner,1,U.S. House,1,Taffy Howard,REP,14
+Miner,2,U.S. House,1,Dusty Johnson,REP,20
+Miner,2,U.S. House,1,Taffy Howard,REP,9
+Miner,3,U.S. House,1,Dusty Johnson,REP,25
+Miner,3,U.S. House,1,Taffy Howard,REP,5
+Miner,4,U.S. House,1,Dusty Johnson,REP,24
+Miner,4,U.S. House,1,Taffy Howard,REP,10
+Miner,5,U.S. House,1,Dusty Johnson,REP,16
+Miner,5,U.S. House,1,Taffy Howard,REP,10
+Miner,6,U.S. House,1,Dusty Johnson,REP,44
+Miner,6,U.S. House,1,Taffy Howard,REP,22
+Miner,7,U.S. House,1,Dusty Johnson,REP,29
+Miner,7,U.S. House,1,Taffy Howard,REP,17
+Miner,8,U.S. House,1,Dusty Johnson,REP,22
+Miner,8,U.S. House,1,Taffy Howard,REP,16
+Miner,1,U.S. Senate,,John R. Thune,REP,34
+Miner,1,U.S. Senate,,Bruce Whalen,REP,3
+Miner,1,U.S. Senate,,Mark Mowry,REP,4
+Miner,2,U.S. Senate,,John R. Thune,REP,24
+Miner,2,U.S. Senate,,Bruce Whalen,REP,3
+Miner,2,U.S. Senate,,Mark Mowry,REP,1
+Miner,3,U.S. Senate,,John R. Thune,REP,28
+Miner,3,U.S. Senate,,Bruce Whalen,REP,2
+Miner,3,U.S. Senate,,Mark Mowry,REP,0
+Miner,4,U.S. Senate,,John R. Thune,REP,30
+Miner,4,U.S. Senate,,Bruce Whalen,REP,5
+Miner,4,U.S. Senate,,Mark Mowry,REP,0
+Miner,5,U.S. Senate,,John R. Thune,REP,18
+Miner,5,U.S. Senate,,Bruce Whalen,REP,5
+Miner,5,U.S. Senate,,Mark Mowry,REP,2
+Miner,6,U.S. Senate,,John R. Thune,REP,54
+Miner,6,U.S. Senate,,Bruce Whalen,REP,13
+Miner,6,U.S. Senate,,Mark Mowry,REP,0
+Miner,7,U.S. Senate,,John R. Thune,REP,31
+Miner,7,U.S. Senate,,Bruce Whalen,REP,6
+Miner,7,U.S. Senate,,Mark Mowry,REP,5
+Miner,8,U.S. Senate,,John R. Thune,REP,26
+Miner,8,U.S. Senate,,Bruce Whalen,REP,9
+Miner,8,U.S. Senate,,Mark Mowry,REP,2

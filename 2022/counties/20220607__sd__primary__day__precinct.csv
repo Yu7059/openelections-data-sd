@@ -1,0 +1,145 @@
+county,precinct,office,district,candidate,party,votes
+Day,01,U.S. Senate,,John R. Thune,REP,62
+Day,01,U.S. Senate,,Bruce Whalen,REP,10
+Day,01,U.S. Senate,,Mark Mowry,REP,2
+Day,02,U.S. Senate,,John R. Thune,REP,63
+Day,02,U.S. Senate,,Bruce Whalen,REP,10
+Day,02,U.S. Senate,,Mark Mowry,REP,2
+Day,03,U.S. Senate,,John R. Thune,REP,72
+Day,03,U.S. Senate,,Bruce Whalen,REP,12
+Day,03,U.S. Senate,,Mark Mowry,REP,5
+Day,04,U.S. Senate,,John R. Thune,REP,71
+Day,04,U.S. Senate,,Bruce Whalen,REP,15
+Day,04,U.S. Senate,,Mark Mowry,REP,3
+Day,05,U.S. Senate,,John R. Thune,REP,74
+Day,05,U.S. Senate,,Bruce Whalen,REP,17
+Day,05,U.S. Senate,,Mark Mowry,REP,16
+Day,06,U.S. Senate,,John R. Thune,REP,25
+Day,06,U.S. Senate,,Bruce Whalen,REP,5
+Day,06,U.S. Senate,,Mark Mowry,REP,6
+Day,07,U.S. Senate,,John R. Thune,REP,26
+Day,07,U.S. Senate,,Bruce Whalen,REP,13
+Day,07,U.S. Senate,,Mark Mowry,REP,3
+Day,08,U.S. Senate,,John R. Thune,REP,37
+Day,08,U.S. Senate,,Bruce Whalen,REP,9
+Day,08,U.S. Senate,,Mark Mowry,REP,5
+Day,09,U.S. Senate,,John R. Thune,REP,30
+Day,09,U.S. Senate,,Bruce Whalen,REP,6
+Day,09,U.S. Senate,,Mark Mowry,REP,1
+Day,10,U.S. Senate,,John R. Thune,REP,19
+Day,10,U.S. Senate,,Bruce Whalen,REP,10
+Day,10,U.S. Senate,,Mark Mowry,REP,1
+Day,11,U.S. Senate,,John R. Thune,REP,58
+Day,11,U.S. Senate,,Bruce Whalen,REP,12
+Day,11,U.S. Senate,,Mark Mowry,REP,0
+Day,01,State Senate,1,Michael H. Rohl,REP,56
+Day,01,State Senate,1,Joe Donnell,REP,14
+Day,02,State Senate,1,Michael H. Rohl,REP,54
+Day,02,State Senate,1,Joe Donnell,REP,14
+Day,03,State Senate,1,Michael H. Rohl,REP,65
+Day,03,State Senate,1,Joe Donnell,REP,16
+Day,04,State Senate,1,Michael H. Rohl,REP,68
+Day,04,State Senate,1,Joe Donnell,REP,13
+Day,05,State Senate,1,Michael H. Rohl,REP,70
+Day,05,State Senate,1,Joe Donnell,REP,33
+Day,06,State Senate,1,Michael H. Rohl,REP,27
+Day,06,State Senate,1,Joe Donnell,REP,8
+Day,07,State Senate,1,Michael H. Rohl,REP,27
+Day,07,State Senate,1,Joe Donnell,REP,13
+Day,08,State Senate,1,Michael H. Rohl,REP,26
+Day,08,State Senate,1,Joe Donnell,REP,19
+Day,09,State Senate,1,Michael H. Rohl,REP,28
+Day,09,State Senate,1,Joe Donnell,REP,6
+Day,10,State Senate,1,Michael H. Rohl,REP,15
+Day,10,State Senate,1,Joe Donnell,REP,12
+Day,11,State Senate,1,Michael H. Rohl,REP,47
+Day,11,State Senate,1,Joe Donnell,REP,14
+Day,01,U.S. House,1,Dusty Johnson,REP,54
+Day,01,U.S. House,1,Taffy Howard,REP,21
+Day,02,U.S. House,1,Dusty Johnson,REP,50
+Day,02,U.S. House,1,Taffy Howard,REP,29
+Day,03,U.S. House,1,Dusty Johnson,REP,48
+Day,03,U.S. House,1,Taffy Howard,REP,37
+Day,04,U.S. House,1,Dusty Johnson,REP,59
+Day,04,U.S. House,1,Taffy Howard,REP,31
+Day,05,U.S. House,1,Dusty Johnson,REP,67
+Day,05,U.S. House,1,Taffy Howard,REP,40
+Day,06,U.S. House,1,Dusty Johnson,REP,23
+Day,06,U.S. House,1,Taffy Howard,REP,14
+Day,07,U.S. House,1,Dusty Johnson,REP,27
+Day,07,U.S. House,1,Taffy Howard,REP,14
+Day,08,U.S. House,1,Dusty Johnson,REP,28
+Day,08,U.S. House,1,Taffy Howard,REP,23
+Day,09,U.S. House,1,Dusty Johnson,REP,27
+Day,09,U.S. House,1,Taffy Howard,REP,12
+Day,10,U.S. House,1,Dusty Johnson,REP,13
+Day,10,U.S. House,1,Taffy Howard,REP,17
+Day,11,U.S. House,1,Dusty Johnson,REP,44
+Day,11,U.S. House,1,Taffy Howard,REP,24
+Day,01,County Commissioner Day,,Derek L. Shrier,REP,3
+Day,01,County Commissioner Day,,Joshua Atherton,REP,6
+Day,02,County Commissioner Day,,Derek L. Shrier,REP,44
+Day,02,County Commissioner Day,,Joshua Atherton,REP,37
+Day,04,County Commissioner Day,,Derek L. Shrier,REP,10
+Day,04,County Commissioner Day,,Joshua Atherton,REP,15
+Day,10,County Commissioner Day,,Derek L. Shrier,REP,29
+Day,10,County Commissioner Day,,Joshua Atherton,REP,1
+Day,01,Governor,,Steven Haugaard,REP,11
+Day,01,Governor,,Kristi Noem,REP,61
+Day,02,Governor,,Steven Haugaard,REP,10
+Day,02,Governor,,Kristi Noem,REP,71
+Day,03,Governor,,Steven Haugaard,REP,16
+Day,03,Governor,,Kristi Noem,REP,73
+Day,04,Governor,,Steven Haugaard,REP,7
+Day,04,Governor,,Kristi Noem,REP,83
+Day,05,Governor,,Steven Haugaard,REP,22
+Day,05,Governor,,Kristi Noem,REP,88
+Day,06,Governor,,Steven Haugaard,REP,15
+Day,06,Governor,,Kristi Noem,REP,22
+Day,07,Governor,,Steven Haugaard,REP,14
+Day,07,Governor,,Kristi Noem,REP,30
+Day,08,Governor,,Steven Haugaard,REP,8
+Day,08,Governor,,Kristi Noem,REP,43
+Day,09,Governor,,Steven Haugaard,REP,9
+Day,09,Governor,,Kristi Noem,REP,30
+Day,10,Governor,,Steven Haugaard,REP,1
+Day,10,Governor,,Kristi Noem,REP,29
+Day,11,Governor,,Steven Haugaard,REP,12
+Day,11,Governor,,Kristi Noem,REP,58
+Day,01,Constitutional Amendment,,Yes,,19
+Day,01,Constitutional Amendment,,No,,108
+Day,02,Constitutional Amendment,,Yes,,43
+Day,02,Constitutional Amendment,,No,,89
+Day,03,Constitutional Amendment,,Yes,,33
+Day,03,Constitutional Amendment,,No,,94
+Day,04,Constitutional Amendment,,Yes,,29
+Day,04,Constitutional Amendment,,No,,127
+Day,05,Constitutional Amendment,,Yes,,29
+Day,05,Constitutional Amendment,,No,,150
+Day,06,Constitutional Amendment,,Yes,,10
+Day,06,Constitutional Amendment,,No,,43
+Day,07,Constitutional Amendment,,Yes,,22
+Day,07,Constitutional Amendment,,No,,73
+Day,08,Constitutional Amendment,,Yes,,16
+Day,08,Constitutional Amendment,,No,,88
+Day,09,Constitutional Amendment,,Yes,,25
+Day,09,Constitutional Amendment,,No,,59
+Day,10,Constitutional Amendment,,Yes,,17
+Day,10,Constitutional Amendment,,No,,17
+Day,11,Constitutional Amendment,,Yes,,34
+Day,11,Constitutional Amendment,,No,,90
+Day,1,County Commissioner-5,,Derek L Sinner,,3
+Day,1,County Commissioner-5,,Joshua W Everton,,6
+Day,1,County Commissioner-5,,Under Vote,,2
+Day,2,County Commissioner-5,,Derek L Sinner,,44
+Day,2,County Commissioner-5,,Joshua W Everton,,37
+Day,2,County Commissioner-5,,Over Vote,,1
+Day,2,County Commissioner-5,,Under Vote,,2
+Day,4,County Commissioner-5,,Derek L Sinner,,10
+Day,4,County Commissioner-5,,Joshua W Everton,,15
+Day,10,County Commissioner-5,,Joshua W Everton,,29
+Day,10,County Commissioner-5,,Over Vote,,1
+Day,10,County Commissioner-5,,Under Vote,,0
+Day,12,County Commissioner-5,,Joshua W Everton,,86
+Day,12,County Commissioner-5,,Over Vote,,59
+Day,12,County Commissioner-5,,Under Vote,,0

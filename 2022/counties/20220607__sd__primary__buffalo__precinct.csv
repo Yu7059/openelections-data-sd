@@ -1,0 +1,28 @@
+county,precinct,office,district,candidate,party,votes
+Buffalo,1,U.S. Senate,,John R. Thune,REP,32
+Buffalo,1,U.S. Senate,,Bruce Whalen,REP,4
+Buffalo,1,U.S. Senate,,Mark Mowry,REP,3
+Buffalo,2,U.S. Senate,,John R. Thune,REP,7
+Buffalo,2,U.S. Senate,,Bruce Whalen,REP,3
+Buffalo,2,U.S. Senate,,Mark Mowry,REP,1
+Buffalo,3,U.S. Senate,,John R. Thune,REP,10
+Buffalo,3,U.S. Senate,,Bruce Whalen,REP,7
+Buffalo,3,U.S. Senate,,Mark Mowry,REP,0
+Buffalo,1,U.S. House,1,Dusty Johnson,REP,29
+Buffalo,1,U.S. House,1,Taffy Howard,REP,11
+Buffalo,2,U.S. House,1,Dusty Johnson,REP,7
+Buffalo,2,U.S. House,1,Taffy Howard,REP,4
+Buffalo,3,U.S. House,1,Dusty Johnson,REP,9
+Buffalo,3,U.S. House,1,Taffy Howard,REP,8
+Buffalo,1,Governor,,Steven Haugaard,REP,2
+Buffalo,1,Governor,,Kristi Noem,REP,37
+Buffalo,2,Governor,,Steven Haugaard,REP,4
+Buffalo,2,Governor,,Kristi Noem,REP,6
+Buffalo,3,Governor,,Steven Haugaard,REP,1
+Buffalo,3,Governor,,Kristi Noem,REP,16
+Buffalo,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,26
+Buffalo,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,36
+Buffalo,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,3
+Buffalo,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,18
+Buffalo,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,26
+Buffalo,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,61

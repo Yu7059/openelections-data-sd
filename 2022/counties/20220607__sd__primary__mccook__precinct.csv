@@ -1,0 +1,45 @@
+county,precinct,office,district,candidate,party,votes
+McCook,01,U.S. Senate,,John R. Thune,REP,119
+McCook,01,U.S. Senate,,Bruce Whalen,REP,53
+McCook,01,U.S. Senate,,Mark Mowry,REP,22
+McCook,02,U.S. Senate,,John R. Thune,REP,54
+McCook,02,U.S. Senate,,Bruce Whalen,REP,6
+McCook,02,U.S. Senate,,Mark Mowry,REP,6
+McCook,03,U.S. Senate,,John R. Thune,REP,152
+McCook,03,U.S. Senate,,Bruce Whalen,REP,37
+McCook,03,U.S. Senate,,Mark Mowry,REP,15
+McCook,04,U.S. Senate,,John R. Thune,REP,190
+McCook,04,U.S. Senate,,Bruce Whalen,REP,22
+McCook,04,U.S. Senate,,Mark Mowry,REP,23
+McCook,05,U.S. Senate,,John R. Thune,REP,230
+McCook,05,U.S. Senate,,Bruce Whalen,REP,62
+McCook,05,U.S. Senate,,Mark Mowry,REP,28
+McCook,06,U.S. Senate,,John R. Thune,REP,128
+McCook,06,U.S. Senate,,Bruce Whalen,REP,15
+McCook,06,U.S. Senate,,Mark Mowry,REP,11
+McCook,01,U.S. House,1,Dusty Johnson,REP,94
+McCook,01,U.S. House,1,Taffy Howard,REP,77
+McCook,02,U.S. House,1,Dusty Johnson,REP,35
+McCook,02,U.S. House,1,Taffy Howard,REP,19
+McCook,03,U.S. House,1,Dusty Johnson,REP,123
+McCook,03,U.S. House,1,Taffy Howard,REP,87
+McCook,04,U.S. House,1,Dusty Johnson,REP,133
+McCook,04,U.S. House,1,Taffy Howard,REP,105
+McCook,05,U.S. House,1,Dusty Johnson,REP,200
+McCook,05,U.S. House,1,Taffy Howard,REP,115
+McCook,06,U.S. House,1,Dusty Johnson,REP,125
+McCook,06,U.S. House,1,Taffy Howard,REP,60
+McCook,01,Governor,,Steven Haugaard,REP,48
+McCook,01,Governor,,Kristi Noem,REP,126
+McCook,02,Governor,,Steven Haugaard,REP,19
+McCook,02,Governor,,Kristi Noem,REP,47
+McCook,03,Governor,,Steven Haugaard,REP,62
+McCook,03,Governor,,Kristi Noem,REP,148
+McCook,04,Governor,,Steven Haugaard,REP,59
+McCook,04,Governor,,Kristi Noem,REP,203
+McCook,05,Governor,,Steven Haugaard,REP,85
+McCook,05,Governor,,Kristi Noem,REP,235
+McCook,06,Governor,,Steven Haugaard,REP,13
+McCook,06,Governor,,Kristi Noem,REP,149
+McCook,03,County Commissioner McCook-3,,Bernard Stockwell,REP,58
+McCook,03,County Commissioner McCook-3,,Marc Dick,REP,121

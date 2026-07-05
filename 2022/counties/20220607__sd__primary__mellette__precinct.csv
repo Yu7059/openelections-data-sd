@@ -1,0 +1,53 @@
+county,precinct,office,district,candidate,party,votes
+Mellette,2,U.S. Senate,,John R. Thune,REP,42
+Mellette,2,U.S. Senate,,Bruce Whalen,REP,16
+Mellette,2,U.S. Senate,,Mark Mowry,REP,9
+Mellette,3,U.S. Senate,,John R. Thune,REP,37
+Mellette,3,U.S. Senate,,Bruce Whalen,REP,13
+Mellette,3,U.S. Senate,,Mark Mowry,REP,16
+Mellette,5,U.S. Senate,,John R. Thune,REP,30
+Mellette,5,U.S. Senate,,Bruce Whalen,REP,9
+Mellette,5,U.S. Senate,,Mark Mowry,REP,9
+Mellette,6,U.S. Senate,,John R. Thune,REP,36
+Mellette,6,U.S. Senate,,Bruce Whalen,REP,19
+Mellette,6,U.S. Senate,,Mark Mowry,REP,8
+Mellette,2,U.S. House,1,Dusty Johnson,REP,36
+Mellette,2,U.S. House,1,Taffy Howard,REP,29
+Mellette,3,U.S. House,1,Dusty Johnson,REP,26
+Mellette,3,U.S. House,1,Taffy Howard,REP,40
+Mellette,5,U.S. House,1,Dusty Johnson,REP,32
+Mellette,5,U.S. House,1,Taffy Howard,REP,16
+Mellette,6,U.S. House,1,Dusty Johnson,REP,20
+Mellette,6,U.S. House,1,Taffy Howard,REP,43
+Mellette,2,Governor,,Steven Haugaard,REP,13
+Mellette,2,Governor,,Kristi Noem,REP,54
+Mellette,3,Governor,,Steven Haugaard,REP,9
+Mellette,3,Governor,,Kristi Noem,REP,57
+Mellette,5,Governor,,Steven Haugaard,REP,14
+Mellette,5,Governor,,Kristi Noem,REP,36
+Mellette,6,Governor,,Steven Haugaard,REP,12
+Mellette,6,Governor,,Kristi Noem,REP,52
+Mellette,2,State House,26A,Alexandra Frederick,DEM,9
+Mellette,2,State House,26A,Eric Emery,DEM,9
+Mellette,3,State House,26A,Alexandra Frederick,DEM,10
+Mellette,3,State House,26A,Eric Emery,DEM,4
+Mellette,5,State House,26A,Alexandra Frederick,DEM,14
+Mellette,5,State House,26A,Eric Emery,DEM,17
+Mellette,6,State House,26A,Alexandra Frederick,DEM,14
+Mellette,6,State House,26A,Eric Emery,DEM,10
+Mellette,2,State House,26A,Ron Frederick,REP,26
+Mellette,2,State House,26A,Joyce Glynn,REP,39
+Mellette,3,State House,26A,Ron Frederick,REP,14
+Mellette,3,State House,26A,Joyce Glynn,REP,48
+Mellette,5,State House,26A,Ron Frederick,REP,15
+Mellette,5,State House,26A,Joyce Glynn,REP,33
+Mellette,6,State House,26A,Ron Frederick,REP,33
+Mellette,6,State House,26A,Joyce Glynn,REP,30
+Mellette,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,38
+Mellette,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,58
+Mellette,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,34
+Mellette,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,52
+Mellette,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,20
+Mellette,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,61
+Mellette,6,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,31
+Mellette,6,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,59

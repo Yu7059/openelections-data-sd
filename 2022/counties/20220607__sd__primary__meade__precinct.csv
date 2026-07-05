@@ -1,0 +1,568 @@
+county,precinct,office,district,candidate,party,votes
+Meade,ALKALI #6A,U.S. Senate,,John R. Thune,REP,60
+Meade,ALKALI #6A,U.S. Senate,,Bruce Whalen,REP,22
+Meade,ALKALI #6A,U.S. Senate,,Mark Mowry,REP,11
+Meade,BASE #23,U.S. Senate,,John R. Thune,REP,29
+Meade,BASE #23,U.S. Senate,,Bruce Whalen,REP,16
+Meade,BASE #23,U.S. Senate,,Mark Mowry,REP,6
+Meade,BEAR BUTTE #9,U.S. Senate,,John R. Thune,REP,54
+Meade,BEAR BUTTE #9,U.S. Senate,,Bruce Whalen,REP,25
+Meade,BEAR BUTTE #9,U.S. Senate,,Mark Mowry,REP,3
+Meade,BLACK HAWK #14,U.S. Senate,,John R. Thune,REP,79
+Meade,BLACK HAWK #14,U.S. Senate,,Bruce Whalen,REP,19
+Meade,BLACK HAWK #14,U.S. Senate,,Mark Mowry,REP,14
+Meade,CENTRAL BLACK HAWK #19,U.S. Senate,,John R. Thune,REP,231
+Meade,CENTRAL BLACK HAWK #19,U.S. Senate,,Bruce Whalen,REP,49
+Meade,CENTRAL BLACK HAWK #19,U.S. Senate,,Mark Mowry,REP,19
+Meade,CENTRAL STURGIS #3,U.S. Senate,,John R. Thune,REP,86
+Meade,CENTRAL STURGIS #3,U.S. Senate,,Bruce Whalen,REP,15
+Meade,CENTRAL STURGIS #3,U.S. Senate,,Mark Mowry,REP,10
+Meade,CHALK BUTTE #27,U.S. Senate,,John R. Thune,REP,48
+Meade,CHALK BUTTE #27,U.S. Senate,,Bruce Whalen,REP,11
+Meade,CHALK BUTTE #27,U.S. Senate,,Mark Mowry,REP,12
+Meade,EAST ELK VALE #21A,U.S. Senate,,John R. Thune,REP,97
+Meade,EAST ELK VALE #21A,U.S. Senate,,Bruce Whalen,REP,33
+Meade,EAST ELK VALE #21A,U.S. Senate,,Mark Mowry,REP,13
+Meade,EAST PIEDMONT #12A,U.S. Senate,,John R. Thune,REP,82
+Meade,EAST PIEDMONT #12A,U.S. Senate,,Bruce Whalen,REP,28
+Meade,EAST PIEDMONT #12A,U.S. Senate,,Mark Mowry,REP,17
+Meade,EAST STURGIS #1,U.S. Senate,,John R. Thune,REP,72
+Meade,EAST STURGIS #1,U.S. Senate,,Bruce Whalen,REP,29
+Meade,EAST STURGIS #1,U.S. Senate,,Mark Mowry,REP,5
+Meade,ELK VALE #21,U.S. Senate,,John R. Thune,REP,21
+Meade,ELK VALE #21,U.S. Senate,,Bruce Whalen,REP,15
+Meade,ELK VALE #21,U.S. Senate,,Mark Mowry,REP,0
+Meade,ELM SPRINGS #18,U.S. Senate,,John R. Thune,REP,31
+Meade,ELM SPRINGS #18,U.S. Senate,,Bruce Whalen,REP,25
+Meade,ELM SPRINGS #18,U.S. Senate,,Mark Mowry,REP,4
+Meade,FAIRPOINT #29,U.S. Senate,,John R. Thune,REP,11
+Meade,FAIRPOINT #29,U.S. Senate,,Bruce Whalen,REP,4
+Meade,FAIRPOINT #29,U.S. Senate,,Mark Mowry,REP,4
+Meade,FAITH #31,U.S. Senate,,John R. Thune,REP,76
+Meade,FAITH #31,U.S. Senate,,Bruce Whalen,REP,31
+Meade,FAITH #31,U.S. Senate,,Mark Mowry,REP,19
+Meade,FORT MEADE #1A,U.S. Senate,,John R. Thune,REP,6
+Meade,FORT MEADE #1A,U.S. Senate,,Bruce Whalen,REP,2
+Meade,FORT MEADE #1A,U.S. Senate,,Mark Mowry,REP,2
+Meade,HARMONY #8,U.S. Senate,,John R. Thune,REP,118
+Meade,HARMONY #8,U.S. Senate,,Bruce Whalen,REP,43
+Meade,HARMONY #8,U.S. Senate,,Mark Mowry,REP,12
+Meade,HEREFORD #20,U.S. Senate,,John R. Thune,REP,16
+Meade,HEREFORD #20,U.S. Senate,,Bruce Whalen,REP,7
+Meade,HEREFORD #20,U.S. Senate,,Mark Mowry,REP,3
+Meade,MARCUS #41,U.S. Senate,,John R. Thune,REP,15
+Meade,MARCUS #41,U.S. Senate,,Bruce Whalen,REP,10
+Meade,MARCUS #41,U.S. Senate,,Mark Mowry,REP,3
+Meade,NORTHEAST PIEDMONT #12,U.S. Senate,,John R. Thune,REP,223
+Meade,NORTHEAST PIEDMONT #12,U.S. Senate,,Bruce Whalen,REP,59
+Meade,NORTHEAST PIEDMONT #12,U.S. Senate,,Mark Mowry,REP,21
+Meade,NORTHEAST STURGIS #1-A,U.S. Senate,,John R. Thune,REP,37
+Meade,NORTHEAST STURGIS #1-A,U.S. Senate,,Bruce Whalen,REP,5
+Meade,NORTHEAST STURGIS #1-A,U.S. Senate,,Mark Mowry,REP,3
+Meade,NORTHWEST STURGIS #5,U.S. Senate,,John R. Thune,REP,101
+Meade,NORTHWEST STURGIS #5,U.S. Senate,,Bruce Whalen,REP,35
+Meade,NORTHWEST STURGIS #5,U.S. Senate,,Mark Mowry,REP,15
+Meade,PIEDMONT CENTRAL #11A,U.S. Senate,,John R. Thune,REP,173
+Meade,PIEDMONT CENTRAL #11A,U.S. Senate,,Bruce Whalen,REP,49
+Meade,PIEDMONT CENTRAL #11A,U.S. Senate,,Mark Mowry,REP,28
+Meade,PIEDMONT WEST #11,U.S. Senate,,John R. Thune,REP,158
+Meade,PIEDMONT WEST #11,U.S. Senate,,Bruce Whalen,REP,64
+Meade,PIEDMONT WEST #11,U.S. Senate,,Mark Mowry,REP,24
+Meade,PINE #33,U.S. Senate,,John R. Thune,REP,27
+Meade,PINE #33,U.S. Senate,,Bruce Whalen,REP,23
+Meade,PINE #33,U.S. Senate,,Mark Mowry,REP,3
+Meade,RED OWL #30,U.S. Senate,,John R. Thune,REP,22
+Meade,RED OWL #30,U.S. Senate,,Bruce Whalen,REP,16
+Meade,RED OWL #30,U.S. Senate,,Mark Mowry,REP,17
+Meade,RURAL BLACK HAWK #15,U.S. Senate,,John R. Thune,REP,135
+Meade,RURAL BLACK HAWK #15,U.S. Senate,,Bruce Whalen,REP,35
+Meade,RURAL BLACK HAWK #15,U.S. Senate,,Mark Mowry,REP,9
+Meade,RURAL STURGIS #7,U.S. Senate,,John R. Thune,REP,160
+Meade,RURAL STURGIS #7,U.S. Senate,,Bruce Whalen,REP,29
+Meade,RURAL STURGIS #7,U.S. Senate,,Mark Mowry,REP,13
+Meade,SOUTH STURGIS #2A,U.S. Senate,,John R. Thune,REP,134
+Meade,SOUTH STURGIS #2A,U.S. Senate,,Bruce Whalen,REP,15
+Meade,SOUTH STURGIS #2A,U.S. Senate,,Mark Mowry,REP,11
+Meade,SOUTHEAST PIEDMONT #13,U.S. Senate,,John R. Thune,REP,248
+Meade,SOUTHEAST PIEDMONT #13,U.S. Senate,,Bruce Whalen,REP,66
+Meade,SOUTHEAST PIEDMONT #13,U.S. Senate,,Mark Mowry,REP,30
+Meade,SOUTHEAST STURGIS #2,U.S. Senate,,John R. Thune,REP,184
+Meade,SOUTHEAST STURGIS #2,U.S. Senate,,Bruce Whalen,REP,37
+Meade,SOUTHEAST STURGIS #2,U.S. Senate,,Mark Mowry,REP,12
+Meade,SOUTHWEST STURGIS #4A,U.S. Senate,,John R. Thune,REP,80
+Meade,SOUTHWEST STURGIS #4A,U.S. Senate,,Bruce Whalen,REP,17
+Meade,SOUTHWEST STURGIS #4A,U.S. Senate,,Mark Mowry,REP,12
+Meade,STURGIS #5A,U.S. Senate,,John R. Thune,REP,76
+Meade,STURGIS #5A,U.S. Senate,,Bruce Whalen,REP,13
+Meade,STURGIS #5A,U.S. Senate,,Mark Mowry,REP,3
+Meade,SULPHUR #35,U.S. Senate,,John R. Thune,REP,15
+Meade,SULPHUR #35,U.S. Senate,,Bruce Whalen,REP,21
+Meade,SULPHUR #35,U.S. Senate,,Mark Mowry,REP,1
+Meade,SUMMERSET #10,U.S. Senate,,John R. Thune,REP,311
+Meade,SUMMERSET #10,U.S. Senate,,Bruce Whalen,REP,50
+Meade,SUMMERSET #10,U.S. Senate,,Mark Mowry,REP,29
+Meade,TILFORD #6,U.S. Senate,,John R. Thune,REP,253
+Meade,TILFORD #6,U.S. Senate,,Bruce Whalen,REP,67
+Meade,TILFORD #6,U.S. Senate,,Mark Mowry,REP,26
+Meade,UNION #40,U.S. Senate,,John R. Thune,REP,19
+Meade,UNION #40,U.S. Senate,,Bruce Whalen,REP,7
+Meade,UNION #40,U.S. Senate,,Mark Mowry,REP,2
+Meade,VIEWFIELD #17,U.S. Senate,,John R. Thune,REP,36
+Meade,VIEWFIELD #17,U.S. Senate,,Bruce Whalen,REP,22
+Meade,VIEWFIELD #17,U.S. Senate,,Mark Mowry,REP,8
+Meade,WEST BLACK HAWK #16,U.S. Senate,,John R. Thune,REP,88
+Meade,WEST BLACK HAWK #16,U.S. Senate,,Bruce Whalen,REP,33
+Meade,WEST BLACK HAWK #16,U.S. Senate,,Mark Mowry,REP,13
+Meade,WEST ELK VALE #24,U.S. Senate,,John R. Thune,REP,33
+Meade,WEST ELK VALE #24,U.S. Senate,,Bruce Whalen,REP,29
+Meade,WEST ELK VALE #24,U.S. Senate,,Mark Mowry,REP,5
+Meade,WEST STURGIS #4,U.S. Senate,,John R. Thune,REP,64
+Meade,WEST STURGIS #4,U.S. Senate,,Bruce Whalen,REP,7
+Meade,WEST STURGIS #4,U.S. Senate,,Mark Mowry,REP,7
+Meade,WHITE OWL #25,U.S. Senate,,John R. Thune,REP,23
+Meade,WHITE OWL #25,U.S. Senate,,Bruce Whalen,REP,4
+Meade,WHITE OWL #25,U.S. Senate,,Mark Mowry,REP,4
+Meade,ALKALI #6A,U.S. House,1,Dusty Johnson,REP,55
+Meade,ALKALI #6A,U.S. House,1,Taffy Howard,REP,36
+Meade,BASE #23,U.S. House,1,Dusty Johnson,REP,19
+Meade,BASE #23,U.S. House,1,Taffy Howard,REP,29
+Meade,BEAR BUTTE #9,U.S. House,1,Dusty Johnson,REP,42
+Meade,BEAR BUTTE #9,U.S. House,1,Taffy Howard,REP,40
+Meade,BLACK HAWK #14,U.S. House,1,Dusty Johnson,REP,56
+Meade,BLACK HAWK #14,U.S. House,1,Taffy Howard,REP,57
+Meade,CENTRAL BLACK HAWK #19,U.S. House,1,Dusty Johnson,REP,165
+Meade,CENTRAL BLACK HAWK #19,U.S. House,1,Taffy Howard,REP,132
+Meade,CENTRAL STURGIS #3,U.S. House,1,Dusty Johnson,REP,71
+Meade,CENTRAL STURGIS #3,U.S. House,1,Taffy Howard,REP,40
+Meade,CHALK BUTTE #27,U.S. House,1,Dusty Johnson,REP,40
+Meade,CHALK BUTTE #27,U.S. House,1,Taffy Howard,REP,30
+Meade,EAST ELK VALE #21A,U.S. House,1,Dusty Johnson,REP,63
+Meade,EAST ELK VALE #21A,U.S. House,1,Taffy Howard,REP,80
+Meade,EAST PIEDMONT #12A,U.S. House,1,Dusty Johnson,REP,69
+Meade,EAST PIEDMONT #12A,U.S. House,1,Taffy Howard,REP,59
+Meade,EAST STURGIS #1,U.S. House,1,Dusty Johnson,REP,64
+Meade,EAST STURGIS #1,U.S. House,1,Taffy Howard,REP,41
+Meade,ELK VALE #21,U.S. House,1,Dusty Johnson,REP,16
+Meade,ELK VALE #21,U.S. House,1,Taffy Howard,REP,20
+Meade,ELM SPRINGS #18,U.S. House,1,Dusty Johnson,REP,26
+Meade,ELM SPRINGS #18,U.S. House,1,Taffy Howard,REP,36
+Meade,FAIRPOINT #29,U.S. House,1,Dusty Johnson,REP,10
+Meade,FAIRPOINT #29,U.S. House,1,Taffy Howard,REP,8
+Meade,FAITH #31,U.S. House,1,Dusty Johnson,REP,50
+Meade,FAITH #31,U.S. House,1,Taffy Howard,REP,78
+Meade,FORT MEADE #1A,U.S. House,1,Dusty Johnson,REP,5
+Meade,FORT MEADE #1A,U.S. House,1,Taffy Howard,REP,6
+Meade,HARMONY #8,U.S. House,1,Dusty Johnson,REP,86
+Meade,HARMONY #8,U.S. House,1,Taffy Howard,REP,86
+Meade,HEREFORD #20,U.S. House,1,Dusty Johnson,REP,15
+Meade,HEREFORD #20,U.S. House,1,Taffy Howard,REP,12
+Meade,MARCUS #41,U.S. House,1,Dusty Johnson,REP,17
+Meade,MARCUS #41,U.S. House,1,Taffy Howard,REP,12
+Meade,NORTHEAST PIEDMONT #12,U.S. House,1,Dusty Johnson,REP,148
+Meade,NORTHEAST PIEDMONT #12,U.S. House,1,Taffy Howard,REP,154
+Meade,NORTHEAST STURGIS #1-A,U.S. House,1,Dusty Johnson,REP,26
+Meade,NORTHEAST STURGIS #1-A,U.S. House,1,Taffy Howard,REP,18
+Meade,NORTHWEST STURGIS #5,U.S. House,1,Dusty Johnson,REP,84
+Meade,NORTHWEST STURGIS #5,U.S. House,1,Taffy Howard,REP,61
+Meade,PIEDMONT CENTRAL #11A,U.S. House,1,Dusty Johnson,REP,138
+Meade,PIEDMONT CENTRAL #11A,U.S. House,1,Taffy Howard,REP,121
+Meade,PIEDMONT WEST #11,U.S. House,1,Dusty Johnson,REP,122
+Meade,PIEDMONT WEST #11,U.S. House,1,Taffy Howard,REP,126
+Meade,PINE #33,U.S. House,1,Dusty Johnson,REP,19
+Meade,PINE #33,U.S. House,1,Taffy Howard,REP,35
+Meade,RED OWL #30,U.S. House,1,Dusty Johnson,REP,26
+Meade,RED OWL #30,U.S. House,1,Taffy Howard,REP,32
+Meade,RURAL BLACK HAWK #15,U.S. House,1,Dusty Johnson,REP,75
+Meade,RURAL BLACK HAWK #15,U.S. House,1,Taffy Howard,REP,97
+Meade,RURAL STURGIS #7,U.S. House,1,Dusty Johnson,REP,129
+Meade,RURAL STURGIS #7,U.S. House,1,Taffy Howard,REP,73
+Meade,SOUTH STURGIS #2A,U.S. House,1,Dusty Johnson,REP,97
+Meade,SOUTH STURGIS #2A,U.S. House,1,Taffy Howard,REP,59
+Meade,SOUTHEAST PIEDMONT #13,U.S. House,1,Dusty Johnson,REP,192
+Meade,SOUTHEAST PIEDMONT #13,U.S. House,1,Taffy Howard,REP,154
+Meade,SOUTHEAST STURGIS #2,U.S. House,1,Dusty Johnson,REP,152
+Meade,SOUTHEAST STURGIS #2,U.S. House,1,Taffy Howard,REP,73
+Meade,SOUTHWEST STURGIS #4A,U.S. House,1,Dusty Johnson,REP,67
+Meade,SOUTHWEST STURGIS #4A,U.S. House,1,Taffy Howard,REP,44
+Meade,STURGIS #5A,U.S. House,1,Dusty Johnson,REP,66
+Meade,STURGIS #5A,U.S. House,1,Taffy Howard,REP,29
+Meade,SULPHUR #35,U.S. House,1,Dusty Johnson,REP,12
+Meade,SULPHUR #35,U.S. House,1,Taffy Howard,REP,26
+Meade,SUMMERSET #10,U.S. House,1,Dusty Johnson,REP,234
+Meade,SUMMERSET #10,U.S. House,1,Taffy Howard,REP,164
+Meade,TILFORD #6,U.S. House,1,Dusty Johnson,REP,198
+Meade,TILFORD #6,U.S. House,1,Taffy Howard,REP,148
+Meade,UNION #40,U.S. House,1,Dusty Johnson,REP,15
+Meade,UNION #40,U.S. House,1,Taffy Howard,REP,13
+Meade,VIEWFIELD #17,U.S. House,1,Dusty Johnson,REP,24
+Meade,VIEWFIELD #17,U.S. House,1,Taffy Howard,REP,45
+Meade,WEST BLACK HAWK #16,U.S. House,1,Dusty Johnson,REP,59
+Meade,WEST BLACK HAWK #16,U.S. House,1,Taffy Howard,REP,77
+Meade,WEST ELK VALE #24,U.S. House,1,Dusty Johnson,REP,21
+Meade,WEST ELK VALE #24,U.S. House,1,Taffy Howard,REP,45
+Meade,WEST STURGIS #4,U.S. House,1,Dusty Johnson,REP,52
+Meade,WEST STURGIS #4,U.S. House,1,Taffy Howard,REP,23
+Meade,WHITE OWL #25,U.S. House,1,Dusty Johnson,REP,20
+Meade,WHITE OWL #25,U.S. House,1,Taffy Howard,REP,12
+Meade,ALKALI #6A,Governor,,Steven Haugaard,REP,15
+Meade,ALKALI #6A,Governor,,Kristi Noem,REP,77
+Meade,BASE #23,Governor,,Steven Haugaard,REP,16
+Meade,BASE #23,Governor,,Kristi Noem,REP,36
+Meade,BEAR BUTTE #9,Governor,,Steven Haugaard,REP,20
+Meade,BEAR BUTTE #9,Governor,,Kristi Noem,REP,63
+Meade,BLACK HAWK #14,Governor,,Steven Haugaard,REP,27
+Meade,BLACK HAWK #14,Governor,,Kristi Noem,REP,85
+Meade,CENTRAL BLACK HAWK #19,Governor,,Steven Haugaard,REP,60
+Meade,CENTRAL BLACK HAWK #19,Governor,,Kristi Noem,REP,236
+Meade,CENTRAL STURGIS #3,Governor,,Steven Haugaard,REP,29
+Meade,CENTRAL STURGIS #3,Governor,,Kristi Noem,REP,86
+Meade,CHALK BUTTE #27,Governor,,Steven Haugaard,REP,8
+Meade,CHALK BUTTE #27,Governor,,Kristi Noem,REP,69
+Meade,EAST ELK VALE #21A,Governor,,Steven Haugaard,REP,30
+Meade,EAST ELK VALE #21A,Governor,,Kristi Noem,REP,115
+Meade,EAST PIEDMONT #12A,Governor,,Steven Haugaard,REP,18
+Meade,EAST PIEDMONT #12A,Governor,,Kristi Noem,REP,112
+Meade,EAST STURGIS #1,Governor,,Steven Haugaard,REP,24
+Meade,EAST STURGIS #1,Governor,,Kristi Noem,REP,88
+Meade,ELK VALE #21,Governor,,Steven Haugaard,REP,8
+Meade,ELK VALE #21,Governor,,Kristi Noem,REP,29
+Meade,ELM SPRINGS #18,Governor,,Steven Haugaard,REP,33
+Meade,ELM SPRINGS #18,Governor,,Kristi Noem,REP,33
+Meade,FAIRPOINT #29,Governor,,Steven Haugaard,REP,3
+Meade,FAIRPOINT #29,Governor,,Kristi Noem,REP,15
+Meade,FAITH #31,Governor,,Steven Haugaard,REP,10
+Meade,FAITH #31,Governor,,Kristi Noem,REP,121
+Meade,FORT MEADE #1A,Governor,,Steven Haugaard,REP,0
+Meade,FORT MEADE #1A,Governor,,Kristi Noem,REP,11
+Meade,HARMONY #8,Governor,,Steven Haugaard,REP,33
+Meade,HARMONY #8,Governor,,Kristi Noem,REP,144
+Meade,HEREFORD #20,Governor,,Steven Haugaard,REP,10
+Meade,HEREFORD #20,Governor,,Kristi Noem,REP,17
+Meade,MARCUS #41,Governor,,Steven Haugaard,REP,6
+Meade,MARCUS #41,Governor,,Kristi Noem,REP,25
+Meade,NORTHEAST PIEDMONT #12,Governor,,Steven Haugaard,REP,61
+Meade,NORTHEAST PIEDMONT #12,Governor,,Kristi Noem,REP,252
+Meade,NORTHEAST STURGIS #1-A,Governor,,Steven Haugaard,REP,12
+Meade,NORTHEAST STURGIS #1-A,Governor,,Kristi Noem,REP,34
+Meade,NORTHWEST STURGIS #5,Governor,,Steven Haugaard,REP,37
+Meade,NORTHWEST STURGIS #5,Governor,,Kristi Noem,REP,116
+Meade,PIEDMONT CENTRAL #11A,Governor,,Steven Haugaard,REP,61
+Meade,PIEDMONT CENTRAL #11A,Governor,,Kristi Noem,REP,197
+Meade,PIEDMONT WEST #11,Governor,,Steven Haugaard,REP,45
+Meade,PIEDMONT WEST #11,Governor,,Kristi Noem,REP,202
+Meade,PINE #33,Governor,,Steven Haugaard,REP,21
+Meade,PINE #33,Governor,,Kristi Noem,REP,33
+Meade,RED OWL #30,Governor,,Steven Haugaard,REP,8
+Meade,RED OWL #30,Governor,,Kristi Noem,REP,53
+Meade,RURAL BLACK HAWK #15,Governor,,Steven Haugaard,REP,44
+Meade,RURAL BLACK HAWK #15,Governor,,Kristi Noem,REP,133
+Meade,RURAL STURGIS #7,Governor,,Steven Haugaard,REP,39
+Meade,RURAL STURGIS #7,Governor,,Kristi Noem,REP,165
+Meade,SOUTH STURGIS #2A,Governor,,Steven Haugaard,REP,37
+Meade,SOUTH STURGIS #2A,Governor,,Kristi Noem,REP,125
+Meade,SOUTHEAST PIEDMONT #13,Governor,,Steven Haugaard,REP,87
+Meade,SOUTHEAST PIEDMONT #13,Governor,,Kristi Noem,REP,259
+Meade,SOUTHEAST STURGIS #2,Governor,,Steven Haugaard,REP,50
+Meade,SOUTHEAST STURGIS #2,Governor,,Kristi Noem,REP,180
+Meade,SOUTHWEST STURGIS #4A,Governor,,Steven Haugaard,REP,23
+Meade,SOUTHWEST STURGIS #4A,Governor,,Kristi Noem,REP,87
+Meade,STURGIS #5A,Governor,,Steven Haugaard,REP,23
+Meade,STURGIS #5A,Governor,,Kristi Noem,REP,70
+Meade,SULPHUR #35,Governor,,Steven Haugaard,REP,11
+Meade,SULPHUR #35,Governor,,Kristi Noem,REP,29
+Meade,SUMMERSET #10,Governor,,Steven Haugaard,REP,72
+Meade,SUMMERSET #10,Governor,,Kristi Noem,REP,322
+Meade,TILFORD #6,Governor,,Steven Haugaard,REP,87
+Meade,TILFORD #6,Governor,,Kristi Noem,REP,262
+Meade,UNION #40,Governor,,Steven Haugaard,REP,1
+Meade,UNION #40,Governor,,Kristi Noem,REP,26
+Meade,VIEWFIELD #17,Governor,,Steven Haugaard,REP,24
+Meade,VIEWFIELD #17,Governor,,Kristi Noem,REP,44
+Meade,WEST BLACK HAWK #16,Governor,,Steven Haugaard,REP,38
+Meade,WEST BLACK HAWK #16,Governor,,Kristi Noem,REP,99
+Meade,WEST ELK VALE #24,Governor,,Steven Haugaard,REP,18
+Meade,WEST ELK VALE #24,Governor,,Kristi Noem,REP,52
+Meade,WEST STURGIS #4,Governor,,Steven Haugaard,REP,16
+Meade,WEST STURGIS #4,Governor,,Kristi Noem,REP,60
+Meade,WHITE OWL #25,Governor,,Steven Haugaard,REP,3
+Meade,WHITE OWL #25,Governor,,Kristi Noem,REP,29
+Meade,BLACK HAWK #14,State Senate,33,David Johnson,REP,1
+Meade,BLACK HAWK #14,State Senate,33,Janet Jensen,REP,0
+Meade,CENTRAL BLACK HAWK #19,State Senate,33,David Johnson,REP,153
+Meade,CENTRAL BLACK HAWK #19,State Senate,33,Janet Jensen,REP,134
+Meade,SUMMERSET #10,State Senate,33,David Johnson,REP,223
+Meade,SUMMERSET #10,State Senate,33,Janet Jensen,REP,150
+Meade,WEST BLACK HAWK #16,State Senate,33,David Johnson,REP,72
+Meade,WEST BLACK HAWK #16,State Senate,33,Janet Jensen,REP,55
+Meade,ALKALI #6A,State House,29,Kirk Chaffee,REP,55
+Meade,ALKALI #6A,State House,29,Kathy Rice,REP,44
+Meade,ALKALI #6A,State House,29,Gary L. Cammack,REP,47
+Meade,BASE #23,State House,29,Kirk Chaffee,REP,21
+Meade,BASE #23,State House,29,Kathy Rice,REP,24
+Meade,BASE #23,State House,29,Gary L. Cammack,REP,20
+Meade,BEAR BUTTE #9,State House,29,Kirk Chaffee,REP,42
+Meade,BEAR BUTTE #9,State House,29,Kathy Rice,REP,45
+Meade,BEAR BUTTE #9,State House,29,Gary L. Cammack,REP,43
+Meade,BLACK HAWK #14,State House,29,Kirk Chaffee,REP,40
+Meade,BLACK HAWK #14,State House,29,Kathy Rice,REP,50
+Meade,BLACK HAWK #14,State House,29,Gary L. Cammack,REP,36
+Meade,CENTRAL STURGIS #3,State House,29,Kirk Chaffee,REP,76
+Meade,CENTRAL STURGIS #3,State House,29,Kathy Rice,REP,46
+Meade,CENTRAL STURGIS #3,State House,29,Gary L. Cammack,REP,58
+Meade,CHALK BUTTE #27,State House,29,Kirk Chaffee,REP,52
+Meade,CHALK BUTTE #27,State House,29,Kathy Rice,REP,25
+Meade,CHALK BUTTE #27,State House,29,Gary L. Cammack,REP,35
+Meade,EAST ELK VALE #21A,State House,29,Kirk Chaffee,REP,55
+Meade,EAST ELK VALE #21A,State House,29,Kathy Rice,REP,81
+Meade,EAST ELK VALE #21A,State House,29,Gary L. Cammack,REP,58
+Meade,EAST PIEDMONT #12A,State House,29,Kirk Chaffee,REP,65
+Meade,EAST PIEDMONT #12A,State House,29,Kathy Rice,REP,64
+Meade,EAST PIEDMONT #12A,State House,29,Gary L. Cammack,REP,56
+Meade,EAST STURGIS #1,State House,29,Kirk Chaffee,REP,67
+Meade,EAST STURGIS #1,State House,29,Kathy Rice,REP,44
+Meade,EAST STURGIS #1,State House,29,Gary L. Cammack,REP,54
+Meade,ELK VALE #21,State House,29,Kirk Chaffee,REP,20
+Meade,ELK VALE #21,State House,29,Kathy Rice,REP,14
+Meade,ELK VALE #21,State House,29,Gary L. Cammack,REP,13
+Meade,ELM SPRINGS #18,State House,29,Kirk Chaffee,REP,30
+Meade,ELM SPRINGS #18,State House,29,Kathy Rice,REP,34
+Meade,ELM SPRINGS #18,State House,29,Gary L. Cammack,REP,27
+Meade,FAIRPOINT #29,State House,29,Kirk Chaffee,REP,14
+Meade,FAIRPOINT #29,State House,29,Kathy Rice,REP,8
+Meade,FAIRPOINT #29,State House,29,Gary L. Cammack,REP,11
+Meade,FAITH #31,State House,29,Kirk Chaffee,REP,73
+Meade,FAITH #31,State House,29,Kathy Rice,REP,56
+Meade,FAITH #31,State House,29,Gary L. Cammack,REP,60
+Meade,FORT MEADE #1A,State House,29,Kirk Chaffee,REP,4
+Meade,FORT MEADE #1A,State House,29,Kathy Rice,REP,3
+Meade,FORT MEADE #1A,State House,29,Gary L. Cammack,REP,7
+Meade,HARMONY #8,State House,29,Kirk Chaffee,REP,103
+Meade,HARMONY #8,State House,29,Kathy Rice,REP,78
+Meade,HARMONY #8,State House,29,Gary L. Cammack,REP,99
+Meade,HEREFORD #20,State House,29,Kirk Chaffee,REP,18
+Meade,HEREFORD #20,State House,29,Kathy Rice,REP,12
+Meade,HEREFORD #20,State House,29,Gary L. Cammack,REP,12
+Meade,MARCUS #41,State House,29,Kirk Chaffee,REP,13
+Meade,MARCUS #41,State House,29,Kathy Rice,REP,20
+Meade,MARCUS #41,State House,29,Gary L. Cammack,REP,13
+Meade,NORTHEAST PIEDMONT #12,State House,29,Kirk Chaffee,REP,129
+Meade,NORTHEAST PIEDMONT #12,State House,29,Kathy Rice,REP,165
+Meade,NORTHEAST PIEDMONT #12,State House,29,Gary L. Cammack,REP,118
+Meade,NORTHEAST STURGIS #1-A,State House,29,Kirk Chaffee,REP,25
+Meade,NORTHEAST STURGIS #1-A,State House,29,Kathy Rice,REP,16
+Meade,NORTHEAST STURGIS #1-A,State House,29,Gary L. Cammack,REP,26
+Meade,NORTHWEST STURGIS #5,State House,29,Kirk Chaffee,REP,79
+Meade,NORTHWEST STURGIS #5,State House,29,Kathy Rice,REP,61
+Meade,NORTHWEST STURGIS #5,State House,29,Gary L. Cammack,REP,84
+Meade,PIEDMONT CENTRAL #11A,State House,29,Kirk Chaffee,REP,110
+Meade,PIEDMONT CENTRAL #11A,State House,29,Kathy Rice,REP,131
+Meade,PIEDMONT CENTRAL #11A,State House,29,Gary L. Cammack,REP,119
+Meade,PIEDMONT WEST #11,State House,29,Kirk Chaffee,REP,123
+Meade,PIEDMONT WEST #11,State House,29,Kathy Rice,REP,131
+Meade,PIEDMONT WEST #11,State House,29,Gary L. Cammack,REP,90
+Meade,PINE #33,State House,29,Kirk Chaffee,REP,26
+Meade,PINE #33,State House,29,Kathy Rice,REP,37
+Meade,PINE #33,State House,29,Gary L. Cammack,REP,16
+Meade,RED OWL #30,State House,29,Kirk Chaffee,REP,27
+Meade,RED OWL #30,State House,29,Kathy Rice,REP,32
+Meade,RED OWL #30,State House,29,Gary L. Cammack,REP,24
+Meade,RURAL BLACK HAWK #15,State House,29,Kirk Chaffee,REP,72
+Meade,RURAL BLACK HAWK #15,State House,29,Kathy Rice,REP,106
+Meade,RURAL BLACK HAWK #15,State House,29,Gary L. Cammack,REP,53
+Meade,RURAL STURGIS #7,State House,29,Kirk Chaffee,REP,131
+Meade,RURAL STURGIS #7,State House,29,Kathy Rice,REP,65
+Meade,RURAL STURGIS #7,State House,29,Gary L. Cammack,REP,104
+Meade,SOUTH STURGIS #2A,State House,29,Kirk Chaffee,REP,98
+Meade,SOUTH STURGIS #2A,State House,29,Kathy Rice,REP,59
+Meade,SOUTH STURGIS #2A,State House,29,Gary L. Cammack,REP,87
+Meade,SOUTHEAST PIEDMONT #13,State House,29,Kirk Chaffee,REP,126
+Meade,SOUTHEAST PIEDMONT #13,State House,29,Kathy Rice,REP,192
+Meade,SOUTHEAST PIEDMONT #13,State House,29,Gary L. Cammack,REP,159
+Meade,SOUTHEAST STURGIS #2,State House,29,Kirk Chaffee,REP,151
+Meade,SOUTHEAST STURGIS #2,State House,29,Kathy Rice,REP,79
+Meade,SOUTHEAST STURGIS #2,State House,29,Gary L. Cammack,REP,131
+Meade,SOUTHWEST STURGIS #4A,State House,29,Kirk Chaffee,REP,68
+Meade,SOUTHWEST STURGIS #4A,State House,29,Kathy Rice,REP,39
+Meade,SOUTHWEST STURGIS #4A,State House,29,Gary L. Cammack,REP,66
+Meade,STURGIS #5A,State House,29,Kirk Chaffee,REP,66
+Meade,STURGIS #5A,State House,29,Kathy Rice,REP,31
+Meade,STURGIS #5A,State House,29,Gary L. Cammack,REP,55
+Meade,SULPHUR #35,State House,29,Kirk Chaffee,REP,16
+Meade,SULPHUR #35,State House,29,Kathy Rice,REP,21
+Meade,SULPHUR #35,State House,29,Gary L. Cammack,REP,14
+Meade,TILFORD #6,State House,29,Kirk Chaffee,REP,212
+Meade,TILFORD #6,State House,29,Kathy Rice,REP,146
+Meade,TILFORD #6,State House,29,Gary L. Cammack,REP,176
+Meade,UNION #30,State House,29,Kirk Chaffee,REP,16
+Meade,UNION #30,State House,29,Kathy Rice,REP,12
+Meade,UNION #30,State House,29,Gary L. Cammack,REP,13
+Meade,VIEWFIELD #17,State House,29,Kirk Chaffee,REP,33
+Meade,VIEWFIELD #17,State House,29,Kathy Rice,REP,35
+Meade,VIEWFIELD #17,State House,29,Gary L. Cammack,REP,35
+Meade,WEST ELK VALE #24,State House,29,Kirk Chaffee,REP,22
+Meade,WEST ELK VALE #24,State House,29,Kathy Rice,REP,29
+Meade,WEST ELK VALE #24,State House,29,Gary L. Cammack,REP,32
+Meade,WEST STURGIS #4,State House,29,Kirk Chaffee,REP,54
+Meade,WEST STURGIS #4,State House,29,Kathy Rice,REP,27
+Meade,WEST STURGIS #4,State House,29,Gary L. Cammack,REP,35
+Meade,WHITE OWL #25,State House,29,Kirk Chaffee,REP,22
+Meade,WHITE OWL #25,State House,29,Kathy Rice,REP,13
+Meade,WHITE OWL #25,State House,29,Gary L. Cammack,REP,18
+Meade,BLACK HAWK #14,State House,33,Curt Massie,REP,0
+Meade,BLACK HAWK #14,State House,33,Phil Jensen,REP,0
+Meade,BLACK HAWK #14,State House,33,Janette McIntyre,REP,1
+Meade,BLACK HAWK #14,State House,33,Dean Aurand,REP,0
+Meade,CENTRAL BLACK HAWK #19,State House,33,Curt Massie,REP,119
+Meade,CENTRAL BLACK HAWK #19,State House,33,Phil Jensen,REP,170
+Meade,CENTRAL BLACK HAWK #19,State House,33,Janette McIntyre,REP,86
+Meade,CENTRAL BLACK HAWK #19,State House,33,Dean Aurand,REP,93
+Meade,SUMMERSET #10,State House,33,Curt Massie,REP,154
+Meade,SUMMERSET #10,State House,33,Phil Jensen,REP,177
+Meade,SUMMERSET #10,State House,33,Janette McIntyre,REP,112
+Meade,SUMMERSET #10,State House,33,Dean Aurand,REP,117
+Meade,WEST BLACK HAWK #16,State House,33,Curt Massie,REP,39
+Meade,WEST BLACK HAWK #16,State House,33,Phil Jensen,REP,69
+Meade,WEST BLACK HAWK #16,State House,33,Janette McIntyre,REP,44
+Meade,WEST BLACK HAWK #16,State House,33,Dean Aurand,REP,63
+Meade,ALKALI #6A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,47
+Meade,ALKALI #6A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,70
+Meade,BASE #23,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,25
+Meade,BASE #23,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,44
+Meade,BEAR BUTTE #9,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,24
+Meade,BEAR BUTTE #9,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,74
+Meade,BLACK HAWK #14,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,52
+Meade,BLACK HAWK #14,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,118
+Meade,CENTRAL BLACK HAWK #19,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,135
+Meade,CENTRAL BLACK HAWK #19,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,310
+Meade,CENTRAL STURGIS #3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,49
+Meade,CENTRAL STURGIS #3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,99
+Meade,CHALK BUTTE #27,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,32
+Meade,CHALK BUTTE #27,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,47
+Meade,EAST ELK VALE #21A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,86
+Meade,EAST ELK VALE #21A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,87
+Meade,EAST PIEDMONT #12A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,53
+Meade,EAST PIEDMONT #12A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,99
+Meade,EAST STURGIS #1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,54
+Meade,EAST STURGIS #1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,93
+Meade,ELK VALE #21,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,17
+Meade,ELK VALE #21,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,23
+Meade,ELM SPRINGS #18,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,33
+Meade,ELM SPRINGS #18,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,41
+Meade,FAIRPOINT #29,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,11
+Meade,FAIRPOINT #29,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,12
+Meade,FAITH #31,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,84
+Meade,FAITH #31,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,77
+Meade,FORT MEADE #1A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,8
+Meade,FORT MEADE #1A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,8
+Meade,HARMONY #8,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,59
+Meade,HARMONY #8,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,164
+Meade,HEREFORD #20,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,17
+Meade,HEREFORD #20,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,16
+Meade,MARCUS #41,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,10
+Meade,MARCUS #41,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,22
+Meade,NORTHEAST PIEDMONT #12,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,146
+Meade,NORTHEAST PIEDMONT #12,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,256
+Meade,NORTHEAST STURGIS #1-A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,17
+Meade,NORTHEAST STURGIS #1-A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,54
+Meade,NORTHWEST STURGIS #5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,67
+Meade,NORTHWEST STURGIS #5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,154
+Meade,PIEDMONT CENTRAL #11A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,134
+Meade,PIEDMONT CENTRAL #11A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,200
+Meade,PIEDMONT WEST #11,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,117
+Meade,PIEDMONT WEST #11,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,192
+Meade,PINE #33,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,28
+Meade,PINE #33,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,33
+Meade,RED OWL #30,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,37
+Meade,RED OWL #30,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,32
+Meade,RURAL BLACK HAWK #15,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,86
+Meade,RURAL BLACK HAWK #15,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,144
+Meade,RURAL STURGIS #7,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,82
+Meade,RURAL STURGIS #7,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,182
+Meade,SOUTH STURGIS #2A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,59
+Meade,SOUTH STURGIS #2A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,170
+Meade,SOUTHEAST PIEDMONT #13,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,171
+Meade,SOUTHEAST PIEDMONT #13,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,305
+Meade,SOUTHEAST STURGIS #2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,84
+Meade,SOUTHEAST STURGIS #2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,218
+Meade,SOUTHWEST STURGIS #4A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,44
+Meade,SOUTHWEST STURGIS #4A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,120
+Meade,STURGIS #5A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,33
+Meade,STURGIS #5A,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,101
+Meade,SULPHUR #35,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,29
+Meade,SULPHUR #35,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,15
+Meade,SUMMERSET #10,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,199
+Meade,SUMMERSET #10,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,373
+Meade,TILFORD #6,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,149
+Meade,TILFORD #6,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,272
+Meade,UNION #40,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,10
+Meade,UNION #40,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,22
+Meade,VIEWFIELD #17,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,44
+Meade,VIEWFIELD #17,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,31
+Meade,WEST BLACK HAWK #16,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,75
+Meade,WEST BLACK HAWK #16,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,146
+Meade,WEST ELK VALE #24,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,36
+Meade,WEST ELK VALE #24,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,46
+Meade,WEST STURGIS #4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,25
+Meade,WEST STURGIS #4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,80
+Meade,WHITE OWL #25,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,12
+Meade,WHITE OWL #25,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,25
+Meade,1-1,State House,28,Mike Derby,REP,592
+Meade,1-1,State House,28,Jess Olson,REP,475
+Meade,1-1,State House,28,Jodie Frye,REP,331
+Meade,1-2,State House,28,Mike Derby,REP,584
+Meade,1-2,State House,28,Jess Olson,REP,465
+Meade,1-2,State House,28,Jodie Frye,REP,339
+Meade,1-3,State House,28,Mike Derby,REP,530
+Meade,1-3,State House,28,Jess Olson,REP,418
+Meade,1-3,State House,28,Jodie Frye,REP,303
+Meade,2-1,State House,28,Mike Derby,REP,86
+Meade,2-1,State House,28,Jess Olson,REP,76
+Meade,2-1,State House,28,Jodie Frye,REP,55
+Meade,2-2,State House,28,Mike Derby,REP,164
+Meade,2-2,State House,28,Jess Olson,REP,128
+Meade,2-2,State House,28,Jodie Frye,REP,119
+Meade,2-3,State House,28,Mike Derby,REP,249
+Meade,2-3,State House,28,Jess Olson,REP,216
+Meade,2-3,State House,28,Jodie Frye,REP,171
+Meade,3-1,State House,28,Mike Derby,REP,480
+Meade,3-1,State House,28,Jess Olson,REP,390
+Meade,3-1,State House,28,Jodie Frye,REP,346
+Meade,4-1,State House,28,Mike Derby,REP,148
+Meade,4-1,State House,28,Jess Olson,REP,130
+Meade,4-1,State House,28,Jodie Frye,REP,124
+Meade,1-1,State House,35,Tony Randolph,REP,167
+Meade,1-1,State House,35,Elizabeth Regalado,REP,90
+Meade,1-1,State House,35,Larry G. Larson,REP,111
+Meade,1-1,State House,35,Tina L Mulally,REP,147
+Meade,1-2,State House,35,Tony Randolph,REP,174
+Meade,1-2,State House,35,Elizabeth Regalado,REP,109
+Meade,1-2,State House,35,Larry G. Larson,REP,109
+Meade,1-2,State House,35,Tina L Mulally,REP,139
+Meade,1-3,State House,35,Tony Randolph,REP,85
+Meade,1-3,State House,35,Elizabeth Regalado,REP,63
+Meade,1-3,State House,35,Larry G. Larson,REP,64
+Meade,1-3,State House,35,Tina L Mulally,REP,90
+Meade,2-1,State House,35,Tony Randolph,REP,74
+Meade,2-1,State House,35,Elizabeth Regalado,REP,44
+Meade,2-1,State House,35,Larry G. Larson,REP,43
+Meade,2-1,State House,35,Tina L Mulally,REP,58
+Meade,3-1,State House,35,Tony Randolph,REP,176
+Meade,3-1,State House,35,Elizabeth Regalado,REP,65
+Meade,3-1,State House,35,Larry G. Larson,REP,74
+Meade,3-1,State House,35,Tina L Mulally,REP,193
+Meade,3-2,State House,35,Tony Randolph,REP,218
+Meade,3-2,State House,35,Elizabeth Regalado,REP,182
+Meade,3-2,State House,35,Larry G. Larson,REP,224
+Meade,3-2,State House,35,Tina L Mulally,REP,245
+Meade,4-1,State House,35,Tony Randolph,REP,21
+Meade,4-1,State House,35,Elizabeth Regalado,REP,17
+Meade,4-1,State House,35,Larry G. Larson,REP,17
+Meade,4-1,State House,35,Tina L Mulally,REP,26
+Meade,4-2,State House,35,Tony Randolph,REP,197
+Meade,4-2,State House,35,Elizabeth Regalado,REP,121
+Meade,4-2,State House,35,Larry G. Larson,REP,106
+Meade,4-2,State House,35,Tina L Mulally,REP,181
+Meade,4-3,State House,35,Tony Randolph,REP,208
+Meade,4-3,State House,35,Elizabeth Regalado,REP,94
+Meade,4-3,State House,35,Larry G. Larson,REP,111
+Meade,4-3,State House,35,Tina L Mulally,REP,202

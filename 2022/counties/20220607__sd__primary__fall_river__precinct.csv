@@ -1,0 +1,138 @@
+county,precinct,office,district,candidate,party,votes
+Fall River,BEA,U.S. Senate,,John R. Thune,REP,51
+Fall River,BEA,U.S. Senate,,Bruce Whalen,REP,27
+Fall River,BEA,U.S. Senate,,Mark Mowry,REP,5
+Fall River,CAS,U.S. Senate,,John R. Thune,REP,40
+Fall River,CAS,U.S. Senate,,Bruce Whalen,REP,23
+Fall River,CAS,U.S. Senate,,Mark Mowry,REP,7
+Fall River,EDA,U.S. Senate,,John R. Thune,REP,157
+Fall River,EDA,U.S. Senate,,Bruce Whalen,REP,51
+Fall River,EDA,U.S. Senate,,Mark Mowry,REP,23
+Fall River,HS 1,U.S. Senate,,John R. Thune,REP,122
+Fall River,HS 1,U.S. Senate,,Bruce Whalen,REP,54
+Fall River,HS 1,U.S. Senate,,Mark Mowry,REP,14
+Fall River,HS 2,U.S. Senate,,John R. Thune,REP,117
+Fall River,HS 2,U.S. Senate,,Bruce Whalen,REP,33
+Fall River,HS 2,U.S. Senate,,Mark Mowry,REP,22
+Fall River,HS 3,U.S. Senate,,John R. Thune,REP,85
+Fall River,HS 3,U.S. Senate,,Bruce Whalen,REP,43
+Fall River,HS 3,U.S. Senate,,Mark Mowry,REP,13
+Fall River,HS 4,U.S. Senate,,John R. Thune,REP,111
+Fall River,HS 4,U.S. Senate,,Bruce Whalen,REP,28
+Fall River,HS 4,U.S. Senate,,Mark Mowry,REP,11
+Fall River,IAC,U.S. Senate,,John R. Thune,REP,293
+Fall River,IAC,U.S. Senate,,Bruce Whalen,REP,100
+Fall River,IAC,U.S. Senate,,Mark Mowry,REP,23
+Fall River,Oelrichs Area,U.S. Senate,,John R. Thune,REP,54
+Fall River,Oelrichs Area,U.S. Senate,,Bruce Whalen,REP,44
+Fall River,Oelrichs Area,U.S. Senate,,Mark Mowry,REP,9
+Fall River,BEA,U.S. House,1,Dusty Johnson,REP,32
+Fall River,BEA,U.S. House,1,Taffy Howard,REP,53
+Fall River,CAS,U.S. House,1,Dusty Johnson,REP,35
+Fall River,CAS,U.S. House,1,Taffy Howard,REP,35
+Fall River,EDA,U.S. House,1,Dusty Johnson,REP,111
+Fall River,EDA,U.S. House,1,Taffy Howard,REP,121
+Fall River,HS 1,U.S. House,1,Dusty Johnson,REP,88
+Fall River,HS 1,U.S. House,1,Taffy Howard,REP,106
+Fall River,HS 2,U.S. House,1,Dusty Johnson,REP,100
+Fall River,HS 2,U.S. House,1,Taffy Howard,REP,71
+Fall River,HS 3,U.S. House,1,Dusty Johnson,REP,82
+Fall River,HS 3,U.S. House,1,Taffy Howard,REP,58
+Fall River,HS 4,U.S. House,1,Dusty Johnson,REP,95
+Fall River,HS 4,U.S. House,1,Taffy Howard,REP,57
+Fall River,JAC,U.S. House,1,Dusty Johnson,REP,227
+Fall River,JAC,U.S. House,1,Taffy Howard,REP,200
+Fall River,Oelrichs Area,U.S. House,1,Dusty Johnson,REP,39
+Fall River,Oelrichs Area,U.S. House,1,Taffy Howard,REP,65
+Fall River,BEA,Governor,,Steven Haugaard,REP,16
+Fall River,BEA,Governor,,Kristi Noem,REP,69
+Fall River,CAS,Governor,,Steven Haugaard,REP,15
+Fall River,CAS,Governor,,Kristi Noem,REP,58
+Fall River,EDA,Governor,,Steven Haugaard,REP,39
+Fall River,EDA,Governor,,Kristi Noem,REP,198
+Fall River,HS 1,Governor,,Steven Haugaard,REP,49
+Fall River,HS 1,Governor,,Kristi Noem,REP,152
+Fall River,HS 2,Governor,,Steven Haugaard,REP,41
+Fall River,HS 2,Governor,,Kristi Noem,REP,132
+Fall River,HS 3,Governor,,Steven Haugaard,REP,38
+Fall River,HS 3,Governor,,Kristi Noem,REP,103
+Fall River,HS 4,Governor,,Steven Haugaard,REP,37
+Fall River,HS 4,Governor,,Kristi Noem,REP,116
+Fall River,JAC,Governor,,Steven Haugaard,REP,78
+Fall River,JAC,Governor,,Kristi Noem,REP,351
+Fall River,Oelrichs Area,Governor,,Steven Haugaard,REP,33
+Fall River,Oelrichs Area,Governor,,Kristi Noem,REP,76
+Fall River,BEA,State Senate,30,Julie Frye-Mueller,REP,38
+Fall River,BEA,State Senate,30,Timothy R. Goodwin,REP,47
+Fall River,CAS,State Senate,30,Julie Frye-Mueller,REP,35
+Fall River,CAS,State Senate,30,Timothy R. Goodwin,REP,32
+Fall River,EDA,State Senate,30,Julie Frye-Mueller,REP,129
+Fall River,EDA,State Senate,30,Timothy R. Goodwin,REP,99
+Fall River,HS 1,State Senate,30,Julie Frye-Mueller,REP,113
+Fall River,HS 1,State Senate,30,Timothy R. Goodwin,REP,79
+Fall River,HS 2,State Senate,30,Julie Frye-Mueller,REP,86
+Fall River,HS 2,State Senate,30,Timothy R. Goodwin,REP,75
+Fall River,HS 3,State Senate,30,Julie Frye-Mueller,REP,81
+Fall River,HS 3,State Senate,30,Timothy R. Goodwin,REP,57
+Fall River,HS 4,State Senate,30,Julie Frye-Mueller,REP,80
+Fall River,HS 4,State Senate,30,Timothy R. Goodwin,REP,68
+Fall River,HAC,State Senate,30,Julie Frye-Mueller,REP,212
+Fall River,HAC,State Senate,30,Timothy R. Goodwin,REP,208
+Fall River,Delrichs Area,State Senate,30,Julie Frye-Mueller,REP,76
+Fall River,Delrichs Area,State Senate,30,Timothy R. Goodwin,REP,28
+Fall River,JAC,Precinct Committeeman JAC,,Michael P Ortner,REP,193
+Fall River,JAC,Precinct Committeeman JAC,,Ben J Tubbs,REP,125
+Fall River,BEA,Precinct Committeewoman BEA,,Kim Allen,REP,45
+Fall River,BEA,Precinct Committeewoman BEA,,Sandra K Wahlert,REP,28
+Fall River,BEA,School Board Member Hot Springs School District 23-2,,Zachariah Jon Bell,,26
+Fall River,BEA,School Board Member Hot Springs School District 23-2,,Robert J Preuss,,35
+Fall River,BEA,School Board Member Hot Springs School District 23-2,,Brian D Jarding,,61
+Fall River,CAS,School Board Member Hot Springs School District 23-2,,Zachariah Jon Bell,,23
+Fall River,CAS,School Board Member Hot Springs School District 23-2,,Robert J Preuss,,48
+Fall River,CAS,School Board Member Hot Springs School District 23-2,,Brian D Jarding,,28
+Fall River,HS 1,School Board Member Hot Springs School District 23-2,,Zachariah Jon Bell,,114
+Fall River,HS 1,School Board Member Hot Springs School District 23-2,,Robert J Preuss,,131
+Fall River,HS 1,School Board Member Hot Springs School District 23-2,,Brian D Jarding,,132
+Fall River,HS 2,School Board Member Hot Springs School District 23-2,,Zachariah Jon Bell,,91
+Fall River,HS 2,School Board Member Hot Springs School District 23-2,,Robert J Preuss,,122
+Fall River,HS 2,School Board Member Hot Springs School District 23-2,,Brian D Jarding,,124
+Fall River,HS 3,School Board Member Hot Springs School District 23-2,,Zachariah Jon Bell,,70
+Fall River,HS 3,School Board Member Hot Springs School District 23-2,,Robert J Preuss,,130
+Fall River,HS 3,School Board Member Hot Springs School District 23-2,,Brian D Jarding,,109
+Fall River,HS 4,School Board Member Hot Springs School District 23-2,,Zachariah Jon Bell,,58
+Fall River,HS 4,School Board Member Hot Springs School District 23-2,,Robert J Preuss,,112
+Fall River,HS 4,School Board Member Hot Springs School District 23-2,,Brian D Jarding,,106
+Fall River,HAC,School Board Member Hot Springs School District 23-2,,Zachariah Jon Bell,,160
+Fall River,HAC,School Board Member Hot Springs School District 23-2,,Robert J Preuss,,243
+Fall River,HAC,School Board Member Hot Springs School District 23-2,,Brian D Jarding,,229
+Fall River,Oelrichs Area,School Board Member Oelrichs School District 23-3,,Jennifer Her Many Horses,,42
+Fall River,Oelrichs Area,School Board Member Oelrichs School District 23-3,,Marty Schommer,,90
+Fall River,Oelrichs Area,School Board Member Oelrichs School District 23-3,,Katie Merdanian,,68
+Fall River,HS 1,Mayor Hot Springs,,"Randy ""Uriah"" Luallin",,84
+Fall River,HS 1,Mayor Hot Springs,,Robert L. Nelson,,197
+Fall River,HS 2,Mayor Hot Springs,,"Randy ""Uriah"" Luallin",,55
+Fall River,HS 2,Mayor Hot Springs,,Robert L. Nelson,,172
+Fall River,HS 3,Mayor Hot Springs,,"Randy ""Uriah"" Luallin",,53
+Fall River,HS 3,Mayor Hot Springs,,Robert L. Nelson,,144
+Fall River,HS 4,Mayor Hot Springs,,"Randy ""Uriah"" Luallin",,60
+Fall River,HS 4,Mayor Hot Springs,,Robert L. Nelson,,145
+Fall River,HS 1,Alderman Hot Springs Ward-1,,David Teachout,,77
+Fall River,HS 1,Alderman Hot Springs Ward-1,,Larry Pratt,,180
+Fall River,BEA,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,46
+Fall River,BEA,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,45
+Fall River,CAS,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,32
+Fall River,CAS,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,57
+Fall River,EDA,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,139
+Fall River,EDA,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,163
+Fall River,HS 1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,110
+Fall River,HS 1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,188
+Fall River,HS 2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,81
+Fall River,HS 2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,158
+Fall River,HS 3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,73
+Fall River,HS 3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,135
+Fall River,HS 4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,67
+Fall River,HS 4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,144
+Fall River,JAC,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,225
+Fall River,JAC,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,296
+Fall River,Oelrichs Area,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,56
+Fall River,Oelrichs Area,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,69

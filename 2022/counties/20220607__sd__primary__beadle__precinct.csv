@@ -1,0 +1,125 @@
+county,precinct,office,district,candidate,party,votes
+Beadle,1,U.S. Senate,,John R. Thune,REP,197
+Beadle,1,U.S. Senate,,Bruce Whalen,REP,39
+Beadle,1,U.S. Senate,,Mark Mowry,REP,20
+Beadle,2,U.S. Senate,,John R. Thune,REP,164
+Beadle,2,U.S. Senate,,Bruce Whalen,REP,26
+Beadle,2,U.S. Senate,,Mark Mowry,REP,18
+Beadle,3,U.S. Senate,,John R. Thune,REP,182
+Beadle,3,U.S. Senate,,Bruce Whalen,REP,33
+Beadle,3,U.S. Senate,,Mark Mowry,REP,19
+Beadle,4,U.S. Senate,,John R. Thune,REP,168
+Beadle,4,U.S. Senate,,Bruce Whalen,REP,25
+Beadle,4,U.S. Senate,,Mark Mowry,REP,9
+Beadle,5,U.S. Senate,,John R. Thune,REP,219
+Beadle,5,U.S. Senate,,Bruce Whalen,REP,38
+Beadle,5,U.S. Senate,,Mark Mowry,REP,16
+Beadle,6,U.S. Senate,,John R. Thune,REP,169
+Beadle,6,U.S. Senate,,Bruce Whalen,REP,27
+Beadle,6,U.S. Senate,,Mark Mowry,REP,13
+Beadle,8,U.S. Senate,,John R. Thune,REP,81
+Beadle,8,U.S. Senate,,Bruce Whalen,REP,9
+Beadle,8,U.S. Senate,,Mark Mowry,REP,3
+Beadle,9,U.S. Senate,,John R. Thune,REP,53
+Beadle,9,U.S. Senate,,Bruce Whalen,REP,3
+Beadle,9,U.S. Senate,,Mark Mowry,REP,3
+Beadle,7,U.S. Senate,,John R. Thune,REP,169
+Beadle,7,U.S. Senate,,Bruce Whalen,REP,32
+Beadle,7,U.S. Senate,,Mark Mowry,REP,21
+Beadle,1,U.S. House,1,Dusty Johnson,REP,166
+Beadle,1,U.S. House,1,Taffy Howard,REP,93
+Beadle,2,U.S. House,1,Dusty Johnson,REP,136
+Beadle,2,U.S. House,1,Taffy Howard,REP,67
+Beadle,3,U.S. House,1,Dusty Johnson,REP,163
+Beadle,3,U.S. House,1,Taffy Howard,REP,71
+Beadle,4,U.S. House,1,Dusty Johnson,REP,132
+Beadle,4,U.S. House,1,Taffy Howard,REP,68
+Beadle,5,U.S. House,1,Dusty Johnson,REP,187
+Beadle,5,U.S. House,1,Taffy Howard,REP,89
+Beadle,6,U.S. House,1,Dusty Johnson,REP,138
+Beadle,6,U.S. House,1,Taffy Howard,REP,72
+Beadle,8,U.S. House,1,Dusty Johnson,REP,58
+Beadle,8,U.S. House,1,Taffy Howard,REP,34
+Beadle,9,U.S. House,1,Dusty Johnson,REP,43
+Beadle,9,U.S. House,1,Taffy Howard,REP,15
+Beadle,7,U.S. House,1,Dusty Johnson,REP,137
+Beadle,7,U.S. House,1,Taffy Howard,REP,91
+Beadle,1,Governor,,Steven Haugaard,REP,61
+Beadle,1,Governor,,Kristi Noem,REP,202
+Beadle,2,Governor,,Steven Haugaard,REP,44
+Beadle,2,Governor,,Kristi Noem,REP,166
+Beadle,3,Governor,,Steven Haugaard,REP,49
+Beadle,3,Governor,,Kristi Noem,REP,183
+Beadle,4,Governor,,Steven Haugaard,REP,44
+Beadle,4,Governor,,Kristi Noem,REP,159
+Beadle,5,Governor,,Steven Haugaard,REP,69
+Beadle,5,Governor,,Kristi Noem,REP,208
+Beadle,6,Governor,,Steven Haugaard,REP,39
+Beadle,6,Governor,,Kristi Noem,REP,167
+Beadle,8,Governor,,Steven Haugaard,REP,15
+Beadle,8,Governor,,Kristi Noem,REP,78
+Beadle,9,Governor,,Steven Haugaard,REP,10
+Beadle,9,Governor,,Kristi Noem,REP,50
+Beadle,7,Governor,,Steven Haugaard,REP,38
+Beadle,7,Governor,,Kristi Noem,REP,190
+Beadle,1,Register of Deeds,,Kelley Hagland,REP,69
+Beadle,1,Register of Deeds,,Scott Beck,REP,64
+Beadle,1,Register of Deeds,,Judy Rodacker,REP,106
+Beadle,2,Register of Deeds,,Kelley Hagland,REP,54
+Beadle,2,Register of Deeds,,Scott Beck,REP,42
+Beadle,2,Register of Deeds,,Judy Rodacker,REP,94
+Beadle,3,Register of Deeds,,Kelley Hagland,REP,62
+Beadle,3,Register of Deeds,,Scott Beck,REP,46
+Beadle,3,Register of Deeds,,Judy Rodacker,REP,100
+Beadle,4,Register of Deeds,,Kelley Hagland,REP,46
+Beadle,4,Register of Deeds,,Scott Beck,REP,60
+Beadle,4,Register of Deeds,,Judy Rodacker,REP,74
+Beadle,5,Register of Deeds,,Kelley Hagland,REP,75
+Beadle,5,Register of Deeds,,Scott Beck,REP,70
+Beadle,5,Register of Deeds,,Judy Rodacker,REP,113
+Beadle,6,Register of Deeds,,Kelley Hagland,REP,44
+Beadle,6,Register of Deeds,,Scott Beck,REP,61
+Beadle,6,Register of Deeds,,Judy Rodacker,REP,81
+Beadle,8,Register of Deeds,,Kelley Hagland,REP,30
+Beadle,8,Register of Deeds,,Scott Beck,REP,17
+Beadle,8,Register of Deeds,,Judy Rodacker,REP,34
+Beadle,9,Register of Deeds,,Kelley Hagland,REP,16
+Beadle,9,Register of Deeds,,Scott Beck,REP,9
+Beadle,9,Register of Deeds,,Judy Rodacker,REP,27
+Beadle,7,Register of Deeds,,Kelley Hagland,REP,102
+Beadle,7,Register of Deeds,,Scott Beck,REP,38
+Beadle,7,Register of Deeds,,Judy Rodacker,REP,56
+Beadle,3,County Commissioner Beadle-5,,Dennis W Meyer,REP,169
+Beadle,3,County Commissioner Beadle-5,,Gary Wegter,REP,31
+Beadle,4,County Commissioner Beadle-5,,Dennis W Meyer,REP,148
+Beadle,4,County Commissioner Beadle-5,,Gary Wegter,REP,30
+Beadle,7,County Commissioner Beadle-5,,Dennis W Meyer,REP,37
+Beadle,7,County Commissioner Beadle-5,,Gary Wegter,REP,13
+Beadle,3,Precinct Committeeman Precinct 3,,Duane Christensen,REP,26
+Beadle,3,Precinct Committeeman Precinct 3,,Larry L. Larson,REP,30
+Beadle,3,Precinct Committeeman Precinct 3,,Gary Jones,REP,42
+Beadle,3,Precinct Committeeman Precinct 3,,Aaron Pilcher,REP,40
+Beadle,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,123
+Beadle,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,332
+Beadle,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,113
+Beadle,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,233
+Beadle,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,109
+Beadle,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,254
+Beadle,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,98
+Beadle,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,209
+Beadle,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,130
+Beadle,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,378
+Beadle,6,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,97
+Beadle,6,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,230
+Beadle,8,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,47
+Beadle,8,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,74
+Beadle,9,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,20
+Beadle,9,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,83
+Beadle,7,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,116
+Beadle,7,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,230
+Beadle,3,Precinct Committeewoman,,Patricia Jones,REP,78
+Beadle,3,Precinct Committeewoman,,Kristie Christensen,REP,42
+Beadle,6,Precinct Committeewoman,,Michelle Chase,REP,97
+Beadle,6,Precinct Committeewoman,,Amanda Haeder,REP,70
+Beadle,8,Precinct Committeewoman,,Randi L Papka,REP,33
+Beadle,8,Precinct Committeewoman,,Camron Weber,REP,35

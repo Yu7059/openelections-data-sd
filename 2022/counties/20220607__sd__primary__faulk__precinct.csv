@@ -1,0 +1,106 @@
+county,precinct,office,district,candidate,party,votes
+Faulk,1,U.S. Senate,,John R. Thune,REP,47
+Faulk,1,U.S. Senate,,Bruce Whalen,REP,27
+Faulk,1,U.S. Senate,,Mark Mowry,REP,1
+Faulk,2,U.S. Senate,,John R. Thune,REP,35
+Faulk,2,U.S. Senate,,Bruce Whalen,REP,10
+Faulk,2,U.S. Senate,,Mark Mowry,REP,3
+Faulk,3,U.S. Senate,,John R. Thune,REP,47
+Faulk,3,U.S. Senate,,Bruce Whalen,REP,17
+Faulk,3,U.S. Senate,,Mark Mowry,REP,8
+Faulk,4,U.S. Senate,,John R. Thune,REP,33
+Faulk,4,U.S. Senate,,Bruce Whalen,REP,15
+Faulk,4,U.S. Senate,,Mark Mowry,REP,5
+Faulk,5,U.S. Senate,,John R. Thune,REP,26
+Faulk,5,U.S. Senate,,Bruce Whalen,REP,7
+Faulk,5,U.S. Senate,,Mark Mowry,REP,3
+Faulk,6,U.S. Senate,,John R. Thune,REP,79
+Faulk,6,U.S. Senate,,Bruce Whalen,REP,19
+Faulk,6,U.S. Senate,,Mark Mowry,REP,11
+Faulk,7,U.S. Senate,,John R. Thune,REP,88
+Faulk,7,U.S. Senate,,Bruce Whalen,REP,17
+Faulk,7,U.S. Senate,,Mark Mowry,REP,6
+Faulk,1,U.S. House,1,Dusty Johnson,REP,46
+Faulk,1,U.S. House,1,Taffy Howard,REP,28
+Faulk,2,U.S. House,1,Dusty Johnson,REP,28
+Faulk,2,U.S. House,1,Taffy Howard,REP,20
+Faulk,3,U.S. House,1,Dusty Johnson,REP,36
+Faulk,3,U.S. House,1,Taffy Howard,REP,39
+Faulk,4,U.S. House,1,Dusty Johnson,REP,28
+Faulk,4,U.S. House,1,Taffy Howard,REP,27
+Faulk,5,U.S. House,1,Dusty Johnson,REP,24
+Faulk,5,U.S. House,1,Taffy Howard,REP,13
+Faulk,6,U.S. House,1,Dusty Johnson,REP,64
+Faulk,6,U.S. House,1,Taffy Howard,REP,43
+Faulk,7,U.S. House,1,Dusty Johnson,REP,69
+Faulk,7,U.S. House,1,Taffy Howard,REP,40
+Faulk,1,Governor,,Steven Haugaard,REP,15
+Faulk,1,Governor,,Kristi Noem,REP,60
+Faulk,2,Governor,,Steven Haugaard,REP,8
+Faulk,2,Governor,,Kristi Noem,REP,40
+Faulk,3,Governor,,Steven Haugaard,REP,8
+Faulk,3,Governor,,Kristi Noem,REP,63
+Faulk,4,Governor,,Steven Haugaard,REP,9
+Faulk,4,Governor,,Kristi Noem,REP,46
+Faulk,5,Governor,,Steven Haugaard,REP,8
+Faulk,5,Governor,,Kristi Noem,REP,29
+Faulk,6,Governor,,Steven Haugaard,REP,24
+Faulk,6,Governor,,Kristi Noem,REP,86
+Faulk,7,Governor,,Steven Haugaard,REP,18
+Faulk,7,Governor,,Kristi Noem,REP,93
+Faulk,1,State Senate,23,Bryan J. Breitling,REP,39
+Faulk,1,State Senate,23,Spencer Gosch,REP,30
+Faulk,2,State Senate,23,Bryan J. Breitling,REP,28
+Faulk,2,State Senate,23,Spencer Gosch,REP,20
+Faulk,3,State Senate,23,Bryan J. Breitling,REP,46
+Faulk,3,State Senate,23,Spencer Gosch,REP,27
+Faulk,4,State Senate,23,Bryan J. Breitling,REP,32
+Faulk,4,State Senate,23,Spencer Gosch,REP,19
+Faulk,5,State Senate,23,Bryan J. Breitling,REP,18
+Faulk,5,State Senate,23,Spencer Gosch,REP,18
+Faulk,6,State Senate,23,Bryan J. Breitling,REP,55
+Faulk,6,State Senate,23,Spencer Gosch,REP,48
+Faulk,7,State Senate,23,Bryan J. Breitling,REP,55
+Faulk,7,State Senate,23,Spencer Gosch,REP,48
+Faulk,1,State House,23,Scott Moore,REP,53
+Faulk,1,State House,23,Brandon Black,REP,7
+Faulk,1,State House,23,Gregory Brooks,REP,12
+Faulk,1,State House,23,James D. Wangsness,REP,33
+Faulk,2,State House,23,Scott Moore,REP,32
+Faulk,2,State House,23,Brandon Black,REP,9
+Faulk,2,State House,23,Gregory Brooks,REP,10
+Faulk,2,State House,23,James D. Wangsness,REP,19
+Faulk,3,State House,23,Scott Moore,REP,54
+Faulk,3,State House,23,Brandon Black,REP,4
+Faulk,3,State House,23,Gregory Brooks,REP,11
+Faulk,3,State House,23,James D. Wangsness,REP,48
+Faulk,4,State House,23,Scott Moore,REP,34
+Faulk,4,State House,23,Brandon Black,REP,3
+Faulk,4,State House,23,Gregory Brooks,REP,11
+Faulk,4,State House,23,James D. Wangsness,REP,31
+Faulk,5,State House,23,Scott Moore,REP,23
+Faulk,5,State House,23,Brandon Black,REP,2
+Faulk,5,State House,23,Gregory Brooks,REP,5
+Faulk,5,State House,23,James D. Wangsness,REP,20
+Faulk,6,State House,23,Scott Moore,REP,64
+Faulk,6,State House,23,Brandon Black,REP,12
+Faulk,6,State House,23,Gregory Brooks,REP,15
+Faulk,6,State House,23,James D. Wangsness,REP,59
+Faulk,7,State House,23,Scott Moore,REP,63
+Faulk,7,State House,23,Brandon Black,REP,15
+Faulk,7,State House,23,Gregory Brooks,REP,15
+Faulk,7,State House,23,James D. Wangsness,REP,69
+Faulk,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,28
+Faulk,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,71
+Faulk,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,23
+Faulk,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,30
+Faulk,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,35
+Faulk,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,49
+Faulk,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,23
+Faulk,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,39
+Faulk,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,21
+Faulk,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,26
+Faulk,6,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,36
+Faulk,6,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,81
+Faulk,7,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,41
+Faulk,7,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,91

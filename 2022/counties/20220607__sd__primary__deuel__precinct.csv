@@ -1,0 +1,147 @@
+county,precinct,office,district,candidate,party,votes
+Deuel,01,U.S. Senate,,John R. Thune,REP,39
+Deuel,01,U.S. Senate,,Bruce Whalen,REP,7
+Deuel,01,U.S. Senate,,Mark Mowry,REP,1
+Deuel,03,U.S. Senate,,John R. Thune,REP,78
+Deuel,03,U.S. Senate,,Bruce Whalen,REP,10
+Deuel,03,U.S. Senate,,Mark Mowry,REP,6
+Deuel,04,U.S. Senate,,John R. Thune,REP,27
+Deuel,04,U.S. Senate,,Bruce Whalen,REP,15
+Deuel,04,U.S. Senate,,Mark Mowry,REP,1
+Deuel,05,U.S. Senate,,John R. Thune,REP,41
+Deuel,05,U.S. Senate,,Bruce Whalen,REP,6
+Deuel,05,U.S. Senate,,Mark Mowry,REP,2
+Deuel,06,U.S. Senate,,John R. Thune,REP,53
+Deuel,06,U.S. Senate,,Bruce Whalen,REP,14
+Deuel,06,U.S. Senate,,Mark Mowry,REP,3
+Deuel,07,U.S. Senate,,John R. Thune,REP,51
+Deuel,07,U.S. Senate,,Bruce Whalen,REP,15
+Deuel,07,U.S. Senate,,Mark Mowry,REP,7
+Deuel,08,U.S. Senate,,John R. Thune,REP,78
+Deuel,08,U.S. Senate,,Bruce Whalen,REP,24
+Deuel,08,U.S. Senate,,Mark Mowry,REP,11
+Deuel,09,U.S. Senate,,John R. Thune,REP,72
+Deuel,09,U.S. Senate,,Bruce Whalen,REP,31
+Deuel,09,U.S. Senate,,Mark Mowry,REP,5
+Deuel,10,U.S. Senate,,John R. Thune,REP,43
+Deuel,10,U.S. Senate,,Bruce Whalen,REP,9
+Deuel,10,U.S. Senate,,Mark Mowry,REP,2
+Deuel,11,U.S. Senate,,John R. Thune,REP,38
+Deuel,11,U.S. Senate,,Bruce Whalen,REP,15
+Deuel,11,U.S. Senate,,Mark Mowry,REP,6
+Deuel,01,U.S. House,1,Dusty Johnson,REP,35
+Deuel,01,U.S. House,1,Taffy Howard,REP,11
+Deuel,03,U.S. House,1,Dusty Johnson,REP,72
+Deuel,03,U.S. House,1,Taffy Howard,REP,25
+Deuel,04,U.S. House,1,Dusty Johnson,REP,28
+Deuel,04,U.S. House,1,Taffy Howard,REP,17
+Deuel,05,U.S. House,1,Dusty Johnson,REP,30
+Deuel,05,U.S. House,1,Taffy Howard,REP,22
+Deuel,06,U.S. House,1,Dusty Johnson,REP,48
+Deuel,06,U.S. House,1,Taffy Howard,REP,23
+Deuel,07,U.S. House,1,Dusty Johnson,REP,49
+Deuel,07,U.S. House,1,Taffy Howard,REP,24
+Deuel,08,U.S. House,1,Dusty Johnson,REP,66
+Deuel,08,U.S. House,1,Taffy Howard,REP,50
+Deuel,09,U.S. House,1,Dusty Johnson,REP,67
+Deuel,09,U.S. House,1,Taffy Howard,REP,41
+Deuel,10,U.S. House,1,Dusty Johnson,REP,36
+Deuel,10,U.S. House,1,Taffy Howard,REP,17
+Deuel,11,U.S. House,1,Dusty Johnson,REP,36
+Deuel,11,U.S. House,1,Taffy Howard,REP,23
+Deuel,01,Governor,,Steven Haugaard,REP,9
+Deuel,01,Governor,,Kristi Noem,REP,40
+Deuel,03,Governor,,Steven Haugaard,REP,9
+Deuel,03,Governor,,Kristi Noem,REP,88
+Deuel,04,Governor,,Steven Haugaard,REP,8
+Deuel,04,Governor,,Kristi Noem,REP,35
+Deuel,05,Governor,,Steven Haugaard,REP,9
+Deuel,05,Governor,,Kristi Noem,REP,42
+Deuel,06,Governor,,Steven Haugaard,REP,15
+Deuel,06,Governor,,Kristi Noem,REP,58
+Deuel,07,Governor,,Steven Haugaard,REP,15
+Deuel,07,Governor,,Kristi Noem,REP,58
+Deuel,08,Governor,,Steven Haugaard,REP,12
+Deuel,08,Governor,,Kristi Noem,REP,104
+Deuel,09,Governor,,Steven Haugaard,REP,24
+Deuel,09,Governor,,Kristi Noem,REP,84
+Deuel,10,Governor,,Steven Haugaard,REP,8
+Deuel,10,Governor,,Kristi Noem,REP,44
+Deuel,11,Governor,,Steven Haugaard,REP,15
+Deuel,11,Governor,,Kristi Noem,REP,44
+Deuel,01,State House,4,Val Rausch,REP,18
+Deuel,01,State House,4,Adam Grimm,REP,12
+Deuel,01,State House,4,Fred Deutsch,REP,26
+Deuel,01,State House,4,Stephanie Sauder,REP,23
+Deuel,03,State House,4,Val Rausch,REP,30
+Deuel,03,State House,4,Adam Grimm,REP,15
+Deuel,03,State House,4,Fred Deutsch,REP,57
+Deuel,03,State House,4,Stephanie Sauder,REP,50
+Deuel,04,State House,4,Val Rausch,REP,15
+Deuel,04,State House,4,Adam Grimm,REP,7
+Deuel,04,State House,4,Fred Deutsch,REP,24
+Deuel,04,State House,4,Stephanie Sauder,REP,25
+Deuel,05,State House,4,Val Rausch,REP,17
+Deuel,05,State House,4,Adam Grimm,REP,8
+Deuel,05,State House,4,Fred Deutsch,REP,37
+Deuel,05,State House,4,Stephanie Sauder,REP,24
+Deuel,06,State House,4,Val Rausch,REP,33
+Deuel,06,State House,4,Adam Grimm,REP,15
+Deuel,06,State House,4,Fred Deutsch,REP,44
+Deuel,06,State House,4,Stephanie Sauder,REP,34
+Deuel,07,State House,4,Val Rausch,REP,28
+Deuel,07,State House,4,Adam Grimm,REP,24
+Deuel,07,State House,4,Fred Deutsch,REP,49
+Deuel,07,State House,4,Stephanie Sauder,REP,29
+Deuel,08,State House,4,Val Rausch,REP,39
+Deuel,08,State House,4,Adam Grimm,REP,24
+Deuel,08,State House,4,Fred Deutsch,REP,74
+Deuel,08,State House,4,Stephanie Sauder,REP,47
+Deuel,09,State House,4,Val Rausch,REP,35
+Deuel,09,State House,4,Adam Grimm,REP,26
+Deuel,09,State House,4,Fred Deutsch,REP,59
+Deuel,09,State House,4,Stephanie Sauder,REP,51
+Deuel,10,State House,4,Val Rausch,REP,24
+Deuel,10,State House,4,Adam Grimm,REP,12
+Deuel,10,State House,4,Fred Deutsch,REP,35
+Deuel,10,State House,4,Stephanie Sauder,REP,22
+Deuel,11,State House,4,Val Rausch,REP,27
+Deuel,11,State House,4,Adam Grimm,REP,13
+Deuel,11,State House,4,Fred Deutsch,REP,36
+Deuel,11,State House,4,Stephanie Sauder,REP,27
+Deuel,03,County Commissioner District 1,,Jay Grabow,REP,45
+Deuel,03,County Commissioner District 1,,Roger Kreutner,REP,25
+Deuel,08,County Commissioner District 1,,Jay Grabow,REP,55
+Deuel,08,County Commissioner District 1,,Roger Kreutner,REP,53
+Deuel,01,County Commissioner District 3,,James Dailey,REP,25
+Deuel,01,County Commissioner District 3,,Scott Fieber,REP,23
+Deuel,07,County Commissioner District 3,,James Dailey,REP,7
+Deuel,07,County Commissioner District 3,,Scott Fieber,REP,65
+Deuel,09,County Commissioner District 3,,James Dailey,REP,16
+Deuel,09,County Commissioner District 3,,Scott Fieber,REP,24
+Deuel,03,County Commissioner District 5,,Harry Raymond,REP,9
+Deuel,03,County Commissioner District 5,,Gary Delong,REP,10
+Deuel,06,County Commissioner District 5,,Harry Raymond,REP,47
+Deuel,06,County Commissioner District 5,,Gary Delong,REP,23
+Deuel,09,County Commissioner District 5,,Harry Raymond,REP,47
+Deuel,09,County Commissioner District 5,,Gary Delong,REP,14
+Deuel,01,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,22
+Deuel,01,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,46
+Deuel,03,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,52
+Deuel,03,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,79
+Deuel,04,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,29
+Deuel,04,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,54
+Deuel,05,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,32
+Deuel,05,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,43
+Deuel,06,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,28
+Deuel,06,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,67
+Deuel,07,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,41
+Deuel,07,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,53
+Deuel,08,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,75
+Deuel,08,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,77
+Deuel,09,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,62
+Deuel,09,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,68
+Deuel,10,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,32
+Deuel,10,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,42
+Deuel,11,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,34
+Deuel,11,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,51

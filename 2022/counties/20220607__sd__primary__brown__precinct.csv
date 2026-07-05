@@ -1,0 +1,541 @@
+county,precinct,office,district,candidate,party,votes
+Brown,Absentee Precinct,U.S. Senate,,John R. Thune,REP,1044
+Brown,Absentee Precinct,U.S. Senate,,Bruce Whalen,REP,242
+Brown,Absentee Precinct,U.S. Senate,,Mark Mowry,REP,80
+Brown,Americinn Event Center,U.S. Senate,,John R. Thune,REP,601
+Brown,Americinn Event Center,U.S. Senate,,Bruce Whalen,REP,110
+Brown,Americinn Event Center,U.S. Senate,,Mark Mowry,REP,32
+Brown,Best Western Ramkota Hotel and Convention Center,U.S. Senate,,John R. Thune,REP,581
+Brown,Best Western Ramkota Hotel and Convention Center,U.S. Senate,,Bruce Whalen,REP,133
+Brown,Best Western Ramkota Hotel and Convention Center,U.S. Senate,,Mark Mowry,REP,33
+Brown,Claremont City Hall,U.S. Senate,,John R. Thune,REP,42
+Brown,Claremont City Hall,U.S. Senate,,Bruce Whalen,REP,4
+Brown,Claremont City Hall,U.S. Senate,,Mark Mowry,REP,0
+Brown,Columbia Legion,U.S. Senate,,John R. Thune,REP,44
+Brown,Columbia Legion,U.S. Senate,,Bruce Whalen,REP,19
+Brown,Columbia Legion,U.S. Senate,,Mark Mowry,REP,5
+Brown,Courthouse Community Room,U.S. Senate,,John R. Thune,REP,753
+Brown,Courthouse Community Room,U.S. Senate,,Bruce Whalen,REP,198
+Brown,Courthouse Community Room,U.S. Senate,,Mark Mowry,REP,61
+Brown,Frederick Community Center,U.S. Senate,,John R. Thune,REP,39
+Brown,Frederick Community Center,U.S. Senate,,Bruce Whalen,REP,8
+Brown,Frederick Community Center,U.S. Senate,,Mark Mowry,REP,8
+Brown,Groton Community Center,U.S. Senate,,John R. Thune,REP,165
+Brown,Groton Community Center,U.S. Senate,,Bruce Whalen,REP,40
+Brown,Groton Community Center,U.S. Senate,,Mark Mowry,REP,5
+Brown,Hecla Community Center,U.S. Senate,,John R. Thune,REP,26
+Brown,Hecla Community Center,U.S. Senate,,Bruce Whalen,REP,5
+Brown,Hecla Community Center,U.S. Senate,,Mark Mowry,REP,2
+Brown,Stratford Community Center,U.S. Senate,,John R. Thune,REP,27
+Brown,Stratford Community Center,U.S. Senate,,Bruce Whalen,REP,9
+Brown,Stratford Community Center,U.S. Senate,,Mark Mowry,REP,1
+Brown,Warner Community Center,U.S. Senate,,John R. Thune,REP,106
+Brown,Warner Community Center,U.S. Senate,,Bruce Whalen,REP,19
+Brown,Warner Community Center,U.S. Senate,,Mark Mowry,REP,2
+Brown,Westport Town Hall,U.S. Senate,,John R. Thune,REP,26
+Brown,Westport Town Hall,U.S. Senate,,Bruce Whalen,REP,36
+Brown,Westport Town Hall,U.S. Senate,,Mark Mowry,REP,3
+Brown,Absentee Precinct,U.S. House,1,Dusty Johnson,REP,928
+Brown,Absentee Precinct,U.S. House,1,Taffy Howard,REP,459
+Brown,AmericInn Event Center,U.S. House,1,Dusty Johnson,REP,519
+Brown,AmericInn Event Center,U.S. House,1,Taffy Howard,REP,230
+Brown,Best Western Ramkota Hotel and Convention Center,U.S. House,1,Dusty Johnson,REP,475
+Brown,Best Western Ramkota Hotel and Convention Center,U.S. House,1,Taffy Howard,REP,271
+Brown,Claremont City Hall,U.S. House,1,Dusty Johnson,REP,33
+Brown,Claremont City Hall,U.S. House,1,Taffy Howard,REP,14
+Brown,Columbia Legion,U.S. House,1,Dusty Johnson,REP,35
+Brown,Columbia Legion,U.S. House,1,Taffy Howard,REP,33
+Brown,Courthouse Community Room,U.S. House,1,Dusty Johnson,REP,618
+Brown,Courthouse Community Room,U.S. House,1,Taffy Howard,REP,400
+Brown,Frederick Community Center,U.S. House,1,Dusty Johnson,REP,36
+Brown,Frederick Community Center,U.S. House,1,Taffy Howard,REP,21
+Brown,Groton Community Center,U.S. House,1,Dusty Johnson,REP,138
+Brown,Groton Community Center,U.S. House,1,Taffy Howard,REP,75
+Brown,Hecla Community Center,U.S. House,1,Dusty Johnson,REP,18
+Brown,Hecla Community Center,U.S. House,1,Taffy Howard,REP,15
+Brown,Stratford Community Center,U.S. House,1,Dusty Johnson,REP,17
+Brown,Stratford Community Center,U.S. House,1,Taffy Howard,REP,20
+Brown,Warner Community Center,U.S. House,1,Dusty Johnson,REP,88
+Brown,Warner Community Center,U.S. House,1,Taffy Howard,REP,40
+Brown,Westport Town Hall,U.S. House,1,Dusty Johnson,REP,19
+Brown,Westport Town Hall,U.S. House,1,Taffy Howard,REP,46
+Brown,Absentee Precinct,Governor,,Steven Haugaard,REP,364
+Brown,Absentee Precinct,Governor,,Kristi Noem,REP,1016
+Brown,AmericInn Event Center,Governor,,Steven Haugaard,REP,162
+Brown,AmericInn Event Center,Governor,,Kristi Noem,REP,600
+Brown,Best Western Ramkota Hotel and Convention Center,Governor,,Steven Haugaard,REP,127
+Brown,Best Western Ramkota Hotel and Convention Center,Governor,,Kristi Noem,REP,628
+Brown,Claremont City Hall,Governor,,Steven Haugaard,REP,9
+Brown,Claremont City Hall,Governor,,Kristi Noem,REP,38
+Brown,Columbia Legion,Governor,,Steven Haugaard,REP,23
+Brown,Columbia Legion,Governor,,Kristi Noem,REP,45
+Brown,Courthouse Community Room,Governor,,Steven Haugaard,REP,251
+Brown,Courthouse Community Room,Governor,,Kristi Noem,REP,778
+Brown,Frederick Community Center,Governor,,Steven Haugaard,REP,13
+Brown,Frederick Community Center,Governor,,Kristi Noem,REP,45
+Brown,Groton Community Center,Governor,,Steven Haugaard,REP,31
+Brown,Groton Community Center,Governor,,Kristi Noem,REP,181
+Brown,Hecla Community Center,Governor,,Steven Haugaard,REP,9
+Brown,Hecla Community Center,Governor,,Kristi Noem,REP,25
+Brown,Stratford Community Center,Governor,,Steven Haugaard,REP,12
+Brown,Stratford Community Center,Governor,,Kristi Noem,REP,24
+Brown,Warner Community Center,Governor,,Steven Haugaard,REP,24
+Brown,Warner Community Center,Governor,,Kristi Noem,REP,104
+Brown,Westport Town Hall,Governor,,Steven Haugaard,REP,21
+Brown,Westport Town Hall,Governor,,Kristi Noem,REP,46
+Brown,Absentee Precinct,State Senate,1,Michael H. Rohl,REP,134
+Brown,Absentee Precinct,State Senate,1,Joe Donnell,REP,66
+Brown,Americinn Event Center,State Senate,1,Michael H. Rohl,REP,60
+Brown,Americinn Event Center,State Senate,1,Joe Donnell,REP,19
+Brown,Best Western Ramkota Hotel and Convention Center,State Senate,1,Michael H. Rohl,REP,113
+Brown,Best Western Ramkota Hotel and Convention Center,State Senate,1,Joe Donnell,REP,44
+Brown,Claremont City Hall,State Senate,1,Michael H. Rohl,REP,37
+Brown,Claremont City Hall,State Senate,1,Joe Donnell,REP,9
+Brown,Columbia Legion,State Senate,1,Michael H. Rohl,REP,50
+Brown,Columbia Legion,State Senate,1,Joe Donnell,REP,14
+Brown,Courthouse Community Room,State Senate,1,Michael H. Rohl,REP,47
+Brown,Courthouse Community Room,State Senate,1,Joe Donnell,REP,28
+Brown,Frederick Community Center,State Senate,1,Michael H. Rohl,REP,31
+Brown,Frederick Community Center,State Senate,1,Joe Donnell,REP,16
+Brown,Groton Community Center,State Senate,1,Michael H. Rohl,REP,126
+Brown,Groton Community Center,State Senate,1,Joe Donnell,REP,54
+Brown,Hecla Community Center,State Senate,1,Michael H. Rohl,REP,20
+Brown,Hecla Community Center,State Senate,1,Joe Donnell,REP,9
+Brown,Stratford Community Center,State Senate,1,Michael H. Rohl,REP,19
+Brown,Stratford Community Center,State Senate,1,Joe Donnell,REP,9
+Brown,Warner Community Center,State Senate,1,Michael H. Rohl,REP,93
+Brown,Warner Community Center,State Senate,1,Joe Donnell,REP,19
+Brown,Westport Town Hall,State Senate,1,Michael H. Rohl,REP,29
+Brown,Westport Town Hall,State Senate,1,Joe Donnell,REP,25
+Brown,Absentee Precinct,State House,23,Scott Moore,REP,34
+Brown,Absentee Precinct,State House,23,Brandon Black,REP,28
+Brown,Absentee Precinct,State House,23,Gregory Brooks,REP,34
+Brown,Absentee Precinct,State House,23,James D. Wangsness,REP,24
+Brown,Americinn Event Center,State House,23,Scott Moore,REP,10
+Brown,Americinn Event Center,State House,23,Brandon Black,REP,13
+Brown,Americinn Event Center,State House,23,Gregory Brooks,REP,10
+Brown,Americinn Event Center,State House,23,James D. Wangsness,REP,11
+Brown,Best Western Ramkota Hotel and Convention Center,State House,23,Scott Moore,REP,41
+Brown,Best Western Ramkota Hotel and Convention Center,State House,23,Brandon Black,REP,25
+Brown,Best Western Ramkota Hotel and Convention Center,State House,23,Gregory Brooks,REP,23
+Brown,Best Western Ramkota Hotel and Convention Center,State House,23,James D. Wangsness,REP,21
+Brown,Claremont City Hall,State House,23,Scott Moore,REP,0
+Brown,Claremont City Hall,State House,23,Brandon Black,REP,0
+Brown,Claremont City Hall,State House,23,Gregory Brooks,REP,0
+Brown,Claremont City Hall,State House,23,James D. Wangsness,REP,0
+Brown,Columbia Legion,State House,23,Scott Moore,REP,1
+Brown,Columbia Legion,State House,23,Brandon Black,REP,0
+Brown,Columbia Legion,State House,23,Gregory Brooks,REP,0
+Brown,Columbia Legion,State House,23,James D. Wangsness,REP,1
+Brown,Courthouse Community Room,State House,23,Scott Moore,REP,32
+Brown,Courthouse Community Room,State House,23,Brandon Black,REP,25
+Brown,Courthouse Community Room,State House,23,Gregory Brooks,REP,36
+Brown,Courthouse Community Room,State House,23,James D. Wangsness,REP,20
+Brown,Frederick Community Center,State House,23,Scott Moore,REP,0
+Brown,Frederick Community Center,State House,23,Brandon Black,REP,0
+Brown,Frederick Community Center,State House,23,Gregory Brooks,REP,0
+Brown,Frederick Community Center,State House,23,James D. Wangsness,REP,0
+Brown,Groton Community Center,State House,23,Scott Moore,REP,0
+Brown,Groton Community Center,State House,23,Brandon Black,REP,0
+Brown,Groton Community Center,State House,23,Gregory Brooks,REP,0
+Brown,Groton Community Center,State House,23,James D. Wangsness,REP,0
+Brown,Hecla Community Center,State House,23,Scott Moore,REP,0
+Brown,Hecla Community Center,State House,23,Brandon Black,REP,0
+Brown,Hecla Community Center,State House,23,Gregory Brooks,REP,0
+Brown,Hecla Community Center,State House,23,James D. Wangsness,REP,0
+Brown,Stratford Community Center,State House,23,Scott Moore,REP,0
+Brown,Stratford Community Center,State House,23,Brandon Black,REP,0
+Brown,Stratford Community Center,State House,23,Gregory Brooks,REP,0
+Brown,Stratford Community Center,State House,23,James D. Wangsness,REP,0
+Brown,Warner Community Center,State House,23,Scott Moore,REP,0
+Brown,Warner Community Center,State House,23,Brandon Black,REP,0
+Brown,Warner Community Center,State House,23,Gregory Brooks,REP,0
+Brown,Warner Community Center,State House,23,James D. Wangsness,REP,1
+Brown,Westport Town Hall,State House,23,Scott Moore,REP,0
+Brown,Westport Town Hall,State House,23,Brandon Black,REP,0
+Brown,Westport Town Hall,State House,23,Gregory Brooks,REP,0
+Brown,Westport Town Hall,State House,23,James D. Wangsness,REP,0
+Brown,Absentee Precinct,County Commissioner At Large,,Mike Russell,REP,482
+Brown,Absentee Precinct,County Commissioner At Large,,Drew Dennert,REP,952
+Brown,Absentee Precinct,County Commissioner At Large,,Mike Gage,REP,694
+Brown,Absentee Precinct,County Commissioner At Large,,Mike Wiese,REP,854
+Brown,AmericInn Event Center,County Commissioner At Large,,Mike Russell,REP,272
+Brown,AmericInn Event Center,County Commissioner At Large,,Drew Dennert,REP,516
+Brown,AmericInn Event Center,County Commissioner At Large,,Mike Gage,REP,358
+Brown,AmericInn Event Center,County Commissioner At Large,,Mike Wiese,REP,432
+Brown,Best Western Ramkota Hotel and Convention Center,County Commissioner At Large,,Mike Russell,REP,245
+Brown,Best Western Ramkota Hotel and Convention Center,County Commissioner At Large,,Drew Dennert,REP,516
+Brown,Best Western Ramkota Hotel and Convention Center,County Commissioner At Large,,Mike Gage,REP,379
+Brown,Best Western Ramkota Hotel and Convention Center,County Commissioner At Large,,Mike Wiese,REP,434
+Brown,Claremont City Hall,County Commissioner At Large,,Mike Russell,REP,11
+Brown,Claremont City Hall,County Commissioner At Large,,Drew Dennert,REP,33
+Brown,Claremont City Hall,County Commissioner At Large,,Mike Gage,REP,23
+Brown,Claremont City Hall,County Commissioner At Large,,Mike Wiese,REP,23
+Brown,Columbia Legion,County Commissioner At Large,,Mike Russell,REP,17
+Brown,Columbia Legion,County Commissioner At Large,,Drew Dennert,REP,50
+Brown,Columbia Legion,County Commissioner At Large,,Mike Gage,REP,40
+Brown,Columbia Legion,County Commissioner At Large,,Mike Wiese,REP,34
+Brown,Courthouse Community Room,County Commissioner At Large,,Mike Russell,REP,332
+Brown,Courthouse Community Room,County Commissioner At Large,,Drew Dennert,REP,663
+Brown,Courthouse Community Room,County Commissioner At Large,,Mike Gage,REP,454
+Brown,Courthouse Community Room,County Commissioner At Large,,Mike Wiese,REP,549
+Brown,Frederick Community Center,County Commissioner At Large,,Mike Russell,REP,17
+Brown,Frederick Community Center,County Commissioner At Large,,Drew Dennert,REP,37
+Brown,Frederick Community Center,County Commissioner At Large,,Mike Gage,REP,31
+Brown,Frederick Community Center,County Commissioner At Large,,Mike Wiese,REP,25
+Brown,Groton Community Center,County Commissioner At Large,,Mike Russell,REP,58
+Brown,Groton Community Center,County Commissioner At Large,,Drew Dennert,REP,145
+Brown,Groton Community Center,County Commissioner At Large,,Mike Gage,REP,101
+Brown,Groton Community Center,County Commissioner At Large,,Mike Wiese,REP,114
+Brown,Hecla Community Center,County Commissioner At Large,,Mike Russell,REP,9
+Brown,Hecla Community Center,County Commissioner At Large,,Drew Dennert,REP,30
+Brown,Hecla Community Center,County Commissioner At Large,,Mike Gage,REP,14
+Brown,Hecla Community Center,County Commissioner At Large,,Mike Wiese,REP,18
+Brown,Stratford Community Center,County Commissioner At Large,,Mike Russell,REP,18
+Brown,Stratford Community Center,County Commissioner At Large,,Drew Dennert,REP,24
+Brown,Stratford Community Center,County Commissioner At Large,,Mike Gage,REP,21
+Brown,Stratford Community Center,County Commissioner At Large,,Mike Wiese,REP,18
+Brown,Warner Community Center,County Commissioner At Large,,Mike Russell,REP,28
+Brown,Warner Community Center,County Commissioner At Large,,Drew Dennert,REP,95
+Brown,Warner Community Center,County Commissioner At Large,,Mike Gage,REP,59
+Brown,Warner Community Center,County Commissioner At Large,,Mike Wiese,REP,73
+Brown,Westport Town Hall,County Commissioner At Large,,Mike Russell,REP,11
+Brown,Westport Town Hall,County Commissioner At Large,,Drew Dennert,REP,57
+Brown,Westport Town Hall,County Commissioner At Large,,Mike Gage,REP,51
+Brown,Westport Town Hall,County Commissioner At Large,,Mike Wiese,REP,26
+Brown,Absentee Precinct,Delegates to State Convention,,Ashton Dennert,REP,407
+Brown,Absentee Precinct,Delegates to State Convention,,Charlene Cornelius,REP,414
+Brown,Absentee Precinct,Delegates to State Convention,,Tabor Schabot,REP,264
+Brown,Absentee Precinct,Delegates to State Convention,,Ron Cornelius,REP,334
+Brown,Absentee Precinct,Delegates to State Convention,,Drew Dennert,REP,799
+Brown,Absentee Precinct,Delegates to State Convention,,Jack Hieb,REP,527
+Brown,AmericInn Event Center,Delegates to State Convention,,Ashton Dennert,REP,228
+Brown,AmericInn Event Center,Delegates to State Convention,,Charlene Cornelius,REP,200
+Brown,AmericInn Event Center,Delegates to State Convention,,Tabor Schabot,REP,130
+Brown,AmericInn Event Center,Delegates to State Convention,,Ron Cornelius,REP,151
+Brown,AmericInn Event Center,Delegates to State Convention,,Drew Dennert,REP,443
+Brown,AmericInn Event Center,Delegates to State Convention,,Jack Hieb,REP,298
+Brown,Best Western Ramkota Hotel and Convention Center,Delegates to State Convention,,Ashton Dennert,REP,236
+Brown,Best Western Ramkota Hotel and Convention Center,Delegates to State Convention,,Charlene Cornelius,REP,195
+Brown,Best Western Ramkota Hotel and Convention Center,Delegates to State Convention,,Tabor Schabot,REP,131
+Brown,Best Western Ramkota Hotel and Convention Center,Delegates to State Convention,,Ron Cornelius,REP,143
+Brown,Best Western Ramkota Hotel and Convention Center,Delegates to State Convention,,Drew Dennert,REP,458
+Brown,Best Western Ramkota Hotel and Convention Center,Delegates to State Convention,,Jack Hieb,REP,300
+Brown,Claremont City Hall,Delegates to State Convention,,Ashton Dennert,REP,19
+Brown,Claremont City Hall,Delegates to State Convention,,Charlene Cornelius,REP,7
+Brown,Claremont City Hall,Delegates to State Convention,,Tabor Schabot,REP,6
+Brown,Claremont City Hall,Delegates to State Convention,,Ron Cornelius,REP,6
+Brown,Claremont City Hall,Delegates to State Convention,,Drew Dennert,REP,33
+Brown,Claremont City Hall,Delegates to State Convention,,Jack Hieb,REP,20
+Brown,Columbia Legion,Delegates to State Convention,,Ashton Dennert,REP,30
+Brown,Columbia Legion,Delegates to State Convention,,Charlene Cornelius,REP,17
+Brown,Columbia Legion,Delegates to State Convention,,Tabor Schabot,REP,9
+Brown,Columbia Legion,Delegates to State Convention,,Ron Cornelius,REP,17
+Brown,Columbia Legion,Delegates to State Convention,,Drew Dennert,REP,53
+Brown,Columbia Legion,Delegates to State Convention,,Jack Hieb,REP,19
+Brown,Courthouse Community Room,Delegates to State Convention,,Ashton Dennert,REP,292
+Brown,Courthouse Community Room,Delegates to State Convention,,Charlene Cornelius,REP,258
+Brown,Courthouse Community Room,Delegates to State Convention,,Tabor Schabot,REP,175
+Brown,Courthouse Community Room,Delegates to State Convention,,Ron Cornelius,REP,225
+Brown,Courthouse Community Room,Delegates to State Convention,,Drew Dennert,REP,567
+Brown,Courthouse Community Room,Delegates to State Convention,,Jack Hieb,REP,360
+Brown,Frederick Community Center,Delegates to State Convention,,Ashton Dennert,REP,19
+Brown,Frederick Community Center,Delegates to State Convention,,Charlene Cornelius,REP,12
+Brown,Frederick Community Center,Delegates to State Convention,,Tabor Schabot,REP,6
+Brown,Frederick Community Center,Delegates to State Convention,,Ron Cornelius,REP,8
+Brown,Frederick Community Center,Delegates to State Convention,,Drew Dennert,REP,29
+Brown,Frederick Community Center,Delegates to State Convention,,Jack Hieb,REP,19
+Brown,Groton Community Center,Delegates to State Convention,,Ashton Dennert,REP,71
+Brown,Groton Community Center,Delegates to State Convention,,Charlene Cornelius,REP,45
+Brown,Groton Community Center,Delegates to State Convention,,Tabor Schabot,REP,28
+Brown,Groton Community Center,Delegates to State Convention,,Ron Cornelius,REP,39
+Brown,Groton Community Center,Delegates to State Convention,,Drew Dennert,REP,136
+Brown,Groton Community Center,Delegates to State Convention,,Jack Hieb,REP,75
+Brown,Hecla Community Center,Delegates to State Convention,,Ashton Dennert,REP,15
+Brown,Hecla Community Center,Delegates to State Convention,,Charlene Cornelius,REP,7
+Brown,Hecla Community Center,Delegates to State Convention,,Tabor Schabot,REP,5
+Brown,Hecla Community Center,Delegates to State Convention,,Ron Cornelius,REP,4
+Brown,Hecla Community Center,Delegates to State Convention,,Drew Dennert,REP,25
+Brown,Hecla Community Center,Delegates to State Convention,,Jack Hieb,REP,7
+Brown,Stratford Community Center,Delegates to State Convention,,Ashton Dennert,REP,8
+Brown,Stratford Community Center,Delegates to State Convention,,Charlene Cornelius,REP,7
+Brown,Stratford Community Center,Delegates to State Convention,,Tabor Schabot,REP,8
+Brown,Stratford Community Center,Delegates to State Convention,,Ron Cornelius,REP,9
+Brown,Stratford Community Center,Delegates to State Convention,,Drew Dennert,REP,18
+Brown,Stratford Community Center,Delegates to State Convention,,Jack Hieb,REP,13
+Brown,Warner Community Center,Delegates to State Convention,,Ashton Dennert,REP,41
+Brown,Warner Community Center,Delegates to State Convention,,Charlene Cornelius,REP,22
+Brown,Warner Community Center,Delegates to State Convention,,Tabor Schabot,REP,18
+Brown,Warner Community Center,Delegates to State Convention,,Ron Cornelius,REP,21
+Brown,Warner Community Center,Delegates to State Convention,,Drew Dennert,REP,81
+Brown,Warner Community Center,Delegates to State Convention,,Jack Hieb,REP,35
+Brown,Westport Town Hall,Delegates to State Convention,,Ashton Dennert,REP,33
+Brown,Westport Town Hall,Delegates to State Convention,,Charlene Cornelius,REP,8
+Brown,Westport Town Hall,Delegates to State Convention,,Tabor Schabot,REP,18
+Brown,Westport Town Hall,Delegates to State Convention,,Ron Cornelius,REP,5
+Brown,Westport Town Hall,Delegates to State Convention,,Drew Dennert,REP,49
+Brown,Westport Town Hall,Delegates to State Convention,,Jack Hieb,REP,15
+Brown,Absentee Precinct,Precinct Committeeman Precinct-03,,Daniel Kaiser,REP,43
+Brown,Absentee Precinct,Precinct Committeeman Precinct-03,,Heath Johnson,REP,27
+Brown,Absentee Precinct,Precinct Committeeman Precinct-03,,Dave Lunzman,REP,42
+Brown,AmericInn Event Center,Precinct Committeeman Precinct-03,,Daniel Kaiser,REP,8
+Brown,AmericInn Event Center,Precinct Committeeman Precinct-03,,Heath Johnson,REP,0
+Brown,AmericInn Event Center,Precinct Committeeman Precinct-03,,Dave Lunzman,REP,9
+Brown,Best Western Ramkota Hotel and Convention Center,Precinct Committeeman Precinct-03,,Daniel Kaiser,REP,61
+Brown,Best Western Ramkota Hotel and Convention Center,Precinct Committeeman Precinct-03,,Heath Johnson,REP,28
+Brown,Best Western Ramkota Hotel and Convention Center,Precinct Committeeman Precinct-03,,Dave Lunzman,REP,48
+Brown,Claremont City Hall,Precinct Committeeman Precinct-03,,Daniel Kaiser,REP,0
+Brown,Claremont City Hall,Precinct Committeeman Precinct-03,,Heath Johnson,REP,0
+Brown,Claremont City Hall,Precinct Committeeman Precinct-03,,Dave Lunzman,REP,0
+Brown,Columbia Legion,Precinct Committeeman Precinct-03,,Daniel Kaiser,REP,0
+Brown,Columbia Legion,Precinct Committeeman Precinct-03,,Heath Johnson,REP,0
+Brown,Columbia Legion,Precinct Committeeman Precinct-03,,Dave Lunzman,REP,0
+Brown,Courthouse Community Room,Precinct Committeeman Precinct-03,,Daniel Kaiser,REP,33
+Brown,Courthouse Community Room,Precinct Committeeman Precinct-03,,Heath Johnson,REP,15
+Brown,Courthouse Community Room,Precinct Committeeman Precinct-03,,Dave Lunzman,REP,24
+Brown,Frederick Community Center,Precinct Committeeman Precinct-03,,Daniel Kaiser,REP,0
+Brown,Frederick Community Center,Precinct Committeeman Precinct-03,,Heath Johnson,REP,0
+Brown,Frederick Community Center,Precinct Committeeman Precinct-03,,Dave Lunzman,REP,0
+Brown,Groton Community Center,Precinct Committeeman Precinct-03,,Daniel Kaiser,REP,0
+Brown,Groton Community Center,Precinct Committeeman Precinct-03,,Heath Johnson,REP,0
+Brown,Groton Community Center,Precinct Committeeman Precinct-03,,Dave Lunzman,REP,0
+Brown,Hecla Community Center,Precinct Committeeman Precinct-03,,Daniel Kaiser,REP,0
+Brown,Hecla Community Center,Precinct Committeeman Precinct-03,,Heath Johnson,REP,0
+Brown,Hecla Community Center,Precinct Committeeman Precinct-03,,Dave Lunzman,REP,0
+Brown,Stratford Community Center,Precinct Committeeman Precinct-03,,Daniel Kaiser,REP,0
+Brown,Stratford Community Center,Precinct Committeeman Precinct-03,,Heath Johnson,REP,0
+Brown,Stratford Community Center,Precinct Committeeman Precinct-03,,Dave Lunzman,REP,0
+Brown,Warner Community Center,Precinct Committeeman Precinct-03,,Daniel Kaiser,REP,0
+Brown,Warner Community Center,Precinct Committeeman Precinct-03,,Heath Johnson,REP,0
+Brown,Warner Community Center,Precinct Committeeman Precinct-03,,Dave Lunzman,REP,0
+Brown,Westport Town Hall,Precinct Committeeman Precinct-03,,Daniel Kaiser,REP,0
+Brown,Westport Town Hall,Precinct Committeeman Precinct-03,,Heath Johnson,REP,0
+Brown,Westport Town Hall,Precinct Committeeman Precinct-03,,Dave Lunzman,REP,0
+Brown,Absentee Precinct,Precinct Committeeman Precinct-10,,Daniel Richardt,REP,6
+Brown,Absentee Precinct,Precinct Committeeman Precinct-10,,Timothy Prater,REP,3
+Brown,Absentee Precinct,Precinct Committeeman Precinct-10,,Justin Rezabek,REP,6
+Brown,American Event Center,Precinct Committeeman Precinct-10,,Daniel Richardt,REP,7
+Brown,American Event Center,Precinct Committeeman Precinct-10,,Timothy Prater,REP,3
+Brown,American Event Center,Precinct Committeeman Precinct-10,,Justin Rezabek,REP,2
+Brown,Best Western Ramkota Hotel and Convention Center,Precinct Committeeman Precinct-10,,Daniel Richardt,REP,0
+Brown,Best Western Ramkota Hotel and Convention Center,Precinct Committeeman Precinct-10,,Timothy Prater,REP,1
+Brown,Best Western Ramkota Hotel and Convention Center,Precinct Committeeman Precinct-10,,Justin Rezabek,REP,1
+Brown,Claremont City Hall,Precinct Committeeman Precinct-10,,Daniel Richardt,REP,0
+Brown,Claremont City Hall,Precinct Committeeman Precinct-10,,Timothy Prater,REP,0
+Brown,Claremont City Hall,Precinct Committeeman Precinct-10,,Justin Rezabek,REP,0
+Brown,Columbia Legion,Precinct Committeeman Precinct-10,,Daniel Richardt,REP,0
+Brown,Columbia Legion,Precinct Committeeman Precinct-10,,Timothy Prater,REP,0
+Brown,Columbia Legion,Precinct Committeeman Precinct-10,,Justin Rezabek,REP,0
+Brown,Courthouse Community Room,Precinct Committeeman Precinct-10,,Daniel Richardt,REP,7
+Brown,Courthouse Community Room,Precinct Committeeman Precinct-10,,Timothy Prater,REP,7
+Brown,Courthouse Community Room,Precinct Committeeman Precinct-10,,Justin Rezabek,REP,4
+Brown,Frederick Community Center,Precinct Committeeman Precinct-10,,Daniel Richardt,REP,0
+Brown,Frederick Community Center,Precinct Committeeman Precinct-10,,Timothy Prater,REP,0
+Brown,Frederick Community Center,Precinct Committeeman Precinct-10,,Justin Rezabek,REP,0
+Brown,Groton Community Center,Precinct Committeeman Precinct-10,,Daniel Richardt,REP,1
+Brown,Groton Community Center,Precinct Committeeman Precinct-10,,Timothy Prater,REP,0
+Brown,Groton Community Center,Precinct Committeeman Precinct-10,,Justin Rezabek,REP,0
+Brown,Hecla Community Center,Precinct Committeeman Precinct-10,,Daniel Richardt,REP,0
+Brown,Hecla Community Center,Precinct Committeeman Precinct-10,,Timothy Prater,REP,0
+Brown,Hecla Community Center,Precinct Committeeman Precinct-10,,Justin Rezabek,REP,0
+Brown,Stratford Community Center,Precinct Committeeman Precinct-10,,Daniel Richardt,REP,0
+Brown,Stratford Community Center,Precinct Committeeman Precinct-10,,Timothy Prater,REP,0
+Brown,Stratford Community Center,Precinct Committeeman Precinct-10,,Justin Rezabek,REP,0
+Brown,Warner Community Center,Precinct Committeeman Precinct-10,,Daniel Richardt,REP,0
+Brown,Warner Community Center,Precinct Committeeman Precinct-10,,Timothy Prater,REP,0
+Brown,Warner Community Center,Precinct Committeeman Precinct-10,,Justin Rezabek,REP,0
+Brown,Westport Town Hall,Precinct Committeeman Precinct-10,,Daniel Richardt,REP,0
+Brown,Westport Town Hall,Precinct Committeeman Precinct-10,,Timothy Prater,REP,0
+Brown,Westport Town Hall,Precinct Committeeman Precinct-10,,Justin Rezabek,REP,0
+Brown,Absentee Precinct,Precinct Committeeman,,Michael Rohl,REP,69
+Brown,Absentee Precinct,Precinct Committeeman,,Ken Bjur,REP,25
+Brown,Absentee Precinct,Precinct Committeeman,,Michael Evans,REP,15
+Brown,Absentee Precinct,Precinct Committeeman,,Kaleb Weis,REP,18
+Brown,Absentee Precinct,Precinct Committeeman,,Keith Miller,REP,7
+Brown,Absentee Precinct,Precinct Committeeman,,Kevin Gerard Weig,REP,9
+Brown,Absentee Precinct,Precinct Committeeman,,Jesse Zak,REP,12
+Brown,Absentee Precinct,Precinct Committeeman,,Brandon Bible,REP,7
+Brown,AmericInn Event Center,Precinct Committeeman,,Michael Rohl,REP,21
+Brown,AmericInn Event Center,Precinct Committeeman,,Ken Bjur,REP,8
+Brown,AmericInn Event Center,Precinct Committeeman,,Michael Evans,REP,2
+Brown,AmericInn Event Center,Precinct Committeeman,,Kaleb Weis,REP,6
+Brown,AmericInn Event Center,Precinct Committeeman,,Keith Miller,REP,1
+Brown,AmericInn Event Center,Precinct Committeeman,,Kevin Gerard Weig,REP,0
+Brown,AmericInn Event Center,Precinct Committeeman,,Jesse Zak,REP,2
+Brown,AmericInn Event Center,Precinct Committeeman,,Brandon Bible,REP,0
+Brown,Best Western Ramkota Hotel and Convention Center,Precinct Committeeman,,Michael Rohl,REP,105
+Brown,Best Western Ramkota Hotel and Convention Center,Precinct Committeeman,,Ken Bjur,REP,31
+Brown,Best Western Ramkota Hotel and Convention Center,Precinct Committeeman,,Michael Evans,REP,16
+Brown,Best Western Ramkota Hotel and Convention Center,Precinct Committeeman,,Kaleb Weis,REP,36
+Brown,Best Western Ramkota Hotel and Convention Center,Precinct Committeeman,,Keith Miller,REP,1
+Brown,Best Western Ramkota Hotel and Convention Center,Precinct Committeeman,,Kevin Gerard Weig,REP,0
+Brown,Best Western Ramkota Hotel and Convention Center,Precinct Committeeman,,Jesse Zak,REP,3
+Brown,Best Western Ramkota Hotel and Convention Center,Precinct Committeeman,,Brandon Bible,REP,0
+Brown,Claremont City Hall,Precinct Committeeman,,Michael Rohl,REP,0
+Brown,Claremont City Hall,Precinct Committeeman,,Ken Bjur,REP,0
+Brown,Claremont City Hall,Precinct Committeeman,,Michael Evans,REP,0
+Brown,Claremont City Hall,Precinct Committeeman,,Kaleb Weis,REP,0
+Brown,Claremont City Hall,Precinct Committeeman,,Keith Miller,REP,0
+Brown,Claremont City Hall,Precinct Committeeman,,Kevin Gerard Weig,REP,0
+Brown,Claremont City Hall,Precinct Committeeman,,Jesse Zak,REP,0
+Brown,Claremont City Hall,Precinct Committeeman,,Brandon Bible,REP,0
+Brown,Columbia Legion,Precinct Committeeman,,Michael Rohl,REP,1
+Brown,Columbia Legion,Precinct Committeeman,,Ken Bjur,REP,0
+Brown,Columbia Legion,Precinct Committeeman,,Michael Evans,REP,0
+Brown,Columbia Legion,Precinct Committeeman,,Kaleb Weis,REP,0
+Brown,Columbia Legion,Precinct Committeeman,,Keith Miller,REP,0
+Brown,Columbia Legion,Precinct Committeeman,,Kevin Gerard Weig,REP,0
+Brown,Columbia Legion,Precinct Committeeman,,Jesse Zak,REP,1
+Brown,Columbia Legion,Precinct Committeeman,,Brandon Bible,REP,0
+Brown,Courthouse Community Room,Precinct Committeeman,,Michael Rohl,REP,29
+Brown,Courthouse Community Room,Precinct Committeeman,,Ken Bjur,REP,9
+Brown,Courthouse Community Room,Precinct Committeeman,,Michael Evans,REP,9
+Brown,Courthouse Community Room,Precinct Committeeman,,Kaleb Weis,REP,5
+Brown,Courthouse Community Room,Precinct Committeeman,,Keith Miller,REP,1
+Brown,Courthouse Community Room,Precinct Committeeman,,Kevin Gerard Weig,REP,2
+Brown,Courthouse Community Room,Precinct Committeeman,,Jesse Zak,REP,2
+Brown,Courthouse Community Room,Precinct Committeeman,,Brandon Bible,REP,1
+Brown,Frederick Community Center,Precinct Committeeman,,Michael Rohl,REP,3
+Brown,Frederick Community Center,Precinct Committeeman,,Ken Bjur,REP,0
+Brown,Frederick Community Center,Precinct Committeeman,,Michael Evans,REP,0
+Brown,Frederick Community Center,Precinct Committeeman,,Kaleb Weis,REP,0
+Brown,Frederick Community Center,Precinct Committeeman,,Keith Miller,REP,0
+Brown,Frederick Community Center,Precinct Committeeman,,Kevin Gerard Weig,REP,0
+Brown,Frederick Community Center,Precinct Committeeman,,Jesse Zak,REP,0
+Brown,Frederick Community Center,Precinct Committeeman,,Brandon Bible,REP,0
+Brown,Groton Community Center,Precinct Committeeman,,Michael Rohl,REP,0
+Brown,Groton Community Center,Precinct Committeeman,,Ken Bjur,REP,0
+Brown,Groton Community Center,Precinct Committeeman,,Michael Evans,REP,0
+Brown,Groton Community Center,Precinct Committeeman,,Kaleb Weis,REP,0
+Brown,Groton Community Center,Precinct Committeeman,,Keith Miller,REP,0
+Brown,Groton Community Center,Precinct Committeeman,,Kevin Gerard Weig,REP,0
+Brown,Groton Community Center,Precinct Committeeman,,Jesse Zak,REP,104
+Brown,Groton Community Center,Precinct Committeeman,,Brandon Bible,REP,53
+Brown,Hecla Community Center,Precinct Committeeman,,Michael Rohl,REP,0
+Brown,Hecla Community Center,Precinct Committeeman,,Ken Bjur,REP,0
+Brown,Hecla Community Center,Precinct Committeeman,,Michael Evans,REP,0
+Brown,Hecla Community Center,Precinct Committeeman,,Kaleb Weis,REP,0
+Brown,Hecla Community Center,Precinct Committeeman,,Keith Miller,REP,0
+Brown,Hecla Community Center,Precinct Committeeman,,Kevin Gerard Weig,REP,0
+Brown,Hecla Community Center,Precinct Committeeman,,Jesse Zak,REP,0
+Brown,Hecla Community Center,Precinct Committeeman,,Brandon Bible,REP,0
+Brown,Stratford Community Center,Precinct Committeeman,,Michael Rohl,REP,0
+Brown,Stratford Community Center,Precinct Committeeman,,Ken Bjur,REP,0
+Brown,Stratford Community Center,Precinct Committeeman,,Michael Evans,REP,0
+Brown,Stratford Community Center,Precinct Committeeman,,Kaleb Weis,REP,0
+Brown,Stratford Community Center,Precinct Committeeman,,Keith Miller,REP,0
+Brown,Stratford Community Center,Precinct Committeeman,,Kevin Gerard Weig,REP,0
+Brown,Stratford Community Center,Precinct Committeeman,,Jesse Zak,REP,1
+Brown,Stratford Community Center,Precinct Committeeman,,Brandon Bible,REP,1
+Brown,Warner Community Center,Precinct Committeeman,,Michael Rohl,REP,0
+Brown,Warner Community Center,Precinct Committeeman,,Ken Bjur,REP,0
+Brown,Warner Community Center,Precinct Committeeman,,Michael Evans,REP,0
+Brown,Warner Community Center,Precinct Committeeman,,Kaleb Weis,REP,0
+Brown,Warner Community Center,Precinct Committeeman,,Keith Miller,REP,45
+Brown,Warner Community Center,Precinct Committeeman,,Kevin Gerard Weig,REP,20
+Brown,Warner Community Center,Precinct Committeeman,,Jesse Zak,REP,0
+Brown,Warner Community Center,Precinct Committeeman,,Brandon Bible,REP,0
+Brown,Westport Town Hall,Precinct Committeeman,,Michael Rohl,REP,0
+Brown,Westport Town Hall,Precinct Committeeman,,Ken Bjur,REP,1
+Brown,Westport Town Hall,Precinct Committeeman,,Michael Evans,REP,0
+Brown,Westport Town Hall,Precinct Committeeman,,Kaleb Weis,REP,0
+Brown,Westport Town Hall,Precinct Committeeman,,Keith Miller,REP,0
+Brown,Westport Town Hall,Precinct Committeeman,,Kevin Gerard Weig,REP,0
+Brown,Westport Town Hall,Precinct Committeeman,,Jesse Zak,REP,0
+Brown,Westport Town Hall,Precinct Committeeman,,Brandon Bible,REP,0
+Brown,Absentee Precinct,School Board Member Aberdeen School District 6-1,,Gayle Bortnern,,1272
+Brown,Absentee Precinct,School Board Member Aberdeen School District 6-1,,Mike Bockorny,,899
+Brown,Absentee Precinct,School Board Member Aberdeen School District 6-1,,Duane Alm,,1152
+Brown,AmericInn Event Center,School Board Member Aberdeen School District 6-1,,Gayle Bortnern,,636
+Brown,AmericInn Event Center,School Board Member Aberdeen School District 6-1,,Mike Bockorny,,484
+Brown,AmericInn Event Center,School Board Member Aberdeen School District 6-1,,Duane Alm,,562
+Brown,Best Western Ramkota Hotel and Convention Center,School Board Member Aberdeen School District 6-1,,Gayle Bortnern,,579
+Brown,Best Western Ramkota Hotel and Convention Center,School Board Member Aberdeen School District 6-1,,Mike Bockorny,,511
+Brown,Best Western Ramkota Hotel and Convention Center,School Board Member Aberdeen School District 6-1,,Duane Alm,,541
+Brown,Claremont City Hall,School Board Member Aberdeen School District 6-1,,Gayle Bortnern,,0
+Brown,Claremont City Hall,School Board Member Aberdeen School District 6-1,,Mike Bockorny,,0
+Brown,Claremont City Hall,School Board Member Aberdeen School District 6-1,,Duane Alm,,0
+Brown,Columbia Legion,School Board Member Aberdeen School District 6-1,,Gayle Bortnern,,10
+Brown,Columbia Legion,School Board Member Aberdeen School District 6-1,,Mike Bockorny,,15
+Brown,Columbia Legion,School Board Member Aberdeen School District 6-1,,Duane Alm,,20
+Brown,Courthouse Community Room,School Board Member Aberdeen School District 6-1,,Gayle Bortnern,,897
+Brown,Courthouse Community Room,School Board Member Aberdeen School District 6-1,,Mike Bockorny,,711
+Brown,Courthouse Community Room,School Board Member Aberdeen School District 6-1,,Duane Alm,,791
+Brown,Frederick Community Center,School Board Member Aberdeen School District 6-1,,Gayle Bortnern,,1
+Brown,Frederick Community Center,School Board Member Aberdeen School District 6-1,,Mike Bockorny,,3
+Brown,Frederick Community Center,School Board Member Aberdeen School District 6-1,,Duane Alm,,3
+Brown,Groton Community Center,School Board Member Aberdeen School District 6-1,,Gayle Bortnern,,2
+Brown,Groton Community Center,School Board Member Aberdeen School District 6-1,,Mike Bockorny,,3
+Brown,Groton Community Center,School Board Member Aberdeen School District 6-1,,Duane Alm,,1
+Brown,Hecla Community Center,School Board Member Aberdeen School District 6-1,,Gayle Bortnern,,0
+Brown,Hecla Community Center,School Board Member Aberdeen School District 6-1,,Mike Bockorny,,0
+Brown,Hecla Community Center,School Board Member Aberdeen School District 6-1,,Duane Alm,,0
+Brown,Stratford Community Center,School Board Member Aberdeen School District 6-1,,Gayle Bortnern,,12
+Brown,Stratford Community Center,School Board Member Aberdeen School District 6-1,,Mike Bockorny,,4
+Brown,Stratford Community Center,School Board Member Aberdeen School District 6-1,,Duane Alm,,11
+Brown,Warner Community Center,School Board Member Aberdeen School District 6-1,,Gayle Bortnern,,15
+Brown,Warner Community Center,School Board Member Aberdeen School District 6-1,,Mike Bockorny,,6
+Brown,Warner Community Center,School Board Member Aberdeen School District 6-1,,Duane Alm,,16
+Brown,Westport Town Hall,School Board Member Aberdeen School District 6-1,,Gayle Bortnern,,14
+Brown,Westport Town Hall,School Board Member Aberdeen School District 6-1,,Mike Bockorny,,8
+Brown,Westport Town Hall,School Board Member Aberdeen School District 6-1,,Duane Alm,,20
+Brown,Absentee Precinct,City Council Member Aberdeen Ward-NE,,Erin Fouberg,,352
+Brown,Absentee Precinct,City Council Member Aberdeen Ward-NE,,Mark Remily,,102
+Brown,Absentee Precinct,City Council Member Aberdeen Ward-NE,,Andy Schaunaman,,120
+Brown,Americinn Event Center,City Council Member Aberdeen Ward-NE,,Erin Fouberg,,218
+Brown,Americinn Event Center,City Council Member Aberdeen Ward-NE,,Mark Remily,,56
+Brown,Americinn Event Center,City Council Member Aberdeen Ward-NE,,Andy Schaunaman,,81
+Brown,Best Western Ramkota Hotel and Convention Center,City Council Member Aberdeen Ward-NE,,Erin Fouberg,,117
+Brown,Best Western Ramkota Hotel and Convention Center,City Council Member Aberdeen Ward-NE,,Mark Remily,,33
+Brown,Best Western Ramkota Hotel and Convention Center,City Council Member Aberdeen Ward-NE,,Andy Schaunaman,,46
+Brown,Claremont City Hall,City Council Member Aberdeen Ward-NE,,Erin Fouberg,,0
+Brown,Claremont City Hall,City Council Member Aberdeen Ward-NE,,Mark Remily,,0
+Brown,Claremont City Hall,City Council Member Aberdeen Ward-NE,,Andy Schaunaman,,0
+Brown,Columbia Legion,City Council Member Aberdeen Ward-NE,,Erin Fouberg,,0
+Brown,Columbia Legion,City Council Member Aberdeen Ward-NE,,Mark Remily,,0
+Brown,Columbia Legion,City Council Member Aberdeen Ward-NE,,Andy Schaunaman,,0
+Brown,Courthouse Community Room,City Council Member Aberdeen Ward-NE,,Erin Fouberg,,231
+Brown,Courthouse Community Room,City Council Member Aberdeen Ward-NE,,Mark Remily,,46
+Brown,Courthouse Community Room,City Council Member Aberdeen Ward-NE,,Andy Schaunaman,,117
+Brown,Frederick Community Center,City Council Member Aberdeen Ward-NE,,Erin Fouberg,,0
+Brown,Frederick Community Center,City Council Member Aberdeen Ward-NE,,Mark Remily,,0
+Brown,Frederick Community Center,City Council Member Aberdeen Ward-NE,,Andy Schaunaman,,0
+Brown,Groton Community Center,City Council Member Aberdeen Ward-NE,,Erin Fouberg,,0
+Brown,Groton Community Center,City Council Member Aberdeen Ward-NE,,Mark Remily,,1
+Brown,Groton Community Center,City Council Member Aberdeen Ward-NE,,Andy Schaunaman,,0
+Brown,Hecla Community Center,City Council Member Aberdeen Ward-NE,,Erin Fouberg,,0
+Brown,Hecla Community Center,City Council Member Aberdeen Ward-NE,,Mark Remily,,0
+Brown,Hecla Community Center,City Council Member Aberdeen Ward-NE,,Andy Schaunaman,,0
+Brown,Stratford Community Center,City Council Member Aberdeen Ward-NE,,Erin Fouberg,,0
+Brown,Stratford Community Center,City Council Member Aberdeen Ward-NE,,Mark Remily,,0
+Brown,Stratford Community Center,City Council Member Aberdeen Ward-NE,,Andy Schaunaman,,0
+Brown,Warner Community Center,City Council Member Aberdeen Ward-NE,,Erin Fouberg,,1
+Brown,Warner Community Center,City Council Member Aberdeen Ward-NE,,Mark Remily,,0
+Brown,Warner Community Center,City Council Member Aberdeen Ward-NE,,Andy Schaunaman,,0
+Brown,Westport Town Hall,City Council Member Aberdeen Ward-NE,,Erin Fouberg,,0
+Brown,Westport Town Hall,City Council Member Aberdeen Ward-NE,,Mark Remily,,0
+Brown,Westport Town Hall,City Council Member Aberdeen Ward-NE,,Andy Schaunaman,,0
+Brown,Absentee Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,658
+Brown,Absentee Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,1703
+Brown,AmericInn Event Center,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,356
+Brown,AmericInn Event Center,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,841
+Brown,Best Western Ramkota Hotel and Convention Center,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,423
+Brown,Best Western Ramkota Hotel and Convention Center,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,758
+Brown,Claremont City Hall,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,30
+Brown,Claremont City Hall,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,48
+Brown,Columbia Legion,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,37
+Brown,Columbia Legion,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,79
+Brown,Courthouse Community Room,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,555
+Brown,Courthouse Community Room,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,1219
+Brown,Frederick Community Center,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,39
+Brown,Frederick Community Center,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,53
+Brown,Groton Community Center,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,95
+Brown,Groton Community Center,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,226
+Brown,Hecla Community Center,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,22
+Brown,Hecla Community Center,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,42
+Brown,Stratford Community Center,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,26
+Brown,Stratford Community Center,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,43
+Brown,Warner Community Center,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,83
+Brown,Warner Community Center,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,103
+Brown,Westport Town Hall,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,51
+Brown,Westport Town Hall,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,55

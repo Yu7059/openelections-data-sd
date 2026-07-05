@@ -1,0 +1,253 @@
+county,precinct,office,district,candidate,party,votes
+Grant,11,U.S. Senate,,John R. Thune,REP,103
+Grant,11,U.S. Senate,,Bruce Whalen,REP,16
+Grant,11,U.S. Senate,,Mark Mowry,REP,7
+Grant,12,U.S. Senate,,John R. Thune,REP,3
+Grant,12,U.S. Senate,,Bruce Whalen,REP,0
+Grant,12,U.S. Senate,,Mark Mowry,REP,0
+Grant,21,U.S. Senate,,John R. Thune,REP,45
+Grant,21,U.S. Senate,,Bruce Whalen,REP,1
+Grant,21,U.S. Senate,,Mark Mowry,REP,1
+Grant,22,U.S. Senate,,John R. Thune,REP,93
+Grant,22,U.S. Senate,,Bruce Whalen,REP,21
+Grant,22,U.S. Senate,,Mark Mowry,REP,6
+Grant,31,U.S. Senate,,John R. Thune,REP,1
+Grant,31,U.S. Senate,,Bruce Whalen,REP,2
+Grant,31,U.S. Senate,,Mark Mowry,REP,2
+Grant,32,U.S. Senate,,John R. Thune,REP,23
+Grant,32,U.S. Senate,,Bruce Whalen,REP,9
+Grant,32,U.S. Senate,,Mark Mowry,REP,3
+Grant,33,U.S. Senate,,John R. Thune,REP,103
+Grant,33,U.S. Senate,,Bruce Whalen,REP,10
+Grant,33,U.S. Senate,,Mark Mowry,REP,3
+Grant,41,U.S. Senate,,John R. Thune,REP,45
+Grant,41,U.S. Senate,,Bruce Whalen,REP,13
+Grant,41,U.S. Senate,,Mark Mowry,REP,4
+Grant,42,U.S. Senate,,John R. Thune,REP,66
+Grant,42,U.S. Senate,,Bruce Whalen,REP,14
+Grant,42,U.S. Senate,,Mark Mowry,REP,12
+Grant,43,U.S. Senate,,John R. Thune,REP,93
+Grant,43,U.S. Senate,,Bruce Whalen,REP,23
+Grant,43,U.S. Senate,,Mark Mowry,REP,5
+Grant,44,U.S. Senate,,John R. Thune,REP,38
+Grant,44,U.S. Senate,,Bruce Whalen,REP,5
+Grant,44,U.S. Senate,,Mark Mowry,REP,0
+Grant,45,U.S. Senate,,John R. Thune,REP,42
+Grant,45,U.S. Senate,,Bruce Whalen,REP,11
+Grant,45,U.S. Senate,,Mark Mowry,REP,5
+Grant,46,U.S. Senate,,John R. Thune,REP,53
+Grant,46,U.S. Senate,,Bruce Whalen,REP,13
+Grant,46,U.S. Senate,,Mark Mowry,REP,4
+Grant,47,U.S. Senate,,John R. Thune,REP,66
+Grant,47,U.S. Senate,,Bruce Whalen,REP,13
+Grant,47,U.S. Senate,,Mark Mowry,REP,1
+Grant,49,U.S. Senate,,John R. Thune,REP,22
+Grant,49,U.S. Senate,,Bruce Whalen,REP,9
+Grant,49,U.S. Senate,,Mark Mowry,REP,2
+Grant,52,U.S. Senate,,John R. Thune,REP,13
+Grant,52,U.S. Senate,,Bruce Whalen,REP,2
+Grant,52,U.S. Senate,,Mark Mowry,REP,0
+Grant,53,U.S. Senate,,John R. Thune,REP,16
+Grant,53,U.S. Senate,,Bruce Whalen,REP,4
+Grant,53,U.S. Senate,,Mark Mowry,REP,1
+Grant,54,U.S. Senate,,John R. Thune,REP,40
+Grant,54,U.S. Senate,,Bruce Whalen,REP,6
+Grant,54,U.S. Senate,,Mark Mowry,REP,3
+Grant,11,U.S. House,1,Dusty Johnson,REP,75
+Grant,11,U.S. House,1,Taffy Howard,REP,50
+Grant,12,U.S. House,1,Dusty Johnson,REP,1
+Grant,12,U.S. House,1,Taffy Howard,REP,2
+Grant,21,U.S. House,1,Dusty Johnson,REP,30
+Grant,21,U.S. House,1,Taffy Howard,REP,18
+Grant,22,U.S. House,1,Dusty Johnson,REP,68
+Grant,22,U.S. House,1,Taffy Howard,REP,52
+Grant,31,U.S. House,1,Dusty Johnson,REP,2
+Grant,31,U.S. House,1,Taffy Howard,REP,3
+Grant,32,U.S. House,1,Dusty Johnson,REP,20
+Grant,32,U.S. House,1,Taffy Howard,REP,16
+Grant,33,U.S. House,1,Dusty Johnson,REP,77
+Grant,33,U.S. House,1,Taffy Howard,REP,37
+Grant,41,U.S. House,1,Dusty Johnson,REP,30
+Grant,41,U.S. House,1,Taffy Howard,REP,34
+Grant,42,U.S. House,1,Dusty Johnson,REP,46
+Grant,42,U.S. House,1,Taffy Howard,REP,47
+Grant,43,U.S. House,1,Dusty Johnson,REP,73
+Grant,43,U.S. House,1,Taffy Howard,REP,47
+Grant,44,U.S. House,1,Dusty Johnson,REP,27
+Grant,44,U.S. House,1,Taffy Howard,REP,17
+Grant,45,U.S. House,1,Dusty Johnson,REP,34
+Grant,45,U.S. House,1,Taffy Howard,REP,23
+Grant,46,U.S. House,1,Dusty Johnson,REP,33
+Grant,46,U.S. House,1,Taffy Howard,REP,40
+Grant,47,U.S. House,1,Dusty Johnson,REP,55
+Grant,47,U.S. House,1,Taffy Howard,REP,22
+Grant,49,U.S. House,1,Dusty Johnson,REP,20
+Grant,49,U.S. House,1,Taffy Howard,REP,14
+Grant,52,U.S. House,1,Dusty Johnson,REP,12
+Grant,52,U.S. House,1,Taffy Howard,REP,3
+Grant,53,U.S. House,1,Dusty Johnson,REP,10
+Grant,53,U.S. House,1,Taffy Howard,REP,11
+Grant,54,U.S. House,1,Dusty Johnson,REP,28
+Grant,54,U.S. House,1,Taffy Howard,REP,21
+Grant,11,Governor,,Steven Haugaard,REP,17
+Grant,11,Governor,,Kristi Noem,REP,115
+Grant,12,Governor,,Steven Haugaard,REP,0
+Grant,12,Governor,,Kristi Noem,REP,3
+Grant,21,Governor,,Steven Haugaard,REP,12
+Grant,21,Governor,,Kristi Noem,REP,37
+Grant,22,Governor,,Steven Haugaard,REP,29
+Grant,22,Governor,,Kristi Noem,REP,93
+Grant,31,Governor,,Steven Haugaard,REP,5
+Grant,31,Governor,,Kristi Noem,REP,0
+Grant,32,Governor,,Steven Haugaard,REP,8
+Grant,32,Governor,,Kristi Noem,REP,29
+Grant,33,Governor,,Steven Haugaard,REP,23
+Grant,33,Governor,,Kristi Noem,REP,95
+Grant,41,Governor,,Steven Haugaard,REP,7
+Grant,41,Governor,,Kristi Noem,REP,56
+Grant,42,Governor,,Steven Haugaard,REP,15
+Grant,42,Governor,,Kristi Noem,REP,79
+Grant,43,Governor,,Steven Haugaard,REP,15
+Grant,43,Governor,,Kristi Noem,REP,107
+Grant,44,Governor,,Steven Haugaard,REP,2
+Grant,44,Governor,,Kristi Noem,REP,42
+Grant,45,Governor,,Steven Haugaard,REP,11
+Grant,45,Governor,,Kristi Noem,REP,48
+Grant,46,Governor,,Steven Haugaard,REP,8
+Grant,46,Governor,,Kristi Noem,REP,66
+Grant,47,Governor,,Steven Haugaard,REP,7
+Grant,47,Governor,,Kristi Noem,REP,73
+Grant,49,Governor,,Steven Haugaard,REP,6
+Grant,49,Governor,,Kristi Noem,REP,28
+Grant,52,Governor,,Steven Haugaard,REP,1
+Grant,52,Governor,,Kristi Noem,REP,14
+Grant,53,Governor,,Steven Haugaard,REP,4
+Grant,53,Governor,,Kristi Noem,REP,17
+Grant,54,Governor,,Steven Haugaard,REP,9
+Grant,54,Governor,,Kristi Noem,REP,40
+Grant,11,State House,4,Val Rausch,REP,88
+Grant,11,State House,4,Adam Grimm,REP,35
+Grant,11,State House,4,Fred Deutsch,REP,70
+Grant,11,State House,4,Stephanie Sauder,REP,35
+Grant,12,State House,4,Val Rausch,REP,1
+Grant,12,State House,4,Adam Grimm,REP,2
+Grant,12,State House,4,Fred Deutsch,REP,1
+Grant,12,State House,4,Stephanie Sauder,REP,1
+Grant,21,State House,4,Val Rausch,REP,39
+Grant,21,State House,4,Adam Grimm,REP,5
+Grant,21,State House,4,Fred Deutsch,REP,24
+Grant,21,State House,4,Stephanie Sauder,REP,14
+Grant,22,State House,4,Val Rausch,REP,82
+Grant,22,State House,4,Adam Grimm,REP,33
+Grant,22,State House,4,Fred Deutsch,REP,59
+Grant,22,State House,4,Stephanie Sauder,REP,38
+Grant,31,State House,4,Val Rausch,REP,2
+Grant,31,State House,4,Adam Grimm,REP,3
+Grant,31,State House,4,Fred Deutsch,REP,1
+Grant,31,State House,4,Stephanie Sauder,REP,3
+Grant,32,State House,4,Val Rausch,REP,24
+Grant,32,State House,4,Adam Grimm,REP,10
+Grant,32,State House,4,Fred Deutsch,REP,18
+Grant,32,State House,4,Stephanie Sauder,REP,9
+Grant,33,State House,4,Val Rausch,REP,88
+Grant,33,State House,4,Adam Grimm,REP,21
+Grant,33,State House,4,Fred Deutsch,REP,48
+Grant,33,State House,4,Stephanie Sauder,REP,52
+Grant,41,State House,4,Val Rausch,REP,41
+Grant,41,State House,4,Adam Grimm,REP,18
+Grant,41,State House,4,Fred Deutsch,REP,31
+Grant,41,State House,4,Stephanie Sauder,REP,24
+Grant,42,State House,4,Val Rausch,REP,64
+Grant,42,State House,4,Adam Grimm,REP,21
+Grant,42,State House,4,Fred Deutsch,REP,50
+Grant,42,State House,4,Stephanie Sauder,REP,29
+Grant,43,State House,4,Val Rausch,REP,91
+Grant,43,State House,4,Adam Grimm,REP,25
+Grant,43,State House,4,Fred Deutsch,REP,47
+Grant,43,State House,4,Stephanie Sauder,REP,35
+Grant,44,State House,4,Val Rausch,REP,25
+Grant,44,State House,4,Adam Grimm,REP,6
+Grant,44,State House,4,Fred Deutsch,REP,21
+Grant,44,State House,4,Stephanie Sauder,REP,17
+Grant,45,State House,4,Val Rausch,REP,33
+Grant,45,State House,4,Adam Grimm,REP,19
+Grant,45,State House,4,Fred Deutsch,REP,35
+Grant,45,State House,4,Stephanie Sauder,REP,21
+Grant,46,State House,4,Val Rausch,REP,51
+Grant,46,State House,4,Adam Grimm,REP,9
+Grant,46,State House,4,Fred Deutsch,REP,34
+Grant,46,State House,4,Stephanie Sauder,REP,33
+Grant,47,State House,4,Val Rausch,REP,54
+Grant,47,State House,4,Adam Grimm,REP,20
+Grant,47,State House,4,Fred Deutsch,REP,51
+Grant,47,State House,4,Stephanie Sauder,REP,23
+Grant,49,State House,4,Val Rausch,REP,18
+Grant,49,State House,4,Adam Grimm,REP,7
+Grant,49,State House,4,Fred Deutsch,REP,12
+Grant,49,State House,4,Stephanie Sauder,REP,15
+Grant,52,State House,4,Val Rausch,REP,9
+Grant,52,State House,4,Adam Grimm,REP,5
+Grant,52,State House,4,Fred Deutsch,REP,5
+Grant,52,State House,4,Stephanie Sauder,REP,6
+Grant,53,State House,4,Val Rausch,REP,10
+Grant,53,State House,4,Adam Grimm,REP,6
+Grant,53,State House,4,Fred Deutsch,REP,11
+Grant,53,State House,4,Stephanie Sauder,REP,6
+Grant,54,State House,4,Val Rausch,REP,30
+Grant,54,State House,4,Adam Grimm,REP,9
+Grant,54,State House,4,Fred Deutsch,REP,30
+Grant,54,State House,4,Stephanie Sauder,REP,18
+Grant,21,City Council Member Milbank Ward-02,,Craig Weinberg,,36
+Grant,21,City Council Member Milbank Ward-02,,Scott Hoeke,,30
+Grant,22,City Council Member Milbank Ward-02,,Craig Weinberg,,106
+Grant,22,City Council Member Milbank Ward-02,,Scott Hoeke,,69
+Grant,11,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,77
+Grant,11,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,99
+Grant,12,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,3
+Grant,12,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,4
+Grant,21,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,24
+Grant,21,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,43
+Grant,22,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,73
+Grant,22,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,105
+Grant,31,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,2
+Grant,31,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,4
+Grant,32,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,21
+Grant,32,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,33
+Grant,33,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,67
+Grant,33,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,106
+Grant,41,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,40
+Grant,41,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,70
+Grant,42,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,55
+Grant,42,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,55
+Grant,43,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,86
+Grant,43,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,99
+Grant,44,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,18
+Grant,44,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,39
+Grant,45,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,28
+Grant,45,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,59
+Grant,46,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,43
+Grant,46,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,71
+Grant,47,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,56
+Grant,47,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,53
+Grant,49,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,17
+Grant,49,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,31
+Grant,52,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,10
+Grant,52,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,19
+Grant,53,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,5
+Grant,53,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,22
+Grant,54,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,27
+Grant,54,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,43
+Grant,Solberg Powers,Precinct Committeewoman Precinct 03-10,,Schulenburg Epoch,REP,57
+Grant,Solberg Powers,Precinct Committeewoman Precinct 03-13,,Huber/Fisch,REP,70
+Grant,Huber/Fisch,Precinct Committeeman Precinct 03-10,,Carpenter Gibbens,REP,276
+Grant,Carpenter Gibbens,Precinct Committeeman Precinct 03-13,,Wolf Rose,REP,61
+Grant,Wolf Rose,Precinct Committeeman Precinct 03-13,,Bridget Byers,REP,48
+Grant,Bridget Byers,Precinct Committeeman Precinct 04-11,,Cini Cook,REP,72
+Grant,Cini Cook,Precinct Committeeman Precinct 04-11,,Raspberry Sohr,REP,23
+Grant,Van Rubalcava,Precinct Committeeman Precinct 04-11,,Huselby,REP,174
+Grant,Huselby,Precinct Committeeman Precinct 04-11,,Creighton Hobson,REP,92
+Grant,Raspberry Sohr,Precinct Committeeman Precinct 04-12,,Pam Burnkett,REP,252
+Grant,Creighton Hobson,Precinct Committeeman Precinct 04-12,,Edwards,REP,33
+Grant,Edwards,Precinct Committeeman Precinct 04-12,,Diana Wiarda,REP,36
+Grant,Pam Burnkett,Precinct Committeeman Precinct 04-13,,Edwards Coal Choice,REP,50
+Grant,Edwards Coal Choice,Precinct Committeeman Precinct 04-17,,Van Rubalcava,REP,162

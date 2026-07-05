@@ -1,0 +1,61 @@
+county,precinct,office,district,candidate,party,votes
+McPherson,1,U.S. Senate,,John R. Thune,REP,127
+McPherson,1,U.S. Senate,,Bruce Whalen,REP,37
+McPherson,1,U.S. Senate,,Mark Mowry,REP,10
+McPherson,2,U.S. Senate,,John R. Thune,REP,104
+McPherson,2,U.S. Senate,,Bruce Whalen,REP,38
+McPherson,2,U.S. Senate,,Mark Mowry,REP,5
+McPherson,3,U.S. Senate,,John R. Thune,REP,109
+McPherson,3,U.S. Senate,,Bruce Whalen,REP,27
+McPherson,3,U.S. Senate,,Mark Mowry,REP,7
+McPherson,4,U.S. Senate,,John R. Thune,REP,133
+McPherson,4,U.S. Senate,,Bruce Whalen,REP,44
+McPherson,4,U.S. Senate,,Mark Mowry,REP,8
+McPherson,1,U.S. House,1,Dusty Johnson,REP,111
+McPherson,1,U.S. House,1,Taffy Howard,REP,61
+McPherson,2,U.S. House,1,Dusty Johnson,REP,90
+McPherson,2,U.S. House,1,Taffy Howard,REP,58
+McPherson,3,U.S. House,1,Dusty Johnson,REP,88
+McPherson,3,U.S. House,1,Taffy Howard,REP,59
+McPherson,4,U.S. House,1,Dusty Johnson,REP,87
+McPherson,4,U.S. House,1,Taffy Howard,REP,97
+McPherson,1,Governor,,Steven Haugaard,REP,48
+McPherson,1,Governor,,Kristi Noem,REP,125
+McPherson,2,Governor,,Steven Haugaard,REP,33
+McPherson,2,Governor,,Kristi Noem,REP,117
+McPherson,3,Governor,,Steven Haugaard,REP,29
+McPherson,3,Governor,,Kristi Noem,REP,117
+McPherson,4,Governor,,Steven Haugaard,REP,39
+McPherson,4,Governor,,Kristi Noem,REP,146
+McPherson,1,State Senate,23,Bryan J. Breitling,REP,97
+McPherson,1,State Senate,23,Spencer Gosch,REP,75
+McPherson,2,State Senate,23,Bryan J. Breitling,REP,70
+McPherson,2,State Senate,23,Spencer Gosch,REP,74
+McPherson,3,State Senate,23,Bryan J. Breitling,REP,59
+McPherson,3,State Senate,23,Spencer Gosch,REP,86
+McPherson,4,State Senate,23,Bryan J. Breitling,REP,81
+McPherson,4,State Senate,23,Spencer Gosch,REP,99
+McPherson,1,State House,23,Scott Moore,REP,145
+McPherson,1,State House,23,Brandon Black,REP,12
+McPherson,1,State House,23,Gregory Brooks,REP,49
+McPherson,1,State House,23,James D. Wangsness,REP,99
+McPherson,2,State House,23,Scott Moore,REP,125
+McPherson,2,State House,23,Brandon Black,REP,8
+McPherson,2,State House,23,Gregory Brooks,REP,45
+McPherson,2,State House,23,James D. Wangsness,REP,71
+McPherson,3,State House,23,Scott Moore,REP,100
+McPherson,3,State House,23,Brandon Black,REP,12
+McPherson,3,State House,23,Gregory Brooks,REP,29
+McPherson,3,State House,23,James D. Wangsness,REP,66
+McPherson,4,State House,23,Scott Moore,REP,128
+McPherson,4,State House,23,Brandon Black,REP,15
+McPherson,4,State House,23,Gregory Brooks,REP,42
+McPherson,4,State House,23,James D. Wangsness,REP,92
+McPherson,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,105
+McPherson,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,90
+McPherson,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,94
+McPherson,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,66
+McPherson,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,73
+McPherson,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,92
+McPherson,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,93
+McPherson,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,120

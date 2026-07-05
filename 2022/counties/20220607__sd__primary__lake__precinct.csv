@@ -1,0 +1,171 @@
+county,precinct,office,district,candidate,party,votes
+Lake,Chester-Franklin,U.S. Senate,,John R. Thune,REP,127
+Lake,Chester-Franklin,U.S. Senate,,Bruce Whalen,REP,25
+Lake,Chester-Franklin,U.S. Senate,,Mark Mowry,REP,21
+Lake,Concord-Badus-Wayne/Ramona,U.S. Senate,,John R. Thune,REP,59
+Lake,Concord-Badus-Wayne/Ramona,U.S. Senate,,Bruce Whalen,REP,10
+Lake,Concord-Badus-Wayne/Ramona,U.S. Senate,,Mark Mowry,REP,8
+Lake,Farmington-Leroy-Clarno-Orland,U.S. Senate,,John R. Thune,REP,87
+Lake,Farmington-Leroy-Clarno-Orland,U.S. Senate,,Bruce Whalen,REP,17
+Lake,Farmington-Leroy-Clarno-Orland,U.S. Senate,,Mark Mowry,REP,16
+Lake,Herman-Winfred,U.S. Senate,,John R. Thune,REP,113
+Lake,Herman-Winfred,U.S. Senate,,Bruce Whalen,REP,20
+Lake,Herman-Winfred,U.S. Senate,,Mark Mowry,REP,7
+Lake,Lakeview,U.S. Senate,,John R. Thune,REP,124
+Lake,Lakeview,U.S. Senate,,Bruce Whalen,REP,33
+Lake,Lakeview,U.S. Senate,,Mark Mowry,REP,8
+Lake,Nunda-Summit,U.S. Senate,,John R. Thune,REP,63
+Lake,Nunda-Summit,U.S. Senate,,Bruce Whalen,REP,8
+Lake,Nunda-Summit,U.S. Senate,,Mark Mowry,REP,6
+Lake,Ward One,U.S. Senate,,John R. Thune,REP,333
+Lake,Ward One,U.S. Senate,,Bruce Whalen,REP,41
+Lake,Ward One,U.S. Senate,,Mark Mowry,REP,24
+Lake,Ward Three,U.S. Senate,,John R. Thune,REP,126
+Lake,Ward Three,U.S. Senate,,Bruce Whalen,REP,32
+Lake,Ward Three,U.S. Senate,,Mark Mowry,REP,14
+Lake,Ward Two,U.S. Senate,,John R. Thune,REP,143
+Lake,Ward Two,U.S. Senate,,Bruce Whalen,REP,28
+Lake,Ward Two,U.S. Senate,,Mark Mowry,REP,19
+Lake,Wentworth-Rutland,U.S. Senate,,John R. Thune,REP,138
+Lake,Wentworth-Rutland,U.S. Senate,,Bruce Whalen,REP,31
+Lake,Wentworth-Rutland,U.S. Senate,,Mark Mowry,REP,11
+Lake,Chester-Franklin,U.S. House,1,Dusty Johnson,REP,102
+Lake,Chester-Franklin,U.S. House,1,Taffy Howard,REP,74
+Lake,Concord-Badus-Wayne/Ramona,U.S. House,1,Dusty Johnson,REP,54
+Lake,Concord-Badus-Wayne/Ramona,U.S. House,1,Taffy Howard,REP,28
+Lake,Farmington-Leroy-Clarno-Orland,U.S. House,1,Dusty Johnson,REP,78
+Lake,Farmington-Leroy-Clarno-Orland,U.S. House,1,Taffy Howard,REP,43
+Lake,Herman-Winfred,U.S. House,1,Dusty Johnson,REP,95
+Lake,Herman-Winfred,U.S. House,1,Taffy Howard,REP,48
+Lake,Lakeview,U.S. House,1,Dusty Johnson,REP,116
+Lake,Lakeview,U.S. House,1,Taffy Howard,REP,51
+Lake,Nunda-Summit,U.S. House,1,Dusty Johnson,REP,44
+Lake,Nunda-Summit,U.S. House,1,Taffy Howard,REP,33
+Lake,Ward One,U.S. House,1,Dusty Johnson,REP,294
+Lake,Ward One,U.S. House,1,Taffy Howard,REP,107
+Lake,Ward Three,U.S. House,1,Dusty Johnson,REP,105
+Lake,Ward Three,U.S. House,1,Taffy Howard,REP,67
+Lake,Ward Two,U.S. House,1,Dusty Johnson,REP,121
+Lake,Ward Two,U.S. House,1,Taffy Howard,REP,72
+Lake,Wentworth-Rutland,U.S. House,1,Dusty Johnson,REP,124
+Lake,Wentworth-Rutland,U.S. House,1,Taffy Howard,REP,58
+Lake,Chester-Franklin,Governor,,Steven Haugaard,REP,28
+Lake,Chester-Franklin,Governor,,Kristi Noem,REP,152
+Lake,Concord-Badus-Wayne/Ramona,Governor,,Steven Haugaard,REP,24
+Lake,Concord-Badus-Wayne/Ramona,Governor,,Kristi Noem,REP,58
+Lake,Farmington-Leroy-Clarno-Orland,Governor,,Steven Haugaard,REP,29
+Lake,Farmington-Leroy-Clarno-Orland,Governor,,Kristi Noem,REP,87
+Lake,Herman-Winfred,Governor,,Steven Haugaard,REP,40
+Lake,Herman-Winfred,Governor,,Kristi Noem,REP,102
+Lake,Lakeview,Governor,,Steven Haugaard,REP,40
+Lake,Lakeview,Governor,,Kristi Noem,REP,124
+Lake,Nunda-Summit,Governor,,Steven Haugaard,REP,16
+Lake,Nunda-Summit,Governor,,Kristi Noem,REP,61
+Lake,Ward One,Governor,,Steven Haugaard,REP,103
+Lake,Ward One,Governor,,Kristi Noem,REP,292
+Lake,Ward Three,Governor,,Steven Haugaard,REP,50
+Lake,Ward Three,Governor,,Kristi Noem,REP,124
+Lake,Ward Two,Governor,,Steven Haugaard,REP,57
+Lake,Ward Two,Governor,,Kristi Noem,REP,143
+Lake,Wentworth-Rutland,Governor,,Steven Haugaard,REP,43
+Lake,Wentworth-Rutland,Governor,,Kristi Noem,REP,139
+Lake,Chester-Franklin,State Senate,8,Heather DeVries,REP,48
+Lake,Chester-Franklin,State Senate,8,Casey Crabtree,REP,120
+Lake,Concord-Badus-Wayne/Ramona,State Senate,8,Heather DeVries,REP,8
+Lake,Concord-Badus-Wayne/Ramona,State Senate,8,Casey Crabtree,REP,67
+Lake,Farmington-Leroy-Clarno-Orland,State Senate,8,Heather DeVries,REP,17
+Lake,Farmington-Leroy-Clarno-Orland,State Senate,8,Casey Crabtree,REP,97
+Lake,Herman-Winfred,State Senate,8,Heather DeVries,REP,26
+Lake,Herman-Winfred,State Senate,8,Casey Crabtree,REP,112
+Lake,Lakeview,State Senate,8,Heather DeVries,REP,26
+Lake,Lakeview,State Senate,8,Casey Crabtree,REP,135
+Lake,Nunda-Summit,State Senate,8,Heather DeVries,REP,16
+Lake,Nunda-Summit,State Senate,8,Casey Crabtree,REP,60
+Lake,Ward One,State Senate,8,Heather DeVries,REP,61
+Lake,Ward One,State Senate,8,Casey Crabtree,REP,333
+Lake,Ward Three,State Senate,8,Heather DeVries,REP,35
+Lake,Ward Three,State Senate,8,Casey Crabtree,REP,131
+Lake,Ward Two,State Senate,8,Heather DeVries,REP,50
+Lake,Ward Two,State Senate,8,Casey Crabtree,REP,140
+Lake,Wentworth-Rutland,State Senate,8,Heather DeVries,REP,32
+Lake,Wentworth-Rutland,State Senate,8,Casey Crabtree,REP,142
+Lake,Chester-Franklin,State House,8,Lecia Summerer,REP,44
+Lake,Chester-Franklin,State House,8,John Mills,REP,56
+Lake,Chester-Franklin,State House,8,Tim Reisch,REP,132
+Lake,Concord-Badus-Wayne/Ramona,State House,8,Lecia Summerer,REP,22
+Lake,Concord-Badus-Wayne/Ramona,State House,8,John Mills,REP,24
+Lake,Concord-Badus-Wayne/Ramona,State House,8,Tim Reisch,REP,68
+Lake,Farmington-Leroy-Clarno-Orland,State House,8,Lecia Summerer,REP,47
+Lake,Farmington-Leroy-Clarno-Orland,State House,8,John Mills,REP,35
+Lake,Farmington-Leroy-Clarno-Orland,State House,8,Tim Reisch,REP,97
+Lake,Herman-Winfred,State House,8,Lecia Summerer,REP,55
+Lake,Herman-Winfred,State House,8,John Mills,REP,48
+Lake,Herman-Winfred,State House,8,Tim Reisch,REP,117
+Lake,Lakeview,State House,8,Lecia Summerer,REP,66
+Lake,Lakeview,State House,8,John Mills,REP,55
+Lake,Lakeview,State House,8,Tim Reisch,REP,127
+Lake,Nunda-Summit,State House,8,Lecia Summerer,REP,16
+Lake,Nunda-Summit,State House,8,John Mills,REP,40
+Lake,Nunda-Summit,State House,8,Tim Reisch,REP,51
+Lake,Ward One,State House,8,Lecia Summerer,REP,177
+Lake,Ward One,State House,8,John Mills,REP,121
+Lake,Ward One,State House,8,Tim Reisch,REP,340
+Lake,Ward Three,State House,8,Lecia Summerer,REP,67
+Lake,Ward Three,State House,8,John Mills,REP,45
+Lake,Ward Three,State House,8,Tim Reisch,REP,140
+Lake,Ward Two,State House,8,Lecia Summerer,REP,77
+Lake,Ward Two,State House,8,John Mills,REP,58
+Lake,Ward Two,State House,8,Tim Reisch,REP,148
+Lake,Wentworth-Rutland,State House,8,Lecia Summerer,REP,55
+Lake,Wentworth-Rutland,State House,8,John Mills,REP,70
+Lake,Wentworth-Rutland,State House,8,Tim Reisch,REP,134
+Lake,Chester-Franklin,County Commissioner At Large,,Corey Johnke,REP,82
+Lake,Chester-Franklin,County Commissioner At Large,,Kelli Wollmann,REP,112
+Lake,Chester-Franklin,County Commissioner At Large,,James Callahan,REP,42
+Lake,Concord-Badus-Wayne/Ramona,County Commissioner At Large,,Corey Johnke,REP,42
+Lake,Concord-Badus-Wayne/Ramona,County Commissioner At Large,,Kelli Wollmann,REP,50
+Lake,Concord-Badus-Wayne/Ramona,County Commissioner At Large,,James Callahan,REP,33
+Lake,Farmington-Leroy-Clarno-Orland,County Commissioner At Large,,Corey Johnke,REP,86
+Lake,Farmington-Leroy-Clarno-Orland,County Commissioner At Large,,Kelli Wollmann,REP,67
+Lake,Farmington-Leroy-Clarno-Orland,County Commissioner At Large,,James Callahan,REP,39
+Lake,Herman-Winfred,County Commissioner At Large,,Corey Johnke,REP,88
+Lake,Herman-Winfred,County Commissioner At Large,,Kelli Wollmann,REP,87
+Lake,Herman-Winfred,County Commissioner At Large,,James Callahan,REP,54
+Lake,Lakeview,County Commissioner At Large,,Corey Johnke,REP,86
+Lake,Lakeview,County Commissioner At Large,,Kelli Wollmann,REP,106
+Lake,Lakeview,County Commissioner At Large,,James Callahan,REP,51
+Lake,Nunda-Summit,County Commissioner At Large,,Corey Johnke,REP,49
+Lake,Nunda-Summit,County Commissioner At Large,,Kelli Wollmann,REP,37
+Lake,Nunda-Summit,County Commissioner At Large,,James Callahan,REP,24
+Lake,Ward One,County Commissioner At Large,,Corey Johnke,REP,207
+Lake,Ward One,County Commissioner At Large,,Kelli Wollmann,REP,270
+Lake,Ward One,County Commissioner At Large,,James Callahan,REP,109
+Lake,Ward Three,County Commissioner At Large,,Corey Johnke,REP,95
+Lake,Ward Three,County Commissioner At Large,,Kelli Wollmann,REP,103
+Lake,Ward Three,County Commissioner At Large,,James Callahan,REP,51
+Lake,Ward Two,County Commissioner At Large,,Corey Johnke,REP,110
+Lake,Ward Two,County Commissioner At Large,,Kelli Wollmann,REP,132
+Lake,Ward Two,County Commissioner At Large,,James Callahan,REP,62
+Lake,Wentworth-Rutland,County Commissioner At Large,,Corey Johnke,REP,86
+Lake,Wentworth-Rutland,County Commissioner At Large,,Kelli Wollmann,REP,98
+Lake,Wentworth-Rutland,County Commissioner At Large,,James Callahan,REP,57
+Lake,Chester-Franklin,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,88
+Lake,Chester-Franklin,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,149
+Lake,Concord-Badus-Wayne/Ramona,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,26
+Lake,Concord-Badus-Wayne/Ramona,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,91
+Lake,Farmington-Leroy-Clarno-Orland,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,44
+Lake,Farmington-Leroy-Clarno-Orland,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,110
+Lake,Herman-Winfred,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,72
+Lake,Herman-Winfred,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,133
+Lake,Lakeview,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,80
+Lake,Lakeview,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,168
+Lake,Nunda-Summit,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,35
+Lake,Nunda-Summit,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,67
+Lake,Ward One,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,165
+Lake,Ward One,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,457
+Lake,Ward Three,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,69
+Lake,Ward Three,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,209
+Lake,Ward Two,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,107
+Lake,Ward Two,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,247
+Lake,Wentworth-Rutland,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,88
+Lake,Wentworth-Rutland,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,180

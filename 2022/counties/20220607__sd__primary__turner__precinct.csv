@@ -1,0 +1,57 @@
+county,precinct,office,district,candidate,party,votes
+Turner,01,U.S. Senate,,John R. Thune,REP,206
+Turner,01,U.S. Senate,,Bruce Whalen,REP,67
+Turner,01,U.S. Senate,,Mark Mowry,REP,20
+Turner,02,U.S. Senate,,John R. Thune,REP,188
+Turner,02,U.S. Senate,,Bruce Whalen,REP,61
+Turner,02,U.S. Senate,,Mark Mowry,REP,16
+Turner,03,U.S. Senate,,John R. Thune,REP,111
+Turner,03,U.S. Senate,,Bruce Whalen,REP,43
+Turner,03,U.S. Senate,,Mark Mowry,REP,7
+Turner,04,U.S. Senate,,John R. Thune,REP,65
+Turner,04,U.S. Senate,,Bruce Whalen,REP,15
+Turner,04,U.S. Senate,,Mark Mowry,REP,6
+Turner,05,U.S. Senate,,John R. Thune,REP,105
+Turner,05,U.S. Senate,,Bruce Whalen,REP,33
+Turner,05,U.S. Senate,,Mark Mowry,REP,12
+Turner,06,U.S. Senate,,John R. Thune,REP,143
+Turner,06,U.S. Senate,,Bruce Whalen,REP,49
+Turner,06,U.S. Senate,,Mark Mowry,REP,26
+Turner,07,U.S. Senate,,John R. Thune,REP,22
+Turner,07,U.S. Senate,,Bruce Whalen,REP,12
+Turner,07,U.S. Senate,,Mark Mowry,REP,4
+Turner,08,U.S. Senate,,John R. Thune,REP,163
+Turner,08,U.S. Senate,,Bruce Whalen,REP,33
+Turner,08,U.S. Senate,,Mark Mowry,REP,17
+Turner,01,U.S. House,1,Dusty Johnson,REP,152
+Turner,01,U.S. House,1,Taffy Howard,REP,141
+Turner,02,U.S. House,1,Dusty Johnson,REP,150
+Turner,02,U.S. House,1,Taffy Howard,REP,118
+Turner,03,U.S. House,1,Dusty Johnson,REP,89
+Turner,03,U.S. House,1,Taffy Howard,REP,72
+Turner,04,U.S. House,1,Dusty Johnson,REP,42
+Turner,04,U.S. House,1,Taffy Howard,REP,44
+Turner,05,U.S. House,1,Dusty Johnson,REP,88
+Turner,05,U.S. House,1,Taffy Howard,REP,65
+Turner,06,U.S. House,1,Dusty Johnson,REP,105
+Turner,06,U.S. House,1,Taffy Howard,REP,113
+Turner,07,U.S. House,1,Dusty Johnson,REP,21
+Turner,07,U.S. House,1,Taffy Howard,REP,17
+Turner,08,U.S. House,1,Dusty Johnson,REP,145
+Turner,08,U.S. House,1,Taffy Howard,REP,69
+Turner,01,Governor,,Steven Haugaard,REP,62
+Turner,01,Governor,,Kristi Noem,REP,234
+Turner,02,Governor,,Steven Haugaard,REP,68
+Turner,02,Governor,,Kristi Noem,REP,199
+Turner,03,Governor,,Steven Haugaard,REP,56
+Turner,03,Governor,,Kristi Noem,REP,105
+Turner,04,Governor,,Steven Haugaard,REP,12
+Turner,04,Governor,,Kristi Noem,REP,73
+Turner,05,Governor,,Steven Haugaard,REP,34
+Turner,05,Governor,,Kristi Noem,REP,121
+Turner,06,Governor,,Steven Haugaard,REP,63
+Turner,06,Governor,,Kristi Noem,REP,159
+Turner,07,Governor,,Steven Haugaard,REP,6
+Turner,07,Governor,,Kristi Noem,REP,32
+Turner,08,Governor,,Steven Haugaard,REP,40
+Turner,08,Governor,,Kristi Noem,REP,175

@@ -1,0 +1,101 @@
+county,precinct,office,district,candidate,party,votes
+Aurora,1,U.S. Senate,,John R. Thune,REP,90
+Aurora,1,U.S. Senate,,Bruce Whalen,REP,19
+Aurora,1,U.S. Senate,,Mark Mowry,REP,5
+Aurora,2,U.S. Senate,,John R. Thune,REP,36
+Aurora,2,U.S. Senate,,Bruce Whalen,REP,19
+Aurora,2,U.S. Senate,,Mark Mowry,REP,2
+Aurora,3,U.S. Senate,,John R. Thune,REP,68
+Aurora,3,U.S. Senate,,Bruce Whalen,REP,22
+Aurora,3,U.S. Senate,,Mark Mowry,REP,11
+Aurora,5,U.S. Senate,,John R. Thune,REP,30
+Aurora,5,U.S. Senate,,Bruce Whalen,REP,11
+Aurora,5,U.S. Senate,,Mark Mowry,REP,2
+Aurora,7,U.S. Senate,,John R. Thune,REP,56
+Aurora,7,U.S. Senate,,Bruce Whalen,REP,13
+Aurora,7,U.S. Senate,,Mark Mowry,REP,6
+Aurora,1,U.S. House,1,Dusty Johnson,REP,72
+Aurora,1,U.S. House,1,Taffy Howard,REP,41
+Aurora,2,U.S. House,1,Dusty Johnson,REP,28
+Aurora,2,U.S. House,1,Taffy Howard,REP,28
+Aurora,3,U.S. House,1,Dusty Johnson,REP,51
+Aurora,3,U.S. House,1,Taffy Howard,REP,51
+Aurora,5,U.S. House,1,Dusty Johnson,REP,27
+Aurora,5,U.S. House,1,Taffy Howard,REP,15
+Aurora,7,U.S. House,1,Dusty Johnson,REP,45
+Aurora,7,U.S. House,1,Taffy Howard,REP,31
+Aurora,1,Governor,,Steven Haugaard,REP,17
+Aurora,1,Governor,,Kristi Noem,REP,96
+Aurora,2,Governor,,Steven Haugaard,REP,6
+Aurora,2,Governor,,Kristi Noem,REP,51
+Aurora,3,Governor,,Steven Haugaard,REP,28
+Aurora,3,Governor,,Kristi Noem,REP,76
+Aurora,5,Governor,,Steven Haugaard,REP,8
+Aurora,5,Governor,,Kristi Noem,REP,36
+Aurora,7,Governor,,Steven Haugaard,REP,21
+Aurora,7,Governor,,Kristi Noem,REP,56
+Aurora,1,County Commissioner Aurora-1,,Andy Espedal,REP,1
+Aurora,1,County Commissioner Aurora-1,,Randy Niles,REP,3
+Aurora,3,County Commissioner Aurora-1,,Andy Espedal,REP,10
+Aurora,3,County Commissioner Aurora-1,,Randy Niles,REP,22
+Aurora,5,County Commissioner Aurora-1,,Andy Espedal,REP,8
+Aurora,5,County Commissioner Aurora-1,,Randy Niles,REP,27
+Aurora,7,County Commissioner Aurora-1,,Andy Espedal,REP,3
+Aurora,7,County Commissioner Aurora-1,,Randy Niles,REP,1
+Aurora,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,59
+Aurora,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,98
+Aurora,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,52
+Aurora,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,78
+Aurora,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,80
+Aurora,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,100
+Aurora,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,23
+Aurora,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,44
+Aurora,7,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,35
+Aurora,7,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,45
+Aurora,White,State House,3,Troy Heinert,REP,4
+Aurora,White,State House,3,Erin Tobin,REP,40
+Aurora,White,State House,3,Carl Perry,REP,62
+Aurora,White,State House,3,Scott Odenbach,REP,88
+Aurora,Gann,State House,3,Troy Heinert,REP,2
+Aurora,Gann,State House,3,Erin Tobin,REP,20
+Aurora,Gann,State House,3,Carl Perry,REP,26
+Aurora,Gann,State House,3,Scott Odenbach,REP,57
+Aurora,Stickney,State House,3,Troy Heinert,REP,1
+Aurora,Stickney,State House,3,Erin Tobin,REP,30
+Aurora,Stickney,State House,3,Carl Perry,REP,62
+Aurora,Stickney,State House,3,Scott Odenbach,REP,70
+Aurora,Aurora 01,Precinct Committeeman,,Paul M. Vis,REP,93
+Aurora,Aurora 02,Precinct Committeeman,,Carl Pannone,REP,31
+Aurora,Aurora 03,Precinct Committeeman,,Jason L Brockmuller,REP,44
+Aurora,Aurora 04,Precinct Committeeman,,Chris Karr,REP,140
+Aurora,Aurora 05,Precinct Committeeman,,Patrick Kenyon,REP,54
+Aurora,Aurora 06,Precinct Committeeman,,T.J. Mason,REP,170
+Aurora,Aurora 07,Precinct Committeeman,,Todd M Anderson,REP,57
+Aurora,Aurora 08,Precinct Committeeman,,Jesse Smith,REP,56
+Aurora,Aurora 09,Precinct Committeeman,,Pat Medberry,REP,131
+Aurora,Aurora 10,Precinct Committeeman,,Cory Heidel,REP,97
+Aurora,Aurora 11,Precinct Committeeman,,Helen Lynch,REP,99
+Aurora,Aurora 12,Precinct Committeeman,,David Ellwein,REP,30
+Aurora,Aurora 13,Precinct Committeeman,,Mark Stump,REP,111
+Aurora,Aurora 14,Precinct Committeeman,,R. Shawn Tornow,REP,134
+Aurora,Aurora 15,Precinct Committeeman,,Lester Peterson,REP,231
+Aurora,Aurora 16,Precinct Committeeman,,Jared Brue,REP,109
+Aurora,Aurora 17,Precinct Committeeman,,Tyler Christenson,REP,72
+Aurora,0415,Precinct Committeewoman Precinct-0415,,Beth Fauchenber ner,REP,132
+Aurora,0415,Precinct Committeewoman Precinct-0415,,Liza Heidelberger,REP,159
+Aurora,0508,Precinct Committeewoman Precinct-0508,,Bobbi Lynn Andera,REP,40
+Aurora,0508,Precinct Committeewoman Precinct-0508,,Phyllis Heineman,REP,121
+Aurora,0517,Precinct Committeewoman Precinct-0517,,Jacqueline Zacharias,REP,78
+Aurora,0517,Precinct Committeewoman Precinct-0517,,Katherine Meert,REP,36
+Aurora,0519,Precinct Committeewoman Precinct-0519,,Donna M Wiese,REP,36
+Aurora,0519,Precinct Committeewoman Precinct-0519,,Karen A Samp,REP,74
+Aurora,VP04,Precinct Committeewoman Precinct-VP04,,Mary Haugaard,REP,160
+Aurora,VP04,Precinct Committeewoman Precinct-VP04,,Diane Schaak,REP,71
+Aurora,VP07,Precinct Committeewoman Precinct-VP07,,Janie R. Steckley,REP,137
+Aurora,VP07,Precinct Committeewoman Precinct-VP07,,Vonnie Barnett,REP,143
+Aurora,VP09,Precinct Committeewoman Precinct-VP09,,Kris Swanson,REP,166
+Aurora,VP09,Precinct Committeewoman Precinct-VP09,,Lisa Rave,REP,98
+Aurora,VP15,Precinct Committeewoman Precinct-VP15,,Cindy Meyer,REP,110
+Aurora,VP15,Precinct Committeewoman Precinct-VP15,,Janet Feterl,REP,83
+Aurora,VP16,Precinct Committeewoman Precinct-VP16,,Megan Kool,REP,62
+Aurora,VP16,Precinct Committeewoman Precinct-VP16,,Cynthia Sierhauer,REP,100

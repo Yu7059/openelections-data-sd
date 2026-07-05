@@ -1,0 +1,124 @@
+#!/usr/bin/env python3
+"""Cross-check the 2022 SD primary county-level canvass
+(2022/20220607__sd__primary__county.csv, built by
+scripts/parse_2022_primary_county.py from the official state canvass PDF)
+against the precinct-level results built by
+scripts/parse_2022_primary_precinct.py + build_2022_primary_csvs.py
+(combined into 2022/20220607__sd__primary__precinct.csv by
+scripts/combine_precinct_files.py).
+
+Reports two kinds of problems:
+- MISSES: a (county, office, district) the county file has data for, but
+  that's entirely absent from the precinct-level file (e.g. a county whose
+  scanned pages never validated, or wasn't in the source PDFs at all).
+- DISCREPANCIES: a (county, office, district, candidate) present in both,
+  where summing the precinct-level votes doesn't match the county file's
+  reported total for that candidate.
+
+Usage:
+    python scripts/validate_2022_primary.py
+"""
+import csv
+import re
+from collections import defaultdict
+from pathlib import Path
+
+REPO = Path(__file__).resolve().parents[1]
+COUNTY_CSV = REPO / "2022/20220607__sd__primary__county.csv"
+PRECINCT_CSV = REPO / "2022/20220607__sd__primary__precinct.csv"
+OUT_CSV = REPO / "2022/discrepancies_2022_primary.csv"
+
+
+def norm_candidate(name):
+    """Loosen candidate-name matching across the two independently-extracted
+    files (periods, extra whitespace, and case shouldn't cause a false
+    mismatch -- e.g. 'Kaleb W Weis' vs 'Kaleb W. Weis')."""
+    return re.sub(r'[.\s]+', ' ', name or '').strip().lower()
+
+
+CONST_AMEND_C = ("Constitutional Amendment C: A Constitutional Amendment Requiring "
+                 "Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes "
+                 "or Fees or Obligating over $10 Million")
+
+
+def norm_office(office):
+    """The ballot-measure title wraps across several printed lines and got
+    extracted with varying truncation/punctuation in the precinct-level
+    files ('...over $10 Million.', '...over $10 Million', '...over', etc.)
+    -- collapse all of them to one canonical string so they match the
+    county file's version instead of showing up as spurious misses."""
+    if office.startswith("Constitutional Amendment C"):
+        return CONST_AMEND_C
+    return office
+
+
+def load_county(path):
+    """(county, office, district) -> {norm_candidate: (orig_candidate, party, votes)}"""
+    data = defaultdict(dict)
+    with open(path) as f:
+        for r in csv.DictReader(f):
+            key = (r["county"], norm_office(r["office"]), r["district"])
+            data[key][norm_candidate(r["candidate"])] = (r["candidate"], r["party"], int(r["votes"]))
+    return data
+
+
+def load_precinct(path):
+    """(county, office, district) -> {norm_candidate: (orig_candidate, party, summed_votes)}"""
+    data = defaultdict(lambda: defaultdict(lambda: [None, None, 0]))
+    with open(path) as f:
+        for r in csv.DictReader(f):
+            key = (r["county"], norm_office(r["office"]), r["district"])
+            nc = norm_candidate(r["candidate"])
+            v = r["votes"].strip()
+            entry = data[key][nc]
+            entry[0] = r["candidate"]
+            entry[1] = r["party"]
+            entry[2] += int(v) if v else 0
+    return data
+
+
+def main():
+    county = load_county(COUNTY_CSV)
+    precinct = load_precinct(PRECINCT_CSV)
+
+    misses = []
+    discrepancies = []
+
+    for key in sorted(county):
+        county_name, office, district = key
+        c_cands = county[key]
+        p_cands = precinct.get(key)
+        if p_cands is None:
+            for nc, (cand, party, votes) in c_cands.items():
+                misses.append([county_name, office, district, cand, party, votes, ""])
+            continue
+        for nc, (cand, party, c_votes) in c_cands.items():
+            if nc not in p_cands:
+                discrepancies.append([county_name, office, district, cand, party,
+                                       c_votes, "", c_votes])
+                continue
+            _, _, p_votes = p_cands[nc]
+            if c_votes != p_votes:
+                discrepancies.append([county_name, office, district, cand, party,
+                                       c_votes, p_votes, c_votes - p_votes])
+
+    with open(OUT_CSV, "w", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["county", "office", "district", "candidate", "party",
+                    "county_votes", "precinct_votes", "diff"])
+        w.writerows(discrepancies)
+
+    contest_keys = sorted(county)
+    missed_contests = sorted({(c, o, d) for c, o, d, *_ in misses})
+    print(f"contests in county file: {len(contest_keys)}")
+    print(f"contests entirely missing from precinct file: {len(missed_contests)}")
+    for c, o, d in missed_contests:
+        print(f"   MISS  {c} / {o} / {d}")
+    print(f"\ncandidate-level discrepancies (present in both, vote counts differ): {len(discrepancies)}")
+    for row in discrepancies:
+        print("   DIFF ", row)
+    print(f"\n-> {OUT_CSV}")
+
+
+if __name__ == "__main__":
+    main()

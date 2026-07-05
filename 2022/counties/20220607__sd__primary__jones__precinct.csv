@@ -1,0 +1,31 @@
+county,precinct,office,district,candidate,party,votes
+Jones,1,U.S. Senate,,John R. Thune,REP,49
+Jones,1,U.S. Senate,,Bruce Whalen,REP,23
+Jones,1,U.S. Senate,,Mark Mowry,REP,19
+Jones,2,U.S. Senate,,John R. Thune,REP,131
+Jones,2,U.S. Senate,,Bruce Whalen,REP,37
+Jones,2,U.S. Senate,,Mark Mowry,REP,49
+Jones,1,U.S. House,1,Dusty Johnson,REP,37
+Jones,1,U.S. House,1,Taffy Howard,REP,56
+Jones,2,U.S. House,1,Dusty Johnson,REP,123
+Jones,2,U.S. House,1,Taffy Howard,REP,95
+Jones,1,Governor,,Steven Haugaard,REP,19
+Jones,1,Governor,,Kristi Noem,REP,73
+Jones,2,Governor,,Steven Haugaard,REP,57
+Jones,2,Governor,,Kristi Noem,REP,165
+Jones,1,County Auditor,,Janice Whitney,REP,28
+Jones,1,County Auditor,,Jacob T. Lolley,REP,56
+Jones,2,County Auditor,,Janice Whitney,REP,84
+Jones,2,County Auditor,,Jacob T. Lolley,REP,113
+Jones,1,County Commissioner At Large,,Marty M. Roghair,REP,41
+Jones,1,County Commissioner At Large,,Robert Louder,REP,30
+Jones,1,County Commissioner At Large,,Lori A. Waldron,REP,60
+Jones,1,County Commissioner At Large,,Brandon Kinsley,REP,40
+Jones,2,County Commissioner At Large,,Marty M. Roghair,REP,86
+Jones,2,County Commissioner At Large,,Robert Louder,REP,79
+Jones,2,County Commissioner At Large,,Lori A. Waldron,REP,136
+Jones,2,County Commissioner At Large,,Brandon Kinsley,REP,100
+Jones,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,37
+Jones,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,65
+Jones,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,72
+Jones,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,187

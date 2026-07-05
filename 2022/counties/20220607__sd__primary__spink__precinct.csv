@@ -1,0 +1,104 @@
+county,precinct,office,district,candidate,party,votes
+Spink,01,U.S. Senate,,John R. Thune,REP,136
+Spink,01,U.S. Senate,,Bruce Whalen,REP,12
+Spink,01,U.S. Senate,,Mark Mowry,REP,9
+Spink,03,U.S. Senate,,John R. Thune,REP,128
+Spink,03,U.S. Senate,,Bruce Whalen,REP,29
+Spink,03,U.S. Senate,,Mark Mowry,REP,7
+Spink,04,U.S. Senate,,John R. Thune,REP,130
+Spink,04,U.S. Senate,,Bruce Whalen,REP,17
+Spink,04,U.S. Senate,,Mark Mowry,REP,7
+Spink,05,U.S. Senate,,John R. Thune,REP,60
+Spink,05,U.S. Senate,,Bruce Whalen,REP,25
+Spink,05,U.S. Senate,,Mark Mowry,REP,2
+Spink,06,U.S. Senate,,John R. Thune,REP,27
+Spink,06,U.S. Senate,,Bruce Whalen,REP,2
+Spink,06,U.S. Senate,,Mark Mowry,REP,3
+Spink,07,U.S. Senate,,John R. Thune,REP,112
+Spink,07,U.S. Senate,,Bruce Whalen,REP,26
+Spink,07,U.S. Senate,,Mark Mowry,REP,11
+Spink,08,U.S. Senate,,John R. Thune,REP,23
+Spink,08,U.S. Senate,,Bruce Whalen,REP,13
+Spink,08,U.S. Senate,,Mark Mowry,REP,1
+Spink,09,U.S. Senate,,John R. Thune,REP,198
+Spink,09,U.S. Senate,,Bruce Whalen,REP,29
+Spink,09,U.S. Senate,,Mark Mowry,REP,8
+Spink,10,U.S. Senate,,John R. Thune,REP,170
+Spink,10,U.S. Senate,,Bruce Whalen,REP,33
+Spink,10,U.S. Senate,,Mark Mowry,REP,15
+Spink,01,U.S. House,1,Dusty Johnson,REP,112
+Spink,01,U.S. House,1,Taffy Howard,REP,42
+Spink,03,U.S. House,1,Dusty Johnson,REP,101
+Spink,03,U.S. House,1,Taffy Howard,REP,64
+Spink,04,U.S. House,1,Dusty Johnson,REP,112
+Spink,04,U.S. House,1,Taffy Howard,REP,43
+Spink,05,U.S. House,1,Dusty Johnson,REP,41
+Spink,05,U.S. House,1,Taffy Howard,REP,52
+Spink,06,U.S. House,1,Dusty Johnson,REP,22
+Spink,06,U.S. House,1,Taffy Howard,REP,11
+Spink,07,U.S. House,1,Dusty Johnson,REP,104
+Spink,07,U.S. House,1,Taffy Howard,REP,44
+Spink,08,U.S. House,1,Dusty Johnson,REP,22
+Spink,08,U.S. House,1,Taffy Howard,REP,15
+Spink,09,U.S. House,1,Dusty Johnson,REP,176
+Spink,09,U.S. House,1,Taffy Howard,REP,61
+Spink,10,U.S. House,1,Dusty Johnson,REP,157
+Spink,10,U.S. House,1,Taffy Howard,REP,61
+Spink,01,Governor,,Steven Haugaard,REP,16
+Spink,01,Governor,,Kristi Noem,REP,147
+Spink,03,Governor,,Steven Haugaard,REP,33
+Spink,03,Governor,,Kristi Noem,REP,132
+Spink,04,Governor,,Steven Haugaard,REP,25
+Spink,04,Governor,,Kristi Noem,REP,137
+Spink,05,Governor,,Steven Haugaard,REP,8
+Spink,05,Governor,,Kristi Noem,REP,85
+Spink,06,Governor,,Steven Haugaard,REP,10
+Spink,06,Governor,,Kristi Noem,REP,25
+Spink,07,Governor,,Steven Haugaard,REP,43
+Spink,07,Governor,,Kristi Noem,REP,107
+Spink,08,Governor,,Steven Haugaard,REP,9
+Spink,08,Governor,,Kristi Noem,REP,28
+Spink,09,Governor,,Steven Haugaard,REP,57
+Spink,09,Governor,,Kristi Noem,REP,178
+Spink,10,Governor,,Steven Haugaard,REP,59
+Spink,10,Governor,,Kristi Noem,REP,164
+Spink,01,State Senator,,Isaac W. Appel,REP,67
+Spink,01,State Senator,,Frank Krumm,REP,86
+Spink,03,State Senator,,Isaac W. Appel,REP,52
+Spink,03,State Senator,,Frank Krumm,REP,112
+Spink,04,State Senator,,Isaac W. Appel,REP,45
+Spink,04,State Senator,,Frank Krumm,REP,117
+Spink,05,State Senator,,Isaac W. Appel,REP,33
+Spink,05,State Senator,,Frank Krumm,REP,57
+Spink,06,State Senator,,Isaac W. Appel,REP,14
+Spink,06,State Senator,,Frank Krumm,REP,19
+Spink,07,State Senator,,Isaac W. Appel,REP,55
+Spink,07,State Senator,,Frank Krumm,REP,88
+Spink,08,State Senator,,Isaac W. Appel,REP,17
+Spink,08,State Senator,,Frank Krumm,REP,18
+Spink,09,State Senator,,Isaac W. Appel,REP,54
+Spink,09,State Senator,,Frank Krumm,REP,177
+Spink,10,State Senator,,Isaac W. Appel,REP,68
+Spink,10,State Senator,,Frank Krumm,REP,157
+Spink,09,County Commissioner Spink-3,,Heath Shottenkirk,REP,36
+Spink,09,County Commissioner Spink-3,,Michael Siebrecht,REP,101
+Spink,10,County Commissioner Spink-3,,Heath Shottenkirk,REP,36
+Spink,10,County Commissioner Spink-3,,Michael Siebrecht,REP,105
+Spink,01,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,93
+Spink,01,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,115
+Spink,03,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,59
+Spink,03,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,126
+Spink,04,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,62
+Spink,04,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,135
+Spink,05,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,58
+Spink,05,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,65
+Spink,06,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,15
+Spink,06,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,38
+Spink,07,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,74
+Spink,07,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,156
+Spink,08,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,28
+Spink,08,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,33
+Spink,09,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,71
+Spink,09,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,239
+Spink,10,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,64
+Spink,10,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,221

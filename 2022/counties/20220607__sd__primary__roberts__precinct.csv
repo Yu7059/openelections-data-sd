@@ -1,0 +1,181 @@
+county,precinct,office,district,candidate,party,votes
+Roberts,01,U.S. Senate,,John R. Thune,REP,34
+Roberts,01,U.S. Senate,,Bruce Whalen,REP,4
+Roberts,01,U.S. Senate,,Mark Mowry,REP,1
+Roberts,02,U.S. Senate,,John R. Thune,REP,103
+Roberts,02,U.S. Senate,,Bruce Whalen,REP,33
+Roberts,02,U.S. Senate,,Mark Mowry,REP,8
+Roberts,03,U.S. Senate,,John R. Thune,REP,42
+Roberts,03,U.S. Senate,,Bruce Whalen,REP,3
+Roberts,03,U.S. Senate,,Mark Mowry,REP,4
+Roberts,04,U.S. Senate,,John R. Thune,REP,14
+Roberts,04,U.S. Senate,,Bruce Whalen,REP,2
+Roberts,04,U.S. Senate,,Mark Mowry,REP,0
+Roberts,05,U.S. Senate,,John R. Thune,REP,38
+Roberts,05,U.S. Senate,,Bruce Whalen,REP,7
+Roberts,05,U.S. Senate,,Mark Mowry,REP,3
+Roberts,06 (Precinct-07),U.S. Senate,,John R. Thune,REP,86
+Roberts,06 (Precinct-07),U.S. Senate,,Bruce Whalen,REP,16
+Roberts,06 (Precinct-07),U.S. Senate,,Mark Mowry,REP,25
+Roberts,08,U.S. Senate,,John R. Thune,REP,19
+Roberts,08,U.S. Senate,,Bruce Whalen,REP,0
+Roberts,08,U.S. Senate,,Mark Mowry,REP,1
+Roberts,09,U.S. Senate,,John R. Thune,REP,74
+Roberts,09,U.S. Senate,,Bruce Whalen,REP,30
+Roberts,09,U.S. Senate,,Mark Mowry,REP,8
+Roberts,10,U.S. Senate,,John R. Thune,REP,23
+Roberts,10,U.S. Senate,,Bruce Whalen,REP,9
+Roberts,10,U.S. Senate,,Mark Mowry,REP,0
+Roberts,11,U.S. Senate,,John R. Thune,REP,109
+Roberts,11,U.S. Senate,,Bruce Whalen,REP,17
+Roberts,11,U.S. Senate,,Mark Mowry,REP,3
+Roberts,12 (Precinct-14),U.S. Senate,,John R. Thune,REP,36
+Roberts,12 (Precinct-14),U.S. Senate,,Bruce Whalen,REP,3
+Roberts,12 (Precinct-14),U.S. Senate,,Mark Mowry,REP,3
+Roberts,13,U.S. Senate,,John R. Thune,REP,46
+Roberts,13,U.S. Senate,,Bruce Whalen,REP,10
+Roberts,13,U.S. Senate,,Mark Mowry,REP,1
+Roberts,01,U.S. House,1,Dusty Johnson,REP,34
+Roberts,01,U.S. House,1,Taffy Howard,REP,4
+Roberts,02,U.S. House,1,Dusty Johnson,REP,87
+Roberts,02,U.S. House,1,Taffy Howard,REP,57
+Roberts,03,U.S. House,1,Dusty Johnson,REP,40
+Roberts,03,U.S. House,1,Taffy Howard,REP,8
+Roberts,04,U.S. House,1,Dusty Johnson,REP,11
+Roberts,04,U.S. House,1,Taffy Howard,REP,5
+Roberts,05,U.S. House,1,Dusty Johnson,REP,34
+Roberts,05,U.S. House,1,Taffy Howard,REP,12
+Roberts,06 (Precinct-07),U.S. House,1,Dusty Johnson,REP,67
+Roberts,06 (Precinct-07),U.S. House,1,Taffy Howard,REP,58
+Roberts,08,U.S. House,1,Dusty Johnson,REP,14
+Roberts,08,U.S. House,1,Taffy Howard,REP,6
+Roberts,09,U.S. House,1,Dusty Johnson,REP,56
+Roberts,09,U.S. House,1,Taffy Howard,REP,55
+Roberts,10,U.S. House,1,Dusty Johnson,REP,17
+Roberts,10,U.S. House,1,Taffy Howard,REP,16
+Roberts,11,U.S. House,1,Dusty Johnson,REP,83
+Roberts,11,U.S. House,1,Taffy Howard,REP,48
+Roberts,12 (Precinct-14),U.S. House,1,Dusty Johnson,REP,30
+Roberts,12 (Precinct-14),U.S. House,1,Taffy Howard,REP,13
+Roberts,13,U.S. House,1,Dusty Johnson,REP,36
+Roberts,13,U.S. House,1,Taffy Howard,REP,21
+Roberts,01,Governor,,Steven Haugaard,REP,4
+Roberts,01,Governor,,Kristi Noem,REP,35
+Roberts,02,Governor,,Steven Haugaard,REP,24
+Roberts,02,Governor,,Kristi Noem,REP,123
+Roberts,03,Governor,,Steven Haugaard,REP,7
+Roberts,03,Governor,,Kristi Noem,REP,42
+Roberts,04,Governor,,Steven Haugaard,REP,2
+Roberts,04,Governor,,Kristi Noem,REP,14
+Roberts,05,Governor,,Steven Haugaard,REP,5
+Roberts,05,Governor,,Kristi Noem,REP,45
+Roberts,06 (Precinct-07),Governor,,Steven Haugaard,REP,16
+Roberts,06 (Precinct-07),Governor,,Kristi Noem,REP,113
+Roberts,08,Governor,,Steven Haugaard,REP,2
+Roberts,08,Governor,,Kristi Noem,REP,18
+Roberts,09,Governor,,Steven Haugaard,REP,14
+Roberts,09,Governor,,Kristi Noem,REP,99
+Roberts,10,Governor,,Steven Haugaard,REP,1
+Roberts,10,Governor,,Kristi Noem,REP,33
+Roberts,11,Governor,,Steven Haugaard,REP,16
+Roberts,11,Governor,,Kristi Noem,REP,118
+Roberts,12 (Precinct-14),Governor,,Steven Haugaard,REP,7
+Roberts,12 (Precinct-14),Governor,,Kristi Noem,REP,37
+Roberts,13,Governor,,Steven Haugaard,REP,8
+Roberts,13,Governor,,Kristi Noem,REP,48
+Roberts,01,State Senate,1,Michael H. Rohl,REP,23
+Roberts,01,State Senate,1,Joe Donnell,REP,15
+Roberts,03,State Senate,1,Michael H. Rohl,REP,27
+Roberts,03,State Senate,1,Joe Donnell,REP,13
+Roberts,04,State Senate,1,Michael H. Rohl,REP,13
+Roberts,04,State Senate,1,Joe Donnell,REP,1
+Roberts,05,State Senate,1,Michael H. Rohl,REP,29
+Roberts,05,State Senate,1,Joe Donnell,REP,10
+Roberts,06 (Precinct-07),State Senate,1,Michael H. Rohl,REP,80
+Roberts,06 (Precinct-07),State Senate,1,Joe Donnell,REP,34
+Roberts,08,State Senate,1,Michael H. Rohl,REP,14
+Roberts,08,State Senate,1,Joe Donnell,REP,5
+Roberts,09,State Senate,1,Michael H. Rohl,REP,0
+Roberts,09,State Senate,1,Joe Donnell,REP,0
+Roberts,10,State Senate,1,Michael H. Rohl,REP,12
+Roberts,10,State Senate,1,Joe Donnell,REP,20
+Roberts,11,State Senate,1,Michael H. Rohl,REP,71
+Roberts,11,State Senate,1,Joe Donnell,REP,53
+Roberts,12 (Precinct-14),State Senate,1,Michael H. Rohl,REP,20
+Roberts,12 (Precinct-14),State Senate,1,Joe Donnell,REP,21
+Roberts,13,State Senate,1,Michael H. Rohl,REP,27
+Roberts,13,State Senate,1,Joe Donnell,REP,29
+Roberts,02,State House,4,Val Rausch,REP,90
+Roberts,02,State House,4,Adam Grimm,REP,23
+Roberts,02,State House,4,Fred Deutsch,REP,68
+Roberts,02,State House,4,Stephanie Sauder,REP,56
+Roberts,05,State House,4,Val Rausch,REP,4
+Roberts,05,State House,4,Adam Grimm,REP,1
+Roberts,05,State House,4,Fred Deutsch,REP,6
+Roberts,05,State House,4,Stephanie Sauder,REP,4
+Roberts,09,State House,4,Val Rausch,REP,43
+Roberts,09,State House,4,Adam Grimm,REP,32
+Roberts,09,State House,4,Fred Deutsch,REP,62
+Roberts,09,State House,4,Stephanie Sauder,REP,35
+Roberts,01,County Commissioner Roberts-5,,Jeffry Long,REP,16
+Roberts,01,County Commissioner Roberts-5,,Tom Vergeldt,REP,14
+Roberts,03,County Commissioner Roberts-5,,Jeffry Long,REP,28
+Roberts,03,County Commissioner Roberts-5,,Tom Vergeldt,REP,17
+Roberts,06 (Precinct-07),County Commissioner Roberts-5,,Jeffry Long,REP,49
+Roberts,06 (Precinct-07),County Commissioner Roberts-5,,Tom Vergeldt,REP,76
+Roberts,11,County Commissioner Roberts-5,,Jeffry Long,REP,14
+Roberts,11,County Commissioner Roberts-5,,Tom Vergeldt,REP,3
+Roberts,11,Precinct Committeewoman Precinct-11,,Tamara St John,REP,70
+Roberts,11,Precinct Committeewoman Precinct-11,,Joann C Sheldon,REP,44
+Roberts,01,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,28
+Roberts,01,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,41
+Roberts,02,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,89
+Roberts,02,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,117
+Roberts,03,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,30
+Roberts,03,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,48
+Roberts,04,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,10
+Roberts,04,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,24
+Roberts,05,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,20
+Roberts,05,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,97
+Roberts,06 (Precinct-07),Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,49
+Roberts,06 (Precinct-07),Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,153
+Roberts,08,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,15
+Roberts,08,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,30
+Roberts,09,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,73
+Roberts,09,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,124
+Roberts,10,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,16
+Roberts,10,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,43
+Roberts,11,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,78
+Roberts,11,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,182
+Roberts,12 (Precinct-14),Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,18
+Roberts,12 (Precinct-14),Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,85
+Roberts,13,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,28
+Roberts,13,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,67
+Roberts,01,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,Yes,,45
+Roberts,01,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,No,,20
+Roberts,02,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,Yes,,132
+Roberts,02,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,No,,63
+Roberts,03,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,Yes,,50
+Roberts,03,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,No,,26
+Roberts,04,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,Yes,,22
+Roberts,04,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,No,,10
+Roberts,05,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,Yes,,57
+Roberts,05,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,No,,56
+Roberts,06,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,Yes,,112
+Roberts,06,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,No,,81
+Roberts,06 (Precinct-07),Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,Yes,,0
+Roberts,06 (Precinct-07),Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,No,,0
+Roberts,08,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,Yes,,26
+Roberts,08,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,No,,16
+Roberts,09,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,Yes,,121
+Roberts,09,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,No,,68
+Roberts,10,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,Yes,,32
+Roberts,10,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,No,,25
+Roberts,11,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,Yes,,153
+Roberts,11,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,No,,89
+Roberts,12,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,Yes,,37
+Roberts,12,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,No,,57
+Roberts,12 (Precinct-14),Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,Yes,,0
+Roberts,12 (Precinct-14),Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,No,,0
+Roberts,13,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,Yes,,59
+Roberts,13,Initiated Measure : Resolution - Roberts County Second Amendment Sanctuary County,,No,,34

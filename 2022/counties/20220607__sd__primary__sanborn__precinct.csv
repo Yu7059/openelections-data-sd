@@ -1,0 +1,51 @@
+county,precinct,office,district,candidate,party,votes
+Sanborn,1,U.S. Senate,,John R. Thune,REP,73
+Sanborn,1,U.S. Senate,,Bruce Whalen,REP,14
+Sanborn,1,U.S. Senate,,Mark Mowry,REP,4
+Sanborn,2,U.S. Senate,,John R. Thune,REP,73
+Sanborn,2,U.S. Senate,,Bruce Whalen,REP,15
+Sanborn,2,U.S. Senate,,Mark Mowry,REP,12
+Sanborn,4,U.S. Senate,,John R. Thune,REP,67
+Sanborn,4,U.S. Senate,,Bruce Whalen,REP,4
+Sanborn,4,U.S. Senate,,Mark Mowry,REP,4
+Sanborn,5,U.S. Senate,,John R. Thune,REP,79
+Sanborn,5,U.S. Senate,,Bruce Whalen,REP,6
+Sanborn,5,U.S. Senate,,Mark Mowry,REP,3
+Sanborn,1,U.S. House,1,Dusty Johnson,REP,62
+Sanborn,1,U.S. House,1,Taffy Howard,REP,30
+Sanborn,2,U.S. House,1,Dusty Johnson,REP,60
+Sanborn,2,U.S. House,1,Taffy Howard,REP,40
+Sanborn,4,U.S. House,1,Dusty Johnson,REP,55
+Sanborn,4,U.S. House,1,Taffy Howard,REP,20
+Sanborn,5,U.S. House,1,Dusty Johnson,REP,67
+Sanborn,5,U.S. House,1,Taffy Howard,REP,19
+Sanborn,1,Governor,,Steven Haugaard,REP,20
+Sanborn,1,Governor,,Kristi Noem,REP,74
+Sanborn,2,Governor,,Steven Haugaard,REP,28
+Sanborn,2,Governor,,Kristi Noem,REP,73
+Sanborn,4,Governor,,Steven Haugaard,REP,14
+Sanborn,4,Governor,,Kristi Noem,REP,61
+Sanborn,5,Governor,,Steven Haugaard,REP,20
+Sanborn,5,Governor,,Kristi Noem,REP,68
+Sanborn,1,State House,20,Ben Krohmer,REP,53
+Sanborn,1,State House,20,Jeff Bathke,REP,43
+Sanborn,1,State House,20,Lance Koth,REP,32
+Sanborn,2,State House,20,Ben Krohmer,REP,47
+Sanborn,2,State House,20,Jeff Bathke,REP,59
+Sanborn,2,State House,20,Lance Koth,REP,55
+Sanborn,4,State House,20,Ben Krohmer,REP,39
+Sanborn,4,State House,20,Jeff Bathke,REP,25
+Sanborn,4,State House,20,Lance Koth,REP,37
+Sanborn,5,State House,20,Ben Krohmer,REP,44
+Sanborn,5,State House,20,Jeff Bathke,REP,41
+Sanborn,5,State House,20,Lance Koth,REP,41
+Sanborn,5,County Commissioner Sanborn-3,,Rod Weber,REP,28
+Sanborn,5,County Commissioner Sanborn-3,,Duane Peterson,REP,56
+Sanborn,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,32
+Sanborn,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,85
+Sanborn,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,41
+Sanborn,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,105
+Sanborn,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,31
+Sanborn,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,89
+Sanborn,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,30
+Sanborn,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,99

@@ -1,0 +1,76 @@
+county,precinct,office,district,candidate,party,votes
+Campbell,1,U.S. Senate,,John R. Thune,REP,65
+Campbell,1,U.S. Senate,,Bruce Whalen,REP,11
+Campbell,1,U.S. Senate,,Mark Mowry,REP,2
+Campbell,2,U.S. Senate,,John R. Thune,REP,65
+Campbell,2,U.S. Senate,,Bruce Whalen,REP,16
+Campbell,2,U.S. Senate,,Mark Mowry,REP,2
+Campbell,3,U.S. Senate,,John R. Thune,REP,50
+Campbell,3,U.S. Senate,,Bruce Whalen,REP,19
+Campbell,3,U.S. Senate,,Mark Mowry,REP,5
+Campbell,4,U.S. Senate,,John R. Thune,REP,67
+Campbell,4,U.S. Senate,,Bruce Whalen,REP,18
+Campbell,4,U.S. Senate,,Mark Mowry,REP,4
+Campbell,5,U.S. Senate,,John R. Thune,REP,64
+Campbell,5,U.S. Senate,,Bruce Whalen,REP,20
+Campbell,5,U.S. Senate,,Mark Mowry,REP,10
+Campbell,1,U.S. House,1,Dusty Johnson,REP,41
+Campbell,1,U.S. House,1,Taffy Howard,REP,39
+Campbell,2,U.S. House,1,Dusty Johnson,REP,47
+Campbell,2,U.S. House,1,Taffy Howard,REP,34
+Campbell,3,U.S. House,1,Dusty Johnson,REP,41
+Campbell,3,U.S. House,1,Taffy Howard,REP,33
+Campbell,4,U.S. House,1,Dusty Johnson,REP,40
+Campbell,4,U.S. House,1,Taffy Howard,REP,49
+Campbell,5,U.S. House,1,Dusty Johnson,REP,37
+Campbell,5,U.S. House,1,Taffy Howard,REP,63
+Campbell,1,Governor,,Steven Haugaard,REP,21
+Campbell,1,Governor,,Kristi Noem,REP,61
+Campbell,2,Governor,,Steven Haugaard,REP,18
+Campbell,2,Governor,,Kristi Noem,REP,67
+Campbell,3,Governor,,Steven Haugaard,REP,10
+Campbell,3,Governor,,Kristi Noem,REP,66
+Campbell,4,Governor,,Steven Haugaard,REP,22
+Campbell,4,Governor,,Kristi Noem,REP,67
+Campbell,5,Governor,,Steven Haugaard,REP,21
+Campbell,5,Governor,,Kristi Noem,REP,84
+Campbell,1,State Senate,23,Bryan J. Breitling,REP,25
+Campbell,1,State Senate,23,Spencer Gosch,REP,54
+Campbell,2,State Senate,23,Bryan J. Breitling,REP,31
+Campbell,2,State Senate,23,Spencer Gosch,REP,54
+Campbell,3,State Senate,23,Bryan J. Breitling,REP,19
+Campbell,3,State Senate,23,Spencer Gosch,REP,55
+Campbell,4,State Senate,23,Bryan J. Breitling,REP,34
+Campbell,4,State Senate,23,Spencer Gosch,REP,57
+Campbell,5,State Senate,23,Bryan J. Breitling,REP,40
+Campbell,5,State Senate,23,Spencer Gosch,REP,63
+Campbell,1,State House,23,Scott Moore,REP,46
+Campbell,1,State House,23,Brandon Black,REP,7
+Campbell,1,State House,23,Gregory Brooks,REP,19
+Campbell,1,State House,23,James D. Wangsness,REP,30
+Campbell,2,State House,23,Scott Moore,REP,45
+Campbell,2,State House,23,Brandon Black,REP,9
+Campbell,2,State House,23,Gregory Brooks,REP,22
+Campbell,2,State House,23,James D. Wangsness,REP,51
+Campbell,3,State House,23,Scott Moore,REP,44
+Campbell,3,State House,23,Brandon Black,REP,5
+Campbell,3,State House,23,Gregory Brooks,REP,16
+Campbell,3,State House,23,James D. Wangsness,REP,31
+Campbell,4,State House,23,Scott Moore,REP,55
+Campbell,4,State House,23,Brandon Black,REP,6
+Campbell,4,State House,23,Gregory Brooks,REP,18
+Campbell,4,State House,23,James D. Wangsness,REP,53
+Campbell,5,State House,23,Scott Moore,REP,57
+Campbell,5,State House,23,Brandon Black,REP,4
+Campbell,5,State House,23,Gregory Brooks,REP,24
+Campbell,5,State House,23,James D. Wangsness,REP,58
+Campbell,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,32
+Campbell,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,54
+Campbell,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,32
+Campbell,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,67
+Campbell,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,30
+Campbell,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,51
+Campbell,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,31
+Campbell,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,65
+Campbell,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,51
+Campbell,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,61

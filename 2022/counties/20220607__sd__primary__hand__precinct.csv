@@ -1,0 +1,86 @@
+county,precinct,office,district,candidate,party,votes
+Hand,01,U.S. Senate,,John R. Thune,REP,121
+Hand,01,U.S. Senate,,Bruce Whalen,REP,44
+Hand,01,U.S. Senate,,Mark Mowry,REP,10
+Hand,02,U.S. Senate,,John R. Thune,REP,141
+Hand,02,U.S. Senate,,Bruce Whalen,REP,29
+Hand,02,U.S. Senate,,Mark Mowry,REP,8
+Hand,03,U.S. Senate,,John R. Thune,REP,167
+Hand,03,U.S. Senate,,Bruce Whalen,REP,29
+Hand,03,U.S. Senate,,Mark Mowry,REP,13
+Hand,04,U.S. Senate,,John R. Thune,REP,129
+Hand,04,U.S. Senate,,Bruce Whalen,REP,41
+Hand,04,U.S. Senate,,Mark Mowry,REP,10
+Hand,05,U.S. Senate,,John R. Thune,REP,132
+Hand,05,U.S. Senate,,Bruce Whalen,REP,44
+Hand,05,U.S. Senate,,Mark Mowry,REP,20
+Hand,01,U.S. House,1,Dusty Johnson,REP,101
+Hand,01,U.S. House,1,Taffy Howard,REP,73
+Hand,02,U.S. House,1,Dusty Johnson,REP,113
+Hand,02,U.S. House,1,Taffy Howard,REP,65
+Hand,03,U.S. House,1,Dusty Johnson,REP,133
+Hand,03,U.S. House,1,Taffy Howard,REP,78
+Hand,04,U.S. House,1,Dusty Johnson,REP,105
+Hand,04,U.S. House,1,Taffy Howard,REP,77
+Hand,05,U.S. House,1,Dusty Johnson,REP,107
+Hand,05,U.S. House,1,Taffy Howard,REP,95
+Hand,01,Governor,,Steven Haugaard,REP,29
+Hand,01,Governor,,Kristi Noem,REP,148
+Hand,02,Governor,,Steven Haugaard,REP,37
+Hand,02,Governor,,Kristi Noem,REP,141
+Hand,03,Governor,,Steven Haugaard,REP,53
+Hand,03,Governor,,Kristi Noem,REP,164
+Hand,04,Governor,,Steven Haugaard,REP,35
+Hand,04,Governor,,Kristi Noem,REP,149
+Hand,05,Governor,,Steven Haugaard,REP,38
+Hand,05,Governor,,Kristi Noem,REP,160
+Hand,01,State Senate,23,Bryan J. Breitling,REP,125
+Hand,01,State Senate,23,Spencer Gosch,REP,45
+Hand,02,State Senate,23,Bryan J. Breitling,REP,131
+Hand,02,State Senate,23,Spencer Gosch,REP,47
+Hand,03,State Senate,23,Bryan J. Breitling,REP,161
+Hand,03,State Senate,23,Spencer Gosch,REP,53
+Hand,04,State Senate,23,Bryan J. Breitling,REP,127
+Hand,04,State Senate,23,Spencer Gosch,REP,55
+Hand,05,State Senate,23,Bryan J. Breitling,REP,140
+Hand,05,State Senate,23,Spencer Gosch,REP,54
+Hand,01,State House,23,Scott Moore,REP,103
+Hand,01,State House,23,Brandon Black,REP,21
+Hand,01,State House,23,Gregory Brooks,REP,23
+Hand,01,State House,23,James D. Wangsness,REP,117
+Hand,02,State House,23,Scott Moore,REP,111
+Hand,02,State House,23,Brandon Black,REP,16
+Hand,02,State House,23,Gregory Brooks,REP,21
+Hand,02,State House,23,James D. Wangsness,REP,133
+Hand,03,State House,23,Scott Moore,REP,118
+Hand,03,State House,23,Brandon Black,REP,32
+Hand,03,State House,23,Gregory Brooks,REP,34
+Hand,03,State House,23,James D. Wangsness,REP,138
+Hand,04,State House,23,Scott Moore,REP,122
+Hand,04,State House,23,Brandon Black,REP,33
+Hand,04,State House,23,Gregory Brooks,REP,30
+Hand,04,State House,23,James D. Wangsness,REP,100
+Hand,05,State House,23,Scott Moore,REP,127
+Hand,05,State House,23,Brandon Black,REP,34
+Hand,05,State House,23,Gregory Brooks,REP,35
+Hand,05,State House,23,James D. Wangsness,REP,119
+Hand,01,Sheriff,,James B. Henson,REP,76
+Hand,01,Sheriff,,Shane Croeni,REP,95
+Hand,02,Sheriff,,James B. Henson,REP,68
+Hand,02,Sheriff,,Shane Croeni,REP,110
+Hand,03,Sheriff,,James B. Henson,REP,84
+Hand,03,Sheriff,,Shane Croeni,REP,117
+Hand,04,Sheriff,,James B. Henson,REP,61
+Hand,04,Sheriff,,Shane Croeni,REP,116
+Hand,05,Sheriff,,James B. Henson,REP,65
+Hand,05,Sheriff,,Shane Croeni,REP,130
+Hand,01,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,61
+Hand,01,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,180
+Hand,02,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,77
+Hand,02,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,145
+Hand,03,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,73
+Hand,03,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,183
+Hand,04,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,87
+Hand,04,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,114
+Hand,05,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,96
+Hand,05,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,128

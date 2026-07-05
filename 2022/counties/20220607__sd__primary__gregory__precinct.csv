@@ -1,0 +1,32 @@
+county,precinct,office,district,candidate,party,votes
+Gregory,1,U.S. Senate,,John R. Thune,REP,204
+Gregory,1,U.S. Senate,,Bruce Whalen,REP,169
+Gregory,1,U.S. Senate,,Mark Mowry,REP,29
+Gregory,2,U.S. Senate,,John R. Thune,REP,214
+Gregory,2,U.S. Senate,,Bruce Whalen,REP,79
+Gregory,2,U.S. Senate,,Mark Mowry,REP,26
+Gregory,3,U.S. Senate,,John R. Thune,REP,85
+Gregory,3,U.S. Senate,,Bruce Whalen,REP,29
+Gregory,3,U.S. Senate,,Mark Mowry,REP,15
+Gregory,1,U.S. House,1,Dusty Johnson,REP,177
+Gregory,1,U.S. House,1,Taffy Howard,REP,224
+Gregory,2,U.S. House,1,Dusty Johnson,REP,189
+Gregory,2,U.S. House,1,Taffy Howard,REP,138
+Gregory,3,U.S. House,1,Dusty Johnson,REP,72
+Gregory,3,U.S. House,1,Taffy Howard,REP,58
+Gregory,1,Governor,,Steven Haugaard,REP,81
+Gregory,1,Governor,,Kristi Noem,REP,322
+Gregory,2,Governor,,Steven Haugaard,REP,58
+Gregory,2,Governor,,Kristi Noem,REP,267
+Gregory,3,Governor,,Steven Haugaard,REP,9
+Gregory,3,Governor,,Kristi Noem,REP,122
+Gregory,1,County Commissioner Gregory-3,,Byrain L. Boes,REP,42
+Gregory,1,County Commissioner Gregory-3,,Myron Johnson,REP,23
+Gregory,2,County Commissioner Gregory-3,,Byrain L. Boes,REP,50
+Gregory,2,County Commissioner Gregory-3,,Myron Johnson,REP,47
+Gregory,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,166
+Gregory,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,352
+Gregory,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,106
+Gregory,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,336
+Gregory,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,51
+Gregory,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,116

@@ -1,0 +1,318 @@
+county,precinct,office,district,candidate,party,votes
+Lincoln,"02-Norway & Fairview, Fairview, Inc",U.S. Senate,,John R. Thune,REP,65
+Lincoln,"02-Norway & Fairview, Fairview, Inc",U.S. Senate,,Bruce Whalen,REP,39
+Lincoln,"02-Norway & Fairview, Fairview, Inc",U.S. Senate,,Mark Mowry,REP,6
+Lincoln,06-Highland & Canton,U.S. Senate,,John R. Thune,REP,103
+Lincoln,06-Highland & Canton,U.S. Senate,,Bruce Whalen,REP,64
+Lincoln,06-Highland & Canton,U.S. Senate,,Mark Mowry,REP,10
+Lincoln,08-Lincoln & Delaware,U.S. Senate,,John R. Thune,REP,51
+Lincoln,08-Lincoln & Delaware,U.S. Senate,,Bruce Whalen,REP,29
+Lincoln,08-Lincoln & Delaware,U.S. Senate,,Mark Mowry,REP,5
+Lincoln,11-Grant,U.S. Senate,,John R. Thune,REP,47
+Lincoln,11-Grant,U.S. Senate,,Bruce Whalen,REP,10
+Lincoln,11-Grant,U.S. Senate,,Mark Mowry,REP,6
+Lincoln,12-Dayton,U.S. Senate,,John R. Thune,REP,78
+Lincoln,12-Dayton,U.S. Senate,,Bruce Whalen,REP,48
+Lincoln,12-Dayton,U.S. Senate,,Mark Mowry,REP,15
+Lincoln,13-LaValley,U.S. Senate,,John R. Thune,REP,68
+Lincoln,13-LaValley,U.S. Senate,,Bruce Whalen,REP,31
+Lincoln,13-LaValley,U.S. Senate,,Mark Mowry,REP,6
+Lincoln,14-Perry,U.S. Senate,,John R. Thune,REP,90
+Lincoln,14-Perry,U.S. Senate,,Bruce Whalen,REP,43
+Lincoln,14-Perry,U.S. Senate,,Mark Mowry,REP,4
+Lincoln,15-Springdale,U.S. Senate,,John R. Thune,REP,234
+Lincoln,15-Springdale,U.S. Senate,,Bruce Whalen,REP,73
+Lincoln,15-Springdale,U.S. Senate,,Mark Mowry,REP,17
+Lincoln,16-Delapre,U.S. Senate,,John R. Thune,REP,158
+Lincoln,16-Delapre,U.S. Senate,,Bruce Whalen,REP,71
+Lincoln,16-Delapre,U.S. Senate,,Mark Mowry,REP,22
+Lincoln,"20-Canton 1, 2, 3",U.S. Senate,,John R. Thune,REP,191
+Lincoln,"20-Canton 1, 2, 3",U.S. Senate,,Bruce Whalen,REP,81
+Lincoln,"20-Canton 1, 2, 3",U.S. Senate,,Mark Mowry,REP,17
+Lincoln,21-Hudson & Eden,U.S. Senate,,John R. Thune,REP,39
+Lincoln,21-Hudson & Eden,U.S. Senate,,Bruce Whalen,REP,8
+Lincoln,21-Hudson & Eden,U.S. Senate,,Mark Mowry,REP,6
+Lincoln,23-Worthing & Lynn,U.S. Senate,,John R. Thune,REP,100
+Lincoln,23-Worthing & Lynn,U.S. Senate,,Bruce Whalen,REP,30
+Lincoln,23-Worthing & Lynn,U.S. Senate,,Mark Mowry,REP,9
+Lincoln,24-Tea,U.S. Senate,,John R. Thune,REP,325
+Lincoln,24-Tea,U.S. Senate,,Bruce Whalen,REP,102
+Lincoln,24-Tea,U.S. Senate,,Mark Mowry,REP,34
+Lincoln,25-Lennox,U.S. Senate,,John R. Thune,REP,209
+Lincoln,25-Lennox,U.S. Senate,,Bruce Whalen,REP,45
+Lincoln,25-Lennox,U.S. Senate,,Mark Mowry,REP,19
+Lincoln,"26-Brooklyn & Pleasant, Beresford",U.S. Senate,,John R. Thune,REP,102
+Lincoln,"26-Brooklyn & Pleasant, Beresford",U.S. Senate,,Bruce Whalen,REP,47
+Lincoln,"26-Brooklyn & Pleasant, Beresford",U.S. Senate,,Mark Mowry,REP,7
+Lincoln,27-Harrisburg 1,U.S. Senate,,John R. Thune,REP,168
+Lincoln,27-Harrisburg 1,U.S. Senate,,Bruce Whalen,REP,48
+Lincoln,27-Harrisburg 1,U.S. Senate,,Mark Mowry,REP,27
+Lincoln,29-Harrisburg 2,U.S. Senate,,John R. Thune,REP,181
+Lincoln,29-Harrisburg 2,U.S. Senate,,Bruce Whalen,REP,47
+Lincoln,29-Harrisburg 2,U.S. Senate,,Mark Mowry,REP,16
+Lincoln,30-Canton 4 & 5,U.S. Senate,,John R. Thune,REP,102
+Lincoln,30-Canton 4 & 5,U.S. Senate,,Bruce Whalen,REP,24
+Lincoln,30-Canton 4 & 5,U.S. Senate,,Mark Mowry,REP,6
+Lincoln,Sioux Falls 1-11,U.S. Senate,,John R. Thune,REP,468
+Lincoln,Sioux Falls 1-11,U.S. Senate,,Bruce Whalen,REP,81
+Lincoln,Sioux Falls 1-11,U.S. Senate,,Mark Mowry,REP,28
+Lincoln,Sioux Falls 1-12,U.S. Senate,,John R. Thune,REP,239
+Lincoln,Sioux Falls 1-12,U.S. Senate,,Bruce Whalen,REP,68
+Lincoln,Sioux Falls 1-12,U.S. Senate,,Mark Mowry,REP,33
+Lincoln,Sioux Falls 1-13,U.S. Senate,,John R. Thune,REP,78
+Lincoln,Sioux Falls 1-13,U.S. Senate,,Bruce Whalen,REP,33
+Lincoln,Sioux Falls 1-13,U.S. Senate,,Mark Mowry,REP,10
+Lincoln,Sioux Falls 1-14,U.S. Senate,,John R. Thune,REP,118
+Lincoln,Sioux Falls 1-14,U.S. Senate,,Bruce Whalen,REP,30
+Lincoln,Sioux Falls 1-14,U.S. Senate,,Mark Mowry,REP,14
+Lincoln,Sioux Falls 1-15,U.S. Senate,,John R. Thune,REP,147
+Lincoln,Sioux Falls 1-15,U.S. Senate,,Bruce Whalen,REP,33
+Lincoln,Sioux Falls 1-15,U.S. Senate,,Mark Mowry,REP,11
+Lincoln,Sioux Falls 1-16,U.S. Senate,,John R. Thune,REP,77
+Lincoln,Sioux Falls 1-16,U.S. Senate,,Bruce Whalen,REP,40
+Lincoln,Sioux Falls 1-16,U.S. Senate,,Mark Mowry,REP,15
+Lincoln,Sioux Falls 1-18,U.S. Senate,,John R. Thune,REP,279
+Lincoln,Sioux Falls 1-18,U.S. Senate,,Bruce Whalen,REP,46
+Lincoln,Sioux Falls 1-18,U.S. Senate,,Mark Mowry,REP,26
+Lincoln,Sioux Falls 2-10,U.S. Senate,,John R. Thune,REP,484
+Lincoln,Sioux Falls 2-10,U.S. Senate,,Bruce Whalen,REP,75
+Lincoln,Sioux Falls 2-10,U.S. Senate,,Mark Mowry,REP,19
+Lincoln,Sioux Falls 2-11,U.S. Senate,,John R. Thune,REP,576
+Lincoln,Sioux Falls 2-11,U.S. Senate,,Bruce Whalen,REP,95
+Lincoln,Sioux Falls 2-11,U.S. Senate,,Mark Mowry,REP,36
+Lincoln,Sioux Falls 2-12,U.S. Senate,,John R. Thune,REP,162
+Lincoln,Sioux Falls 2-12,U.S. Senate,,Bruce Whalen,REP,44
+Lincoln,Sioux Falls 2-12,U.S. Senate,,Mark Mowry,REP,7
+Lincoln,Sioux Falls 2-13,U.S. Senate,,John R. Thune,REP,374
+Lincoln,Sioux Falls 2-13,U.S. Senate,,Bruce Whalen,REP,81
+Lincoln,Sioux Falls 2-13,U.S. Senate,,Mark Mowry,REP,38
+Lincoln,Sioux Falls 2-15,U.S. Senate,,John R. Thune,REP,292
+Lincoln,Sioux Falls 2-15,U.S. Senate,,Bruce Whalen,REP,47
+Lincoln,Sioux Falls 2-15,U.S. Senate,,Mark Mowry,REP,12
+Lincoln,Sioux Falls 2-16,U.S. Senate,,John R. Thune,REP,302
+Lincoln,Sioux Falls 2-16,U.S. Senate,,Bruce Whalen,REP,64
+Lincoln,Sioux Falls 2-16,U.S. Senate,,Mark Mowry,REP,34
+Lincoln,"02-Norway & Fairview, Fairview, Trc",U.S. House,1,Dusty Johnson,REP,60
+Lincoln,"02-Norway & Fairview, Fairview, Trc",U.S. House,1,Taffy Howard,REP,50
+Lincoln,06-Highland & Canton,U.S. House,1,Dusty Johnson,REP,82
+Lincoln,06-Highland & Canton,U.S. House,1,Taffy Howard,REP,95
+Lincoln,08-Lincoln & Delaware,U.S. House,1,Dusty Johnson,REP,53
+Lincoln,08-Lincoln & Delaware,U.S. House,1,Taffy Howard,REP,34
+Lincoln,11-Grant,U.S. House,1,Dusty Johnson,REP,36
+Lincoln,11-Grant,U.S. House,1,Taffy Howard,REP,26
+Lincoln,12-Dayton,U.S. House,1,Dusty Johnson,REP,61
+Lincoln,12-Dayton,U.S. House,1,Taffy Howard,REP,87
+Lincoln,13-LaValley,U.S. House,1,Dusty Johnson,REP,53
+Lincoln,13-LaValley,U.S. House,1,Taffy Howard,REP,52
+Lincoln,14-Perry,U.S. House,1,Dusty Johnson,REP,84
+Lincoln,14-Perry,U.S. House,1,Taffy Howard,REP,52
+Lincoln,15-Springdale,U.S. House,1,Dusty Johnson,REP,207
+Lincoln,15-Springdale,U.S. House,1,Taffy Howard,REP,121
+Lincoln,16-Delapre,U.S. House,1,Dusty Johnson,REP,121
+Lincoln,16-Delapre,U.S. House,1,Taffy Howard,REP,132
+Lincoln,"20-Canton 1, 2, 3",U.S. House,1,Dusty Johnson,REP,173
+Lincoln,"20-Canton 1, 2, 3",U.S. House,1,Taffy Howard,REP,122
+Lincoln,21-Hudson & Eden,U.S. House,1,Dusty Johnson,REP,29
+Lincoln,21-Hudson & Eden,U.S. House,1,Taffy Howard,REP,24
+Lincoln,23-Worthing & Lynn,U.S. House,1,Dusty Johnson,REP,85
+Lincoln,23-Worthing & Lynn,U.S. House,1,Taffy Howard,REP,56
+Lincoln,24-Tea,U.S. House,1,Dusty Johnson,REP,253
+Lincoln,24-Tea,U.S. House,1,Taffy Howard,REP,214
+Lincoln,25-Lennox,U.S. House,1,Dusty Johnson,REP,150
+Lincoln,25-Lennox,U.S. House,1,Taffy Howard,REP,120
+Lincoln,"26-Brooklyn & Pleasant, Beresford",U.S. House,1,Dusty Johnson,REP,84
+Lincoln,"26-Brooklyn & Pleasant, Beresford",U.S. House,1,Taffy Howard,REP,71
+Lincoln,27-Harrisburg 1,U.S. House,1,Dusty Johnson,REP,124
+Lincoln,27-Harrisburg 1,U.S. House,1,Taffy Howard,REP,118
+Lincoln,29-Harrisburg 2,U.S. House,1,Dusty Johnson,REP,140
+Lincoln,29-Harrisburg 2,U.S. House,1,Taffy Howard,REP,98
+Lincoln,30-Canton 4 & 5,U.S. House,1,Dusty Johnson,REP,82
+Lincoln,30-Canton 4 & 5,U.S. House,1,Taffy Howard,REP,54
+Lincoln,Sioux Falls 1-11,U.S. House,1,Dusty Johnson,REP,410
+Lincoln,Sioux Falls 1-11,U.S. House,1,Taffy Howard,REP,167
+Lincoln,Sioux Falls 1-12,U.S. House,1,Dusty Johnson,REP,193
+Lincoln,Sioux Falls 1-12,U.S. House,1,Taffy Howard,REP,151
+Lincoln,Sioux Falls 1-13,U.S. House,1,Dusty Johnson,REP,64
+Lincoln,Sioux Falls 1-13,U.S. House,1,Taffy Howard,REP,59
+Lincoln,Sioux Falls 1-14,U.S. House,1,Dusty Johnson,REP,87
+Lincoln,Sioux Falls 1-14,U.S. House,1,Taffy Howard,REP,78
+Lincoln,Sioux Falls 1-15,U.S. House,1,Dusty Johnson,REP,128
+Lincoln,Sioux Falls 1-15,U.S. House,1,Taffy Howard,REP,60
+Lincoln,Sioux Falls 1-16,U.S. House,1,Dusty Johnson,REP,66
+Lincoln,Sioux Falls 1-16,U.S. House,1,Taffy Howard,REP,65
+Lincoln,Sioux Falls 1-18,U.S. House,1,Dusty Johnson,REP,244
+Lincoln,Sioux Falls 1-18,U.S. House,1,Taffy Howard,REP,111
+Lincoln,Sioux Falls 2-10,U.S. House,1,Dusty Johnson,REP,409
+Lincoln,Sioux Falls 2-10,U.S. House,1,Taffy Howard,REP,162
+Lincoln,Sioux Falls 2-11,U.S. House,1,Dusty Johnson,REP,490
+Lincoln,Sioux Falls 2-11,U.S. House,1,Taffy Howard,REP,220
+Lincoln,Sioux Falls 2-12,U.S. House,1,Dusty Johnson,REP,138
+Lincoln,Sioux Falls 2-12,U.S. House,1,Taffy Howard,REP,78
+Lincoln,Sioux Falls 2-13,U.S. House,1,Dusty Johnson,REP,311
+Lincoln,Sioux Falls 2-13,U.S. House,1,Taffy Howard,REP,186
+Lincoln,Sioux Falls 2-15,U.S. House,1,Dusty Johnson,REP,260
+Lincoln,Sioux Falls 2-15,U.S. House,1,Taffy Howard,REP,97
+Lincoln,Sioux Falls 2-16,U.S. House,1,Dusty Johnson,REP,246
+Lincoln,Sioux Falls 2-16,U.S. House,1,Taffy Howard,REP,157
+Lincoln,Sioux Falls 2-10,State House,13,Sue Peterson,REP,315
+Lincoln,Sioux Falls 2-10,State House,13,Tony Venhuizen,REP,386
+Lincoln,Sioux Falls 2-10,State House,13,Penny BayBridge,REP,66
+Lincoln,Sioux Falls 2-10,State House,13,Richard L. Thomason,REP,202
+Lincoln,Sioux Falls 2-11,State House,13,Sue Peterson,REP,371
+Lincoln,Sioux Falls 2-11,State House,13,Tony Venhuizen,REP,470
+Lincoln,Sioux Falls 2-11,State House,13,Penny BayBridge,REP,110
+Lincoln,Sioux Falls 2-11,State House,13,Richard L. Thomason,REP,260
+Lincoln,Sioux Falls 2-12,State House,13,Sue Peterson,REP,107
+Lincoln,Sioux Falls 2-12,State House,13,Tony Venhuizen,REP,137
+Lincoln,Sioux Falls 2-12,State House,13,Penny BayBridge,REP,36
+Lincoln,Sioux Falls 2-12,State House,13,Richard L. Thomason,REP,66
+Lincoln,Sioux Falls 2-13,State House,13,Sue Peterson,REP,251
+Lincoln,Sioux Falls 2-13,State House,13,Tony Venhuizen,REP,315
+Lincoln,Sioux Falls 2-13,State House,13,Penny BayBridge,REP,77
+Lincoln,Sioux Falls 2-13,State House,13,Richard L. Thomason,REP,164
+Lincoln,Sioux Falls 2-15,State House,13,Sue Peterson,REP,211
+Lincoln,Sioux Falls 2-15,State House,13,Tony Venhuizen,REP,229
+Lincoln,Sioux Falls 2-15,State House,13,Penny BayBridge,REP,50
+Lincoln,Sioux Falls 2-15,State House,13,Richard L. Thomason,REP,101
+Lincoln,Sioux Falls 2-16,State House,13,Sue Peterson,REP,203
+Lincoln,Sioux Falls 2-16,State House,13,Tony Venhuizen,REP,240
+Lincoln,Sioux Falls 2-16,State House,13,Penny BayBridge,REP,80
+Lincoln,Sioux Falls 2-16,State House,13,Richard L. Thomason,REP,121
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State House,16,Kevin D. Jensen,REP,73
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State House,16,Karla J. Lems,REP,76
+Lincoln,"02-Norway & Fairview, Fairview, Inc",State House,16,Richard Vasgaard,REP,25
+Lincoln,06-Highland & Canton,State House,16,Kevin D. Jensen,REP,120
+Lincoln,06-Highland & Canton,State House,16,Karla J. Lems,REP,118
+Lincoln,06-Highland & Canton,State House,16,Richard Vasgaard,REP,52
+Lincoln,08-Lincoln & Delaware,State House,16,Kevin D. Jensen,REP,38
+Lincoln,08-Lincoln & Delaware,State House,16,Karla J. Lems,REP,37
+Lincoln,08-Lincoln & Delaware,State House,16,Richard Vasgaard,REP,51
+Lincoln,11-Grant,State House,16,Kevin D. Jensen,REP,21
+Lincoln,11-Grant,State House,16,Karla J. Lems,REP,29
+Lincoln,11-Grant,State House,16,Richard Vasgaard,REP,31
+Lincoln,12-Dayton,State House,16,Kevin D. Jensen,REP,95
+Lincoln,12-Dayton,State House,16,Karla J. Lems,REP,97
+Lincoln,12-Dayton,State House,16,Richard Vasgaard,REP,30
+Lincoln,13-LaValley,State House,16,Kevin D. Jensen,REP,11
+Lincoln,13-LaValley,State House,16,Karla J. Lems,REP,28
+Lincoln,13-LaValley,State House,16,Richard Vasgaard,REP,12
+Lincoln,14-Perry,State House,16,Kevin D. Jensen,REP,16
+Lincoln,14-Perry,State House,16,Karla J. Lems,REP,23
+Lincoln,14-Perry,State House,16,Richard Vasgaard,REP,29
+Lincoln,"20-Canton 1, 2, 3",State House,16,Kevin D. Jensen,REP,175
+Lincoln,"20-Canton 1, 2, 3",State House,16,Karla J. Lems,REP,217
+Lincoln,"20-Canton 1, 2, 3",State House,16,Richard Vasgaard,REP,102
+Lincoln,21-Hudson & Eden,State House,16,Kevin D. Jensen,REP,32
+Lincoln,21-Hudson & Eden,State House,16,Karla J. Lems,REP,32
+Lincoln,21-Hudson & Eden,State House,16,Richard Vasgaard,REP,10
+Lincoln,23-Worthing & Lynn,State House,16,Kevin D. Jensen,REP,65
+Lincoln,23-Worthing & Lynn,State House,16,Karla J. Lems,REP,70
+Lincoln,23-Worthing & Lynn,State House,16,Richard Vasgaard,REP,37
+Lincoln,25-Lennox,State House,16,Kevin D. Jensen,REP,81
+Lincoln,25-Lennox,State House,16,Karla J. Lems,REP,162
+Lincoln,25-Lennox,State House,16,Richard Vasgaard,REP,119
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State House,16,Kevin D. Jensen,REP,89
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State House,16,Karla J. Lems,REP,70
+Lincoln,"26-Brooklyn & Pleasant, Beresford",State House,16,Richard Vasgaard,REP,67
+Lincoln,29-Harrisburg 2,State House,16,Kevin D. Jensen,REP,0
+Lincoln,29-Harrisburg 2,State House,16,Karla J. Lems,REP,0
+Lincoln,29-Harrisburg 2,State House,16,Richard Vasgaard,REP,0
+Lincoln,30-Canton 4 & 5,State House,16,Kevin D. Jensen,REP,74
+Lincoln,30-Canton 4 & 5,State House,16,Karla J. Lems,REP,89
+Lincoln,30-Canton 4 & 5,State House,16,Richard Vasgaard,REP,34
+Lincoln,"02-Norway & Fairview, Fairview, Inc",County Auditor,,Sheri Lund,REP,36
+Lincoln,"02-Norway & Fairview, Fairview, Inc",County Auditor,,Jessica Pollema,REP,57
+Lincoln,06-Highland & Canton,County Auditor,,Sheri Lund,REP,81
+Lincoln,06-Highland & Canton,County Auditor,,Jessica Pollema,REP,78
+Lincoln,08-Lincoln & Delaware,County Auditor,,Sheri Lund,REP,35
+Lincoln,08-Lincoln & Delaware,County Auditor,,Jessica Pollema,REP,34
+Lincoln,11-Grant,County Auditor,,Sheri Lund,REP,39
+Lincoln,11-Grant,County Auditor,,Jessica Pollema,REP,9
+Lincoln,12-Dayton,County Auditor,,Sheri Lund,REP,46
+Lincoln,12-Dayton,County Auditor,,Jessica Pollema,REP,71
+Lincoln,13-LaValley,County Auditor,,Sheri Lund,REP,36
+Lincoln,13-LaValley,County Auditor,,Jessica Pollema,REP,44
+Lincoln,14-Perry,County Auditor,,Sheri Lund,REP,74
+Lincoln,14-Perry,County Auditor,,Jessica Pollema,REP,34
+Lincoln,15-Springdale,County Auditor,,Sheri Lund,REP,144
+Lincoln,15-Springdale,County Auditor,,Jessica Pollema,REP,117
+Lincoln,16-Delapre,County Auditor,,Sheri Lund,REP,95
+Lincoln,16-Delapre,County Auditor,,Jessica Pollema,REP,104
+Lincoln,"20-Canton 1, 2, 3",County Auditor,,Sheri Lund,REP,155
+Lincoln,"20-Canton 1, 2, 3",County Auditor,,Jessica Pollema,REP,115
+Lincoln,21-Hudson & Eden,County Auditor,,Sheri Lund,REP,25
+Lincoln,21-Hudson & Eden,County Auditor,,Jessica Pollema,REP,21
+Lincoln,23-Worthing & Lynn,County Auditor,,Sheri Lund,REP,83
+Lincoln,23-Worthing & Lynn,County Auditor,,Jessica Pollema,REP,43
+Lincoln,24-Tea,County Auditor,,Sheri Lund,REP,208
+Lincoln,24-Tea,County Auditor,,Jessica Pollema,REP,137
+Lincoln,25-Lennox,County Auditor,,Sheri Lund,REP,178
+Lincoln,25-Lennox,County Auditor,,Jessica Pollema,REP,49
+Lincoln,"26-Brooklyn & Pleasant, Beresford",County Auditor,,Sheri Lund,REP,78
+Lincoln,"26-Brooklyn & Pleasant, Beresford",County Auditor,,Jessica Pollema,REP,48
+Lincoln,27-Harrisburg 1,County Auditor,,Sheri Lund,REP,115
+Lincoln,27-Harrisburg 1,County Auditor,,Jessica Pollema,REP,88
+Lincoln,29-Harrisburg 2,County Auditor,,Sheri Lund,REP,107
+Lincoln,29-Harrisburg 2,County Auditor,,Jessica Pollema,REP,66
+Lincoln,30-Canton 4 & 5,County Auditor,,Sheri Lund,REP,79
+Lincoln,30-Canton 4 & 5,County Auditor,,Jessica Pollema,REP,36
+Lincoln,Sioux Falls 1-11,County Auditor,,Sheri Lund,REP,229
+Lincoln,Sioux Falls 1-11,County Auditor,,Jessica Pollema,REP,161
+Lincoln,Sioux Falls 1-12,County Auditor,,Sheri Lund,REP,154
+Lincoln,Sioux Falls 1-12,County Auditor,,Jessica Pollema,REP,105
+Lincoln,Sioux Falls 1-13,County Auditor,,Sheri Lund,REP,44
+Lincoln,Sioux Falls 1-13,County Auditor,,Jessica Pollema,REP,42
+Lincoln,Sioux Falls 1-14,County Auditor,,Sheri Lund,REP,63
+Lincoln,Sioux Falls 1-14,County Auditor,,Jessica Pollema,REP,45
+Lincoln,Sioux Falls 1-15,County Auditor,,Sheri Lund,REP,77
+Lincoln,Sioux Falls 1-15,County Auditor,,Jessica Pollema,REP,50
+Lincoln,Sioux Falls 1-16,County Auditor,,Sheri Lund,REP,66
+Lincoln,Sioux Falls 1-16,County Auditor,,Jessica Pollema,REP,42
+Lincoln,Sioux Falls 1-18,County Auditor,,Sheri Lund,REP,141
+Lincoln,Sioux Falls 1-18,County Auditor,,Jessica Pollema,REP,95
+Lincoln,Sioux Falls 2-10,County Auditor,,Sheri Lund,REP,231
+Lincoln,Sioux Falls 2-10,County Auditor,,Jessica Pollema,REP,184
+Lincoln,Sioux Falls 2-11,County Auditor,,Sheri Lund,REP,307
+Lincoln,Sioux Falls 2-11,County Auditor,,Jessica Pollema,REP,226
+Lincoln,Sioux Falls 2-12,County Auditor,,Sheri Lund,REP,81
+Lincoln,Sioux Falls 2-12,County Auditor,,Jessica Pollema,REP,70
+Lincoln,Sioux Falls 2-13,County Auditor,,Sheri Lund,REP,198
+Lincoln,Sioux Falls 2-13,County Auditor,,Jessica Pollema,REP,182
+Lincoln,Sioux Falls 2-15,County Auditor,,Sheri Lund,REP,150
+Lincoln,Sioux Falls 2-15,County Auditor,,Jessica Pollema,REP,113
+Lincoln,Sioux Falls 2-16,County Auditor,,Sheri Lund,REP,178
+Lincoln,Sioux Falls 2-16,County Auditor,,Jessica Pollema,REP,142
+Lincoln,15-Springdale,County Commissioner Lincoln-1,,Joel Arends,REP,175
+Lincoln,15-Springdale,County Commissioner Lincoln-1,,Wendi Hogan,REP,101
+Lincoln,16-Delapre,County Commissioner Lincoln-1,,Joel Arends,REP,2
+Lincoln,16-Delapre,County Commissioner Lincoln-1,,Wendi Hogan,REP,1
+Lincoln,27-Harrisburg 1,County Commissioner Lincoln-1,,Joel Arends,REP,93
+Lincoln,27-Harrisburg 1,County Commissioner Lincoln-1,,Wendi Hogan,REP,136
+Lincoln,29-Harrisburg 2,County Commissioner Lincoln-1,,Joel Arends,REP,113
+Lincoln,29-Harrisburg 2,County Commissioner Lincoln-1,,Wendi Hogan,REP,90
+Lincoln,Sioux Falls 2-10,County Commissioner Lincoln-1,,Joel Arends,REP,150
+Lincoln,Sioux Falls 2-10,County Commissioner Lincoln-1,,Wendi Hogan,REP,51
+Lincoln,Sioux Falls 2-15,County Commissioner Lincoln-1,,Joel Arends,REP,202
+Lincoln,Sioux Falls 2-15,County Commissioner Lincoln-1,,Wendi Hogan,REP,101
+Lincoln,16-Delapre,County Commissioner Lincoln-3,,Alex Hixon,REP,35
+Lincoln,16-Delapre,County Commissioner Lincoln-3,,Tiffani Landeen,REP,31
+Lincoln,Sioux Falls 1-11,County Commissioner Lincoln-3,,Alex Hixon,REP,240
+Lincoln,Sioux Falls 1-11,County Commissioner Lincoln-3,,Tiffani Landeen,REP,182
+Lincoln,Sioux Falls 1-12,County Commissioner Lincoln-3,,Alex Hixon,REP,109
+Lincoln,Sioux Falls 1-12,County Commissioner Lincoln-3,,Tiffani Landeen,REP,174
+Lincoln,Sioux Falls 1-15,County Commissioner Lincoln-3,,Alex Hixon,REP,62
+Lincoln,Sioux Falls 1-15,County Commissioner Lincoln-3,,Tiffani Landeen,REP,82
+Lincoln,Sioux Falls 1-18,County Commissioner Lincoln-3,,Alex Hixon,REP,130
+Lincoln,Sioux Falls 1-18,County Commissioner Lincoln-3,,Tiffani Landeen,REP,124
+Lincoln,15-Springdale,County Commissioner Lincoln-5,,Jim Schmidt,REP,0
+Lincoln,15-Springdale,County Commissioner Lincoln-5,,Mike Mathis,REP,0
+Lincoln,Sioux Falls 2-10,County Commissioner Lincoln-5,,Jim Schmidt,REP,179
+Lincoln,Sioux Falls 2-10,County Commissioner Lincoln-5,,Mike Mathis,REP,53
+Lincoln,Sioux Falls 2-11,County Commissioner Lincoln-5,,Jim Schmidt,REP,375
+Lincoln,Sioux Falls 2-11,County Commissioner Lincoln-5,,Mike Mathis,REP,199
+Lincoln,Sioux Falls 2-12,County Commissioner Lincoln-5,,Jim Schmidt,REP,80
+Lincoln,Sioux Falls 2-12,County Commissioner Lincoln-5,,Mike Mathis,REP,78
+Lincoln,Sioux Falls 2-13,County Commissioner Lincoln-5,,Jim Schmidt,REP,193
+Lincoln,Sioux Falls 2-13,County Commissioner Lincoln-5,,Mike Mathis,REP,194
+Lincoln,Sioux Falls 2-16,County Commissioner Lincoln-5,,Jim Schmidt,REP,167
+Lincoln,Sioux Falls 2-16,County Commissioner Lincoln-5,,Mike Mathis,REP,144

@@ -1,0 +1,93 @@
+county,precinct,office,district,candidate,party,votes
+Harding,01,U.S. Senate,,John R. Thune,REP,47
+Harding,01,U.S. Senate,,Bruce Whalen,REP,20
+Harding,01,U.S. Senate,,Mark Mowry,REP,15
+Harding,02,U.S. Senate,,John R. Thune,REP,43
+Harding,02,U.S. Senate,,Bruce Whalen,REP,22
+Harding,02,U.S. Senate,,Mark Mowry,REP,7
+Harding,03,U.S. Senate,,John R. Thune,REP,11
+Harding,03,U.S. Senate,,Bruce Whalen,REP,11
+Harding,03,U.S. Senate,,Mark Mowry,REP,0
+Harding,05,U.S. Senate,,John R. Thune,REP,41
+Harding,05,U.S. Senate,,Bruce Whalen,REP,7
+Harding,05,U.S. Senate,,Mark Mowry,REP,17
+Harding,06,U.S. Senate,,John R. Thune,REP,9
+Harding,06,U.S. Senate,,Bruce Whalen,REP,5
+Harding,06,U.S. Senate,,Mark Mowry,REP,1
+Harding,07,U.S. Senate,,John R. Thune,REP,17
+Harding,07,U.S. Senate,,Bruce Whalen,REP,13
+Harding,07,U.S. Senate,,Mark Mowry,REP,3
+Harding,08,U.S. Senate,,John R. Thune,REP,22
+Harding,08,U.S. Senate,,Bruce Whalen,REP,12
+Harding,08,U.S. Senate,,Mark Mowry,REP,4
+Harding,09,U.S. Senate,,John R. Thune,REP,37
+Harding,09,U.S. Senate,,Bruce Whalen,REP,29
+Harding,09,U.S. Senate,,Mark Mowry,REP,10
+Harding,01,U.S. House,1,Dusty Johnson,REP,29
+Harding,01,U.S. House,1,Taffy Howard,REP,57
+Harding,02,U.S. House,1,Dusty Johnson,REP,24
+Harding,02,U.S. House,1,Taffy Howard,REP,50
+Harding,03,U.S. House,1,Dusty Johnson,REP,6
+Harding,03,U.S. House,1,Taffy Howard,REP,16
+Harding,05,U.S. House,1,Dusty Johnson,REP,32
+Harding,05,U.S. House,1,Taffy Howard,REP,36
+Harding,06,U.S. House,1,Dusty Johnson,REP,4
+Harding,06,U.S. House,1,Taffy Howard,REP,12
+Harding,07,U.S. House,1,Dusty Johnson,REP,15
+Harding,07,U.S. House,1,Taffy Howard,REP,19
+Harding,08,U.S. House,1,Dusty Johnson,REP,15
+Harding,08,U.S. House,1,Taffy Howard,REP,24
+Harding,09,U.S. House,1,Dusty Johnson,REP,21
+Harding,09,U.S. House,1,Taffy Howard,REP,54
+Harding,01,Governor,,Steven Haugaard,REP,15
+Harding,01,Governor,,Kristi Noem,REP,72
+Harding,02,Governor,,Steven Haugaard,REP,13
+Harding,02,Governor,,Kristi Noem,REP,61
+Harding,03,Governor,,Steven Haugaard,REP,3
+Harding,03,Governor,,Kristi Noem,REP,19
+Harding,05,Governor,,Steven Haugaard,REP,12
+Harding,05,Governor,,Kristi Noem,REP,59
+Harding,06,Governor,,Steven Haugaard,REP,0
+Harding,06,Governor,,Kristi Noem,REP,16
+Harding,07,Governor,,Steven Haugaard,REP,4
+Harding,07,Governor,,Kristi Noem,REP,31
+Harding,08,Governor,,Steven Haugaard,REP,2
+Harding,08,Governor,,Kristi Noem,REP,37
+Harding,09,Governor,,Steven Haugaard,REP,16
+Harding,09,Governor,,Kristi Noem,REP,60
+Harding,01,State House,28B,Neal Pinnow,REP,50
+Harding,01,State House,28B,Thomas J. Brunner,REP,29
+Harding,02,State House,28B,Neal Pinnow,REP,54
+Harding,02,State House,28B,Thomas J. Brunner,REP,14
+Harding,03,State House,28B,Neal Pinnow,REP,8
+Harding,03,State House,28B,Thomas J. Brunner,REP,11
+Harding,05,State House,28B,Neal Pinnow,REP,50
+Harding,05,State House,28B,Thomas J. Brunner,REP,16
+Harding,06,State House,28B,Neal Pinnow,REP,8
+Harding,06,State House,28B,Thomas J. Brunner,REP,5
+Harding,07,State House,28B,Neal Pinnow,REP,18
+Harding,07,State House,28B,Thomas J. Brunner,REP,13
+Harding,08,State House,28B,Neal Pinnow,REP,27
+Harding,08,State House,28B,Thomas J. Brunner,REP,9
+Harding,09,State House,28B,Neal Pinnow,REP,28
+Harding,09,State House,28B,Thomas J. Brunner,REP,43
+Harding,05,County Commissioner Harding-5,,Greg Ginsbach,REP,25
+Harding,05,County Commissioner Harding-5,,William H Clarkson,REP,44
+Harding,06,County Commissioner Harding-5,,Greg Ginsbach,REP,5
+Harding,06,County Commissioner Harding-5,,William H Clarkson,REP,11
+Harding,01,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,35
+Harding,01,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,61
+Harding,02,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,40
+Harding,02,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,57
+Harding,03,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,13
+Harding,03,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,11
+Harding,05,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,30
+Harding,05,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,49
+Harding,06,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,4
+Harding,06,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,14
+Harding,07,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,18
+Harding,07,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,17
+Harding,08,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,26
+Harding,08,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,15
+Harding,09,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,37
+Harding,09,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,39

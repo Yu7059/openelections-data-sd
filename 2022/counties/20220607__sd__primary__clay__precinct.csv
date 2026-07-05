@@ -1,0 +1,25 @@
+county,precinct,office,district,candidate,party,votes
+Clay,01,U.S. Senate,,John R. Thune,REP,81
+Clay,01,U.S. Senate,,Bruce Whalen,REP,37
+Clay,01,U.S. Senate,,Mark Mowry,REP,10
+Clay,02,U.S. Senate,,John R. Thune,REP,55
+Clay,02,U.S. Senate,,Bruce Whalen,REP,18
+Clay,02,U.S. Senate,,Mark Mowry,REP,11
+Clay,03,U.S. Senate,,John R. Thune,REP,174
+Clay,03,U.S. Senate,,Bruce Whalen,REP,43
+Clay,03,U.S. Senate,,Mark Mowry,REP,16
+Clay,C1 (Precinct-C2),U.S. Senate,,John R. Thune,REP,49
+Clay,C1 (Precinct-C2),U.S. Senate,,Bruce Whalen,REP,6
+Clay,C1 (Precinct-C2),U.S. Senate,,Mark Mowry,REP,5
+Clay,E1 (Precinct-E2),U.S. Senate,,John R. Thune,REP,60
+Clay,E1 (Precinct-E2),U.S. Senate,,Bruce Whalen,REP,19
+Clay,E1 (Precinct-E2),U.S. Senate,,Mark Mowry,REP,5
+Clay,S1,U.S. Senate,,John R. Thune,REP,186
+Clay,S1,U.S. Senate,,Bruce Whalen,REP,20
+Clay,S1,U.S. Senate,,Mark Mowry,REP,3
+Clay,S2,U.S. Senate,,John R. Thune,REP,84
+Clay,S2,U.S. Senate,,Bruce Whalen,REP,20
+Clay,S2,U.S. Senate,,Mark Mowry,REP,6
+Clay,W1 (Precinct-W2),U.S. Senate,,John R. Thune,REP,171
+Clay,W1 (Precinct-W2),U.S. Senate,,Bruce Whalen,REP,31
+Clay,W1 (Precinct-W2),U.S. Senate,,Mark Mowry,REP,7

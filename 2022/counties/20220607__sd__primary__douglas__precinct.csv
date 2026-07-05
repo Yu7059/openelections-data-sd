@@ -1,0 +1,55 @@
+county,precinct,office,district,candidate,party,votes
+Douglas,Absentee Precinct,U.S. Senate,,John R. Thune,REP,68
+Douglas,Absentee Precinct,U.S. Senate,,Bruce Whalen,REP,23
+Douglas,Absentee Precinct,U.S. Senate,,Mark Mowry,REP,9
+Douglas,1,U.S. Senate,,John R. Thune,REP,160
+Douglas,1,U.S. Senate,,Bruce Whalen,REP,57
+Douglas,1,U.S. Senate,,Mark Mowry,REP,11
+Douglas,2,U.S. Senate,,John R. Thune,REP,138
+Douglas,2,U.S. Senate,,Bruce Whalen,REP,34
+Douglas,2,U.S. Senate,,Mark Mowry,REP,13
+Douglas,3,U.S. Senate,,John R. Thune,REP,99
+Douglas,3,U.S. Senate,,Bruce Whalen,REP,39
+Douglas,3,U.S. Senate,,Mark Mowry,REP,18
+Douglas,4,U.S. Senate,,John R. Thune,REP,130
+Douglas,4,U.S. Senate,,Bruce Whalen,REP,40
+Douglas,4,U.S. Senate,,Mark Mowry,REP,7
+Douglas,5,U.S. Senate,,John R. Thune,REP,124
+Douglas,5,U.S. Senate,,Bruce Whalen,REP,38
+Douglas,5,U.S. Senate,,Mark Mowry,REP,10
+Douglas,Absentee Precinct,U.S. House,1,Dusty Johnson,REP,60
+Douglas,Absentee Precinct,U.S. House,1,Taffy Howard,REP,38
+Douglas,1,U.S. House,1,Dusty Johnson,REP,118
+Douglas,1,U.S. House,1,Taffy Howard,REP,113
+Douglas,2,U.S. House,1,Dusty Johnson,REP,104
+Douglas,2,U.S. House,1,Taffy Howard,REP,80
+Douglas,3,U.S. House,1,Dusty Johnson,REP,77
+Douglas,3,U.S. House,1,Taffy Howard,REP,85
+Douglas,4,U.S. House,1,Dusty Johnson,REP,96
+Douglas,4,U.S. House,1,Taffy Howard,REP,82
+Douglas,5,U.S. House,1,Dusty Johnson,REP,92
+Douglas,5,U.S. House,1,Taffy Howard,REP,81
+Douglas,Absentee Precinct,Governor,,Steven Haugaard,REP,18
+Douglas,Absentee Precinct,Governor,,Kristi Noem,REP,82
+Douglas,1,Governor,,Steven Haugaard,REP,39
+Douglas,1,Governor,,Kristi Noem,REP,196
+Douglas,2,Governor,,Steven Haugaard,REP,28
+Douglas,2,Governor,,Kristi Noem,REP,159
+Douglas,3,Governor,,Steven Haugaard,REP,31
+Douglas,3,Governor,,Kristi Noem,REP,132
+Douglas,4,Governor,,Steven Haugaard,REP,33
+Douglas,4,Governor,,Kristi Noem,REP,148
+Douglas,5,Governor,,Steven Haugaard,REP,18
+Douglas,5,Governor,,Kristi Noem,REP,159
+Douglas,Absentee Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,44
+Douglas,Absentee Precinct,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,69
+Douglas,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,174
+Douglas,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,77
+Douglas,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,121
+Douglas,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,96
+Douglas,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,74
+Douglas,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,104
+Douglas,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,87
+Douglas,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,109
+Douglas,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,100
+Douglas,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,87

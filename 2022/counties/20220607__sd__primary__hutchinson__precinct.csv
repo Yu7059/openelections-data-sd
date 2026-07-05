@@ -1,0 +1,85 @@
+county,precinct,office,district,candidate,party,votes
+Hutchinson,01,U.S. Senate,,John R. Thune,REP,209
+Hutchinson,01,U.S. Senate,,Bruce Whalen,REP,112
+Hutchinson,01,U.S. Senate,,Mark Mowry,REP,20
+Hutchinson,02,U.S. Senate,,John R. Thune,REP,308
+Hutchinson,02,U.S. Senate,,Bruce Whalen,REP,82
+Hutchinson,02,U.S. Senate,,Mark Mowry,REP,24
+Hutchinson,03,U.S. Senate,,John R. Thune,REP,150
+Hutchinson,03,U.S. Senate,,Bruce Whalen,REP,32
+Hutchinson,03,U.S. Senate,,Mark Mowry,REP,13
+Hutchinson,04,U.S. Senate,,John R. Thune,REP,223
+Hutchinson,04,U.S. Senate,,Bruce Whalen,REP,53
+Hutchinson,04,U.S. Senate,,Mark Mowry,REP,8
+Hutchinson,05,U.S. Senate,,John R. Thune,REP,168
+Hutchinson,05,U.S. Senate,,Bruce Whalen,REP,39
+Hutchinson,05,U.S. Senate,,Mark Mowry,REP,16
+Hutchinson,06,U.S. Senate,,John R. Thune,REP,94
+Hutchinson,06,U.S. Senate,,Bruce Whalen,REP,23
+Hutchinson,06,U.S. Senate,,Mark Mowry,REP,28
+Hutchinson,01,U.S. House,1,Dusty Johnson,REP,147
+Hutchinson,01,U.S. House,1,Taffy Howard,REP,203
+Hutchinson,02,U.S. House,1,Dusty Johnson,REP,249
+Hutchinson,02,U.S. House,1,Taffy Howard,REP,166
+Hutchinson,03,U.S. House,1,Dusty Johnson,REP,129
+Hutchinson,03,U.S. House,1,Taffy Howard,REP,69
+Hutchinson,04,U.S. House,1,Dusty Johnson,REP,192
+Hutchinson,04,U.S. House,1,Taffy Howard,REP,92
+Hutchinson,05,U.S. House,1,Dusty Johnson,REP,144
+Hutchinson,05,U.S. House,1,Taffy Howard,REP,85
+Hutchinson,06,U.S. House,1,Dusty Johnson,REP,74
+Hutchinson,06,U.S. House,1,Taffy Howard,REP,73
+Hutchinson,01,Governor,,Steven Haugaard,REP,66
+Hutchinson,01,Governor,,Kristi Noem,REP,282
+Hutchinson,02,Governor,,Steven Haugaard,REP,92
+Hutchinson,02,Governor,,Kristi Noem,REP,327
+Hutchinson,03,Governor,,Steven Haugaard,REP,26
+Hutchinson,03,Governor,,Kristi Noem,REP,174
+Hutchinson,04,Governor,,Steven Haugaard,REP,73
+Hutchinson,04,Governor,,Kristi Noem,REP,211
+Hutchinson,05,Governor,,Steven Haugaard,REP,32
+Hutchinson,05,Governor,,Kristi Noem,REP,200
+Hutchinson,06,Governor,,Steven Haugaard,REP,24
+Hutchinson,06,Governor,,Kristi Noem,REP,124
+Hutchinson,01,State House,19,Caleb Finck,REP,118
+Hutchinson,01,State House,19,Michael Boyle,REP,128
+Hutchinson,01,State House,19,Jessica Bahmuller,REP,170
+Hutchinson,01,State House,19,Roger Hofer,REP,32
+Hutchinson,01,State House,19,Drew Peterson,REP,130
+Hutchinson,02,State House,19,Caleb Finck,REP,91
+Hutchinson,02,State House,19,Michael Boyle,REP,181
+Hutchinson,02,State House,19,Jessica Bahmuller,REP,193
+Hutchinson,02,State House,19,Roger Hofer,REP,84
+Hutchinson,02,State House,19,Drew Peterson,REP,144
+Hutchinson,03,State House,19,Caleb Finck,REP,72
+Hutchinson,03,State House,19,Michael Boyle,REP,90
+Hutchinson,03,State House,19,Jessica Bahmuller,REP,118
+Hutchinson,03,State House,19,Roger Hofer,REP,6
+Hutchinson,03,State House,19,Drew Peterson,REP,57
+Hutchinson,04,State House,19,Caleb Finck,REP,154
+Hutchinson,04,State House,19,Michael Boyle,REP,89
+Hutchinson,04,State House,19,Jessica Bahmuller,REP,138
+Hutchinson,04,State House,19,Roger Hofer,REP,15
+Hutchinson,04,State House,19,Drew Peterson,REP,89
+Hutchinson,05,State House,19,Caleb Finck,REP,182
+Hutchinson,05,State House,19,Michael Boyle,REP,58
+Hutchinson,05,State House,19,Jessica Bahmuller,REP,83
+Hutchinson,05,State House,19,Roger Hofer,REP,2
+Hutchinson,05,State House,19,Drew Peterson,REP,73
+Hutchinson,06,State House,19,Caleb Finck,REP,52
+Hutchinson,06,State House,19,Michael Boyle,REP,24
+Hutchinson,06,State House,19,Jessica Bahmuller,REP,79
+Hutchinson,06,State House,19,Roger Hofer,REP,30
+Hutchinson,06,State House,19,Drew Peterson,REP,53
+Hutchinson,01,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,171
+Hutchinson,01,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,226
+Hutchinson,02,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,190
+Hutchinson,02,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,316
+Hutchinson,03,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,92
+Hutchinson,03,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,165
+Hutchinson,04,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,126
+Hutchinson,04,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,291
+Hutchinson,05,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,108
+Hutchinson,05,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,160
+Hutchinson,06,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,62
+Hutchinson,06,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,98

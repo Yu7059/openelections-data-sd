@@ -1,0 +1,203 @@
+county,precinct,office,district,candidate,party,votes
+Davison,01,U.S. Senate,,John R. Thune,REP,57
+Davison,01,U.S. Senate,,Bruce Whalen,REP,16
+Davison,01,U.S. Senate,,Mark Mowry,REP,14
+Davison,02,U.S. Senate,,John R. Thune,REP,95
+Davison,02,U.S. Senate,,Bruce Whalen,REP,25
+Davison,02,U.S. Senate,,Mark Mowry,REP,5
+Davison,"03 (Precinct-04, Precinct-05)",U.S. Senate,,John R. Thune,REP,400
+Davison,"03 (Precinct-04, Precinct-05)",U.S. Senate,,Bruce Whalen,REP,82
+Davison,"03 (Precinct-04, Precinct-05)",U.S. Senate,,Mark Mowry,REP,41
+Davison,06,U.S. Senate,,John R. Thune,REP,165
+Davison,06,U.S. Senate,,Bruce Whalen,REP,21
+Davison,06,U.S. Senate,,Mark Mowry,REP,3
+Davison,"07 (Precinct-08, Precinct-09)",U.S. Senate,,John R. Thune,REP,316
+Davison,"07 (Precinct-08, Precinct-09)",U.S. Senate,,Bruce Whalen,REP,69
+Davison,"07 (Precinct-08, Precinct-09)",U.S. Senate,,Mark Mowry,REP,15
+Davison,10,U.S. Senate,,John R. Thune,REP,73
+Davison,10,U.S. Senate,,Bruce Whalen,REP,40
+Davison,10,U.S. Senate,,Mark Mowry,REP,8
+Davison,11 (Precinct-12),U.S. Senate,,John R. Thune,REP,208
+Davison,11 (Precinct-12),U.S. Senate,,Bruce Whalen,REP,37
+Davison,11 (Precinct-12),U.S. Senate,,Mark Mowry,REP,22
+Davison,13,U.S. Senate,,John R. Thune,REP,49
+Davison,13,U.S. Senate,,Bruce Whalen,REP,19
+Davison,13,U.S. Senate,,Mark Mowry,REP,4
+Davison,"14 (Precinct-15, Precinct-16)",U.S. Senate,,John R. Thune,REP,288
+Davison,"14 (Precinct-15, Precinct-16)",U.S. Senate,,Bruce Whalen,REP,63
+Davison,"14 (Precinct-15, Precinct-16)",U.S. Senate,,Mark Mowry,REP,17
+Davison,18 (Precinct-20),U.S. Senate,,John R. Thune,REP,264
+Davison,18 (Precinct-20),U.S. Senate,,Bruce Whalen,REP,57
+Davison,18 (Precinct-20),U.S. Senate,,Mark Mowry,REP,15
+Davison,19,U.S. Senate,,John R. Thune,REP,91
+Davison,19,U.S. Senate,,Bruce Whalen,REP,29
+Davison,19,U.S. Senate,,Mark Mowry,REP,11
+Davison,01,U.S. House,1,Dusty Johnson,REP,48
+Davison,01,U.S. House,1,Taffy Howard,REP,38
+Davison,02,U.S. House,1,Dusty Johnson,REP,72
+Davison,02,U.S. House,1,Taffy Howard,REP,57
+Davison,"03 (Precinct-04, Precinct-05)",U.S. House,1,Dusty Johnson,REP,349
+Davison,"03 (Precinct-04, Precinct-05)",U.S. House,1,Taffy Howard,REP,184
+Davison,06,U.S. House,1,Dusty Johnson,REP,145
+Davison,06,U.S. House,1,Taffy Howard,REP,46
+Davison,"07 (Precinct-08, Precinct-09)",U.S. House,1,Dusty Johnson,REP,267
+Davison,"07 (Precinct-08, Precinct-09)",U.S. House,1,Taffy Howard,REP,144
+Davison,10,U.S. House,1,Dusty Johnson,REP,61
+Davison,10,U.S. House,1,Taffy Howard,REP,62
+Davison,11 (Precinct-12),U.S. House,1,Dusty Johnson,REP,179
+Davison,11 (Precinct-12),U.S. House,1,Taffy Howard,REP,86
+Davison,13,U.S. House,1,Dusty Johnson,REP,44
+Davison,13,U.S. House,1,Taffy Howard,REP,30
+Davison,"14 (Precinct-15, Precinct-16)",U.S. House,1,Dusty Johnson,REP,236
+Davison,"14 (Precinct-15, Precinct-16)",U.S. House,1,Taffy Howard,REP,133
+Davison,18 (Precinct-20),U.S. House,1,Dusty Johnson,REP,236
+Davison,18 (Precinct-20),U.S. House,1,Taffy Howard,REP,110
+Davison,19,U.S. House,1,Dusty Johnson,REP,83
+Davison,19,U.S. House,1,Taffy Howard,REP,50
+Davison,01,Governor,,Steven Haugaard,REP,15
+Davison,01,Governor,,Kristi Noem,REP,73
+Davison,02,Governor,,Steven Haugaard,REP,16
+Davison,02,Governor,,Kristi Noem,REP,112
+Davison,"03 (Precinct-04, Precinct-05)",Governor,,Steven Haugaard,REP,78
+Davison,"03 (Precinct-04, Precinct-05)",Governor,,Kristi Noem,REP,454
+Davison,06,Governor,,Steven Haugaard,REP,28
+Davison,06,Governor,,Kristi Noem,REP,157
+Davison,"07 (Precinct-08, Precinct-09)",Governor,,Steven Haugaard,REP,83
+Davison,"07 (Precinct-08, Precinct-09)",Governor,,Kristi Noem,REP,325
+Davison,10,Governor,,Steven Haugaard,REP,40
+Davison,10,Governor,,Kristi Noem,REP,84
+Davison,11 (Precinct-12),Governor,,Steven Haugaard,REP,66
+Davison,11 (Precinct-12),Governor,,Kristi Noem,REP,199
+Davison,13,Governor,,Steven Haugaard,REP,20
+Davison,13,Governor,,Kristi Noem,REP,54
+Davison,"14 (Precinct-15, Precinct-16)",Governor,,Steven Haugaard,REP,103
+Davison,"14 (Precinct-15, Precinct-16)",Governor,,Kristi Noem,REP,272
+Davison,18 (Precinct-20),Governor,,Steven Haugaard,REP,75
+Davison,18 (Precinct-20),Governor,,Kristi Noem,REP,269
+Davison,19,Governor,,Steven Haugaard,REP,30
+Davison,19,Governor,,Kristi Noem,REP,99
+Davison,01,State House,20,Ben Krohmer,REP,38
+Davison,01,State House,20,Jeff Bathke,REP,57
+Davison,01,State House,20,Lance Koth,REP,42
+Davison,02,State House,20,Ben Krohmer,REP,57
+Davison,02,State House,20,Jeff Bathke,REP,77
+Davison,02,State House,20,Lance Koth,REP,59
+Davison,"03 (Precinct-04, Precinct-05)",State House,20,Ben Krohmer,REP,272
+Davison,"03 (Precinct-04, Precinct-05)",State House,20,Jeff Bathke,REP,307
+Davison,"03 (Precinct-04, Precinct-05)",State House,20,Lance Koth,REP,318
+Davison,06,State House,20,Ben Krohmer,REP,92
+Davison,06,State House,20,Jeff Bathke,REP,114
+Davison,06,State House,20,Lance Koth,REP,112
+Davison,"07 (Precinct-08, Precinct-09)",State House,20,Ben Krohmer,REP,261
+Davison,"07 (Precinct-08, Precinct-09)",State House,20,Jeff Bathke,REP,213
+Davison,"07 (Precinct-08, Precinct-09)",State House,20,Lance Koth,REP,208
+Davison,10,State House,20,Ben Krohmer,REP,77
+Davison,10,State House,20,Jeff Bathke,REP,55
+Davison,10,State House,20,Lance Koth,REP,50
+Davison,11 (Precinct-12),State House,20,Ben Krohmer,REP,157
+Davison,11 (Precinct-12),State House,20,Jeff Bathke,REP,130
+Davison,11 (Precinct-12),State House,20,Lance Koth,REP,158
+Davison,13,State House,20,Ben Krohmer,REP,41
+Davison,13,State House,20,Jeff Bathke,REP,37
+Davison,13,State House,20,Lance Koth,REP,49
+Davison,"14 (Precinct-15, Precinct-16)",State House,20,Ben Krohmer,REP,235
+Davison,"14 (Precinct-15, Precinct-16)",State House,20,Jeff Bathke,REP,177
+Davison,"14 (Precinct-15, Precinct-16)",State House,20,Lance Koth,REP,196
+Davison,18 (Precinct-20),State House,20,Ben Krohmer,REP,211
+Davison,18 (Precinct-20),State House,20,Jeff Bathke,REP,177
+Davison,18 (Precinct-20),State House,20,Lance Koth,REP,191
+Davison,19,State House,20,Ben Krohmer,REP,79
+Davison,19,State House,20,Jeff Bathke,REP,70
+Davison,19,State House,20,Lance Koth,REP,70
+Davison,06,Precinct Committeeman Precinct-06,,Scott Geppert,REP,26
+Davison,06,Precinct Committeeman Precinct-06,,Michael Vehle,REP,139
+Davison,10,Precinct Committeeman Precinct-10,,Steve Sibson,REP,44
+Davison,10,Precinct Committeeman Precinct-10,,William Plastow,REP,53
+Davison,13,Precinct Committeeman Precinct-13,,Heath Koth,REP,28
+Davison,13,Precinct Committeeman Precinct-13,,Larry Mathis,REP,29
+Davison,19,Precinct Committeeman Precinct-19,,Brady Zimmerman,REP,37
+Davison,19,Precinct Committeeman Precinct-19,,Lance Koth,REP,74
+Davison,19,Precinct Committeewoman Precinct-19,,Patricia Koth,REP,66
+Davison,19,Precinct Committeewoman Precinct-19,,Randi Zimmerman,REP,37
+Davison,01,School Board Member Mitchell School District 17-2,,Terry Aslesen,,0
+Davison,01,School Board Member Mitchell School District 17-2,,David Lambert,,0
+Davison,01,School Board Member Mitchell School District 17-2,,Chris Foster,,0
+Davison,01,School Board Member Mitchell School District 17-2,,Deb Olson,,0
+Davison,01,School Board Member Mitchell School District 17-2,,Tim Moon,,0
+Davison,01,School Board Member Mitchell School District 17-2,,Jeff Sand,,0
+Davison,"03 (Precinct-04, Precinct-05)",School Board Member Mitchell School District 17-2,,Terry Aslesen,,281
+Davison,"03 (Precinct-04, Precinct-05)",School Board Member Mitchell School District 17-2,,David Lambert,,102
+Davison,"03 (Precinct-04, Precinct-05)",School Board Member Mitchell School District 17-2,,Chris Foster,,126
+Davison,"03 (Precinct-04, Precinct-05)",School Board Member Mitchell School District 17-2,,Deb Olson,,290
+Davison,"03 (Precinct-04, Precinct-05)",School Board Member Mitchell School District 17-2,,Tim Moon,,232
+Davison,"03 (Precinct-04, Precinct-05)",School Board Member Mitchell School District 17-2,,Jeff Sand,,215
+Davison,06,School Board Member Mitchell School District 17-2,,Terry Aslesen,,130
+Davison,06,School Board Member Mitchell School District 17-2,,David Lambert,,59
+Davison,06,School Board Member Mitchell School District 17-2,,Chris Foster,,34
+Davison,06,School Board Member Mitchell School District 17-2,,Deb Olson,,128
+Davison,06,School Board Member Mitchell School District 17-2,,Tim Moon,,72
+Davison,06,School Board Member Mitchell School District 17-2,,Jeff Sand,,57
+Davison,"07 (Precinct-08, Precinct-09)",School Board Member Mitchell School District 17-2,,Terry Aslesen,,241
+Davison,"07 (Precinct-08, Precinct-09)",School Board Member Mitchell School District 17-2,,David Lambert,,87
+Davison,"07 (Precinct-08, Precinct-09)",School Board Member Mitchell School District 17-2,,Chris Foster,,119
+Davison,"07 (Precinct-08, Precinct-09)",School Board Member Mitchell School District 17-2,,Deb Olson,,280
+Davison,"07 (Precinct-08, Precinct-09)",School Board Member Mitchell School District 17-2,,Tim Moon,,215
+Davison,"07 (Precinct-08, Precinct-09)",School Board Member Mitchell School District 17-2,,Jeff Sand,,213
+Davison,10,School Board Member Mitchell School District 17-2,,Terry Aslesen,,75
+Davison,10,School Board Member Mitchell School District 17-2,,David Lambert,,33
+Davison,10,School Board Member Mitchell School District 17-2,,Chris Foster,,40
+Davison,10,School Board Member Mitchell School District 17-2,,Deb Olson,,79
+Davison,10,School Board Member Mitchell School District 17-2,,Tim Moon,,74
+Davison,10,School Board Member Mitchell School District 17-2,,Jeff Sand,,74
+Davison,11 (Precinct-12),School Board Member Mitchell School District 17-2,,Terry Aslesen,,203
+Davison,11 (Precinct-12),School Board Member Mitchell School District 17-2,,David Lambert,,57
+Davison,11 (Precinct-12),School Board Member Mitchell School District 17-2,,Chris Foster,,63
+Davison,11 (Precinct-12),School Board Member Mitchell School District 17-2,,Deb Olson,,217
+Davison,11 (Precinct-12),School Board Member Mitchell School District 17-2,,Tim Moon,,128
+Davison,11 (Precinct-12),School Board Member Mitchell School District 17-2,,Jeff Sand,,144
+Davison,13,School Board Member Mitchell School District 17-2,,Terry Aslesen,,49
+Davison,13,School Board Member Mitchell School District 17-2,,David Lambert,,17
+Davison,13,School Board Member Mitchell School District 17-2,,Chris Foster,,27
+Davison,13,School Board Member Mitchell School District 17-2,,Deb Olson,,43
+Davison,13,School Board Member Mitchell School District 17-2,,Tim Moon,,24
+Davison,13,School Board Member Mitchell School District 17-2,,Jeff Sand,,30
+Davison,"14 (Precinct-15, Precinct-16)",School Board Member Mitchell School District 17-2,,Terry Aslesen,,285
+Davison,"14 (Precinct-15, Precinct-16)",School Board Member Mitchell School District 17-2,,David Lambert,,89
+Davison,"14 (Precinct-15, Precinct-16)",School Board Member Mitchell School District 17-2,,Chris Foster,,85
+Davison,"14 (Precinct-15, Precinct-16)",School Board Member Mitchell School District 17-2,,Deb Olson,,271
+Davison,"14 (Precinct-15, Precinct-16)",School Board Member Mitchell School District 17-2,,Tim Moon,,214
+Davison,"14 (Precinct-15, Precinct-16)",School Board Member Mitchell School District 17-2,,Jeff Sand,,174
+Davison,18 (Precinct-20),School Board Member Mitchell School District 17-2,,Terry Aslesen,,222
+Davison,18 (Precinct-20),School Board Member Mitchell School District 17-2,,David Lambert,,83
+Davison,18 (Precinct-20),School Board Member Mitchell School District 17-2,,Chris Foster,,103
+Davison,18 (Precinct-20),School Board Member Mitchell School District 17-2,,Deb Olson,,230
+Davison,18 (Precinct-20),School Board Member Mitchell School District 17-2,,Tim Moon,,158
+Davison,18 (Precinct-20),School Board Member Mitchell School District 17-2,,Jeff Sand,,169
+Davison,19,School Board Member Mitchell School District 17-2,,Terry Aslesen,,83
+Davison,19,School Board Member Mitchell School District 17-2,,David Lambert,,28
+Davison,19,School Board Member Mitchell School District 17-2,,Chris Foster,,35
+Davison,19,School Board Member Mitchell School District 17-2,,Deb Olson,,94
+Davison,19,School Board Member Mitchell School District 17-2,,Tim Moon,,66
+Davison,19,School Board Member Mitchell School District 17-2,,Jeff Sand,,80
+Davison,01,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,32
+Davison,01,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,80
+Davison,02,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,70
+Davison,02,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,98
+Davison,"03 (Precinct-04, Precinct-05)",Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,276
+Davison,"03 (Precinct-04, Precinct-05)",Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,468
+Davison,06,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,74
+Davison,06,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,184
+Davison,"07 (Precinct-08, Precinct-09)",Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,214
+Davison,"07 (Precinct-08, Precinct-09)",Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,432
+Davison,10,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,55
+Davison,10,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,147
+Davison,11 (Precinct-12),Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,138
+Davison,11 (Precinct-12),Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,312
+Davison,13,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,40
+Davison,13,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,68
+Davison,"14 (Precinct-15, Precinct-16)",Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,193
+Davison,"14 (Precinct-15, Precinct-16)",Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,435
+Davison,18 (Precinct-20),Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,153
+Davison,18 (Precinct-20),Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,381
+Davison,19,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,66
+Davison,19,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,147

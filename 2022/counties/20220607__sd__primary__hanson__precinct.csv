@@ -1,0 +1,91 @@
+county,precinct,office,district,candidate,party,votes
+Hanson,1,U.S. Senate,,John R. Thune,REP,135
+Hanson,1,U.S. Senate,,Bruce Whalen,REP,41
+Hanson,1,U.S. Senate,,Mark Mowry,REP,20
+Hanson,2,U.S. Senate,,John R. Thune,REP,91
+Hanson,2,U.S. Senate,,Bruce Whalen,REP,28
+Hanson,2,U.S. Senate,,Mark Mowry,REP,13
+Hanson,3,U.S. Senate,,John R. Thune,REP,79
+Hanson,3,U.S. Senate,,Bruce Whalen,REP,25
+Hanson,3,U.S. Senate,,Mark Mowry,REP,10
+Hanson,4,U.S. Senate,,John R. Thune,REP,61
+Hanson,4,U.S. Senate,,Bruce Whalen,REP,29
+Hanson,4,U.S. Senate,,Mark Mowry,REP,4
+Hanson,5,U.S. Senate,,John R. Thune,REP,62
+Hanson,5,U.S. Senate,,Bruce Whalen,REP,26
+Hanson,5,U.S. Senate,,Mark Mowry,REP,6
+Hanson,1,U.S. House,1,Dusty Johnson,REP,103
+Hanson,1,U.S. House,1,Taffy Howard,REP,89
+Hanson,2,U.S. House,1,Dusty Johnson,REP,87
+Hanson,2,U.S. House,1,Taffy Howard,REP,48
+Hanson,3,U.S. House,1,Dusty Johnson,REP,65
+Hanson,3,U.S. House,1,Taffy Howard,REP,47
+Hanson,4,U.S. House,1,Dusty Johnson,REP,53
+Hanson,4,U.S. House,1,Taffy Howard,REP,42
+Hanson,5,U.S. House,1,Dusty Johnson,REP,51
+Hanson,5,U.S. House,1,Taffy Howard,REP,45
+Hanson,1,Governor,,Steven Haugaard,REP,21
+Hanson,1,Governor,,Kristi Noem,REP,182
+Hanson,2,Governor,,Steven Haugaard,REP,23
+Hanson,2,Governor,,Kristi Noem,REP,114
+Hanson,3,Governor,,Steven Haugaard,REP,37
+Hanson,3,Governor,,Kristi Noem,REP,76
+Hanson,4,Governor,,Steven Haugaard,REP,30
+Hanson,4,Governor,,Kristi Noem,REP,65
+Hanson,5,Governor,,Steven Haugaard,REP,17
+Hanson,5,Governor,,Kristi Noem,REP,79
+Hanson,1,State House,19,Caleb Finck,REP,46
+Hanson,1,State House,19,Michael Boyle,REP,82
+Hanson,1,State House,19,Jessica Bahmuller,REP,122
+Hanson,1,State House,19,Roger Hofer,REP,9
+Hanson,1,State House,19,Drew Peterson,REP,38
+Hanson,2,State House,19,Caleb Finck,REP,7
+Hanson,2,State House,19,Michael Boyle,REP,33
+Hanson,2,State House,19,Jessica Bahmuller,REP,123
+Hanson,2,State House,19,Roger Hofer,REP,5
+Hanson,2,State House,19,Drew Peterson,REP,27
+Hanson,3,State House,19,Caleb Finck,REP,11
+Hanson,3,State House,19,Michael Boyle,REP,39
+Hanson,3,State House,19,Jessica Bahmuller,REP,83
+Hanson,3,State House,19,Roger Hofer,REP,9
+Hanson,3,State House,19,Drew Peterson,REP,30
+Hanson,4,State House,19,Caleb Finck,REP,32
+Hanson,4,State House,19,Michael Boyle,REP,24
+Hanson,4,State House,19,Jessica Bahmuller,REP,50
+Hanson,4,State House,19,Roger Hofer,REP,12
+Hanson,4,State House,19,Drew Peterson,REP,36
+Hanson,5,State House,19,Caleb Finck,REP,12
+Hanson,5,State House,19,Michael Boyle,REP,18
+Hanson,5,State House,19,Jessica Bahmuller,REP,82
+Hanson,5,State House,19,Roger Hofer,REP,10
+Hanson,5,State House,19,Drew Peterson,REP,26
+Hanson,1,County Commissioner Hanson-1,,Bruce Kjetland,REP,121
+Hanson,1,County Commissioner Hanson-1,,Travis Kampshoff,REP,78
+Hanson,3,School Board Member Mitchell School District 17-2,,Terry Aslesen,,0
+Hanson,3,School Board Member Mitchell School District 17-2,,David Lambert,,0
+Hanson,3,School Board Member Mitchell School District 17-2,,Chris Foster,,0
+Hanson,3,School Board Member Mitchell School District 17-2,,Deb Olson,,0
+Hanson,3,School Board Member Mitchell School District 17-2,,Tim Moon,,0
+Hanson,3,School Board Member Mitchell School District 17-2,,Jeff Sand,,0
+Hanson,4,School Board Member Mitchell School District 17-2,,Terry Aslesen,,44
+Hanson,4,School Board Member Mitchell School District 17-2,,David Lambert,,23
+Hanson,4,School Board Member Mitchell School District 17-2,,Chris Foster,,21
+Hanson,4,School Board Member Mitchell School District 17-2,,Deb Olson,,40
+Hanson,4,School Board Member Mitchell School District 17-2,,Tim Moon,,43
+Hanson,4,School Board Member Mitchell School District 17-2,,Jeff Sand,,35
+Hanson,5,School Board Member Mitchell School District 17-2,,Terry Aslesen,,0
+Hanson,5,School Board Member Mitchell School District 17-2,,David Lambert,,0
+Hanson,5,School Board Member Mitchell School District 17-2,,Chris Foster,,0
+Hanson,5,School Board Member Mitchell School District 17-2,,Deb Olson,,2
+Hanson,5,School Board Member Mitchell School District 17-2,,Tim Moon,,0
+Hanson,5,School Board Member Mitchell School District 17-2,,Jeff Sand,,0
+Hanson,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,91
+Hanson,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,172
+Hanson,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,70
+Hanson,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,126
+Hanson,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,58
+Hanson,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,91
+Hanson,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,45
+Hanson,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,82
+Hanson,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,43
+Hanson,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,79

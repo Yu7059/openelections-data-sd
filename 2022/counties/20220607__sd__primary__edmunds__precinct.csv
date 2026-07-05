@@ -1,0 +1,79 @@
+county,precinct,office,district,candidate,party,votes
+Edmunds,1,U.S. Senate,,John R. Thune,REP,133
+Edmunds,1,U.S. Senate,,Bruce Whalen,REP,27
+Edmunds,1,U.S. Senate,,Mark Mowry,REP,11
+Edmunds,2,U.S. Senate,,John R. Thune,REP,132
+Edmunds,2,U.S. Senate,,Bruce Whalen,REP,19
+Edmunds,2,U.S. Senate,,Mark Mowry,REP,9
+Edmunds,3,U.S. Senate,,John R. Thune,REP,88
+Edmunds,3,U.S. Senate,,Bruce Whalen,REP,20
+Edmunds,3,U.S. Senate,,Mark Mowry,REP,25
+Edmunds,4,U.S. Senate,,John R. Thune,REP,86
+Edmunds,4,U.S. Senate,,Bruce Whalen,REP,25
+Edmunds,4,U.S. Senate,,Mark Mowry,REP,5
+Edmunds,5,U.S. Senate,,John R. Thune,REP,123
+Edmunds,5,U.S. Senate,,Bruce Whalen,REP,32
+Edmunds,5,U.S. Senate,,Mark Mowry,REP,7
+Edmunds,6,U.S. Senate,,John R. Thune,REP,57
+Edmunds,6,U.S. Senate,,Bruce Whalen,REP,9
+Edmunds,6,U.S. Senate,,Mark Mowry,REP,5
+Edmunds,1,U.S. House,1,Dusty Johnson,REP,103
+Edmunds,1,U.S. House,1,Taffy Howard,REP,69
+Edmunds,2,U.S. House,1,Dusty Johnson,REP,116
+Edmunds,2,U.S. House,1,Taffy Howard,REP,47
+Edmunds,3,U.S. House,1,Dusty Johnson,REP,76
+Edmunds,3,U.S. House,1,Taffy Howard,REP,57
+Edmunds,4,U.S. House,1,Dusty Johnson,REP,83
+Edmunds,4,U.S. House,1,Taffy Howard,REP,33
+Edmunds,5,U.S. House,1,Dusty Johnson,REP,99
+Edmunds,5,U.S. House,1,Taffy Howard,REP,61
+Edmunds,6,U.S. House,1,Dusty Johnson,REP,50
+Edmunds,6,U.S. House,1,Taffy Howard,REP,20
+Edmunds,1,Governor,,Steven Haugaard,REP,29
+Edmunds,1,Governor,,Kristi Noem,REP,141
+Edmunds,2,Governor,,Steven Haugaard,REP,26
+Edmunds,2,Governor,,Kristi Noem,REP,139
+Edmunds,3,Governor,,Steven Haugaard,REP,23
+Edmunds,3,Governor,,Kristi Noem,REP,114
+Edmunds,4,Governor,,Steven Haugaard,REP,13
+Edmunds,4,Governor,,Kristi Noem,REP,104
+Edmunds,5,Governor,,Steven Haugaard,REP,28
+Edmunds,5,Governor,,Kristi Noem,REP,136
+Edmunds,6,Governor,,Steven Haugaard,REP,12
+Edmunds,6,Governor,,Kristi Noem,REP,58
+Edmunds,1,Sheriff,,Bruce Sahli,REP,47
+Edmunds,1,Sheriff,,Jonathan J Waldner,REP,119
+Edmunds,2,Sheriff,,Bruce Sahli,REP,30
+Edmunds,2,Sheriff,,Jonathan J Waldner,REP,124
+Edmunds,3,Sheriff,,Bruce Sahli,REP,16
+Edmunds,3,Sheriff,,Jonathan J Waldner,REP,117
+Edmunds,4,Sheriff,,Bruce Sahli,REP,22
+Edmunds,4,Sheriff,,Jonathan J Waldner,REP,90
+Edmunds,5,Sheriff,,Bruce Sahli,REP,44
+Edmunds,5,Sheriff,,Jonathan J Waldner,REP,109
+Edmunds,6,Sheriff,,Bruce Sahli,REP,34
+Edmunds,6,Sheriff,,Jonathan J Waldner,REP,33
+Edmunds,1,State Senate,23,Bryan J. Breitling,REP,105
+Edmunds,1,State Senate,23,Spencer Gosch,REP,57
+Edmunds,2,State Senate,23,Bryan J. Breitling,REP,110
+Edmunds,2,State Senate,23,Spencer Gosch,REP,47
+Edmunds,3,State Senate,23,Bryan J. Breitling,REP,95
+Edmunds,3,State Senate,23,Spencer Gosch,REP,34
+Edmunds,4,State Senate,23,Bryan J. Breitling,REP,76
+Edmunds,4,State Senate,23,Spencer Gosch,REP,36
+Edmunds,5,State Senate,23,Bryan J. Breitling,REP,107
+Edmunds,5,State Senate,23,Spencer Gosch,REP,57
+Edmunds,6,State Senate,23,Bryan J. Breitling,REP,45
+Edmunds,6,State Senate,23,Spencer Gosch,REP,25
+Edmunds,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,83
+Edmunds,1,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,151
+Edmunds,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,66
+Edmunds,2,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,149
+Edmunds,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,67
+Edmunds,3,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,109
+Edmunds,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,57
+Edmunds,4,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,89
+Edmunds,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,74
+Edmunds,5,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,122
+Edmunds,6,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,28
+Edmunds,6,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,67

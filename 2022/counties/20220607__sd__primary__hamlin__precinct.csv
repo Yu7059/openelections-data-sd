@@ -1,0 +1,98 @@
+county,precinct,office,district,candidate,party,votes
+Hamlin,02,U.S. Senate,,John R. Thune,REP,55
+Hamlin,02,U.S. Senate,,Bruce Whalen,REP,18
+Hamlin,02,U.S. Senate,,Mark Mowry,REP,2
+Hamlin,21,U.S. Senate,,John R. Thune,REP,198
+Hamlin,21,U.S. Senate,,Bruce Whalen,REP,64
+Hamlin,21,U.S. Senate,,Mark Mowry,REP,15
+Hamlin,22,U.S. Senate,,John R. Thune,REP,46
+Hamlin,22,U.S. Senate,,Bruce Whalen,REP,34
+Hamlin,22,U.S. Senate,,Mark Mowry,REP,4
+Hamlin,23,U.S. Senate,,John R. Thune,REP,101
+Hamlin,23,U.S. Senate,,Bruce Whalen,REP,43
+Hamlin,23,U.S. Senate,,Mark Mowry,REP,13
+Hamlin,24,U.S. Senate,,John R. Thune,REP,193
+Hamlin,24,U.S. Senate,,Bruce Whalen,REP,49
+Hamlin,24,U.S. Senate,,Mark Mowry,REP,21
+Hamlin,25,U.S. Senate,,John R. Thune,REP,107
+Hamlin,25,U.S. Senate,,Bruce Whalen,REP,32
+Hamlin,25,U.S. Senate,,Mark Mowry,REP,5
+Hamlin,26,U.S. Senate,,John R. Thune,REP,139
+Hamlin,26,U.S. Senate,,Bruce Whalen,REP,60
+Hamlin,26,U.S. Senate,,Mark Mowry,REP,12
+Hamlin,02,U.S. House,1,Dusty Johnson,REP,44
+Hamlin,02,U.S. House,1,Taffy Howard,REP,36
+Hamlin,21,U.S. House,1,Dusty Johnson,REP,170
+Hamlin,21,U.S. House,1,Taffy Howard,REP,107
+Hamlin,22,U.S. House,1,Dusty Johnson,REP,47
+Hamlin,22,U.S. House,1,Taffy Howard,REP,41
+Hamlin,23,U.S. House,1,Dusty Johnson,REP,85
+Hamlin,23,U.S. House,1,Taffy Howard,REP,68
+Hamlin,24,U.S. House,1,Dusty Johnson,REP,150
+Hamlin,24,U.S. House,1,Taffy Howard,REP,116
+Hamlin,25,U.S. House,1,Dusty Johnson,REP,91
+Hamlin,25,U.S. House,1,Taffy Howard,REP,53
+Hamlin,26,U.S. House,1,Dusty Johnson,REP,123
+Hamlin,26,U.S. House,1,Taffy Howard,REP,95
+Hamlin,02,Governor,,Steven Haugaard,REP,6
+Hamlin,02,Governor,,Kristi Noem,REP,76
+Hamlin,21,Governor,,Steven Haugaard,REP,54
+Hamlin,21,Governor,,Kristi Noem,REP,237
+Hamlin,22,Governor,,Steven Haugaard,REP,10
+Hamlin,22,Governor,,Kristi Noem,REP,78
+Hamlin,23,Governor,,Steven Haugaard,REP,42
+Hamlin,23,Governor,,Kristi Noem,REP,123
+Hamlin,24,Governor,,Steven Haugaard,REP,30
+Hamlin,24,Governor,,Kristi Noem,REP,242
+Hamlin,25,Governor,,Steven Haugaard,REP,27
+Hamlin,25,Governor,,Kristi Noem,REP,120
+Hamlin,26,Governor,,Steven Haugaard,REP,38
+Hamlin,26,Governor,,Kristi Noem,REP,185
+Hamlin,02,State House,4,Val Rausch,REP,12
+Hamlin,02,State House,4,Adam Grimm,REP,17
+Hamlin,02,State House,4,Fred Deutsch,REP,28
+Hamlin,02,State House,4,Stephanie Sauder,REP,65
+Hamlin,21,State House,4,Val Rausch,REP,80
+Hamlin,21,State House,4,Adam Grimm,REP,67
+Hamlin,21,State House,4,Fred Deutsch,REP,156
+Hamlin,21,State House,4,Stephanie Sauder,REP,167
+Hamlin,22,State House,4,Val Rausch,REP,19
+Hamlin,22,State House,4,Adam Grimm,REP,22
+Hamlin,22,State House,4,Fred Deutsch,REP,35
+Hamlin,22,State House,4,Stephanie Sauder,REP,58
+Hamlin,23,State House,4,Val Rausch,REP,24
+Hamlin,23,State House,4,Adam Grimm,REP,37
+Hamlin,23,State House,4,Fred Deutsch,REP,57
+Hamlin,23,State House,4,Stephanie Sauder,REP,126
+Hamlin,24,State House,4,Val Rausch,REP,46
+Hamlin,24,State House,4,Adam Grimm,REP,50
+Hamlin,24,State House,4,Fred Deutsch,REP,98
+Hamlin,24,State House,4,Stephanie Sauder,REP,207
+Hamlin,25,State House,4,Val Rausch,REP,44
+Hamlin,25,State House,4,Adam Grimm,REP,20
+Hamlin,25,State House,4,Fred Deutsch,REP,52
+Hamlin,25,State House,4,Stephanie Sauder,REP,86
+Hamlin,26,State House,4,Val Rausch,REP,36
+Hamlin,26,State House,4,Adam Grimm,REP,36
+Hamlin,26,State House,4,Fred Deutsch,REP,75
+Hamlin,26,State House,4,Stephanie Sauder,REP,185
+Hamlin,21,County Commissioner Hamlin-4,,Jay A Baldwin,REP,1
+Hamlin,21,County Commissioner Hamlin-4,,Burt E Tulson,REP,11
+Hamlin,24,County Commissioner Hamlin-4,,Jay A Baldwin,REP,76
+Hamlin,24,County Commissioner Hamlin-4,,Burt E Tulson,REP,131
+Hamlin,21,Precinct Committeeman Precinct-21,,Victor L Carter,REP,217
+Hamlin,21,Precinct Committeeman Precinct-21,,Kirk James Hauck,REP,41
+Hamlin,02,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,37
+Hamlin,02,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,54
+Hamlin,21,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,131
+Hamlin,21,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,229
+Hamlin,22,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,37
+Hamlin,22,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,54
+Hamlin,23,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,90
+Hamlin,23,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,88
+Hamlin,24,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,121
+Hamlin,24,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,204
+Hamlin,25,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,62
+Hamlin,25,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,163
+Hamlin,26,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,Yes,,113
+Hamlin,26,Constitutional Amendment C: A Constitutional Amendment Requiring Three-Fifths Vote for Approval of Ballot Measures Imposing Taxes or Fees or Obligating over $10 Million,,No,,126
