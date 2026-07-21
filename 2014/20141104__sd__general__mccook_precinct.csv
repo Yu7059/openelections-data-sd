@@ -1,0 +1,277 @@
+county,precinct,office,district,party,candidate,votes
+McCook,Precinct-01,U.S. Senate,,D,Rick Weiland,119
+McCook,Precinct-01,U.S. Senate,,R,Mike Rounds,162
+McCook,Precinct-01,U.S. Senate,,I,Gordon Howie,20
+McCook,Precinct-01,U.S. Senate,,I,Larry Pressler,98
+McCook,Precinct-02,U.S. Senate,,D,Rick Weiland,41
+McCook,Precinct-02,U.S. Senate,,R,Mike Rounds,47
+McCook,Precinct-02,U.S. Senate,,I,Gordon Howie,6
+McCook,Precinct-02,U.S. Senate,,I,Larry Pressler,29
+McCook,Precinct-03,U.S. Senate,,D,Rick Weiland,96
+McCook,Precinct-03,U.S. Senate,,R,Mike Rounds,216
+McCook,Precinct-03,U.S. Senate,,I,Gordon Howie,18
+McCook,Precinct-03,U.S. Senate,,I,Larry Pressler,83
+McCook,Precinct-04,U.S. Senate,,D,Rick Weiland,79
+McCook,Precinct-04,U.S. Senate,,R,Mike Rounds,209
+McCook,Precinct-04,U.S. Senate,,I,Gordon Howie,17
+McCook,Precinct-04,U.S. Senate,,I,Larry Pressler,57
+McCook,Precinct-05,U.S. Senate,,D,Rick Weiland,152
+McCook,Precinct-05,U.S. Senate,,R,Mike Rounds,231
+McCook,Precinct-05,U.S. Senate,,I,Gordon Howie,19
+McCook,Precinct-05,U.S. Senate,,I,Larry Pressler,103
+McCook,Precinct-06,U.S. Senate,,D,Rick Weiland,74
+McCook,Precinct-06,U.S. Senate,,R,Mike Rounds,133
+McCook,Precinct-06,U.S. Senate,,I,Gordon Howie,6
+McCook,Precinct-06,U.S. Senate,,I,Larry Pressler,48
+McCook,Precinct-01,U.S. House,At Large,D,Corinna Robinson,150
+McCook,Precinct-01,U.S. House,At Large,R,Kristi Noem,244
+McCook,Precinct-02,U.S. House,At Large,D,Corinna Robinson,44
+McCook,Precinct-02,U.S. House,At Large,R,Kristi Noem,78
+McCook,Precinct-03,U.S. House,At Large,D,Corinna Robinson,106
+McCook,Precinct-03,U.S. House,At Large,R,Kristi Noem,309
+McCook,Precinct-04,U.S. House,At Large,D,Corinna Robinson,60
+McCook,Precinct-04,U.S. House,At Large,R,Kristi Noem,296
+McCook,Precinct-05,U.S. House,At Large,D,Corinna Robinson,160
+McCook,Precinct-05,U.S. House,At Large,R,Kristi Noem,337
+McCook,Precinct-06,U.S. House,At Large,D,Corinna Robinson,71
+McCook,Precinct-06,U.S. House,At Large,R,Kristi Noem,188
+McCook,Precinct-01,Governor,,D,Susan Wismer,112
+McCook,Precinct-01,Governor,,R,Dennis Daugaard,258
+McCook,Precinct-01,Governor,,L,Michael J. Myers,26
+McCook,Precinct-02,Governor,,D,Susan Wismer,28
+McCook,Precinct-02,Governor,,R,Dennis Daugaard,95
+McCook,Precinct-02,Governor,,L,Michael J. Myers,1
+McCook,Precinct-03,Governor,,D,Susan Wismer,76
+McCook,Precinct-03,Governor,,R,Dennis Daugaard,318
+McCook,Precinct-03,Governor,,L,Michael J. Myers,23
+McCook,Precinct-04,Governor,,D,Susan Wismer,57
+McCook,Precinct-04,Governor,,R,Dennis Daugaard,292
+McCook,Precinct-04,Governor,,L,Michael J. Myers,10
+McCook,Precinct-05,Governor,,D,Susan Wismer,139
+McCook,Precinct-05,Governor,,R,Dennis Daugaard,353
+McCook,Precinct-05,Governor,,L,Michael J. Myers,9
+McCook,Precinct-06,Governor,,D,Susan Wismer,50
+McCook,Precinct-06,Governor,,R,Dennis Daugaard,206
+McCook,Precinct-06,Governor,,L,Michael J. Myers,4
+McCook,Precinct-01,Secretary of State,,I,Lori Stacey,16
+McCook,Precinct-01,Secretary of State,,I,Emmett Reistroffer,9
+McCook,Precinct-01,Secretary of State,,D,Angelia Schultz,136
+McCook,Precinct-01,Secretary of State,,R,Shantel Krebs,203
+McCook,Precinct-02,Secretary of State,,I,Lori Stacey,4
+McCook,Precinct-02,Secretary of State,,I,Emmett Reistroffer,3
+McCook,Precinct-02,Secretary of State,,D,Angelia Schultz,52
+McCook,Precinct-02,Secretary of State,,R,Shantel Krebs,53
+McCook,Precinct-03,Secretary of State,,I,Lori Stacey,31
+McCook,Precinct-03,Secretary of State,,I,Emmett Reistroffer,10
+McCook,Precinct-03,Secretary of State,,D,Angelia Schultz,99
+McCook,Precinct-03,Secretary of State,,R,Shantel Krebs,245
+McCook,Precinct-04,Secretary of State,,I,Lori Stacey,16
+McCook,Precinct-04,Secretary of State,,I,Emmett Reistroffer,10
+McCook,Precinct-04,Secretary of State,,D,Angelia Schultz,72
+McCook,Precinct-04,Secretary of State,,R,Shantel Krebs,234
+McCook,Precinct-05,Secretary of State,,I,Lori Stacey,37
+McCook,Precinct-05,Secretary of State,,I,Emmett Reistroffer,10
+McCook,Precinct-05,Secretary of State,,D,Angelia Schultz,145
+McCook,Precinct-05,Secretary of State,,R,Shantel Krebs,263
+McCook,Precinct-06,Secretary of State,,I,Lori Stacey,6
+McCook,Precinct-06,Secretary of State,,I,Emmett Reistroffer,4
+McCook,Precinct-06,Secretary of State,,D,Angelia Schultz,79
+McCook,Precinct-06,Secretary of State,,R,Shantel Krebs,156
+McCook,Precinct-01,Attorney General,,L,Chad Haber,63
+McCook,Precinct-01,Attorney General,,R,Marty Jackley,282
+McCook,Precinct-02,Attorney General,,L,Chad Haber,9
+McCook,Precinct-02,Attorney General,,R,Marty Jackley,100
+McCook,Precinct-03,Attorney General,,L,Chad Haber,58
+McCook,Precinct-03,Attorney General,,R,Marty Jackley,343
+McCook,Precinct-04,Attorney General,,L,Chad Haber,38
+McCook,Precinct-04,Attorney General,,R,Marty Jackley,304
+McCook,Precinct-05,Attorney General,,L,Chad Haber,55
+McCook,Precinct-05,Attorney General,,R,Marty Jackley,392
+McCook,Precinct-06,Attorney General,,L,Chad Haber,26
+McCook,Precinct-06,Attorney General,,R,Marty Jackley,222
+McCook,Precinct-01,State Auditor,,D,Kurt Evans,58
+McCook,Precinct-01,State Auditor,,R,Steve Barnett,277
+McCook,Precinct-02,State Auditor,,D,Kurt Evans,19
+McCook,Precinct-02,State Auditor,,R,Steve Barnett,82
+McCook,Precinct-03,State Auditor,,D,Kurt Evans,58
+McCook,Precinct-03,State Auditor,,R,Steve Barnett,309
+McCook,Precinct-04,State Auditor,,D,Kurt Evans,45
+McCook,Precinct-04,State Auditor,,R,Steve Barnett,287
+McCook,Precinct-05,State Auditor,,D,Kurt Evans,80
+McCook,Precinct-05,State Auditor,,R,Steve Barnett,344
+McCook,Precinct-06,State Auditor,,D,Kurt Evans,24
+McCook,Precinct-06,State Auditor,,R,Steve Barnett,207
+McCook,Precinct-01,State Treasurer,,,Ken Santema,19
+McCook,Precinct-01,State Treasurer,,,Denny Pierson,139
+McCook,Precinct-01,State Treasurer,,,Rich Sattgast,200
+McCook,Precinct-02,State Treasurer,,,Ken Santema,1
+McCook,Precinct-02,State Treasurer,,,Denny Pierson,56
+McCook,Precinct-02,State Treasurer,,,Rich Sattgast,54
+McCook,Precinct-03,State Treasurer,,,Ken Santema,21
+McCook,Precinct-03,State Treasurer,,,Denny Pierson,102
+McCook,Precinct-03,State Treasurer,,,Rich Sattgast,266
+McCook,Precinct-04,State Treasurer,,,Ken Santema,14
+McCook,Precinct-04,State Treasurer,,,Denny Pierson,74
+McCook,Precinct-04,State Treasurer,,,Rich Sattgast,243
+McCook,Precinct-05,State Treasurer,,,Ken Santema,22
+McCook,Precinct-05,State Treasurer,,,Denny Pierson,190
+McCook,Precinct-05,State Treasurer,,,Rich Sattgast,242
+McCook,Precinct-06,State Treasurer,,,Ken Santema,5
+McCook,Precinct-06,State Treasurer,,,Denny Pierson,89
+McCook,Precinct-06,State Treasurer,,,Rich Sattgast,148
+McCook,Precinct-01,Commissioner of School and Public Lands,,D,John English,74
+McCook,Precinct-01,Commissioner of School and Public Lands,,R,Ryan Brunner,238
+McCook,Precinct-02,Commissioner of School and Public Lands,,D,John English,21
+McCook,Precinct-02,Commissioner of School and Public Lands,,R,Ryan Brunner,73
+McCook,Precinct-03,Commissioner of School and Public Lands,,D,John English,80
+McCook,Precinct-03,Commissioner of School and Public Lands,,R,Ryan Brunner,264
+McCook,Precinct-04,Commissioner of School and Public Lands,,D,John English,42
+McCook,Precinct-04,Commissioner of School and Public Lands,,R,Ryan Brunner,261
+McCook,Precinct-05,Commissioner of School and Public Lands,,D,John English,84
+McCook,Precinct-05,Commissioner of School and Public Lands,,R,Ryan Brunner,302
+McCook,Precinct-06,Commissioner of School and Public Lands,,D,John English,30
+McCook,Precinct-06,Commissioner of School and Public Lands,,R,Ryan Brunner,186
+McCook,Precinct-01,Public Utilities Commissioner,,,Wayne Schmidt,19
+McCook,Precinct-01,Public Utilities Commissioner,,,David Allen,112
+McCook,Precinct-01,Public Utilities Commissioner,,,Gary Hanson,229
+McCook,Precinct-02,Public Utilities Commissioner,,,Wayne Schmidt,3
+McCook,Precinct-02,Public Utilities Commissioner,,,David Allen,41
+McCook,Precinct-02,Public Utilities Commissioner,,,Gary Hanson,66
+McCook,Precinct-03,Public Utilities Commissioner,,,Wayne Schmidt,36
+McCook,Precinct-03,Public Utilities Commissioner,,,David Allen,78
+McCook,Precinct-03,Public Utilities Commissioner,,,Gary Hanson,280
+McCook,Precinct-04,Public Utilities Commissioner,,,Wayne Schmidt,20
+McCook,Precinct-04,Public Utilities Commissioner,,,David Allen,57
+McCook,Precinct-04,Public Utilities Commissioner,,,Gary Hanson,261
+McCook,Precinct-05,Public Utilities Commissioner,,,Wayne Schmidt,22
+McCook,Precinct-05,Public Utilities Commissioner,,,David Allen,129
+McCook,Precinct-05,Public Utilities Commissioner,,,Gary Hanson,310
+McCook,Precinct-06,Public Utilities Commissioner,,,Wayne Schmidt,6
+McCook,Precinct-06,Public Utilities Commissioner,,,David Allen,49
+McCook,Precinct-06,Public Utilities Commissioner,,,Gary Hanson,187
+McCook,Precinct-01,State Senate,,,Bill L. Van Gerpen,229
+McCook,Precinct-02,State Senate,,,Bill L. Van Gerpen,72
+McCook,Precinct-03,State Senate,,,Bill L. Van Gerpen,285
+McCook,Precinct-04,State Senate,,,Bill L. Van Gerpen,276
+McCook,Precinct-05,State Senate,,,Bill L. Van Gerpen,306
+McCook,Precinct-06,State Senate,,,Bill L. Van Gerpen,177
+McCook,Precinct-01,State House,,,Kyle Schoenfish,167
+McCook,Precinct-01,State House,,,Kent S. Peterson,199
+McCook,Precinct-02,State House,,,Kyle Schoenfish,52
+McCook,Precinct-02,State House,,,Kent S. Peterson,71
+McCook,Precinct-03,State House,,,Kyle Schoenfish,215
+McCook,Precinct-03,State House,,,Kent S. Peterson,200
+McCook,Precinct-04,State House,,,Kyle Schoenfish,207
+McCook,Precinct-04,State House,,,Kent S. Peterson,208
+McCook,Precinct-05,State House,,,Kyle Schoenfish,162
+McCook,Precinct-05,State House,,,Kent S. Peterson,327
+McCook,Precinct-06,State House,,,Kyle Schoenfish,93
+McCook,Precinct-06,State House,,,Kent S. Peterson,189
+McCook,Precinct-01,Supreme Court - Chief Justice,,,Yes,228
+McCook,Precinct-01,Supreme Court - Chief Justice,,,No,49
+McCook,Precinct-02,Supreme Court - Chief Justice,,,Yes,67
+McCook,Precinct-02,Supreme Court - Chief Justice,,,No,16
+McCook,Precinct-03,Supreme Court - Chief Justice,,,Yes,249
+McCook,Precinct-03,Supreme Court - Chief Justice,,,No,52
+McCook,Precinct-04,Supreme Court - Chief Justice,,,Yes,217
+McCook,Precinct-04,Supreme Court - Chief Justice,,,No,53
+McCook,Precinct-05,Supreme Court - Chief Justice,,,Yes,320
+McCook,Precinct-05,Supreme Court - Chief Justice,,,No,66
+McCook,Precinct-06,Supreme Court - Chief Justice,,,Yes,172
+McCook,Precinct-06,Supreme Court - Chief Justice,,,No,35
+McCook,Precinct-01,Supreme Court - Justice 1,,,Yes,220
+McCook,Precinct-01,Supreme Court - Justice 1,,,No,48
+McCook,Precinct-02,Supreme Court - Justice 1,,,Yes,69
+McCook,Precinct-02,Supreme Court - Justice 1,,,No,12
+McCook,Precinct-03,Supreme Court - Justice 1,,,Yes,245
+McCook,Precinct-03,Supreme Court - Justice 1,,,No,54
+McCook,Precinct-04,Supreme Court - Justice 1,,,Yes,218
+McCook,Precinct-04,Supreme Court - Justice 1,,,No,48
+McCook,Precinct-05,Supreme Court - Justice 1,,,Yes,318
+McCook,Precinct-05,Supreme Court - Justice 1,,,No,63
+McCook,Precinct-06,Supreme Court - Justice 1,,,Yes,175
+McCook,Precinct-06,Supreme Court - Justice 1,,,No,29
+McCook,Precinct-01,Supreme Court - Justice 2,,,Yes,222
+McCook,Precinct-01,Supreme Court - Justice 2,,,No,46
+McCook,Precinct-02,Supreme Court - Justice 2,,,Yes,71
+McCook,Precinct-02,Supreme Court - Justice 2,,,No,12
+McCook,Precinct-03,Supreme Court - Justice 2,,,Yes,257
+McCook,Precinct-03,Supreme Court - Justice 2,,,No,49
+McCook,Precinct-04,Supreme Court - Justice 2,,,Yes,228
+McCook,Precinct-04,Supreme Court - Justice 2,,,No,43
+McCook,Precinct-05,Supreme Court - Justice 2,,,Yes,322
+McCook,Precinct-05,Supreme Court - Justice 2,,,No,58
+McCook,Precinct-06,Supreme Court - Justice 2,,,Yes,182
+McCook,Precinct-06,Supreme Court - Justice 2,,,No,24
+McCook,Precinct-01,Circuit Judge,,,Timothy W. Bjorkman,206
+McCook,Precinct-02,Circuit Judge,,,Timothy W. Bjorkman,70
+McCook,Precinct-03,Circuit Judge,,,Timothy W. Bjorkman,282
+McCook,Precinct-04,Circuit Judge,,,Timothy W. Bjorkman,287
+McCook,Precinct-05,Circuit Judge,,,Timothy W. Bjorkman,295
+McCook,Precinct-06,Circuit Judge,,,Timothy W. Bjorkman,169
+McCook,Precinct-01,Circuit Judge,,,Steven R. Jensen,142
+McCook,Precinct-02,Circuit Judge,,,Steven R. Jensen,42
+McCook,Precinct-03,Circuit Judge,,,Steven R. Jensen,177
+McCook,Precinct-04,Circuit Judge,,,Steven R. Jensen,171
+McCook,Precinct-05,Circuit Judge,,,Steven R. Jensen,199
+McCook,Precinct-06,Circuit Judge,,,Steven R. Jensen,126
+McCook,Precinct-01,Circuit Judge,,,Bruce V. Anderson,138
+McCook,Precinct-02,Circuit Judge,,,Bruce V. Anderson,43
+McCook,Precinct-03,Circuit Judge,,,Bruce V. Anderson,162
+McCook,Precinct-04,Circuit Judge,,,Bruce V. Anderson,166
+McCook,Precinct-05,Circuit Judge,,,Bruce V. Anderson,199
+McCook,Precinct-06,Circuit Judge,,,Bruce V. Anderson,125
+McCook,Precinct-01,Circuit Judge,,,Cheryle Gering,143
+McCook,Precinct-02,Circuit Judge,,,Cheryle Gering,40
+McCook,Precinct-03,Circuit Judge,,,Cheryle Gering,167
+McCook,Precinct-04,Circuit Judge,,,Cheryle Gering,170
+McCook,Precinct-05,Circuit Judge,,,Cheryle Gering,196
+McCook,Precinct-06,Circuit Judge,,,Cheryle Gering,124
+McCook,Precinct-01,Circuit Judge,,,Patrick T. Smith,140
+McCook,Precinct-02,Circuit Judge,,,Patrick T. Smith,45
+McCook,Precinct-03,Circuit Judge,,,Patrick T. Smith,159
+McCook,Precinct-04,Circuit Judge,,,Patrick T. Smith,161
+McCook,Precinct-05,Circuit Judge,,,Patrick T. Smith,199
+McCook,Precinct-06,Circuit Judge,,,Patrick T. Smith,128
+McCook,Precinct-01,Circuit Judge,,,Glen W. Eng,138
+McCook,Precinct-02,Circuit Judge,,,Glen W. Eng,41
+McCook,Precinct-03,Circuit Judge,,,Glen W. Eng,161
+McCook,Precinct-04,Circuit Judge,,,Glen W. Eng,161
+McCook,Precinct-05,Circuit Judge,,,Glen W. Eng,193
+McCook,Precinct-06,Circuit Judge,,,Glen W. Eng,122
+McCook,Precinct-01,Constitutional Amendment Q,,,Yes,219
+McCook,Precinct-01,Constitutional Amendment Q,,,No,175
+McCook,Precinct-02,Constitutional Amendment Q,,,Yes,65
+McCook,Precinct-02,Constitutional Amendment Q,,,No,53
+McCook,Precinct-03,Constitutional Amendment Q,,,Yes,198
+McCook,Precinct-03,Constitutional Amendment Q,,,No,212
+McCook,Precinct-04,Constitutional Amendment Q,,,Yes,157
+McCook,Precinct-04,Constitutional Amendment Q,,,No,191
+McCook,Precinct-05,Constitutional Amendment Q,,,Yes,265
+McCook,Precinct-05,Constitutional Amendment Q,,,No,228
+McCook,Precinct-06,Constitutional Amendment Q,,,Yes,137
+McCook,Precinct-06,Constitutional Amendment Q,,,No,119
+McCook,Precinct-01,Initiated Measure 17,,,Yes,221
+McCook,Precinct-01,Initiated Measure 17,,,No,168
+McCook,Precinct-02,Initiated Measure 17,,,Yes,61
+McCook,Precinct-02,Initiated Measure 17,,,No,58
+McCook,Precinct-03,Initiated Measure 17,,,Yes,252
+McCook,Precinct-03,Initiated Measure 17,,,No,158
+McCook,Precinct-04,Initiated Measure 17,,,Yes,195
+McCook,Precinct-04,Initiated Measure 17,,,No,157
+McCook,Precinct-05,Initiated Measure 17,,,Yes,217
+McCook,Precinct-05,Initiated Measure 17,,,No,277
+McCook,Precinct-06,Initiated Measure 17,,,Yes,130
+McCook,Precinct-06,Initiated Measure 17,,,No,127
+McCook,Precinct-01,Initiated Measure 18,,,Yes,207
+McCook,Precinct-01,Initiated Measure 18,,,No,188
+McCook,Precinct-02,Initiated Measure 18,,,Yes,60
+McCook,Precinct-02,Initiated Measure 18,,,No,63
+McCook,Precinct-03,Initiated Measure 18,,,Yes,184
+McCook,Precinct-03,Initiated Measure 18,,,No,229
+McCook,Precinct-04,Initiated Measure 18,,,Yes,132
+McCook,Precinct-04,Initiated Measure 18,,,No,219
+McCook,Precinct-05,Initiated Measure 18,,,Yes,233
+McCook,Precinct-05,Initiated Measure 18,,,No,261
+McCook,Precinct-06,Initiated Measure 18,,,Yes,108
+McCook,Precinct-06,Initiated Measure 18,,,No,150
