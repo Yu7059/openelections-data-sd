@@ -73,6 +73,9 @@ def compare(county, precinct):
     rows between the two.
     '''
 
+    for df in (county, precinct):
+        df['district'] = pd.to_numeric(df['district'], errors='coerce').astype('Int64')
+
     county.sort_values(by=['office','district','candidate'], inplace = True)
     precinct.sort_values(by=['office','district','candidate'], inplace = True)
     diff = pd.merge(county, precinct, how = 'outer', indicator = 'there')
