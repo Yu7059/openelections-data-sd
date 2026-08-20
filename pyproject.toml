@@ -1,7 +1,7 @@
 [project]
 name = "openelections-data-sd"
 version = "0.1.0"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 dependencies = [
     "pandas",
     "llm",
@@ -9,4 +9,10 @@ dependencies = [
     "natural-pdf[ai]>=0.2.22",
     "llm-anthropic>=0.20",
     "llm-ollama>=0.15.1",
+    "pymupdf>=1.26.5",
+    "paddleocr",
+    "paddlepaddle",
 ]
+
+[tool.uv.sources]
+natural-pdf = { git = "https://github.com/jsoma/natural-pdf.git" }
